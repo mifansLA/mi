@@ -1,7 +1,7 @@
 ---
 title: "Mi Games ★ Daftar Task List War Robots Christmas Event 2017"
 header:
- overlay_image: https://i0.wp.com/img.youtube.com/vi/laHLOnsgliI/maxresdefault.jpg?crop=720,360
+ overlay_image: https://i0.wp.com/img.youtube.com/vi/laHLOnsgliI/0.jpg?resize=480,300
  teaser: https://img.youtube.com/vi/laHLOnsgliI/mqdefault.jpg
 category:
   - mi games
