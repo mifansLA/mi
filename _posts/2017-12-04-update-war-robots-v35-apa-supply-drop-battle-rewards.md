@@ -4,7 +4,7 @@ excerpt: "Membahas Supply Drops (Box?) dan Battle Rewards dalam update War Robot
 author: phateholloway
 header:
  overlay_image: https://lh3.googleusercontent.com/-5jD_to8a1Zw/WBNScFnYAuI/AAAAAAAAELw/cY5EgXufTO8SOWleK_LvGOU8Ysw8Zg0NACJoC/w600-h600/stalker-dino_bg.gif
- teaser: https://lh3.googleusercontent.com/-5jD_to8a1Zw/WBNScFnYAuI/AAAAAAAAELw/cY5EgXufTO8SOWleK_LvGOU8Ysw8Zg0NACJoC/w300-h150/stalker-dino_bg.gif
+ teaser: https://lh3.googleusercontent.com/-5jD_to8a1Zw/WBNScFnYAuI/AAAAAAAAELw/cY5EgXufTO8SOWleK_LvGOU8Ysw8Zg0NACJoC/w300-h300/stalker-dino_bg.gif
 category:
  - mi games
 tags:
