@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process
 
-theme                    : "minimal-mistakes-jekyll"
+#theme                    : "minimal-mistakes-jekyll"
 minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 locale                   : "id_ID"
@@ -284,23 +284,23 @@ defaults:
       author_profile: true
   # _recipes
   - scope:
-      path: ""
+      path: "_recipes"
       type: recipes
     values:
       layout: single
       author_profile: true
       share: true
-  # _pets
+  # _downloads
   - scope:
-      path: ""
+      path: "_downloads"
       type: pets
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
   # _portfolio
   - scope:
-      path: ""
+      path: "_portofolio"
       type: portfolio
     values:
       layout: single
