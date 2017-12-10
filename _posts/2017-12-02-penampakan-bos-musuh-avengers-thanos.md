@@ -3,7 +3,7 @@ title: "Intermezo ★ Thanos Bos Musuh Avengers Muncul dalam Trailer Terbaru"
 excerpt: "Penampakan Bos Musuh dalam film “Avenger: Infinity War” Thanos, muncul pertamakali dalam video trailer."
 header:
  overlay_image: https://i0.wp.com/wallpaperswide.com/download/avengers_assemble_%21%21%21-wallpaper-1280x720.jpg?resize=900,450
- traser: https://i0.wp.com/wallpaperswide.com/download/avengers_assemble_%21%21%21-wallpaper-1280x720.jpg?resize=300,150
+ teaser: https://i0.wp.com/wallpaperswide.com/download/avengers_assemble_%21%21%21-wallpaper-1280x720.jpg?resize=300,150
 category:
  - intermezo
 tags:
