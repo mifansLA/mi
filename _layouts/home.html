@@ -5,11 +5,11 @@ layout: archive
 {% include infeeds.html %}
 
 {% for post in paginator.posts %}
-  {% include archive-single.html %}
+  {% include archive-single.html type="grid" %}
 {% endfor %}
 
 {% include paginator.html %}
 
 {% for post in site.portofolio %}
-  {% include archive-single.html type="grid"  %}
+  {% include archive-single.html %}
 {% endfor %}
