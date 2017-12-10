@@ -3,8 +3,8 @@ title: "Mi Games ★ War Robots Update v.3.5 Apa Sih “Supply Drops” dan “B
 excerpt: "Membahas Supply Drops (Box?) dan Battle Rewards dalam update War Robots versi 3.5 dan 3.6"
 author: phateholloway
 header:
- overlay_image: https://i1.wp.com/warrobots.net/wp-content/uploads/2017/11/Stalker.jpg?fit=1200%2C675&amp;ssl=1
- teaser: https://i1.wp.com/warrobots.net/wp-content/uploads/2017/11/Stalker.jpg?crop=300,159&ssl=1
+ overlay_image: https://lh3.googleusercontent.com/-5jD_to8a1Zw/WBNScFnYAuI/AAAAAAAAELw/cY5EgXufTO8SOWleK_LvGOU8Ysw8Zg0NACJoC/w600-h600/stalker-dino_bg.gif
+ teaser: https://lh3.googleusercontent.com/-5jD_to8a1Zw/WBNScFnYAuI/AAAAAAAAELw/cY5EgXufTO8SOWleK_LvGOU8Ysw8Zg0NACJoC/w300-h150/stalker-dino_bg.gif
 category:
  - mi games
 tags:
