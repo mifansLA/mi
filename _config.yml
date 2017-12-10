@@ -8,53 +8,30 @@
 #theme                    : "minimal-mistakes-jekyll"
 minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-locale                   : "id_ID"
-title                    : "mifans LA"
-title_separator          : "-"
-name                     : &name "mifansLA"
-description              : &description "Documentation Source for MI Fans Lamongan and Xiaomi Devices User."
-url                      : "https://mi.knoacc.org"
-baseurl                  : "/" # the subpath of your site, e.g. "/blog"
-repository               : "mifansLA/miFans"
-teaser                   : &logo "/img/logonew.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+locale                   : "id_EN"
+title: "miFans-LA"
+title_separator: "-"
+name: &name "mifansLA"
+description: &description "Documentation Source for MI Fans Lamongan and Xiaomi Devices User."
+url: "https://mi.knoacc.org"
+baseurl: "/" # the subpath of your site, e.g. "/blog"
+repository: "mifansLA/miFans"
+teaser: &logo "assets/images/logonew.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : disqus # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+ provider: disqus
   disqus:
-    shortname            : "mifansla" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
-staticman:
-  allowedFields          : #['name', 'email', 'url', 'message']
-  branch                 : #"master"
-  commitMessage          : #"New comment."
-  filename               : #comment-{@timestamp}
-  format                 : #"yml"
-  moderation             : #true
-  path                   : #"docs/_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
-  requiredFields         : #['name', 'email', 'message']
-  transforms:
-    email                : #"md5"
-  generatedFields:
-    date:
-      type               : #"date"
-      options:
-        format           : #"iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+   shortname: "mifansla"
 atom_feed:
-  path                   : # blank (default) uses feed.xml
+  path:
 
 # SEO Related
 google_site_verification : "KYQFq-wZMFvxDMR5G5rak58D-IwrgM8B_CuGS0To5AU"
 bing_site_verification   : "DA3D4C0368D7AE1105218F7F5B5BD6AC"
 alexa_site_verification  : "9vuxp7uDTuDQssajccQrFy1UnTQ"
-yandex_site_verification :
-naver_site_verification  :
+#yandex_site_verification :
+#naver_site_verification  :
 
 # Social Sharing
 instagram:
@@ -166,7 +143,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 # Conversion
 markdown: kramdown
 highlighter: rouge
-lsi: false
+lsi: true
 excerpt_separator: "\n\n"
 incremental: false
 
@@ -182,12 +159,10 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-
 # Sass/SCSS
 sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
 
 # Outputting
 permalink: :title
