@@ -16,11 +16,15 @@ Di era digital, menjepret foto adalah perkara mudah. Cukup arahkan kamera atau s
 
 Sebuah aplikasi bernama [Gudak Cam](https://itunes.apple.com/us/app/gudak-cam/id1237692856?mt=8) coba melawan arus foto instan digital ini dengan meniru cara kerja kamera _disposable_ (sekali pakai) lawas. Namun, foto yang diambil tak bisa langsung dilihat. Pengguna mesti menunggu “proses pencucian” selama tiga hari sebelum bisa melongok hasil jepretan.
 
+> [Hasil Kamera Mi 6 Makin Mantap Dengan Teknologi HDR+ dari Google](http://www.knoacc.org/2017/11/kamera-mi-6-makin-mantap-dengan-teknologi-hdr-google.html)
+
 Pengambilan foto pun tak bisa dilakukan serampangan. Gudak Cam mengharuskan penggunanya untuk “mengisi rol film” virtual berisi 24 frame. Begitu frame habis, ada jeda beberapa jam sebelum “roll film” baru bisa “dimasukkan” ke aplikasi.
 
-Walau terdengar sangat merepotkan, anehnya, aplikasi iOS yang dibanderol kurang dari 1 dollar AS ini justru **sangat populer di Korea Selatan** di Jepang, khususnya di kalangan cewek-cewek remaja dua negara tersebut.
+Walau terdengar sangat merepotkan, anehnya, aplikasi iOS yang dibanderol kurang dari 1 dollar AS ini justru sangat populer di **Korea Selatan** dan di **Jepang**, khususnya di kalangan cewek-cewek remaja dua negara tersebut.
 
-Alasannya mungkin berkaitan dengan sifat Gudak Cam yang membangun antisipasi selagi pengguna menunggu proses berhari-hari sebelum bisa melighat foto jepretan.
+Alasannya mungkin berkaitan dengan sifat Gudak Cam yang membangun antisipasi selagi pengguna menunggu proses berhari-hari sebelum bisa melihat foto jepretan.
+
+> Resources: [Download Google Camera](https://mi.knoacc.org/download-aplikasi-google-camera-cocok-untuk-miui-xiaomi)
 
 Gudak Cam juga muncul di tengah tren kamera film yang belakangan mengamuka.
 
@@ -36,4 +40,4 @@ Sebagaimana dirangkum dari sebuah [laporan Nikkei Asian Review](https://asia.ni
 
 Di toko Google Play Store ada aplikasi Android serupa bernama [Kudak Pro](https://play.google.com/store/apps/details?id=com.ginnypix.gudakpro&hl=en) yang juga menyajikan 24 frame dalam satu rol film virtual. Hanya saja, waktu “pencuciannya” lebih singkat, yakni satu hari.
 
-Bagaimana menurutmu MiFans, tertarik mencoba kamera unik ini?
+Bagaimana menurutmu MiFans, tertarik mencoba kamera unik ini? Tentu saja untuk yang versi Android.
