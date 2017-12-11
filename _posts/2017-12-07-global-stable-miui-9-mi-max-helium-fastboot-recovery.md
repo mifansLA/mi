@@ -17,4 +17,11 @@ Akhirnya, Selain ROM recovery (`.zip`), ROM Fastboot MIUI 9 Global Stable untuk 
 
 | Device: | Mi MAX |
 | Codename: | helium |
-| Fastboot ROM
+| Fastboot ROM: | [Download 1446M](/bigota?type=helium_global_images&ver=V9.1.2.0.NBDMIEI&size=1446M&name=20171109.0000.00_7.0_global_15ada3b08b.tgz){:.btn.btn--primary} |
+| MD5: | `1967M73cd73bbdd81ad3bfeac869b4d01701d` |
+| Recovery ROM: | [Download 1252M](/bigota?type=miui_MIMAX652Global&ver=V9.1.2.0.NBDMIEI&size=1252M&name=3be468b46d_7.0.zip){:.btn.btn--primary} |
+| MD5: | `1222Me5964760679d354887a960e3269f9d25` |
+
+{% include howtoupgrade.md %}
+
+> Need EDL Mode by Tespoint Shortcut? Open [this page](/testpoint)
