@@ -1,14 +1,14 @@
 main:
   - title: "MIUI 9 Beta"
-    url: /download-miui-global-beta-7127-fastboot-recovery/
+    url: /download-miui-global-beta-7127-fastboot-recovery
   - title: "MIUI 9 Stable"
-    url: /update-rom-miui-9-global-stable-full-changelog/
+    url: /update-rom-miui-9-global-stable-full-changelog
   - title: "MIUI Pro"
-    url: /cara-panduan-pasang-rom-miui-pro-semua-xiaomi/
+    url: /cara-panduan-pasang-rom-miui-pro-semua-xiaomi
   - title: "MiFlash Tool"
     url: https://miflashtool.knoacc.org/
   - title: "MiUnlock Tool"
-    url: /download-miflash-unlock-tool-2380310/
+    url: /download-miflash-unlock-tool-2380310
   - title: "Test Point"
     urk: /testpoint
  
