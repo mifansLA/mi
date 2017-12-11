@@ -1,6 +1,6 @@
 ---
-title: Update 16 Nov 2017 ★ MIUI 9 Global Stabil ★ Full Changelog
-excerpt: MIUI 9 sudah dirilis November 2017. Berikut device yang mendapatkan update pertamakali.
+title: Download ROM MIUI 9 Global Stable ★ Update 10 Des 2017
+excerpt: MIUI 9 yang sudah dirilis hingga Desember 2017. Berikut device yang sudah mendapatkan update dan download link-nya.
 header:
  image: https://i0.wp.com/attach.en.miui.com/forum/201711/03/095723nleldbd8e0s0d1fa.png?resize=800%2C320
  caption: MIUI 9 Lightning Fast
@@ -46,6 +46,7 @@ Bagi yang belum tahu, MIUI sendiri punya 3 versi ROM; Experimental, Developer, d
 | MIUI V.9.1.1.0 | Redmi 4/X | [Download](/global-stable-miui-9-redmi-4x-santoni-fastboot-recovery){:.btn .btn--block .btn--primary} |
 | MIUI V.9.1.4.0 | Mi Note 3 | [Download](/global-stable-miui-9-mi-note-3-jason-fastboot-recovery){:.btn .btn--block .btn--primary} |
 | MIUI V.9.1.1.0 | Mi Mix | [Download](/global-stable-miui-9-mi-mix-lithium-fastboot-recovery){:.btn .btn--block .btn--primary} |
+| MIUI V.9.1.2.0 | Mi Max | [Download](/global-stable-miui-9-mi-max-helium-fastboot-recovery){:.btn .btn--block .btn--primary}
 
 > Info: Masuk Batch ke-2 Round ke-2
 
