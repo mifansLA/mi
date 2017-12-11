@@ -40,4 +40,6 @@ Sebagaimana dirangkum dari sebuah [laporan Nikkei Asian Review](https://asia.ni
 
 Di toko Google Play Store ada aplikasi Android serupa bernama [Kudak Pro](https://play.google.com/store/apps/details?id=com.ginnypix.gudakpro&hl=en) yang juga menyajikan 24 frame dalam satu rol film virtual. Hanya saja, waktu “pencuciannya” lebih singkat, yakni satu hari.
 
+![Tampilan Kudak Pro](https://mifansla.files.wordpress.com/2017/12/screenshot_20171211-16490320126708.png){:.align-center}
+
 Bagaimana menurutmu MiFans, tertarik mencoba kamera unik ini? Tentu saja untuk yang versi Android.
