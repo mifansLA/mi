@@ -20,9 +20,9 @@ teaser: &logo "assets/images/logonew.jpg" # path of fallback teaser image, e.g. 
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 comments:
-provider: disqus
- disqus:
-  shortname: "mifansla"
+  provider               : disqus # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
+  disqus:
+    shortname            : mifansla
 atom_feed:
  path:
 
