@@ -3,7 +3,7 @@ title: "Resources ★ Gudak Cam (iOS) dan Kudak Pro (Android)"
 excerpt: "Aplikasi kamera ini unik, jepret sekarang baru jadi tiga hari lagi. Mirip kamera `Kodak` jaman dulu."
 header:
  image: https://i0.wp.com/t1.daumcdn.net/liveboard/jobsN/870a627a50434770a13efb7da038e25d.JPG?resize=600,300
- image: https://i0.wp.com/t1.daumcdn.net/liveboard/jobsN/870a627a50434770a13efb7da038e25d.JPG?resize=320,160
+ teaser: https://i0.wp.com/t1.daumcdn.net/liveboard/jobsN/870a627a50434770a13efb7da038e25d.JPG?resize=320,160
 category:
  - resources
 tags:
