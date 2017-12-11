@@ -20,11 +20,11 @@ teaser: &logo "assets/images/logonew.jpg" # path of fallback teaser image, e.g. 
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 comments:
- provider: disqus
-  disqus:
-   shortname: "mifansla"
+provider: disqus
+ disqus:
+  shortname: "mifansla"
 atom_feed:
-  path:
+ path:
 
 # SEO Related
 google_site_verification : "KYQFq-wZMFvxDMR5G5rak58D-IwrgM8B_CuGS0To5AU"
