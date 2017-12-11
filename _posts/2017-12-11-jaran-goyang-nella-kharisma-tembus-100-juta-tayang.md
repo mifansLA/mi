@@ -1,5 +1,5 @@
 ---
-title: Video Jaran Goyang Nella Kharisma Tembus 100 Juta Penonton
+title: Mi Tainment ★ Video Jaran Goyang Nella Kharisma Tembus 100 Juta Penonton
 excerpt: Uniknya, di YouTube juga banyak sekali Video Musik balasan sebagai tanggapan atas isi lirik lagu Jaran Goyang
 header:
  image: https://i0.wp.com/cdn2.tstatic.net/tribunnews/foto/bank/images/nella-kharisma-dan-via-vallen_20170923_141410.jpg
