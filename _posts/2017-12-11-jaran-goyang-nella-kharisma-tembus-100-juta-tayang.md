@@ -18,6 +18,9 @@ Penyanyi dangdut **Nella Kaharisma** semakin menunjukkan eksistensinya di duni
 
 Lagu _Jaran Goyang_ sendiri mengisahkan tentang seorang wanita yang putus cinta dan memilih menggunakan ilmu hitam atau guna-guna untuk membuat mantan kekasihnya kembali.
 
+{% include video id="8nA-apwq0aY" provider="youtube" %}
+{% include inarticle.html %}
+
 Setelah diunggah ke YouTube pada 26 April 2017, video _Jaran Goyang_ yang dibawakan Nella Kharisma kini juga menuai kesuksesan dan telah berhasil menembus angka 100 juta penonton dalam waktu kurang dari delapan bulan.
 
 Hingga Ahad, 10 Desember 2017, video _Jaran Goyang_ telah ditonton 101.365.665 kali dan ditanggapi oleh 26.968 orang melalui komentar. Sejumlah 265 ribu orang juga menyematkan tanda suka pada video Nella ini. Meski banyak disukai, 27 ribu lainnya juga terlihat meninggalkan tanda _dislike_ pada video _Jaran Goyang_ milik Nella ini.
