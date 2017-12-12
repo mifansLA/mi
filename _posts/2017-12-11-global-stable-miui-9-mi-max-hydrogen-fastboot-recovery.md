@@ -1,5 +1,5 @@
 ---
-title: "Xiaomi Mi Max ★ Global Stable V9.1.1.0 ★ ROM MIUI 9"
+title: "Xiaomi Mi Max 32G ★ Global Stable V9.1.1.0 ★ ROM MIUI 9"
 excerpt: "MIUI 9.1 Global Stable V9.1.1.0.NBCMIEI Based Android N Released for Xiaomi Mi Max 32GB (hydrogen)! You can now download Fastboot ROM or Recovery ROM update here"
 header:
  overlay_image: https://i0.wp.com/drop.ndtv.com/albums/GADGETS/xiaomi_mi_max/xiaomi_mi_max_port_ndtv.jpg?resize=800,400
@@ -24,4 +24,4 @@ Akhirnya, Selain ROM recovery (`.zip`), ROM Fastboot MIUI 9 Global Stable untuk 
 
 {% include howtoupgrade.md %}
 
-> Need EDL Mode by Tespoint Shortcut? Open [this page](/testpoint)
+> Need EDL Mode by Tespoint Shortcut? Open [this page](/testpo
