@@ -2,8 +2,8 @@
 title: "Mi Apps ★ Promo Aplikasi dan Game Berbayar jadi Gratis #1"
 excerpt: "Seri ke-1 Promo Gratisan Aplikasi dan Game Berbayar di Playstore yang dikumpulkan oleh Mi Fans Lamongan dari berbagai sumber"
 header:
- overlay_image: https://i0.wp.com/neurogadget.net/wp-content/uploads/2017/01/google-play-store-18.jpg
- teaser: https://i0.wp.com/neurogadget.net/wp-content/uploads/2017/01/google-play-store-18.jpg
+ overlay_image: https://mifansla.files.wordpress.com/2017/12/google-play-store-18-01-011231876170.jpeg
+ teaser: https://i0.wp.com/mifansla.files.wordpress.com/2017/12/google-play-store-18-01-011231876170.jpeg?resize=340,170
 categories:
  - Weekly Freebies
 tags:
@@ -130,7 +130,7 @@ Dinosaurs are here! |
 
 {% include adsense2.html %}
 
-| Nama: | **Pronunciation practice (Paid)**|
+| Nama: | **Pronunciation practice (Paid)** |
 | Harga: | $19.99 |
 | Deskripsi: | App Standard pronunciation and self-pronunciation,precision correction pronunciation |
 | Kategori: | Tools |
@@ -139,7 +139,7 @@ Dinosaurs are here! |
 | Ads: | No |
 | In-Apps Purchase | No |
 | Link: | [**Playstore**](market://details?id=x) | 
-| Nama: | **ARK Survival Island Evolve 3D Pro**|
+| Nama: | **ARK Survival Island Evolve 3D Pro** |
 | Harga: | $0.99
 | Kategori: | Game |
 Awesome free to play
@@ -150,8 +150,7 @@ from Pride Games Studio. 3d survivor for real savage |
 | Instal: | 10-50|
 | Ads: | No |
 | In-Apps Purchase | Yes |
-| Link: | [**Playstore**](market://details?id=x) | 
-
+| Link: | [**Playstore**](market://details?id=x) |
 | Nama: | **Space Weather App**|
 | Harga: | $1.99 |
 | Deskripsi: | App Only a few taps away from real-time space weather. |
