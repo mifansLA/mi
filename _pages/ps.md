@@ -5,7 +5,7 @@ sitemap: false
 ---
 ![Playstore App](https://i0.wp.com/play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png?resize=300,100){:.align-center}
 
-[open in Playtore App](){:#app.btn.btn--block}
+[open in Playtore App](){:#app.btn.btn--block.btn--primary}
 
 Not opening on Android? Then [click here](){:#web.btn.btn--primary} to open Playstore Web Interface
 
