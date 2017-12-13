@@ -1,3 +1,1 @@
-<script type="text/javascript">
-function getQueryVariable(e){for(var r=window.location.search.substring(1),t=r.split("&"),n=0;n<t.length;n++){var a=t[n].split("=");if(a[0]==e)return a[1]}return!1}window.onload=function(){var klik=e=getQueryVariable("appid"),w="https://play.google.com/store/apps/details?id=",a="market://details?id=";document.getElementById("app").href=a+e};document.getElementById("web").href=w+e};
-</script>
+<script>function getQueryVariable(e){for(var r=window.location.search.substring(1),t=r.split("&"),n=0;n<t.length;n++){var a=t[n].split("=");if(a[0]==e)return a[1]}return!1}window.onload=function(){var klik=e=getQueryVariable("appid");document.getElementById("app").innerHTML=e,document.getElementById("app").href="market://details?id="+e,document.getElementById("web").href="https://https://play.google.com/store/apps/details?id="+e};</script>
