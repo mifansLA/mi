@@ -20,7 +20,7 @@ Namun tahukah kamu bahwa ada beberapa aplikasi yang dalam beberapa pengembang ap
 
 | **Read Me First!** |
 |:------:|
-| _These apps were free when this list was posted. They may or may not be free when you actually access them at a later time as these promotions are only for a limited time period. Search feature is under testing, report bugs in comments below._ |
+| _These apps were free when this list was posted. They may or may not be free when you actually access them at a later time as these promotions are only **for a limited time period**. Have **another promo apps**? Leave links in comments section below this post._ |
 
 ![{{ page.title }}]({{ page.header.overlay_image }}){:.align-center}
 
@@ -33,109 +33,111 @@ Aplikasi dan Game yang jadi Gratis beserta link langsung ke playstore minggu ini
 | Harga: | $3.49
 | Kategori: | Game |
 | Deskripsi: | Test and Improve Your Math Skills and Agility with this Space Adventure Quiz!
-| Kategori: | Educational | 4.2  1-5|
-| Ads: | No |
+| Kategori: | Educational |
+| Rating: | 4.2 stars |
+|Install: | 1-5 times  times |
+| Ads: |  No |
 | In-Apps Purchase | No |
-| Link: | [**Playstore**](market://details?id=x) |
+| Link: | [**Playstore**](/go/playstore?appid=com.mindfulapps.amqis) |
 
 | Nama: | **Magme - Icon Pack** |
 |:------:|:------:|
 | Harga: | $0.99 |
 | Deskripsi: | App Beautiful and high detailed icons with truly unique flat/retro colors! |
 | Kategori: | Personalization |
-| Rating: | 4.6 star |
-| Instal: | 10000-50000|
-| Ads: | No |
+| Rating: | 4.6 stars |
+| Instal: | 10000-50000 times |
+| Ads: |  No |
 | In-Apps Purchase | No |
-| Link: | [**Playstore**](market://details?id=x) |
+| Link: | [**Playstore**](/go/playstore?appid=com.daviidh.magme) |
 
 | Nama: | **Meebon - Icon Pack** |
 |:------:|:------:|
 | Harga: | $0.99 |
 | Deskripsi: | App Bring Cool Gradient color to your phone. Cool and Glassy. WEEKLY UPDATE . |
 | Kategori: | Personalization |
-| Rating: | 4.2 star |
-| Instal: | 5000-10000|
-| Ads: | No |
+| Rating: | 4.2 stars |
+| Instal: | 5000-10000 times |
+| Ads: |  No |
 | In-Apps Purchase | No |
-| Link: | [**Playstore**](market://details?id=x) |
+| Link: | [**Playstore**](/go/playstore?appid=com.rainystudio.meeboniconpack) |
 
 | Nama: | **Business Calculator Pro**|
 |:------:|:------:|
 | Harga: | $1.49 |
 | Deskripsi: | App Business calculator! Quick and easy to use! |
 | Kategori: | Business |
-| Rating: | 4.2 star |
-| Instal: | 10000-50000|
-| Ads: | No |
+| Rating: | 4.2 stars |
+| Instal: | 10000-50000 times |
+| Ads: |  No |
 | In-Apps Purchase | No |
-| Link: | [**Playstore**](market://details?id=x) |
+| Link: | [**Playstore**](/go/playstore?appid=an.BusinessCalPro) |
 
 | Nama: | **Chrooma Live Wallpaper** |
 |:------:|:------:|
 | Harga: | $2.49 |
 | Deskripsi: | App A beautiful Material Designed live wallpaper. |
 | Kategori: | Personalization |
-| Rating: | 4.6 star |
-| Instal: | 50000-100000|
-| Ads: | No |
+| Rating: | 4.6 stars |
+| Instal: | 50000-100000 times |
+| Ads: |  No |
 | In-Apps Purchase | No |
-| Link: | [**Playstore**](market://details?id=x) |
+| Link: | [**Playstore**](/go/playstore?appid=com.gamelounge.chrooma_lwp.android) |
 
 | Nama: | **Pillow Icon Pack** |
 |:------:|:------:|
 | Harga: | $0.99 |
 | Deskripsi: | App Cute Pillow theme Icon Changer/Icon Pack for nova,evie launcher & more |
 | Kategori: | Personalization |
-| Rating: | 4.3 star |
-| Instal: | 1000-5000|
-| Ads: | No |
+| Rating: | 4.3 stars |
+| Instal: | 1000-5000 times |
+| Ads: |  No |
 | In-Apps Purchase | Yes |
-| Link: | [**Playstore**](market://details?id=x) |
+| Link: | [**Playstore**](/go/playstore?appid=com.kandara.pillowiconpack) |
 
 | Nama: | **Meegis - Icon Pack** |
 |:------:|:------:|
 | Harga: | $0.99 |
 | Deskripsi: | App Cool Icons. Bring uniqueness and cool to your phone. Weekly Update. |
 | Kategori: | Personalization |
-| Rating: | 4.6 star |
-| Instal: | 10000-50000|
-| Ads: | No |
+| Rating: | 4.6 stars |
+| Instal: | 10000-50000 times |
+| Ads: |  No |
 | In-Apps Purchase | No |
-| Link: | [**Playstore**](market://details?id=x) |
+| Link: | [**Playstore**](/go/playstore?appid=com.rainystudio.meegisiconpack) |
 
 | Nama: | **Chrooma Float Live Wallpaper** |
 |:------:|:------:|
 | Harga: | $2.49 |
 | Deskripsi: | App Material design in its pure form on a fully customizable and interactive LWP. |
 | Kategori: | Personalization |
-| Rating: | 4.8 star |
-| Instal: | 50000-100000|
-| Ads: | No |
+| Rating: | 4.8 stars |
+| Instal: | 50000-100000 times |
+| Ads: |  No |
 | In-Apps Purchase | No |
-| Link: | [**Playstore**](market://details?id=x) |
+| Link: | [**Playstore**](/go/playstore?appid=com.gamelounge.chrooma_2_lwp.android) |
 
 | Nama: | **Aron Icon Pack** |
 |:------:|:------:|
 | Harga: | $0.99 |
 | Deskripsi: | App Bring uniqueness and cool to your phone. Weekly Update. |
 | Kategori: | Personalization |
-| Rating: | 4.6 star |
-| Instal: | 10000-50000|
-| Ads: | No |
+| Rating: | 4.6 stars |
+| Instal: | 10000-50000 times |
+| Ads: |  No |
 | In-Apps Purchase | No |
-| Link: | [**Playstore**](market://details?id=x) |
+| Link: | [**Playstore**](/go/playstore?appid=com.rainystudio.aroniconpack) |
 
 | Nama: | **Regix - Icon Pack** |
 |:------:|:------:|
 | Harga: | $0.99 |
 | Deskripsi: | App Bring uniqueness and cool to your phone. Weekly Update. |
 | Kategori: | Personalization |
-| Rating: | 4.4 star |
-| Instal: | 10000-50000|
-| Ads: | No |
+| Rating: | 4.4 stars |
+| Instal: | 10000-50000 times |
+| Ads: |  No |
 | In-Apps Purchase | No |
-| Link: | [**Playstore**](market://details?id=x) |
+| Link: | [**Playstore**](/go/playstore?appid=com.rainystudio.regixiconpack) |
 
 | Nama: | **StoneBack | Prehistory | PRO** |
 |:------:|:------:|
@@ -143,11 +145,11 @@ Aplikasi dan Game yang jadi Gratis beserta link langsung ke playstore minggu ini
 | Kategori: | Game |
 Dinosaurs are here! |
 | Kategori: | Adventure |
-| Rating: | 3.7 star |
-| Instal: | 50000-100000|
-| Ads: | No |
+| Rating: | 3.7 stars |
+| Instal: | 50000-100000 times |
+| Ads: |  No |
 | In-Apps Purchase | No |
-| Link: | [**Playstore**](market://details?id=x) |
+| Link: | [**Playstore**](/go/playstore?appid=com.buggames.SBP) |
 
 {% include adsense2.html %}
 
@@ -156,11 +158,11 @@ Dinosaurs are here! |
 | Harga: | $19.99 |
 | Deskripsi: | App Standard pronunciation and self-pronunciation,precision correction pronunciation |
 | Kategori: | Tools |
-| Rating: | 2.2 star |
-| Instal: | 1000-5000|
-| Ads: | No |
+| Rating: | 2.2 stars |
+| Instal: | 1000-5000 times |
+| Ads: |  No |
 | In-Apps Purchase | No |
-| Link: | [**Playstore**](market://details?id=x) |
+| Link: | [**Playstore**](/go/playstore?appid=com.richhantek.iPracticePro2) |
 
 | Nama: | **ARK Survival Island Evolve 3D Pro** |
 |:------:|:------:|
@@ -170,76 +172,78 @@ Awesome free to play
 | Kategori: | Game |
 from Pride Games Studio. 3d survivor for real savage |
 | Kategori: | Adventure |
-| Rating: | 4.3 star |
-| Instal: | 10-50|
-| Ads: | No |
+| Rating: | 4.3 stars |
+| Instal: | 10-50 times |
+| Ads: |  No |
 | In-Apps Purchase | Yes |
-| Link: | [**Playstore**](market://details?id=x) |
+| Link: | [**Playstore**](/go/playstore?appid=com.dbSoftware.arksiepro) |
+
 | Nama: | **Space Weather App** |
 |:------:|:------:|
 | Harga: | $1.99 |
 | Deskripsi: | App Only a few taps away from real-time space weather. |
 | Kategori: | Weather |
-| Rating: | 4.3 star |
-| Instal: | 1000-5000|
-| Ads: | No |
+| Rating: | 4.3 stars |
+| Instal: | 1000-5000 times |
+| Ads: |  No |
 | In-Apps Purchase | No |
-| Link: | [**Playstore**](market://details?id=x) |
+| Link: | [**Playstore**](/go/playstore?appid=com.stellar_north.SpaceWeather) |
 
 | Nama: | **Dreams World Pro 3D LWP** |
 |:------:|:------:|
 | Harga: | $1.99 |
 | Deskripsi: | App New, beautiful, animated live wallpaper Dreams Pro 3D! |
 | Kategori: | Personalization |
-| Rating: | 4.6 star |
-| Instal: | 500-1000|
-| Ads: | No |
+| Rating: | 4.6 stars |
+| Instal: | 500-1000 times |
+| Ads: |  No |
 | In-Apps Purchase | No |
-| Link: | [**Playstore**](market://details?id=x) |
+| Link: | [**Playstore**](/go/playstore?appid=com.oxsionsoft.dreamspro) |
 
 | Nama: | **LG Hi-Fi Status** |
 |:------:|:------:|
 | Harga: | $0.99 |
 | Deskripsi: | App Displays the status of the LG Hi-Fi connection as an icon.(V10,V20,V30,G6,Q8) |
 | Kategori: | Music & Audio |
-| Rating: | 5.9 star |
-| Instal: | 1000-5000|
-| Ads: | No |
+| Rating: | 5.9 stars |
+| Instal: | 1000-5000 times |
+| Ads: |  No |
 | In-Apps Purchase | No |
-| Link: | [**Playstore**](market://details?id=x) |
+| Link: | [**Playstore**](/go/playstore?appid=com.apptrio.hi_fi_status) |
 
 | Nama: | **Mexican Radio Online Pro** |
 |:------:|:------:|
 | Harga: | $1.49 |
 | Deskripsi: | App Listen to Mexico Radio online! Music like latin, pop and rock. |
 | Kategori: | Music & Audio |
-| Rating: | 3.8 star |
-| Instal: | 1000-5000|
-| Ads: | No |
+| Rating: | 3.8 stars |
+| Instal: | 1000-5000 times |
+| Ads: |  No |
 | In-Apps Purchase | No |
-| Link: | [**Playstore**](market://details?id=x) |
+| Link: | [**Playstore**](/go/playstore?appid=com.gkapps.radio.mexico.pro) |
 
 | Nama: | **90s Music Radio Pro** |
 |:------:|:------:|
 | Harga: | $1.49 |
 | Deskripsi: | App Listen to 90s music radio online! Pop, rock, hip hop and more! |
 | Kategori: | Music & Audio |
-| Rating: | 2.8 star |
-| Instal: | 1000-5000|
-| Ads: | No |
+| Rating: | 2.8 stars |
+| Instal: | 1000-5000 times |
+| Ads: |  No |
 | In-Apps Purchase | No |
+| Link: | [**Playstore**](/go/playstore?appid=com.gkapps.radio.nineties.pro) |
 
-|**Dead Ship** |
+| Name: |**Dead Ship** |
 |:------:|:------:|
 | Harga: | $0.99
 | Kategori: | Game |
 | Deskripsi: | Play as Zack Filinsa and help him in his difficult adventure full of horror! |
 | Kategori: | Adventure |
-| Rating: | 2.4 star |
-| Instal: | 5000-10000|
-| Ads: | No |
+| Rating: | 2.4 stars |
+| Instal: | 5000-10000 times |
+| Ads: |  No |
 | In-Apps Purchase | No |
-| Link: | [**Playstore**](market://details?id=x) |
+| Link: | [**Playstore**](/go/playstore?appid=com.buggames.DSF) |
 
 
 | Name: | **Dead Forest Horror Full** |
@@ -248,11 +252,11 @@ from Pride Games Studio. 3d survivor for real savage |
 | Kategori: | Game |
 Friend! You must help me! |
 | Kategori: | Adventure |
-| Rating: | 3.2 star |
-| Instal: | 1000-5000|
-| Ads: | No |
+| Rating: | 3.2 stars |
+| Instal: | 1000-5000 times |
+| Ads: |  No |
 | In-Apps Purchase | No |
-| Link: | [**Playstore**](market://details?id=x) |
+| Link: | [**Playstore**](/go/playstore?appid=com.buggames.DF) |
 
 | Nama: | **Socxel | Pixel Soccer | PRO** |
 |:------:|:------:|
@@ -260,32 +264,32 @@ Friend! You must help me! |
 | Kategori: | Game |
 Goal! Goal! Goooaaallll!!! |
 | Kategori: | Arcade |
-| Rating: | 2.6 star |
-| Instal: | 10000-50000|
-| Ads: | No |
+| Rating: | 2.6 stars |
+| Instal: | 10000-50000 times |
+| Ads: |  No |
 | In-Apps Purchase | No |
-| Link: | [**Playstore**](market://details?id=x) |
+| Link: | [**Playstore**](/go/playstore?appid=com.buggames.SCXLP) |
 
 | Nama: | **Art Alive: Night 3D Pro lwp** |
 |:------:|:------:|
 | Harga: | $0.99 |
 | Deskripsi: | App The most famous painting "Bedroom in Arles" of Vincent van Gogh in full 3d! |
 | Kategori: | Personalization |
-| Rating: | 4.4 star |
-| Instal: | 5000-10000|
-| Ads: | No |
+| Rating: | 4.4 stars |
+| Instal: | 5000-10000 times |
+| Ads: |  No |
 | In-Apps Purchase | No |
-| Link: | [**Playstore**](market://details?id=x) |
+| Link: | [**Playstore**](/go/playstore?appid=com.artalivenight3d.livewallpaper) |
 
 | Nama: | **Decimal to Fraction Pro** |
 |:------:|:------:|
 | Harga: | $1.49 |
 | Deskripsi: | App Convert decimal numbers into fractions! Quick and easy! |
 | Kategori: | Education |
-| Rating: | 4.4 star |
-| Instal: | 5000-10000 |
-| Ads: | No |
+| Rating: | 4.4 stars |
+| Instal: | 5000-10000  times |
+| Ads: |  No |
 | In-Apps Purchase | No |
-| Link: | [**Playstore**](market://details?id=x) |
+| Link: | [**Playstore**](/go/playstore?appid=an.DecFracPro) |
 
-Nah itu dia aplikasi-aplikasi dan game berbayar yang sedang ada promo jadi gratis dalam periode waktu tertentu. Adakah yang membuat kamu tertarik? Jangan luoa untuk mengukuti update terbaru Weekly Freebies ini setiap Selasa atau Rabu untuk mendapatkan info aplikasi promo playstore terbaru di situs [miFans Lamongan](https://mi.knoacc.org/)
+Nah itu dia aplikasi-aplikasi dan game berbayar yang sedang ada promo jadi gratis dalam periode waktu tertentu. Adakah yang membuat kamu tertarik? Jangan luoa untuk mengukuti update terbaru Weekly Freebies ini setiap Selasa atau Rabu untuk mendapatkan info **aplikasi promo playstore terbaru** di situs [miFans Lamongan](https://mi.knoacc.org/). Siapa tahu aplikasi favorit kamu ada promo kan lumayan..
