@@ -62,7 +62,7 @@ Aplikasi dan Game yang jadi Gratis beserta link langsung ke playstore minggu ini
 | In-Apps Purchase | No |
 | Link: | [**Playstore**](/go/playstore?appid=com.rainystudio.meeboniconpack) |
 
-| Nama: | Business Calculator Pro**|
+| Nama: | Business Calculator Pro |
 |------:|:------|
 | Harga: | $1.49 |
 | Deskripsi: | App Business calculator! Quick and easy to use! |
@@ -143,7 +143,7 @@ Aplikasi dan Game yang jadi Gratis beserta link langsung ke playstore minggu ini
 |------:|:------|
 | Harga: | $0.99
 | Kategori: | Game |
-Dinosaurs are here! |
+| Deskripsi: | Dinosaurs are here! |
 | Kategori: | Adventure |
 | Rating: | 3.7 stars |
 | Instal: | 50000-100000 times |
@@ -168,9 +168,7 @@ Dinosaurs are here! |
 |------:|:------|
 | Harga: | $0.99 |
 | Kategori: | Game |
-Awesome free to play
-| Kategori: | Game |
-from Pride Games Studio. 3d survivor for real savage |
+| Deskripsi: | Awesome free to play from Pride Games Studio. 3d survivor for real savage |
 | Kategori: | Adventure |
 | Rating: | 4.3 stars |
 | Instal: | 10-50 times |
@@ -233,7 +231,7 @@ from Pride Games Studio. 3d survivor for real savage |
 | In-Apps Purchase | No |
 | Link: | [**Playstore**](/go/playstore?appid=com.gkapps.radio.nineties.pro) |
 
-| Name: |**Dead Ship |
+| Name: | Dead Ship |
 |------:|:------|
 | Harga: | $0.99
 | Kategori: | Game |
@@ -258,7 +256,7 @@ from Pride Games Studio. 3d survivor for real savage |
 | In-Apps Purchase | No |
 | Link: | [**Playstore**](/go/playstore?appid=com.buggames.DF) |
 
-| Nama: | Socxel | Pixel Soccer | PRO |
+| Nama: | Socxel Pixel Soccer PRO |
 |------:|:------|
 | Harga: | $0.99
 | Kategori: | Game |
