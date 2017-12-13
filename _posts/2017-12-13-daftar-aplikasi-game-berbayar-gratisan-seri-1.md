@@ -15,7 +15,7 @@ tags:
 
 Tak semua aplikasi dan game di Playstore itu gratis. Semua tahu bahwa beberapa aplikasi baru bisa dipasang jika dibeli terlebih dahulu yang biasa disebut sebagai **Paid Apps**. Kelebihann dari aplikasi _Paid Apps_ atau **aplikasi berbayar** ini adalah tidak ada iklan yang mengganggu.
 
-Namun tahukah kamu bahwa ada beberapa aplikasi yang dalam beberapa pengembang aplikasi dan game berbayar ini memberikan promo **Gratis** dalam jangka waktu tertentu? Ya, penawaran atau promo yang biasanya diberikan dalam inilah yang akan diberikan dalam seri pertama **Weekly Freebies _mifanLA_**
+Namun tahukah kamu bahwa aplikasi dan game berbayar ternyata ada beberapa yang di-**Gratis**-kan oleh pengembangnya dalam jangka waktu tertentu? Ya, penawaran atau promo yang biasanya diberikan dalam waktu terbatas inilah yang akan diberikan dalam seri pertama **Weekly Freebies _mifanLA_**
 
 
 | Read Me First! |
