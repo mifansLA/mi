@@ -9,9 +9,9 @@ sitemap: false
 <div style="display: block; text-align: center;">
 
 <a id="app" href="/"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Playstore App"/></a>
-
+<br/>
+Not opening on Android? Then <a id="web" class="btn btn--primary" href="/">click here</a> to open Playstore Web Interface
 </div>
 
-{% include dldrive %}
-Not opening on Android? Then <a id="web" class="btn btn--primary" href="/">click here</a> to open Playstore Web Interface
+{% include pslink %}
 {% include adsense2.html %}
