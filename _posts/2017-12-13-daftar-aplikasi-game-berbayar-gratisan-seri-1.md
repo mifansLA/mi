@@ -28,15 +28,18 @@ Namun tahukah kamu bahwa ada beberapa aplikasi yang dalam beberapa pengembang ap
 
 Aplikasi dan Game yang jadi Gratis beserta link langsung ke playstore minggu ini akan disusun dalam tabel sebagai berikut:
 
-| Nama: | **A MATH QUIZ IN SPACE**|
+| Nama: | **A MATH QUIZ IN SPACE** |
+|:------:|:------:|
 | Harga: | $3.49
 | Kategori: | Game |
 | Deskripsi: | Test and Improve Your Math Skills and Agility with this Space Adventure Quiz!
 | Kategori: | Educational | 4.2  1-5|
 | Ads: | No |
 | In-Apps Purchase | No |
-| Link: | [**Playstore**](market://details?id=x) | 
-| Nama: | **Magme - Icon Pack**|
+| Link: | [**Playstore**](market://details?id=x) |
+
+| Nama: | **Magme - Icon Pack** |
+|:------:|:------:|
 | Harga: | $0.99 |
 | Deskripsi: | App Beautiful and high detailed icons with truly unique flat/retro colors! |
 | Kategori: | Personalization |
@@ -44,8 +47,10 @@ Aplikasi dan Game yang jadi Gratis beserta link langsung ke playstore minggu ini
 | Instal: | 10000-50000|
 | Ads: | No |
 | In-Apps Purchase | No |
-| Link: | [**Playstore**](market://details?id=x) | 
-| Nama: | **Meebon - Icon Pack**|
+| Link: | [**Playstore**](market://details?id=x) |
+
+| Nama: | **Meebon - Icon Pack** |
+|:------:|:------:|
 | Harga: | $0.99 |
 | Deskripsi: | App Bring Cool Gradient color to your phone. Cool and Glassy. WEEKLY UPDATE . |
 | Kategori: | Personalization |
@@ -53,8 +58,10 @@ Aplikasi dan Game yang jadi Gratis beserta link langsung ke playstore minggu ini
 | Instal: | 5000-10000|
 | Ads: | No |
 | In-Apps Purchase | No |
-| Link: | [**Playstore**](market://details?id=x) | 
+| Link: | [**Playstore**](market://details?id=x) |
+
 | Nama: | **Business Calculator Pro**|
+|:------:|:------:|
 | Harga: | $1.49 |
 | Deskripsi: | App Business calculator! Quick and easy to use! |
 | Kategori: | Business |
@@ -62,8 +69,10 @@ Aplikasi dan Game yang jadi Gratis beserta link langsung ke playstore minggu ini
 | Instal: | 10000-50000|
 | Ads: | No |
 | In-Apps Purchase | No |
-| Link: | [**Playstore**](market://details?id=x) | 
-| Nama: | **Chrooma Live Wallpaper**|
+| Link: | [**Playstore**](market://details?id=x) |
+
+| Nama: | **Chrooma Live Wallpaper** |
+|:------:|:------:|
 | Harga: | $2.49 |
 | Deskripsi: | App A beautiful Material Designed live wallpaper. |
 | Kategori: | Personalization |
@@ -71,8 +80,10 @@ Aplikasi dan Game yang jadi Gratis beserta link langsung ke playstore minggu ini
 | Instal: | 50000-100000|
 | Ads: | No |
 | In-Apps Purchase | No |
-| Link: | [**Playstore**](market://details?id=x) | 
-| Nama: | **Pillow Icon Pack**|
+| Link: | [**Playstore**](market://details?id=x) |
+
+| Nama: | **Pillow Icon Pack** |
+|:------:|:------:|
 | Harga: | $0.99 |
 | Deskripsi: | App Cute Pillow theme Icon Changer/Icon Pack for nova,evie launcher & more |
 | Kategori: | Personalization |
@@ -80,8 +91,10 @@ Aplikasi dan Game yang jadi Gratis beserta link langsung ke playstore minggu ini
 | Instal: | 1000-5000|
 | Ads: | No |
 | In-Apps Purchase | Yes |
-| Link: | [**Playstore**](market://details?id=x) | 
-| Nama: | **Meegis - Icon Pack**|
+| Link: | [**Playstore**](market://details?id=x) |
+
+| Nama: | **Meegis - Icon Pack** |
+|:------:|:------:|
 | Harga: | $0.99 |
 | Deskripsi: | App Cool Icons. Bring uniqueness and cool to your phone. Weekly Update. |
 | Kategori: | Personalization |
@@ -89,8 +102,10 @@ Aplikasi dan Game yang jadi Gratis beserta link langsung ke playstore minggu ini
 | Instal: | 10000-50000|
 | Ads: | No |
 | In-Apps Purchase | No |
-| Link: | [**Playstore**](market://details?id=x) | 
-| Nama: | **Chrooma Float Live Wallpaper**|
+| Link: | [**Playstore**](market://details?id=x) |
+
+| Nama: | **Chrooma Float Live Wallpaper** |
+|:------:|:------:|
 | Harga: | $2.49 |
 | Deskripsi: | App Material design in its pure form on a fully customizable and interactive LWP. |
 | Kategori: | Personalization |
@@ -98,8 +113,10 @@ Aplikasi dan Game yang jadi Gratis beserta link langsung ke playstore minggu ini
 | Instal: | 50000-100000|
 | Ads: | No |
 | In-Apps Purchase | No |
-| Link: | [**Playstore**](market://details?id=x) | 
-| Nama: | **Aron Icon Pack**|
+| Link: | [**Playstore**](market://details?id=x) |
+
+| Nama: | **Aron Icon Pack** |
+|:------:|:------:|
 | Harga: | $0.99 |
 | Deskripsi: | App Bring uniqueness and cool to your phone. Weekly Update. |
 | Kategori: | Personalization |
@@ -107,8 +124,10 @@ Aplikasi dan Game yang jadi Gratis beserta link langsung ke playstore minggu ini
 | Instal: | 10000-50000|
 | Ads: | No |
 | In-Apps Purchase | No |
-| Link: | [**Playstore**](market://details?id=x) | 
-| Nama: | **Regix - Icon Pack**|
+| Link: | [**Playstore**](market://details?id=x) |
+
+| Nama: | **Regix - Icon Pack** |
+|:------:|:------:|
 | Harga: | $0.99 |
 | Deskripsi: | App Bring uniqueness and cool to your phone. Weekly Update. |
 | Kategori: | Personalization |
@@ -116,8 +135,10 @@ Aplikasi dan Game yang jadi Gratis beserta link langsung ke playstore minggu ini
 | Instal: | 10000-50000|
 | Ads: | No |
 | In-Apps Purchase | No |
-| Link: | [**Playstore**](market://details?id=x) | 
-| Nama: | **StoneBack | Prehistory | PRO**|
+| Link: | [**Playstore**](market://details?id=x) |
+
+| Nama: | **StoneBack | Prehistory | PRO** |
+|:------:|:------:|
 | Harga: | $0.99
 | Kategori: | Game |
 Dinosaurs are here! |
@@ -131,6 +152,7 @@ Dinosaurs are here! |
 {% include adsense2.html %}
 
 | Nama: | **Pronunciation practice (Paid)** |
+|:------:|:------:|
 | Harga: | $19.99 |
 | Deskripsi: | App Standard pronunciation and self-pronunciation,precision correction pronunciation |
 | Kategori: | Tools |
@@ -138,8 +160,10 @@ Dinosaurs are here! |
 | Instal: | 1000-5000|
 | Ads: | No |
 | In-Apps Purchase | No |
-| Link: | [**Playstore**](market://details?id=x) | 
+| Link: | [**Playstore**](market://details?id=x) |
+
 | Nama: | **ARK Survival Island Evolve 3D Pro** |
+|:------:|:------:|
 | Harga: | $0.99
 | Kategori: | Game |
 Awesome free to play
@@ -151,7 +175,8 @@ from Pride Games Studio. 3d survivor for real savage |
 | Ads: | No |
 | In-Apps Purchase | Yes |
 | Link: | [**Playstore**](market://details?id=x) |
-| Nama: | **Space Weather App**|
+| Nama: | **Space Weather App** |
+|:------:|:------:|
 | Harga: | $1.99 |
 | Deskripsi: | App Only a few taps away from real-time space weather. |
 | Kategori: | Weather |
@@ -159,8 +184,10 @@ from Pride Games Studio. 3d survivor for real savage |
 | Instal: | 1000-5000|
 | Ads: | No |
 | In-Apps Purchase | No |
-| Link: | [**Playstore**](market://details?id=x) | 
-| Nama: | **Dreams World Pro 3D LWP**|
+| Link: | [**Playstore**](market://details?id=x) |
+
+| Nama: | **Dreams World Pro 3D LWP** |
+|:------:|:------:|
 | Harga: | $1.99 |
 | Deskripsi: | App New, beautiful, animated live wallpaper Dreams Pro 3D! |
 | Kategori: | Personalization |
@@ -168,8 +195,10 @@ from Pride Games Studio. 3d survivor for real savage |
 | Instal: | 500-1000|
 | Ads: | No |
 | In-Apps Purchase | No |
-| Link: | [**Playstore**](market://details?id=x) | 
-| Nama: | **LG Hi-Fi Status**|
+| Link: | [**Playstore**](market://details?id=x) |
+
+| Nama: | **LG Hi-Fi Status** |
+|:------:|:------:|
 | Harga: | $0.99 |
 | Deskripsi: | App Displays the status of the LG Hi-Fi connection as an icon.(V10,V20,V30,G6,Q8) |
 | Kategori: | Music & Audio |
@@ -177,8 +206,10 @@ from Pride Games Studio. 3d survivor for real savage |
 | Instal: | 1000-5000|
 | Ads: | No |
 | In-Apps Purchase | No |
-| Link: | [**Playstore**](market://details?id=x) | 
-| Nama: | **Mexican Radio Online Pro**|
+| Link: | [**Playstore**](market://details?id=x) |
+
+| Nama: | **Mexican Radio Online Pro** |
+|:------:|:------:|
 | Harga: | $1.49 |
 | Deskripsi: | App Listen to Mexico Radio online! Music like latin, pop and rock. |
 | Kategori: | Music & Audio |
@@ -186,8 +217,10 @@ from Pride Games Studio. 3d survivor for real savage |
 | Instal: | 1000-5000|
 | Ads: | No |
 | In-Apps Purchase | No |
-| Link: | [**Playstore**](market://details?id=x) | 
-| Nama: | **90s Music Radio Pro**|
+| Link: | [**Playstore**](market://details?id=x) |
+
+| Nama: | **90s Music Radio Pro** |
+|:------:|:------:|
 | Harga: | $1.49 |
 | Deskripsi: | App Listen to 90s music radio online! Pop, rock, hip hop and more! |
 | Kategori: | Music & Audio |
@@ -195,7 +228,9 @@ from Pride Games Studio. 3d survivor for real savage |
 | Instal: | 1000-5000|
 | Ads: | No |
 | In-Apps Purchase | No |
-|**Dead Ship**|
+
+|**Dead Ship** |
+|:------:|:------:|
 | Harga: | $0.99
 | Kategori: | Game |
 | Deskripsi: | Play as Zack Filinsa and help him in his difficult adventure full of horror! |
@@ -204,8 +239,11 @@ from Pride Games Studio. 3d survivor for real savage |
 | Instal: | 5000-10000|
 | Ads: | No |
 | In-Apps Purchase | No |
-| Link: | [**Playstore**](market://details?id=x) | 
-| Deskripsi: | Dead Forest | Horror | Full**|
+| Link: | [**Playstore**](market://details?id=x) |
+
+
+| Name: | **Dead Forest Horror Full** |
+|:------:|:------:|
 | Harga: | $0.99
 | Kategori: | Game |
 Friend! You must help me! |
@@ -214,8 +252,10 @@ Friend! You must help me! |
 | Instal: | 1000-5000|
 | Ads: | No |
 | In-Apps Purchase | No |
-| Link: | [**Playstore**](market://details?id=x) | 
-| Nama: | **Socxel | Pixel Soccer | PRO**|
+| Link: | [**Playstore**](market://details?id=x) |
+
+| Nama: | **Socxel | Pixel Soccer | PRO** |
+|:------:|:------:|
 | Harga: | $0.99
 | Kategori: | Game |
 Goal! Goal! Goooaaallll!!! |
@@ -224,8 +264,10 @@ Goal! Goal! Goooaaallll!!! |
 | Instal: | 10000-50000|
 | Ads: | No |
 | In-Apps Purchase | No |
-| Link: | [**Playstore**](market://details?id=x) | 
-| Nama: | **Art Alive: Night 3D Pro lwp**|
+| Link: | [**Playstore**](market://details?id=x) |
+
+| Nama: | **Art Alive: Night 3D Pro lwp** |
+|:------:|:------:|
 | Harga: | $0.99 |
 | Deskripsi: | App The most famous painting "Bedroom in Arles" of Vincent van Gogh in full 3d! |
 | Kategori: | Personalization |
@@ -233,8 +275,10 @@ Goal! Goal! Goooaaallll!!! |
 | Instal: | 5000-10000|
 | Ads: | No |
 | In-Apps Purchase | No |
-| Link: | [**Playstore**](market://details?id=x) | 
-|**Decimal to Fraction Pro**|
+| Link: | [**Playstore**](market://details?id=x) |
+
+| Nama: | **Decimal to Fraction Pro** |
+|:------:|:------:|
 | Harga: | $1.49 |
 | Deskripsi: | App Convert decimal numbers into fractions! Quick and easy! |
 | Kategori: | Education |
