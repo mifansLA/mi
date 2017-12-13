@@ -256,7 +256,7 @@ Dinosaurs are here! |
 | In-Apps Purchase | No |
 | Link: | [**Playstore**](/go/playstore?appid=com.buggames.DF) |
 
-| Nama: | Socxel | Pixel Soccer | PRO |
+| Nama: | Socxel Pixel Soccer PRO |
 |------:|:------|
 | Harga: | $0.99
 | Kategori: | Game |
