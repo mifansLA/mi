@@ -1,6 +1,6 @@
 ---
 title: "HP Layar “Full Display” Terbaik 2017 ★ Daftar dan Penjelasan Lengkapnya"
-excerpt: "Daftar HP layar “Full Display” dari masing-masing vendor dan penjelasan lengkapnya"
+excerpt: "Daftar HP layar “Full Display” dari masing-masing vendor dan penjelasan lengkap tentang apa itu layar “Full Display”"
 header:
  image: "https://i0.wp.com/cdn.phonemore.com/content/2016/jpg/5422.jpg"
  teaser: "https://i0.wp.com/cdn.phonemore.com/content/2016/jpg/5422.jpg?resize=340,170"
