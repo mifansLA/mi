@@ -69,6 +69,7 @@ Samsung Galaxy S8 adalah smartphone Android dengan desain yang dimiliki sangat 
 Samsung Galaxy S8+ adalah smartphone masa kini yang elegan dan berkelas. Smartphone ini pun tahan terhadap air, dengan level ketahanan IP68 yang dapat bertahan selama 30 menit dengan kedalaman 1,5 meter. Ukuran layarnya cukup lebar yaitu 6,2 inci berteknologi Super AMOLED capacitive touchscreen dan telah dilindungi oleh Corning Gorilla Glass 5 sehingga layar tidak mudah rusak karena goresan.
 
 | Kriteria | Spesifikasi |
+|------|------|
 | 4G Network | LTE band 1(2100), 2(1900), 3(1800), 4(1700 / 2100), 5(850), 7(2600), 8(900), 17(700), 20(800), 28(700) |
 | Ukuran Layar | 6.2 inch |
 | OS Version | 7.0 |
@@ -87,6 +88,7 @@ Samsung Galaxy S8+ adalah smartphone masa kini yang elegan dan berkelas. Smartp
 Samsung Galaxy Note 8 adalah smartphone canggih dengan layar ukuran 6.3 inci beresolusi sebesar 1440 x 2960 piksel yang sudah dilindungi Corning Gorilla Glass 5. Untuk dapur pacunya, Samsung Galaxy Note 8 ditenagai oleh Exynos 8895 Octa yang merupakan salah satu processor terbaik saat ini. Untuk mengoptimalkan performanya, Samsung galaxy note 8 disupport dengan RAM 6 GB dan GPU Mali G71.
 
 | Kriteria | Spesifikasi |
+|------|------|
 | 4G Network | LTE |
 | Ukuran Layar | 6.3 inch |
 | OS Version | 7.1.1 |
@@ -109,6 +111,7 @@ Samsung Galaxy Note 8 adalah smartphone canggih dengan layar ukuran 6.3 inci be
 Diluncurkan pada awal tahun 2017, LG G6 menawarkan desain layar full display lebar 5.7 inci Quad HD+ LCD FullVision dengan 2.5D curved glass. LG G6 Memiliki bingkai yang sangat sempit dengan rasio layar dibanding bodi mencapai 78,6%. Dapur pacu LG G6 dilengkapi oleh prosesor Qualcomm Snapdragon 821, RAM 4GB, penyimpanan internal 64GB, dual-kamera belakang beresolusi 13MP, kamera depan 5MP, dukungan 4G VoLTE dan baterai 3300mAh
 
 | Kriteria | Spesifikasi |
+|------|------|
 | 4G Network | LTE |
 | Ukuran Layar | 5.7 inch |
 | Chipset | Qualcomm MSM8996 Snapdragon 821 |
@@ -126,6 +129,7 @@ Diluncurkan pada awal tahun 2017, LG G6 menawarkan desain layar full display le
 LG Q6 merupakan salah satu hp full display dengan harga terjangkau pertama di dunia. Smartphone ini memiliki layar ukuran 5.5 inci IPS FullVision beresolusi 1080 x 2160 piksel (Full HD+) dan kerapatan 442 PPI. LG Q6 ini didukung oleh prosesor Qualcomm Snapdragon 430 octacore didampingi dengan RAM 3GB dan memori internal 32GB. LG Q6 juga diluncurkan dengan fitur pengenalan wajah untuk membuka layar.
 
 | Kriteria | Spesifikasi |
+|------|------|
 | 4G Network | LTE band 1(2100), 3(1800), 4(1700 / 2100), 5(850), 7(2600), 8(900), 12(700), 17(700), 20(800), 28(700), 38(2600) |
 | Ukuran Layar | 5.5 inch |
 | Chipset | Qualcomm MSM8940 Snapdragon 435 |
@@ -143,6 +147,7 @@ LG Q6 merupakan salah satu hp full display dengan harga terjangkau pertama di d
 Hp tanpa bezel gahar dari LG ini mengusung teknologi layar full display OLED ukuran 6 inci beresolusi 2880 x 1.440 piksel dan aspek rasio baru 18:9. Smartphone ini sendiri akan berjalan ngebut karena sudah dilengkapi dengan prosesor Qualcomm Snapdragon 835 dan pilihan RAM 4GB dan 6GB. Di samping itu, LG V30 sudah dilengkapi dengan sertifikasi IP68 untuk fitur tahan air dan debu.
 
 | Kriteria | Spesifikasi |
+|------|------|
 | 4G Network | LTE |
 | Ukuran Layar | 6.2 inch |
 | Chipset | Qualcomm MSM8998 Snapdragon 835 |
@@ -164,6 +169,7 @@ Hp tanpa bezel gahar dari LG ini mengusung teknologi layar full display OLED uku
 Vivo meluncurkan smartphone layar full display V7 tahun ini. Vivo V7 mengusung layar cukup besar ukuran 5,7 inci. Layaknya ponsel terkini, layar full display yang diusung V7 memiliki rasio 18:9 Untuk dapur pacunya, Vivo V7 menggunakan prosesor octacore Qualcomm Snapdragon 450 1,8GHz, RAM 4GB, kamera belakang 16MP, dan kamera depan 24MP. Smartphone ini berjalan di FunTouch OS berbasis Android Nougat 7.1.2
 
 | Kriteria | Spesifikasi |
+|------|------|
 | 4G Network | LTE 1800 / 1900 / 2100 |
 | Ukuran Layar | 5.7 inch |
 | Chipset | Qualcomm Snapdragon 450 |
@@ -181,6 +187,7 @@ Vivo meluncurkan smartphone layar full display V7 tahun ini. Vivo V7 mengusung
 Selain V7, Vivo juga meluncurkan smartphone layar full display V7+ tahun ini. Vivo V7+ mengusung layar cukup besar ukuran 5,99 inci. Layaknya ponsel terkini, layar full display yang diusung V7+ memiliki rasio 18:9 Untuk dapur pacunya, Vivo V7+ menggunakan prosesor octacore Qualcomm Snapdragon 450 1,8GHz, RAM 4GB, kamera belakang 16MP, dan kamera depan 24MP. Smartphone ini berjalan di FunTouch OS berbasis Android Nougat 7.1.2.
 
 | Kriteria | Spesifikasi |
+|------|------|
 | 4G Network | HSDPA 850 / 900 / 2100 |
 | Ukuran Layar | 5.99 inch |
 | Chipset | Qualcomm Snapdragon 450 | 
@@ -202,6 +209,7 @@ Selain V7, Vivo juga meluncurkan smartphone layar full display V7+ tahun ini. V
 Menjelang akhir tahun 2017, Oppo meluncurkan smartphone Oppo F5. Oppo F5 dirilis dengan desain smartphone kekinian, yakni layar ber-aspek rasio 18:9 dan full display. Untuk spesifikasinya, Oppo F5 memiliki prosesor octa-core Helio P23 berkecepatan 2.5GHz, RAM varian 4GB dan 6GB, layar jumbo 6 beresolusi 2.160 x 1.080 piksel. Ponsel ini dilengkapi fitur AI Beauty Recognition di kamera depannya.
 
 | Kriteria | Spesifikasi |
+|------|------|
 | 4G Network | LTE band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 38(2600), 39(1900), 40(2300), 41(2500) |
 | Ukuran Layar | 6 inch |
 | Chipset | Mediatek MT6763T Helio P23 |
@@ -219,6 +227,7 @@ Menjelang akhir tahun 2017, Oppo meluncurkan smartphone Oppo F5. Oppo F5 dirili
 Oppo F5 Youth merupakan smartphone full display lain dari Oppo yang diluncurkan tahun 2017. Oppo F5 Youth dibekali layar lebar 6.0 inci IPS LCD beresolusi Full HD+ 1080×2160 piksel. Dapur pacunya dibekali dengan prosesor MediaTek MT6763T Helio P23 Octa Core 2.3 GHZ dan GPU Mali G71 MP2, serta RAM 4 GB. Sama seperti Oppo F5, F5 Youth juga memiliki fitur AI Beauty Recognition di kamera depannya.
 
 | Kriteria | Spesifikasi |
+|------|------|
 | 4G Network | LTE 1800 / 2100 / 2600 |
 | Ukuran Layar | 6 inch |
 | Chipset | Mediatek MT6763T Helio P23 |
@@ -240,6 +249,7 @@ Oppo F5 Youth merupakan smartphone full display lain dari Oppo yang diluncurkan
 Xiaomi Mi Mix merupakan sebuah smartphone yang didedikasikan untuk Anda para ekskutif yang dinamis dan aktif. Perangkat ini memiliki dapur pacu yang sangat luar biasa, yaitu ditenagai prosesor Qualcomm Snapdragon 821. Xiaomi Mi Mix memiliki ukuran layar sebesar 6, 4 inci dengan resolusi tinggi, yaitu 2040x1080 piksel. Sementara sistem operasi Android yang digunakan adalah Android 6.0 Marshmallow.
 
 | Kriteria | Spesifikasi |
+|------|------|
 | 4G Network | LTE band 1(2100), 2(1900), 3(1800), 4(1700 / 2100), 5(850), 7(2600), 8(900), 38(2600), 39(1900), 40(2300), 41(2500) |
 | Ukuran Layar | 6.4 inch |
 | OS Version | 6.0 |
@@ -258,6 +268,7 @@ Xiaomi Mi Mix merupakan sebuah smartphone yang didedikasikan untuk Anda para ek
 Smartphone Xiaomi Mi Mix 2 adalah ponsel yang menjanjikan kinerja yang gesit. Xiaomi Mi Mix 2 juga menawarkan kapasitas memori internal yang besar hingga 256GB. Performanya dijamin ngebut karena sudah didukung oleh prosesor Qualcomm Snapdragon 835 dan RAM 6GB. Smartphone ini juga memiliki layar yang besar ukuran 6 inci dengan resolusi besar, sehingga gambar tampak begitu real dan mulus.
 
 | Kriteria | Spesifikasi |
+|------|------|
 | 4G Network | LTE 1800 / 2100 / 2600 |
 | Ukuran Layar | 5.99 inch |
 | OS Version | 7.1 |
@@ -280,6 +291,7 @@ Smartphone Xiaomi Mi Mix 2 adalah ponsel yang menjanjikan kinerja yang gesit. 
 Apple juga ikut dalam persaingan hp layar full display dengan mengandalkan smartphone iPhone X. iPhone X mengusung layar ukuran 5,8 inci, yang unik adalah dimensi iPhone X ternyata tidak lebih besar dari iPhone 8 Plus yang hadir dengan layar 5,5 inci. iPhone X juga merupakan iPhone pertama yang dilengkapi dengan layar OLED, Apple menyebutkannya sebagai Super Retina Display.
 
 | Kriteria | Spesifikasi |
+|------|------|
 | 4G Network | LTE 1800 / 2100 / 2600 |
 | Ukuran Layar | 5.8 inch |
 | Chipset | Apple A11 Bionic |
