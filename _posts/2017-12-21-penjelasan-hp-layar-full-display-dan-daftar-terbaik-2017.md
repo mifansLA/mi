@@ -31,11 +31,16 @@ Dengan menggunakan layar full display, ukuran hp bisa dibuat lebih simpel dan ko
 
 ### Kelebihan dan Kekurangan HP Full Display
 
-| Kelebihan | Kekurangan |
-|------|------|
-| Membuat desain smartphone menjadi lebih modern karena tampilan layar akan terlihat penuh. | Layar menjadi lebih rentan retak karena bezel juga berfungsi sebagai pelindung layar dan komponen lain ketika hp jatuh atau mengalami benturan keras. |
-| Membuat ukuran hp menjadi lebih kecil karena penghilangan bezel membuat aspek rasio layar menjadi lebih besar. | Hp layar full display juga mempengaruhi hardware dan software dari hp tersebut. Seperti membuat penempatan kamera menjadi lebih rentan atau tampilan video atau game menjadi terpotong. |
-| - | Aspek rasio dari hp full display sering tidak sesuai tampilan video atau game yang ada saat ini. Sebenarnya masalah ini bisa segera teratasi bila Google atau vendor lain melakukan update. Namun, menikmati game atau video dengan tampilan terpotong sebelum update diluncurkan tentu membosankan. |
+| Kelebihan |
+|:------:|
+| Membuat desain smartphone menjadi lebih modern karena tampilan layar akan terlihat penuh. |
+| Membuat ukuran hp menjadi lebih kecil karena penghilangan bezel membuat aspek rasio layar menjadi lebih besar. |
+
+| Kekurangan |
+|:------:|
+| Layar menjadi lebih rentan retak karena bezel juga berfungsi sebagai pelindung layar dan komponen lain ketika hp jatuh atau mengalami benturan keras. |
+| Hp layar full display juga mempengaruhi hardware dan software dari hp tersebut. Seperti membuat penempatan kamera menjadi lebih rentan atau tampilan video atau game menjadi terpotong. |
+| Aspek rasio dari hp full display sering tidak sesuai tampilan video atau game yang ada saat ini. Sebenarnya masalah ini bisa segera teratasi bila Google atau vendor lain melakukan update. Namun, menikmati game atau video dengan tampilan terpotong sebelum update diluncurkan tentu membosankan. |
 
 ### HP Full Display Terbaik 2017
 
