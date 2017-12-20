@@ -3,7 +3,7 @@ title: "HP Layar “Full Display” Terbaik 2017 ★ Daftar dan Penjelasan Lengk
 excerpt: "Daftar HP layar “Full Display” dari masing-masing vendor dan penjelasan lengkapnya"
 header:
  image: "https://i0.wp.com/cdn.phonemore.com/content/2016/jpg/5422.jpg"
- teaser: "http://i0.wp.com/cdn.phonemore.com/content/2016/jpg/5422.jpg?resize=340,170"
+ teaser: "https://i0.wp.com/cdn.phonemore.com/content/2016/jpg/5422.jpg?resize=340,170"
 categories:
  - Artikel
 tags:
@@ -21,7 +21,7 @@ Kenapa desain juga menjadi fokus pengembangan para produsen smartphone? Tentu s
 
 ## Apa yang Dimaksud dengan Hp Full Display?
 
-![HP Full Display](http://edtreviews.com/wp-content/uploads/2017/10/141087-phones-feature-lg-v30-release-date-rumours-and-everything-you-need-to-know-image1-aoruszh7db.jpg){:.align-center}
+![HP Full Display](https://i0.wp.com/edtreviews.com/wp-content/uploads/2017/10/141087-phones-feature-lg-v30-release-date-rumours-and-everything-you-need-to-know-image1-aoruszh7db.jpg){:.align-center}
 
 Bila kita amati perkembangan desain hp dari tahun ke tahun, di tahun 2017 ini mengalami perubahan yang sangat signifikan. Di mana sekarang banyak hadir hp dengan tampilan layar full display dengan hampir tidak memiliki bodi samping.
 
