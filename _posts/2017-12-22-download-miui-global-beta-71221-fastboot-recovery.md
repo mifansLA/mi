@@ -15,7 +15,7 @@ tags:
 ---
 **MIUI 9 Global Beta ROM 7.12.21 has been released!**
 
-Di penghujung tahun 2017, Xiaomi memberikan update yang bisa jadi menjadi yang terakhir pada tahun ini. Bukannya masih ada satu Jum'at (28 Desember 2017) lagi? Err... Kayaknya mereka bakal liburan tahun baru deh, hehehe... Kamu bisa mengunduh dari daftar yang disediakan dibawah. Untuk catatan, update mingguan kali ini tidak menyertakan bebrapa ponsel (suspended) yakni: **Redmi Note 2** dan **Mi 5s** **Mi 2/2**, **Mi 4i**, **Redmi Note**, **Redmi Note Prime**, **Redmi 2**, **Redmi 2 Prime** dan **Mi Note**. Ponsel yang dapat update 7.12.21 bisa dilihat [di bawah](#miui-9-global-public-beta-rom-supported-devices).
+Di penghujung tahun 2017, Xiaomi memberikan update yang bisa jadi menjadi yang terakhir pada tahun ini. Bukannya masih ada satu Jum'at (29 Desember 2017) lagi? Err... Kayaknya mereka bakal liburan tahun baru deh, hehehe... Kamu bisa mengunduh dari daftar yang disediakan dibawah. Untuk catatan, update mingguan kali ini tidak menyertakan bebrapa ponsel (suspended) yakni: **Redmi Note 2** dan **Mi 5s** **Mi 2/2**, **Mi 4i**, **Redmi Note**, **Redmi Note Prime**, **Redmi 2**, **Redmi 2 Prime** dan **Mi Note**. Ponsel yang dapat update 7.12.21 bisa dilihat [di bawah](#miui-9-global-public-beta-rom-supported-devices).
 
 Di forum global MIUI juga mengadakan event khusus untuk merayakan Natal dengan menawarkan hadiah berupa [ponsel Mi Mix 2](https://www.google.com/amp/www.knoacc.org/2017/09/harga-xiaomi-mi-mix-2-spesifikasi.html). Cek [di sini](http://en.miui.com/thread-1342468-1-1.html){: rel="noopener nofollow noreferer"} untuk bergabung dengan event tersebut. Selain itu, Tim pengembang juga sedang melakukan perekrutan tim beta tester untuk **mencicipi MIUI Android Oreo**, bagi pemilik [Xiaomi Mi 6](https://www.google.com/amp/www.knoacc.org/2017/09/harga-xiaomi-mi-6-spesifikasi.html) yang berminat bisa melihat informasi cara bergabung sebagai beta tester. Atau jika kamu punya pemilik ponsel **Redmi Note 5A/Redmi Y1 Lite**, **Redmi Note 5A Prime/Redmi Y1** dan **Redmi 5A**, langsung saja ke [trit ini](http://en.miui.com/thread-1344092-1-1.html) untuk bergabung sebagai _beta tester_.
 
@@ -73,7 +73,7 @@ Berikut Tabel ROM Fastboot (Firmware) file `.tgz` dan ROM Recovery (Full ROM) fi
 | **Mi MIX 2** | [Fastboot 2028M](/bigota?ver=7.12.21&type=chiron_global_images&name=20171221.0000.00_7.1_global_1e705de01c.tgz) | [Recovery 1610M](/bigota?ver=7.12.21&type=miui_MIMIX2Global&name=ab6b4d0fb9_7.1.zip){:.btn.btn--primary} |
 | **Redmi 4A** | [Fastboot 1704M](/bigota?ver=7.12.21&type=rolex_global_images&name=20171221.0000.00_7.1_global_6382a7699e.tgz){:.btn.btn--primary} | [Recovery 1249M](/bigota?ver=7.12.21&type=miui_HM4AGlobal&name=1529bebf88_7.1.zip){:.btn.btn--primary} | 
 
-{% include repo.html %}
+{% include respo.html %}
 
 Jika tipe ponsel kamu tidak ada dalam tabel update minggu ini (7.12.21), Kamu masih bisa mencari dari update minggu lusa [(7.12.8)](https://mi.knoacc.org/download-rom-miui-9-global-beta-7128-fastboot-recovery) atau sebelumnya [(7.12.1)](https://mi.knoacc.org/download-rom-miui-9-global-beta-71230-fastboot-recovery).
 
