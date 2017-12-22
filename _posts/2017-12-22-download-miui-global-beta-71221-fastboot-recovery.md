@@ -25,8 +25,6 @@ Dalam update 7.12.21 ini, kamu akan disuguhi beberapa perubahan dalam _**Mi Move
 
 [Update ROM MIUI 9 7.12.21](download-rom-miui-9-global-beta-71230-fastboot-recovery) tersedia untuk Mi MIX 2, Redmi Note 4 MTK, Redmi Note 4 Qualcomm/Redmi Note 4X, Mi 6, Mi Note 2, Mi 5, Mi 5s, Mi 5s Plus, Mi Max, Mi Max Prime, Mi Max 2, Mi 3, Mi 4, Redmi 3, Redmi 3S, Redmi Note 3 Qualcomm, Redmi Note 3 Special Edition, Redmi Note 2, Redmi 4/4X, Redmi 4A.
 
-{% include howtoflash.md %}
-
 ### Daftar perubahan MIUI 9 Global Bet ROM 7.12.21
 
 |Highlights |
@@ -73,8 +71,10 @@ Berikut Tabel ROM Fastboot (Firmware) file `.tgz` dan ROM Recovery (Full ROM) fi
 | **Mi MIX 2** | [Fastboot 2028M](/bigota?ver=7.12.21&type=chiron_global_images&name=20171221.0000.00_7.1_global_1e705de01c.tgz) | [Recovery 1610M](/bigota?ver=7.12.21&type=miui_MIMIX2Global&name=ab6b4d0fb9_7.1.zip){:.btn.btn--primary} |
 | **Redmi 4A** | [Fastboot 1704M](/bigota?ver=7.12.21&type=rolex_global_images&name=20171221.0000.00_7.1_global_6382a7699e.tgz){:.btn.btn--primary} | [Recovery 1249M](/bigota?ver=7.12.21&type=miui_HM4AGlobal&name=1529bebf88_7.1.zip){:.btn.btn--primary} | 
 
-{% include respo.html %}
-
 Jika tipe ponsel kamu tidak ada dalam tabel update minggu ini (7.12.21), Kamu masih bisa mencari dari update minggu lusa [(7.12.8)](https://mi.knoacc.org/download-rom-miui-9-global-beta-7128-fastboot-recovery) atau sebelumnya [(7.12.1)](https://mi.knoacc.org/download-rom-miui-9-global-beta-71230-fastboot-recovery).
+### Cara Memasang MIUI 9 Global Beta 7.12.21
+
+{% include howtoflash.md %}
+{% include respo.html %} 
 
 Sebagai tambahan, jika kamu ingin mencoba memakai **MIUI PRO update terbaru** silahkan tunggu update artikel besok. Untuk informasi bagi yang belum tahu apa itu MIUI PRO dan bagai mana cara memasang-nya bisa lihat [postingan ini](https://mi.knoacc.org/cara-panduan-pasang-rom-miui-pro-semua-xiaomi).
