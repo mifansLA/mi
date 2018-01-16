@@ -1,5 +1,5 @@
 ---
-title: Tips Trik ★ Aktifkan “Control Center” ala iOS 11 di Android
+title: Tips Trik ★ Aktifkan “Control Center” ala iOS 11 ★ Semua Android
 excerpt: Control Center ala iOS 11 juga bisa di aktifkan di semua ponsel android. Ternyata begini cara installnya
 header:
  image: https://img.gadgethacks.com/img/20/18/63632284751670/0/ios-11-got-awesome-new-control-center-heres-use-customize-your-iphone.1280x600.jpg
