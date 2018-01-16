@@ -1,5 +1,5 @@
 ---
-title: "Cara Menambahkan Watermark “Shot On” di Semua Smartphone Android"
+title: "Tips Trik ★ Cara Menambahkan Watermark “Shot On” ★ Semua Android"
 excerpt: Mudahnya menambahkan tanda air ShootOn pada semua foto dengan menggunakan aplikasi bisa untuk semua ponsel android.
 header:
  image: https://i.ytimg.com/vi/MB61CFY5PEE/maxresdefault.jpg
