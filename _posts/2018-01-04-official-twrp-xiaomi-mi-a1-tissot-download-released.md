@@ -2,8 +2,8 @@
 title: Resources ★ Official TWRP 3.2.1-0 tissot ★ Xiaomi Mi A1
 excerpt: Download officially released TWRP for Xiaomi Mi A1 (tissot) and guide how to install permanently
 header:
- - image: https://i0.wp.xom/theandroidpoint.com/roms/wp-content/uploads/2017/11/teamwin.png?resize=700,350
- - teaser: https://i0.wp.xom/theandroidpoint.com/roms/wp-content/uploads/2017/11/teamwin.png?resize=360,180
+ image: https://i0.wp.xom/theandroidpoint.com/roms/wp-content/uploads/2017/11/teamwin.png?resize=700,350
+ teaser: https://i0.wp.xom/theandroidpoint.com/roms/wp-content/uploads/2017/11/teamwin.png?resize=360,180
 categories:
  - resources
 tags:
@@ -52,7 +52,9 @@ Mi A1 Codename is **Tissot**
 | [Download](/dl/pcloud?code=XZiypp7Z3NmSBO9vBmHjcplAR7L5mydVeDLV&size=30.2MB&name=twrp-3.1.1-0-tissot.img){:.btn.btn-primary} | [Download](/dl/pcloud?code=XZS7pp7Z7SRIX1C4OFH3BFys5PeilLH2isM7&size=30.2MB&name=twrp-3.2.1-0-tissot.img){:.btn.btn-primary} |
 
 TWRP Flasher for Tissot
+
 | 3.1.1-0 | 3.2.1-0 |
+|:------:|:------:|
 | [Download](/dl/afh?fid=817906626617943385&size=7.7MB&name=twrp-3.1.1-1-installer-tissot.zip){:.btn.btn-primary} | [Download](/dl/afh?fid=817906626617943385&size=7.7MB&name=twrp-3.1.1-1-installer-tissot.zip){:.btn.btn-primary} |
 
 ## TWRP installation instructions:
