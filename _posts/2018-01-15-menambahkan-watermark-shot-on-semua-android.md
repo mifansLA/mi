@@ -3,7 +3,7 @@ title: "Tips Trik ★ Cara Menambahkan Watermark “Shot On” ★ Semua Android
 excerpt: Mudahnya menambahkan tanda air ShootOn pada semua foto dengan menggunakan aplikasi bisa untuk semua ponsel android.
 header:
  image: https://i0.wp.com/u01.appmifile.com/images/2017/04/23/a8cda56c-aa18-4af5-8ed8-6f50fbe06569.jpeg
- image: https://i0.wp.com/u01.appmifile.com/images/2017/04/23/a8cda56c-aa18-4af5-8ed8-6f50fbe06569.jpeg?resize=420,210
+ teaser: https://i0.wp.com/u01.appmifile.com/images/2017/04/23/a8cda56c-aa18-4af5-8ed8-6f50fbe06569.jpeg?resize=420,210
  caption: Aplikasi ShootOn
 categories:
  - Tips Trik
