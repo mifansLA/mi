@@ -9,7 +9,7 @@
 minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 locale                   : "id_EN"
-title: "miFans-LA"
+title: "Mi Fans Lamongan"
 title_separator: "-"
 name: &name "mifansLA"
 description: &description "Documentation Source for MI Fans Lamongan and Xiaomi Devices User."
@@ -37,7 +37,7 @@ alexa_site_verification  : "9vuxp7uDTuDQssajccQrFy1UnTQ"
 instagram:
   username               : &instagram mifans_lamongan
 twitter:
-  username               : &twitter mifans_lamongan
+  username               : &twitter mifansLA
 facebook:
   username               : &facebook mifansLA
   app_id                 : 356530788085649
@@ -51,7 +51,7 @@ social:
   links: # An array of links to social media profiles
    - https://www.instagram/mifans_lamongan
    - https://www.facebook.com/mifansLA
-   - https://www.twitter.com/mifans_lamongan
+   - https://www.twitter.com/mifansLA
 
 # Analytics
 analytics:
