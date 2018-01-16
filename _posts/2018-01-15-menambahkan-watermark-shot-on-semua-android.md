@@ -19,9 +19,9 @@ Jika smartphone kamu belum mendukung fitur **watermark Shot On** saat mengambil 
 
 Di sini, mifansLA akan memberikan panduan untuk membahkan watermark Shot On di semua smartphone Android. Sebelum memulai melakukannya, download dulu **aplikasi ShotOn** [via playstore](https://play.google.com/store/apps/details?id=droidtuts4you.com.shoton) dan install seperti biasa di smartphone Android yang kamu gunakan.
 
-![aplikasi watermark shot on](https://i0.wp.com/www.droidlime.com/wp-content/uploads/2018/01/cara-menambahkaaaan-watermark-shot-on-di-semua-smartphone-1.jpg){:.align-center}
+![aplikasi watermark shot on](https://i0.wp.com/www.droidlime.com/wp-content/uploads/2018/01/cara-menambahkan-watermark-shot-on-di-semua-smartphone-1.jpg){:.align-center}
 
-Setelahnya lansung saja buka aplikasinya, lalu pilih gambar atau foto yang ingin kamu tambahkan **watermark _ShotOn_**. kamu juga bisa meng-_crop_ gambar tersebut sesuai kebutuhan.
+Setelahnya lansung saja buka aplikasinya, lalu pilih gambar atau foto yang ingin kamu tambahkan **watermark _ShotOn_**. kamu juga bisa memotong (_crop_) gambar tersebut sesuai kebutuhan.
 
 Klik tombol _Edit_ (icon pensil) untuk menambahkan tulisannya. Di bagian _Mobile Name_ untuk nama smartphone dan _Clicked By_ di isi dengan nama kamu sendiri. Selain ikon standar, ada 23 ikon lain yang bisa dipilih untuk memaksimalkan tampilan watermark.
 
