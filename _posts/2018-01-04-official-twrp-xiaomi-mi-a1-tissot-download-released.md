@@ -2,8 +2,8 @@
 title: Resources ★ Official TWRP 3.2.1-0 tissot ★ Xiaomi Mi A1
 excerpt: Download officially released TWRP for Xiaomi Mi A1 (tissot) and guide how to install permanently
 header:
- image: https://i0.wp.xom/theandroidpoint.com/roms/wp-content/uploads/2017/11/teamwin.png?resize=700,350
- teaser: https://i0.wp.xom/theandroidpoint.com/roms/wp-content/uploads/2017/11/teamwin.png?resize=360,180
+ image: https://i0.wp.com/theandroidpoint.com/roms/wp-content/uploads/2017/11/teamwin.png?resize=700,350
+ teaser: https://i0.wp.com/theandroidpoint.com/roms/wp-content/uploads/2017/11/teamwin.png?resize=360,180
 categories:
  - resources
 tags:
