@@ -26,6 +26,8 @@ tags:
 
 ### Details of features of MIUI 9 on Redmi 2
 
+**I don't care**, just take me to the [**download section**](#download-rom-miui-9-stabel-for-xiaomi-redmi-2)
+
 | Introducing MIUI Labs |
 |:---:|
 | Image search is turned on in MIUI Labs |
