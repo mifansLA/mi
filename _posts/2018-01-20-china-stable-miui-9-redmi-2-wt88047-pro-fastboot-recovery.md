@@ -114,6 +114,8 @@ tags:
 
 ### Download ROM MIUI 9 Stabel for Xiaomi Redmi 2
 
+MIUI 9.1 China Stable V9.2.3.0.LHJCNEK Based Android L Released for Xiaomi Redmi 2 Pro (wt88047_pro) now can download Fastboot ROM or Recovery ROM update from link provided from below:
+
 | ROM Type: | Fastboot |
 | ROM Size: | 954M |
 | MD5 Hash: | 15b458b5e03583f08cddfcfb9e9f1463 |
