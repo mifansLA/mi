@@ -2,8 +2,8 @@
 title: "Xiaomi Redmi 2 Pro ★ China Stable V9.2.3.0 ★ ROM MIUI 9"
 excerpt: "MIUI 9.1 China Stable V9.2.3.0.LHJCNEK Based Android L Released for Xiaomi Redmi 2 Pro (wt88047_pro)! You can now download Fastboot ROM or Recovery ROM update here"
 header:
- overlay_image: https://i0.wp.com/drop.ndtv.com/albums/GADGETS/xiaomi_mi_max/xiaomi_mi_max_port_ndtv.jpg?resize=800,400
- teaser: https://i0.wp.com/drop.ndtv.com/albums/GADGETS/xiaomi_mi_max/xiaomi_mi_max_port_ndtv.jpg?resize=300,150
+ overlay_image: https://i0.wp.com/reviewspadho.com/wp-content/uploads/2015/11/maxresdefault-1.jpg?resize=800,400
+ teaser: https://i0.wp.com/reviewspadho.com/wp-content/uploads/2015/11/maxresdefault-1.jpg?resize=350,175
 categories:
  - miui 9
 tags:
@@ -12,7 +12,8 @@ tags:
  - wt88047 pro
  - redmi 2 prime
 ---
-Note: for Global Stable Release will [updated here](https://mi.knoacc.org/global-stable-miui-9-mi-max-helium-fastboot-recovery
+**Note:** for Global Stable Release will [updated here](https://mi.knoacc.org/update-rom-miui-9-global-stable-full-changelog)
+
 ## Features of MIUI9 Lightning fast Xiaomi Redmi 2
 
 - Deep-level system optimizations
