@@ -26,7 +26,7 @@ tags:
 
 ### Details of features
 | Introducing MIUI Labs |
-|:------:|
+|:---:|
 | Image search is turned on in MIUI Labs |
 | (Turn the filter for notifications on and off in the Settings.) |
 
