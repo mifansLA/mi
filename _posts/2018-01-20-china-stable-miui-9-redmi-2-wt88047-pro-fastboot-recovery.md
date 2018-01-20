@@ -24,7 +24,8 @@ tags:
 - Improved readability for the start page of Messaging
 - Revamped and simplified 50+ features
 
-### Details of features
+### Details of features of MIUI 9 on Redmi 2
+
 | Introducing MIUI Labs |
 |:---:|
 | Image search is turned on in MIUI Labs |
@@ -113,11 +114,16 @@ tags:
 
 ### Download ROM MIUI 9 Stabel for Xiaomi Redmi 2
 
+| ROM Type: | Fastboot |
+| ROM Size: | 954M |
+| MD5 Hash: | 15b458b5e03583f08cddfcfb9e9f1463 |
+| ROM Link: | [Download](https://mi.knoacc.org/bigota?size=954M&ver=V9.2.3.0.LHJCNEK&type=wt88047_pro_images&name=20171229.0000.00_5.1_cn_15b458b5e0.tgz) |
+
 {% include respo.html %}
 
-| ROM Type | Recovery | Fastboot
-| ROM Size | 575M | 954M |
-| MD5 | 77056c722f5b4f0c37d8bfe48641dcc3 | 15b458b5e03583f08cddfcfb9e9f1463 |
-| ROM Link | [Download](https://mi.knoacc.org/bigota?size=575MB&ver=V9.2.3.0.LHJCNEK&type=miui_HM2XWCPro&name=77056c722f_5.1.zip) | [Download](https://mi.knoacc.org/bigota?size=954M&ver=V9.2.3.0.LHJCNEK&type=wt88047_pro_images&name=20171229.0000.00_5.1_cn_15b458b5e0.tgz) |
+| ROM Type: | Recovery |
+| ROM Size: | 575M |
+| MD5 Hash: | 77056c722f5b4f0c37d8bfe48641dcc3 |
+| ROM Link: | [Download](https://mi.knoacc.org/bigota?size=575MB&ver=V9.2.3.0.LHJCNEK&type=miui_HM2XWCPro&name=77056c722f_5.1.zip) |
 
 **Note:** This ROMs / Firmwares are for Redmi 2 Prime wich codenamed with : **wt88047_pro**.
