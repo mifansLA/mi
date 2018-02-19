@@ -12,6 +12,7 @@ tags:
  - ROM Fastboot
  - ROM Recovery
  - Download MIUI 9
+last_modified_at: 2018:02:19
 ---
 **MIUI 9 Global Beta ROM 8.2.8 has been released!**
 
