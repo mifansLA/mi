@@ -44,7 +44,7 @@ MIUI 9 is now available for Redmi Note 4 Qualcomm/ Redmi Note 4X, Mi 6, Mi Note,
 
 ### MIUI 9 Global Beta ROM 7.9.21 Download Links
 
-{% include infeeds %}
+{% include infeeds.html %}
 
 **Xiaomi Mi 6 MIUI 9**
 
