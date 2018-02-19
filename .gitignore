@@ -1,4 +1,5 @@
 *.gem
+.github
 *.sublime-project
 *.sublime-workspace
 .bundle
