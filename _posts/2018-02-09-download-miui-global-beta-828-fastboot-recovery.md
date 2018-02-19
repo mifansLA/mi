@@ -17,13 +17,11 @@ tags:
 
 Akhir tahun lalu (2017) hingga beberapa awal bulan Januari dan Februari, situs MiFans Lamongan absen memberikan berita update ROM Beta meskipun ada beberapa perubahan besar untuk tipe ponsel-ponsel tertentu. Dan bahkan ada beberapa update MIUI 9 Global Stable juga. 
 
-Bagi kamu yang merasa kelebihan kuota bisa mengunduh ROM Recovery dan meng-update secara manual melalui menu updater jika sudah menggunakan ROM Beta (Developer). Namun Jika kamu masih memakai ROM Global Stable atau China Stable silahkan pakai ROM Fastboot dan melakukakn flashing menggunakan MiFlashtool. ROM Recovery dan ROM Fastboot untuk versi 7.2.9 kali ini sudah disediakan di bawah.
-
-Untuk catatan, update mingguan kali ini tidak menyertakan bebrapa ponsel (suspended) yakni: **Redmi Note 2** dan **Mi 5s** **Mi 2/2**, **Mi 4i**, **Redmi Note**, **Redmi Note Prime**, **Redmi 2**, **Redmi 2 Prime** dan **Mi Note**. Ponsel yang dapat update 8.2.8 bisa dilihat [di bawah](#miui-9-global-public-beta-rom-supported-devices).
+Bagi kamu yang merasa kelebihan kuota bisa mengunduh ROM Recovery dan meng-update secara manual melalui menu updater jika sudah menggunakan ROM Beta (Developer). Namun Jika kamu masih memakai **ROM Global Stable** atau **China Stable** silahkan pakai **ROM Fastboot** dan melakukan flashing menggunakan MiFlashtool. ROM Recovery dan ROM Fastboot untuk versi 7.2.9 kali ini sudah disediakan di bawah.
 
 ### MIUI 9 Global Public Beta ROM Supported Devices
 
-[Update ROM MIUI 9 7.2.9](download-rom-miui-9-global-beta-828-fastboot-recovery) tersedia untuk 
+[Update ROM MIUI 9 8.2.8](download-rom-miui-9-global-beta-828-fastboot-recovery) tersedia untuk 
 
 Mi MIX 2, Redmi Note 4 MTK, Redmi Note 4 Qualcomm/Redmi Note 4X, Mi 6, Mi Note 2, Mi 5, Mi 5s, Mi 5s Plus, Mi Max, Mi Max Prime, Mi Max 2, Mi 3, Mi 4, Redmi 3, Redmi 3S, Redmi Note 3 Qualcomm, Redmi Note 3 Special Edition, Redmi Note 2, Redmi 4/4X, Redmi 4A, Redmi Note 5A/Y1 Lite, Redmi Note 5A Prime/Y1.
 
@@ -31,21 +29,14 @@ Mi MIX 2, Redmi Note 4 MTK, Redmi Note 4 Qualcomm/Redmi Note 4X, Mi 6, Mi Note 2
 
 |Highlights |
 |:------:|
-|**New** - Transfer apps with or without app data using Mi Mover (12-20) |
+|**Fix** - Mi Music force closed (02-06) |
 
 | Changelog's Detail |
 |:------:|
-|**Backup** |
-|**New** - Transfer apps with or without app data using Mi Mover (12-20) |
-|**Blocklist** |
-|**New** - Add SMS keywords to exceptions (12-19) |
-|**Notification** |
-|**Fix** - Quick reply is allowed on lockscreen for WhatsApp without unlocking the device (12-15) |
-|**Bluetooth** |
-|**Fix** - Bluetooth is disconnected continuously (12-19) |
-|**Contact** |
-|**Fix** - Recorded call icon isn't shown in call history (12-07) |
-
+|**Fix** - Mi Music force closed (02-06) |
+|**Fix** - Mi Video stops working (02-06) |
+|**Fix** - App vault keeps force closing after adding calendar events there (02-06) |
+|**Fix** - Equalizer is not working properly (02-06) |
 
 > Lihat juga daftar ponsel [Xiaomi yang sudah mendapat MIUI 9 Global Stable](https://mi.knoacc.org/update-rom-miui-9-global-stable-full-changelog). Di postingan tersebut sudah terdapat update MIUI 9 Stabil Terbaru untuk beberapa ponsel yang sudah mendapatkan update MIUI dan beberapa tipe ponsel yang baru saja mendapat jatah MIUI 9 
 
@@ -75,7 +66,7 @@ Untuk ROM Beta atau Developer sendiri sudah bisa kamu unduh sekarang. Berikut Ta
 | **Mi MIX 2** | [Recovery 1542M](/bigota?ver=8.2.8&type=miui_MIMIX2Global&name=b171edd013_8.0.zip){:.btn.btn--primary} | [Fastboot 2036M](/bigota?ver=8.2.8&type=chiron_global_images&name=20180208.0000.00_8.0_global_c24e769f0b.tgz){:.btn.btn--primary} |
 | **Redmi 5A** | [Recovery 1246M](/bigota?ver=8.2.8&type=miui_HM5AGlobal&name=6d131a64dc_7.1.zip){:.btn.btn--primary} | [Fastboot 1774M](/bigota?ver=8.2.8&type=riva_global_images&name=20180208.0000.00_7.1_global_7001a8c92f.tgz){:.btn.btn--primary} |
 
-Jika tipe ponsel kamu tidak ada dalam tabel update minggu ini (8.2.8), Kamu masih bisa menggunakan ROM update minggu lalu (8.2.1) yang kita sediakan dalam tabel dibawah ini:
+Jika tipe ponsel kamu tidak ada dalam tabel update minggu ini (8.2.8), Kamu masih bisa menggunakan ROM update minggu sebelumnya.
 ### Cara Memasang MIUI 9 Global Beta 8.2.8
 
 {% include howtoflash.md %}
