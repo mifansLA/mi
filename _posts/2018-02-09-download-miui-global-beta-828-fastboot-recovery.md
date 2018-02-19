@@ -46,10 +46,10 @@ Untuk ROM Beta atau Developer sendiri sudah bisa kamu unduh sekarang. Berikut Ta
 
 | Device | Firmware | Full ROM |
 |------|:------:|:------:|
-| **Mi Max 32G** | [Recovery 1416M](/bigota?ver=8.2.8&type=miui_MIMAXGlobal&name=37eb0355f0_7.0.zip){:.btn.btn--primary}  | [Fastboot 1664M](/bigota?ver=8.2.8&type=hydrogen_global_images&name=20180208.0000.00_7.0_global_9ac2cbd163.tgz |
-| **Redmi 3** | [Recovery 943M](/bigota?ver=8.2.8&type=miui_HM3Global&name=a9ab78e638_5.1.zip){:.btn.btn--primary}  | [Fastboot 1186M](/bigota?ver=8.2.8&type=ido_xhdpi_global_images&name=20180208.0000.00_5.1_global_0b7cddae1b.tgz |
-| **Redmi 3S** | [Recovery 1241M](/bigota?ver=8.2.8&type=miui_HM3SGlobal&name=a5e946cac9_6.0.zip){:.btn.btn--primary}  | [Fastboot 1490M](/bigota?ver=8.2.8&type=land_global_images&name=20180208.0000.00_6.0_global_7c7eadb22a.tgz |
-| **Redmi Note 3 Qualcomm** | [Recovery 1219M](/bigota?ver=8.2.8&type=miui_HMNote3ProGlobal&name=4cf698d690_6.0.zip){:.btn.btn--primary}  | [Fastboot 1472M](/bigota?ver=8.2.8&type=kenzo_global_images&name=20180208.0000.00_6.0_global_1021600254.tgz){:.btn.btn--primary} |
+| **Mi Max 32G** | [Recovery 1416M](/bigota?ver=8.2.8&type=miui_MIMAXGlobal&name=37eb0355f0_7.0.zip){:.btn.btn--primary} | [Fastboot 1664M](/bigota?ver=8.2.8&type=hydrogen_global_images&name=20180208.0000.00_7.0_global_9ac2cbd163.tgz){:.btn.btn--primary} |
+| **Redmi 3** | [Recovery 943M](/bigota?ver=8.2.8&type=miui_HM3Global&name=a9ab78e638_5.1.zip){:.btn.btn--primary} | [Fastboot 1186M](/bigota?ver=8.2.8&type=ido_xhdpi_global_images&name=20180208.0000.00_5.1_global_0b7cddae1b.tgz){:.btn.btn--primary} |
+| **Redmi 3S** | [Recovery 1241M](/bigota?ver=8.2.8&type=miui_HM3SGlobal&name=a5e946cac9_6.0.zip){:.btn.btn--primary} | [Fastboot 1490M](/bigota?ver=8.2.8&type=land_global_images&name=20180208.0000.00_6.0_global_7c7eadb22a.tgz){:.btn.btn--primary} |
+| **Redmi Note 3 Qualcomm** | [Recovery 1219M](/bigota?ver=8.2.8&type=miui_HMNote3ProGlobal&name=4cf698d690_6.0.zip){:.btn.btn--primary} | [Fastboot 1472M](/bigota?ver=8.2.8&type=kenzo_global_images&name=20180208.0000.00_6.0_global_1021600254.tgz){:.btn.btn--primary} |
 | **Redmi Note 2** | [Recovery 955M](/bigota?ver=8.2.8&type=miui_HMNote2Global&name=401b1de23c_5.0.zip){:.btn.btn--primary} | [Fastboot 1320M](/bigota?ver=8.2.8&type=hermes_global_images&name=20180208.0000.00_5.0_global_b1356e9bb9.tgz){:.btn.btn--primary} |
 | **Mi Max 64G/128G** | [Recovery 1416M](/bigota?ver=8.2.8&type=miui_MIMAX652Global&name=d893522dcb_7.0.zip){:.btn.btn--primary} | [Fastboot 1664M](/bigota?ver=8.2.8&type=helium_global_images&name=20180208.0000.00_7.0_global_10f2a31ff8.tgz){:.btn.btn--primary} |
 | **Redmi Note 4 MTK** | [Recovery 1361M](/bigota?ver=8.2.8&type=miui_HMNote4Global&name=5f2e3691f8_6.0.zip){:.btn.btn--primary} | [Fastboot 1663M](/bigota?ver=8.2.8&type=nikel_global_images&name=20180208.0000.00_6.0_global_f1a860ad2a.tgz){:.btn.btn--primary} |
