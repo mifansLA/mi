@@ -10,8 +10,8 @@ If your downloaded files is named `.tar.gz` or `.gzip`, You need to change file 
 {:.alert .alert-warning}
 Before you use it with MiFlasTool, extract first! You can use both **RAR** and **7Zip**. _Sebelum kamu pakai, ekstrak dulu dengan **RAR** atau **7zip**_.
 {:.alert .alert-info}
-{% include respo.html %}
 <div style="display:block;text-align:center;">
 <a id="download" class="btn btn--danger btn--large btn--block" style="break-word:word-break;break-word:break-all;!important;" href="">Waiting...</a>
 </div>
 {% include bigota %}
+{% include infeeds.html %}
