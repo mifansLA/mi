@@ -133,6 +133,7 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
+  - _portofolio
 keep_files:
   - .git
   - .svn
