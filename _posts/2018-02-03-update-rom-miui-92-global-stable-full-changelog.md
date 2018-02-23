@@ -2,9 +2,9 @@
 title: Download ROM MIUI 9.2.x Global Stable ★ Update 22 Februari 2018
 excerpt: MIUI 9.2.x yang sudah dirilis hingga Februari 2018. Berikut device yang sudah mendapatkan update dan download link-nya.
 header:
- image: https://i0.wp.com/attach.en.miui.com/forum/201711/03/095723nleldbd8e0s0d1fa.png?resize=800%2C320
+ image: /assets/image/miui-92-stable.jpg
  caption: MIUI 9 Lightning Fast
- teaser: https://i0.wp.com/attach.en.miui.com/forum/201711/03/095723nleldbd8e0s0d1fa.png?resize=350%2C250
+ teaser: https://i0.wp.com/mi.koacc.org/assets/image/miui-92-stable.jpg?resize=350%2C250
 category:
  - MIUI 9
 tags:
@@ -77,7 +77,7 @@ Setelah menanti lama versi Global Stable untuk MIUI 9.2 up pu  kini tersedia unt
 
 ## MIUI 9.2 Global Stable ROM are now rolling out!
 
-Kali ini ROM globlal stable untuk MIUI 9.2 yang mendukung lebih banyak device meskipun tidak semua mendapatkan update OS Android. Ini merupakan kelanjutan update [MIUI 9.0 dan MIUI 9.1 di rilis](https://mi.knoacc.org/update-rom-miui-9-global-stable-full-changelog), update untuk MIUI 9.2 Global Stabil ini juga akan dalam beberapa batch update.
+Kali ini ROM globlal stable untuk MIUI 9.2 yang mendukung lebih banyak device antara lain Redmi Note 5A/Redmi Y1 Lite, Redmi Note 5A Prime/Redmi Y1, Mi MIX 2, Redmi 5, Redmi 5 Plus, Redmi 4 Prime, Mi 3, Mi 4, Mi Note, Redmi 4X, Redmi Note 4 Qualcomm/Redmi Note 4X, Mi 6, Mi Max 32G, Mi Max 64G/128G, Mi Max 2, Redmi Note 3 Qualcomm, Redmi Note Prime, Redmi 5, Mi 5s Plus, Mi 2 / 2S, Redmi 5A, Redmi  3S, Redmi Note 5A / Redmi Y1 Lite, Redmi Note 5A Prime / Redmi Y1, Redmi Note 4 Qualcomm/ Redmi Note 4X, Mi 4i, Redmi 3, Mi MIX, Mi 5. Meskipun tidak semua mendapatkan update OS Android. Ini merupakan kelanjutan update [MIUI 9.0 dan MIUI 9.1 di rilis](https://mi.knoacc.org/update-rom-miui-9-global-stable-full-changelog), update untuk MIUI 9.2 Global Stabil ini juga akan dalam beberapa batch update.
 
 ### What is MIUI 9.2 Global Stable ROM?
 

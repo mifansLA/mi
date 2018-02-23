@@ -1,8 +1,8 @@
 ---
 title: Download MIUI 9 ★ ROM Global Beta 8.2.8 ★ All Device
 header:
- image: "https://3.bp.blogspot.com/-Rgl8kGSO01U/WaB1BEKCoMI/AAAAAAAAL28/eUTsqizF7cEaAHG0MektW6ctRQufVh68ACLcBGAs/s1600/miui-9.png"
- teaser: https://3.bp.blogspot.com/-Rgl8kGSO01U/WaB1BEKCoMI/AAAAAAAAL28/eUTsqizF7cEaAHG0MektW6ctRQufVh68ACLcBGAs/w360-h180-c/miui-9.png
+ image: /assets/image/miui-9-beta.jpg
+ teaser: https://i0.wp.com/mi.koacc.org/assets/image/miui-9-beta.jpg
  caption: "Download MIUI 9 - Global Beta 8.2.8"
 excerpt: "Download ROM recovery fastboot MIUI 9 Global Beta 8.2.8 tersedia untuk Mi MIX 2, Redmi Note 4 MTK, Redmi Note 4 Qualcomm/Redmi Note 4X, Mi 6, Mi Note 2, Mi 5, Mi 5s, Mi 5s Plus, Mi Max, Mi Max Prime, Mi Max 2, Mi 3, Mi 4, Redmi 3, Redmi 3S, Redmi Note 3 Qualcomm, Redmi Note 3 Special Edition, Redmi Note 2, Redmi 4/4X, Redmi 4A, Redmi Note 5A/Y1 Lite, Redmi Note 5A Prime/Y1"
 categories:
