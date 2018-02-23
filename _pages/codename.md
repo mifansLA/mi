@@ -17,7 +17,7 @@ Bagi yang sudah deket sama XiaoMi (hapenya) sudah tahu nama device yang dipakai 
 
 | Xiaomi Redmi 1 | N/A |
 | Xiaomi Redmi 1S | Armani |
-| Xiaomi Redmi [2/A/Prime](#redmi-2) | 
+| Xiaomi Redmi 2/A/Prime | [selengkapnya](#redmi-2) | 
 | Xiaomi Redmi 3/3 Pro/3 Prime | Ido |
 | Xiaomi Redmi 3S/3X/3S Prime | Land |
 | Xiaomi Redmi 4 | Prada |
