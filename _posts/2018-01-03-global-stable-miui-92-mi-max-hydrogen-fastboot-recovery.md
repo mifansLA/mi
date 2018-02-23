@@ -20,11 +20,10 @@ This is [MIUI 9.2 for Mi Max 32GB codenamed: **Hydrogen**](https://mi.knoacc.org
 
 | Device: | Mi MAX 32G |
 | Codename: | hydrogen |
-| Fastboot ROM: | [Download 1627M](/bigota?type=helium_global_images&ver=V9.2.1.0.NBCMIEK&size=1627M&name=20171219.0000.00_7.0_global_13c49bb1fb.tgz){:.btn.btn--primary rel="nofollow noopener"} |
-#| MD5: | `1967M73cd73bbdd81ad3bfeac869b4d01701d` |
-| Recovery ROM: | [Download 1418M](/bigota?type=miui_MIMAX652Global&ver=V9.2.1.0.NBCMIEK&size=1418M&name=9b0680b676_7.0.zip){:.btn.btn--primary rel="nofollow noopener"} |
-#| MD5: | `1222Me5964760679d354887a960e3269f9d25` |
+| Fastboot ROM: | [Download 1627M](/bigota?type=hydrogen_global_images&ver=V9.2.1.0.NBCMIEK&size=1627M&name=20171219.0000.00_7.0_global_13c49bb1fb.tgz){:.btn.btn--primary rel="nofollow noopener"} |
+| Recovery ROM: | [Download 1418M](/bigota?type=miui_MIMAXGlobal&ver=V9.2.1.0.NBCMIEK&size=1418M&name=9b0680b676_7.0.zip){:.btn.btn--primary rel="nofollow noopener"} |
 
+{% include inarticle.html %}
 You can find Fastboot and Recovery ROM update for **MIUI 9.2 Mi Max 64/128GB Helium)** here(https://mi.knoacc.org/global-stable-miui-92-mi-max-helium-fastboot-recovery){: rel="noopener"}
 
 {% include howtoupgrade.md %}
