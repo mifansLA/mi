@@ -1,8 +1,8 @@
 ---
 title: Download MIUI 9 ★ ROM Global Beta 8.2.8 ★ All Device
 header:
- image: https://mi.koacc.org/assets/image/miui-9-beta.png
- teaser: https://i0.wp.com/mi.koacc.org/assets/image/miui-9-beta.png?resize=350%2C250
+ image: https://mi.koacc.org/assets/image/miui-9-beta.jpg
+ teaser: https://i0.wp.com/mi.koacc.org/assets/image/miui-9-beta.jpg?resize=350%2C250
  caption: "Download MIUI 9 - Global Beta 8.2.8"
 excerpt: "Download ROM recovery fastboot MIUI 9 Global Beta 8.2.8 tersedia untuk Mi MIX 2, Redmi Note 4 MTK, Redmi Note 4 Qualcomm/Redmi Note 4X, Mi 6, Mi Note 2, Mi 5, Mi 5s, Mi 5s Plus, Mi Max, Mi Max Prime, Mi Max 2, Mi 3, Mi 4, Redmi 3, Redmi 3S, Redmi Note 3 Qualcomm, Redmi Note 3 Special Edition, Redmi Note 2, Redmi 4/4X, Redmi 4A, Redmi Note 5A/Y1 Lite, Redmi Note 5A Prime/Y1"
 categories:
@@ -39,7 +39,7 @@ Mi MIX 2, Redmi Note 4 MTK, Redmi Note 4 Qualcomm/Redmi Note 4X, Mi 6, Mi Note 2
 |**Fix** - App vault keeps force closing after adding calendar events there (02-06) |
 |**Fix** - Equalizer is not working properly (02-06) |
 
-> Lihat juga daftar ponsel [Xiaomi yang sudah mendapat MIUI 9 Global Stable](https://mi.knoacc.org/update-rom-miui-9-global-stable-full-changelog). Di postingan tersebut sudah terdapat update MIUI 9 Stabil Terbaru untuk beberapa ponsel yang sudah mendapatkan update MIUI dan beberapa tipe ponsel yang baru saja mendapat jatah MIUI 9 
+> Lihat juga daftar ponsel [Xiaomi yang sudah mendapat MIUI 9 Global Stable](https://mi.knoacc.org/update-rom-miui-92-global-stable-full-changelog). Di postingan tersebut sudah terdapat update MIUI 9 Stabil Terbaru untuk beberapa ponsel yang sudah mendapatkan update MIUI dan beberapa tipe ponsel yang baru saja mendapat jatah MIUI 9 
 
 ### MIUI 9 Global Beta ROM 8.2.8 Download Links
 
