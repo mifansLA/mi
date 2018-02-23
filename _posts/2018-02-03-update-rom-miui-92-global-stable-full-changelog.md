@@ -1,11 +1,10 @@
 ---
-title: Download ROM MIUI 9 Global Stable ★ Update 10 Des 2017
-excerpt: MIUI 9 yang sudah dirilis hingga Desember 2017. Berikut device yang sudah mendapatkan update dan download link-nya.
+title: Download ROM MIUI 9.2.x Global Stable ★ Update 22 Februari 2018
+excerpt: MIUI 9.2.x yang sudah dirilis hingga Februari 2018. Berikut device yang sudah mendapatkan update dan download link-nya.
 header:
  image: https://i0.wp.com/attach.en.miui.com/forum/201711/03/095723nleldbd8e0s0d1fa.png?resize=800%2C320
  caption: MIUI 9 Lightning Fast
  teaser: https://i0.wp.com/attach.en.miui.com/forum/201711/03/095723nleldbd8e0s0d1fa.png?resize=350%2C250
-last_updated_at: 2018-02-23
 category:
  - MIUI 9
 tags:
@@ -17,12 +16,13 @@ tags:
  - MIUI 9.2.3.0
  - MIUI 9.2.4.0
  - MIUI 9.2.5.0
+last_updated_at: 2018-02-23
 ---
 Setelah menanti lama versi Global Stable untuk MIUI 9.2 up pu  kini tersedia untuk lebih banyak type ponsel xiaomi. {{ page.excerpt }}. Apa saja yang berubah? Apa saja yang harus dilakukan untuk mendapat update dan bagaimana cara upgrade ke MIUI 9.2 Stabil?
 
 ## MIUI 9.2 Global Stable ROM are now rolling out!
 
-Kali ini ROM globlal stable untuk MIUI 9.2 yang mendukung lebih banyak device meskipun tidak semua mendapatkan update OS Android. Ini merupakan kelanjutan update [MIUI 9.0 dan MIUI 9.1 di rilis](https://mi.knoacc.org/update-rom-miui-9-global-stable-full-changelog), update untuk MIUI 9 Global Stabil ini juga akan dalam beberapa batch update. Untuk batch pertama, hanya ada 2 device saja yang beruntung mencicipi rom MIUI 9 Stabil. Kedua device tersebut adalah: 1. **Redmi Note 4 Quallcom** dan kembarannya, **Redmi Note 4X**, 2. **Mi Max 2** 
+Kali ini ROM globlal stable untuk MIUI 9.2 yang mendukung lebih banyak device meskipun tidak semua mendapatkan update OS Android. Ini merupakan kelanjutan update [MIUI 9.0 dan MIUI 9.1 di rilis](https://mi.knoacc.org/update-rom-miui-9-global-stable-full-changelog), update untuk MIUI 9.2 Global Stabil ini juga akan dalam beberapa batch update.
 
 ### What is MIUI 9.2 Global Stable ROM?
 
@@ -34,7 +34,9 @@ Bagi yang belum tahu, MIUI sendiri punya 3 versi ROM; Experimental, Developer, d
 
 **Stable version** Tidak mempunyai jadwal yang pasti. Bisa saja 1 bulan, 2 bulan atau 3 bulan sekali. Bahkan ada beberapa device yang baru mendapat update Stable **setahun sekali**. Namun hampir dipastikan bahwa ROM Stable sudah tidak memiliki bug. ROM ini lebih cocok untuk pengguna umum yang tidak ingin ambil pusing.
 
-### Download Links for MIUI 9.0 Global Stable
+### Download Links for MIUI 9.0 Global
+
+Berikut ini adalah tabel device yang mendapat update kali ini hingga 23 Februari 2018
 
 | Versi MIUI | Device | Links |
 |:------:|:------|:------:|
