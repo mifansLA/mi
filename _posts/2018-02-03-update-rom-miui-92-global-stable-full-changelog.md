@@ -2,9 +2,9 @@
 title: Download ROM MIUI 9.2.x Global Stable ★ Update 22 Februari 2018
 excerpt: MIUI 9.2.x yang sudah dirilis hingga Februari 2018. Berikut device yang sudah mendapatkan update dan download link-nya.
 header:
- image: https:/mi.koacc.org/assets/image/miui-92-stable.jpg
+ image: https:/mi.knoacc.org/assets/image/miui-92-stable.jpg
  caption: MIUI 9 Lightning Fast
- teaser: https://i0.wp.com/mi.koacc.org/assets/image/miui-92-stable.jpg?resize=350%2C250
+ teaser: https://i0.wp.com/mi.knoacc.org/assets/image/miui-92-stable.jpg?resize=350%2C250
 category:
  - MIUI 9
 tags:
