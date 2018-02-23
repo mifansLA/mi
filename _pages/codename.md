@@ -1,7 +1,7 @@
 ---
-title: Tabel Nama Kode (codename) Semua Xiao| Xiaomi Mi Ponsel Lengkap
+title: Tabel Nama Kode (codename) Semua Ponsel Xiaomi Lengkap
 permalink: /codename
-excerpt: Tabel Nama Kode (codename) Semua Xiao| Xiaomi Mi Ponsel Lengkap Update 2018
+excerpt: Tabel Nama Kode (codename) Semua Ponsel Xiaomi Lengkap Update 2018
 comments: true
 last_modified_at: 2018-02-14
 ---
