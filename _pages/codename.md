@@ -5,7 +5,7 @@ excerpt: Tabel Nama Kode (codename) Semua Xiao| Xiaomi Mi Ponsel Lengkap Update 
 comments: true
 last_modified_at: 2018-02-14
 ---
-Bagi yang sudah deket sama Xiao| Xiaomi Mi (hapenya) sudah tahu nama device yang dipakai itu apa, namanya juga udah deket kan pasti saling tahu lah. Untuk yang belum tahu apa nama device yang lebih dikenal dengan sebutan codename, jadi nama kode device tersebut, anggap aja sebagai istilah atahu nama lainya, jika kamu sudah ke tahap agak dalem oprek hape xiao| Xiaomi Mi nya, kamu pasti sering nemu kata like "cancro, dior, ferarri, leo dsb" apa ya itu, shio ata zodiak ya?
+Bagi yang sudah deket sama XiaoMi (hapenya) sudah tahu nama device yang dipakai itu apa, namanya juga udah deket kan pasti saling tahu lah. Untuk yang belum tahu apa nama device yang lebih dikenal dengan sebutan codename, jadi nama kode device tersebut, anggap aja sebagai istilah atahu nama lainya, jika kamu sudah ke tahap agak dalem oprek hape Xiaomi-nya, kamu pasti sering nemu kata like "cancro, dior, ferarri, leo dsb" apa ya itu, shio ata zodiak ya?
 
 > Untuk fungsinya bisa lihat penjelasannya pada artikel yang lebih tua [di sini](https://www.knoacc.org/2017/07/kenali-pahami-fungsi-daftar-codename-xiaomi.html)
 
@@ -13,35 +13,36 @@ Bagi yang sudah deket sama Xiao| Xiaomi Mi (hapenya) sudah tahu nama device yang
 
 ### Xiaomi Tipe Redmi
 
-| Xiaomi Redmi | 1 | N/A |
-| Xiaomi Redmi | 1S | Armani |
-| Xiaomi Redmi | [2/A/Prime](#redmi-2) | 
-| Xiaomi Redmi | 3/3 Pro/3 Prime | Ido |
-| Xiaomi Redmi | 3S/3X/3S Prime | Land |
-| Xiaomi Redmi | 4 | Prada |
-| Xiaomi Redmi | 4A | Rolex |
-| Xiaomi Redmi | 4 Prime | Markw |
-| Xiaomi Redmi | 4X | Santoni |
-| Xiaomi Redmi | 5 | Rosy |
-| Xiaomi Redmi | 5A | Riva |
-| Xiaomi Redmi | 5 Plus | Vince |
-| Xiaomi Redmi | Note 1S/1CT/1CU | Gucci |
-| Xiaomi Redmi | Note 3G | lcsh92_wet_jb9 |
-| Xiaomi Redmi | Note 4G | Dior |
-| Xiaomi Redmi | Note 2 | Hermes |
-| Xiaomi Redmi | Note 3 MTK | Hennessy |
-| Xiaomi Redmi | Note 3 Pro | Kenzo |
-| Xiaomi Redmi | Note 3 SE | Kate |
-| Xiaomi Redmi | Note 4 | Nikel |
-| Xiaomi Redmi | Note 4X MTK | Nikel |
-| Xiaomi Redmi | Note 4X SD | Mido |
-| Xiaomi Redmi | Note 5A | Ugg |
-| Xiaomi Redmi | Note 5A Lite | Ugglite |
-| Xiaomi Redmi | Pro | Omega |
-| Xiaomi Redmi | Y1 | Ugg |
-| Xiaomi Redmi | Y1 Lite | Ugglite |
+| Xiaomi Redmi 1 | N/A |
+| Xiaomi Redmi 1S | Armani |
+| Xiaomi Redmi [2/A/Prime](#redmi-2) | 
+| Xiaomi Redmi 3/3 Pro/3 Prime | Ido |
+| Xiaomi Redmi 3S/3X/3S Prime | Land |
+| Xiaomi Redmi 4 | Prada |
+| Xiaomi Redmi 4A | Rolex |
+| Xiaomi Redmi 4 Prime | Markw |
+| Xiaomi Redmi 4X | Santoni |
+| Xiaomi Redmi 5 | Rosy |
+| Xiaomi Redmi 5A | Riva |
+| Xiaomi Redmi 5 Plus | Vince |
+| Xiaomi Redmi Note 1S/1CT/1CU | Gucci |
+| Xiaomi Redmi Note 3G | lcsh92_wet_jb9 |
+| Xiaomi Redmi Note 4G | Dior |
+| Xiaomi Redmi Note 2 | Hermes |
+| Xiaomi Redmi Note 3 MTK | Hennessy |
+| Xiaomi Redmi Note 3 Pro | Kenzo |
+| Xiaomi Redmi Note 3 SE | Kate |
+| Xiaomi Redmi Note 4 | Nikel |
+| Xiaomi Redmi Note 4X MTK | Nikel |
+| Xiaomi Redmi Note 4X SD | Mido |
+| Xiaomi Redmi Note 5A | Ugg |
+| Xiaomi Redmi Note 5A Lite | Ugglite |
+| Xiaomi Redmi Pro | Omega |
+| Xiaomi Redmi Y1 | Ugg |
+| Xiaomi Redmi Y1 Lite | Ugglite |
 
 ### Xiaomi Tipe Mi
+
 | Xiaomi Mi 1/S | mione_plus |
 | Xiaomi Mi 2/C/S/SE | aries |
 | Xiaomi Mi 2A | Taurus |
@@ -76,6 +77,6 @@ Bagi yang sudah deket sama Xiao| Xiaomi Mi (hapenya) sudah tahu nama device yang
 Untuk Xiaomi Redmi 2, ini hape banyak sekali tipe varianya, namanya saja tidak tau saya apa, kalau dilihat di kernel nya Xiaomi Redmi 2 ini bernama "thmoas-kk-oss" namun lebih dikenal dengan sebutan "HM20148*" (2 angka dibelakang menandakan beda jaringan duplex yang dipakai)
 
 | Xiaomi Redmi 2 info kode device |
-| Xiaomi Redmi | 2 Biasa & Prime | HM2014811/17/18/21 (wt88047) |
-| Xiaomi Redmi | 2 A/Enhanced | HM2014812/13/16 (wt86047) |
-| Xiaomi Redmi | 2 Pro | HM2014819 |
+| Xiaomi Redmi 2 Biasa & Prime | HM2014811/17/18/21 (wt88047) |
+| Xiaomi Redmi 2 A/Enhanced | HM2014812/13/16 (wt86047) |
+| Xiaomi Redmi 2 Pro | HM2014819 |
