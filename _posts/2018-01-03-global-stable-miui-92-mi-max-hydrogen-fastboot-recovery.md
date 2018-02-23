@@ -24,7 +24,7 @@ This is [MIUI 9.2 for Mi Max 32GB codenamed: **Hydrogen**](https://mi.knoacc.org
 | Recovery ROM: | [Download 1418M](/bigota?type=miui_MIMAXGlobal&ver=V9.2.1.0.NBCMIEK&size=1418M&name=9b0680b676_7.0.zip){:.btn.btn--primary rel="nofollow noopener"} |
 
 {% include inarticle.html %}
-You can find Fastboot and Recovery ROM update for **MIUI 9.2 Mi Max 64/128GB Helium)** here(https://mi.knoacc.org/global-stable-miui-92-mi-max-helium-fastboot-recovery){: rel="noopener"}
+You can find Fastboot and Recovery ROM update for **MIUI 9.2 Mi Max 64/128GB Helium)** [here](https://mi.knoacc.org/global-stable-miui-92-mi-max-helium-fastboot-recovery){: rel="noopener"}
 
 {% include howtoupgrade.md %}
 
