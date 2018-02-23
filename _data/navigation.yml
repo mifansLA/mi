@@ -9,5 +9,7 @@ main:
     url: https://miflashtool.knoacc.org/
   - title: "MiUnlock Tool"
     url: /download-miflash-unlock-tool-2380310
-  - title: "Test Point"
+  - title: "Xiaomi Codename"
+    url: /codename
+  - title: "Xiaomi Test Point"
     url: /testpoint
