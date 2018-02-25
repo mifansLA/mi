@@ -102,7 +102,7 @@ Berikut ini adalah tabel device yang mendapat update kali ini hingga 23 Februari
 | V9.2.1.0.NDFMIEK | Redmi Note 5A Prime/Redmi Y1 | [Download](/global-stable-miui-92-redmi-note-5a-prime-ugg-fastboot-recovery){:.btn.btn--primary} |
 | _New_ V9.2.5.0.NDFMIEK | Redmi Note 5A/Redmi Y1 Lite | [Download](/global-stable-miui-925-redmi-note-5a-ugglite-fastboot-recovery){:.btn.btn--primary} |
 | _New_ V9.2.3.0.NDKMIEK | Redmi Note 5A Prime/Redmi Y1 | [Download](/global-stable-miui-923-redmi-note-5a-prime-ugg-fastboot-recovery){:.btn.btn--primary} |
-| V9.2.3.0.NDEMIEK | Mi MIX 2 | [Download](/global-stable-miui-923-redmi-note-5-chiron-fastboot-recovery){:.btn.btn--primary} |
+| V9.2.3.0.NDEMIEK | Mi MIX 2 | [Download](/global-stable-miui-923-merupakan-mix-2-chiron-fastboot-recovery){:.btn.btn--primary} |
 | V9.2.2.0.NDAMIEK | Redmi 5 | [Download](/global-stable-miui-922-redmi-5-rosy-recovery-only){:.btn.btn--primary} |
 | V9.2.3.0.NEGMIEK | Redmi 5 Plus | [Download](/global-stable-miui-923-redmi-5-plus-vince-recovery-only){:.btn.btn--primary} |
 | _New_ V9.2.6.0.NEGMIEK | Redmi 5 Plus | [Download](/global-stable-miui-926-redmi-5-plus-vince-fastboot-recovery){:.btn.btn--primary} |
@@ -124,7 +124,7 @@ Berikut ini adalah tabel device yang mendapat update kali ini hingga 23 Februari
 | V9.2.2.0.MALMIEK | Redmi 3S | [Download](#/global-stable-miui-922-redmi-3s-land-fastboot-recovery){:.btn.btn--primary} |
 | V9.2.2.0.LXIMIEK | Mi 4i | [Download](#/global-stable-miui-922-mi-4i-fastboot-recovery){:.btn.btn--primary} |
 | V9.2.1.0.LAIMIEK | Redmi 3 | [Download](#/global-stable-miui-92-redmi-3-fastboot-recovery){:.btn.btn--primary} |
-| V9.2.1.0.NAHMIEK | Mi MIX | [Download](/global-stable-miui-92-mi-mix-fastboot-recovery){:.btn.btn--primary} |
+| V9.2.1.0.NAHMIEK | Mi MIX | [Download](/global-stable-miui-92-mi-mix-lithium-fastboot-recovery){:.btn.btn--primary} |
 | V9.2.1.0.NAAMIEK | Mi 5 | [Download](#/global-stable-miui-92-mi-5-fastboot-recovery){:.btn.btn--primary} |
 
 > Info: ditandai dengan _**New**_ adalah versi update terbaru
