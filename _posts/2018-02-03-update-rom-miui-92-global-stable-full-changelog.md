@@ -29,7 +29,7 @@ Setelah menanti lama versi Global Stable untuk MIUI 9.2 up pu  kini tersedia unt
 | _New_ Simplified the UI (10-31) |
 | _Optimization_ "Add to favorites" icon adjustments (10-24) |
 
-> I don't care, just take me to the download links! Okay, Click here](#download-links-for-miui-90-global){:.btn.btn--primary}
+> I don't care, just take me to the download links! Okay, [click here](#download-links-for-miui-90-global){:.btn.btn--primary}
 
 {% include inarticle.html %}
 
@@ -97,8 +97,8 @@ Berikut ini adalah tabel device yang mendapat update kali ini hingga 23 Februari
 
 | Versi MIUI | Device | Links |
 |:------:|:------|:------:|
-| V9.2.1.0.NDKMIEK | Redmi Note 5A/Redmi Y1 Lite | [Download](#/global-stable-miui-92-redmi-note-5a-ugg-fastboot-recovery){:.btn.btn--primary} |
-| V9.2.1.0.NDFMIEK | Redmi Note 5A Prime/Redmi Y1 | [Download](#/global-stable-miui-92-redmi-note-5a-prime-ugglite-fastboot-recovery){:.btn.btn--primary} |
+| V9.2.1.0.NDKMIEK | Redmi Note 5A/Redmi Y1 Lite | [Download](/global-stable-miui-92-redmi-note-5a-ugglite-fastboot-recovery){:.btn.btn--primary} |
+| V9.2.1.0.NDFMIEK | Redmi Note 5A Prime/Redmi Y1 | [Download](/global-stable-miui-92-redmi-note-5a-prime-ugg-fastboot-recovery){:.btn.btn--primary} |
 | **V9.2.5.0.NDFMIEK** | Redmi Note 5A/Redmi Y1 Lite | [Download](#/global-stable-miui-925-redmi-note-5a-ugg-fastboot-recovery){:.btn.btn--primary} |
 | **V9.2.3.0.NDKMIEK** | Redmi Note 5A Prime/Redmi Y1 | [Download](#/global-stable-miui-923-redmi-note-5a-ugglite-fastboot-recovery){:.btn.btn--primary} |
 | V9.2.3.0.NDEMIEK | Mi MIX 2 | [Download](#/global-stable-miui-923-redmi-note-5-chiron-fastboot-recovery){:.btn.btn--primary} |
