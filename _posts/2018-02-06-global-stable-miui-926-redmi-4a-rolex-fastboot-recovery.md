@@ -23,6 +23,7 @@ This ROM for Redmi 4A. Codename: `rolex`. V9.2.6.0.NCCMIEK {{ page.excerpt }}
 {% include respo.html %}
 
 V9.2.3.0.NAMMIEK for [Redmi 4 Prime _markw_](/global-stable-miui-923-redmi-4-prime-markw-fastboot-recovery){:.btn.btn--primary}
+
 V9.2.3.0.NAMMIEK for [Redmi 4X _santoni_](/global-stable-miui-923-redmi-4x-santoni-fastboot-recovery){:.btn.btn--primary}
 
 And here [List MIUI 9.2 Global Stable](https://mi.knoacc.org/update-rom-miui-92-global-stable-full-changelog){:.btn.btn--primary}
