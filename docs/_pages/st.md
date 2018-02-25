@@ -26,8 +26,7 @@
 
 | Redmi 4 Prime |
 |:------:|
-| [Fastboot 1622M](bigota?ver=V9.2.3.0.MBEMIEK&type=markw_global_images&size=1622M&name=2018
-0103.0000.00_6.0_global_9654720fb4.tgz){:.btn.btn--primary} |
+| [Fastboot 1622M](bigota?ver=V9.2.3.0.MBEMIEK&type=markw_global_images&size=1622M&name=20180103.0000.00_6.0_global_9654720fb4.tgz){:.btn.btn--primary} |
 | [Recovery 1412M](bigota?ver=V9.2.3.0.MBEMIEK&type=miui_HM4ProGlobal&size=1412M&name=e4b96ba15c_6.0.zip){:.btn.btn--primary} |
 
 | MI 3/Mi 4 |
@@ -44,8 +43,7 @@
 
 | Redmi 4X |
 |:------:|
-| [Fastboot 1773M](bigota?ver=V9.2.3.0.NAMMIEK&type=santoni_global_images&size=1773M&name=2018
-0115.0000.00_7.1_global_421b199a99.tgz){:.btn.btn--primary} |
+| [Fastboot 1773M](bigota?ver=V9.2.3.0.NAMMIEK&type=santoni_global_images&size=1773M&name=20180115.0000.00_7.1_global_421b199a99.tgz){:.btn.btn--primary} |
 | [Recovery 1235M](bigota?ver=V9.2.3.0.NAMMIEK&type=miui_HM4XGlobal&size=1235M&name=9ae332cc27_7.1.zip){:.btn.btn--primary} |
 
 | Redmi Note 4 Qualcomm&type=Redmi Note 4X |
@@ -108,7 +106,7 @@
 0117.0000.00_7.0_global_42b88c3103.tgz){:.btn.btn--primary} |
 | [Recovery 1272M](bigota?ver=V9.2.1.0.NBGMIEK&type=miui_MI5SPlusGlobal&size=1272M&name=8f61b42b89_7.0.zip){:.btn.btn--primary} |
 
-| Mi 2 &type= 2S |
+| Mi 2 / 2S |
 |:------:|
 | [Fastboot 828M](bigota?ver=V9.2.2.0.LXAMIEK&type=aries_global_images&size=828M&name=2018
 0117.0000.00_5.0_global_2b5d73471b.tgz){:.btn.btn--primary} |
@@ -120,7 +118,7 @@
 0124.0000.00_6.0_global_7a14bd1470.tgz){:.btn.btn--primary} |
 | [Recovery 1404M](bigota?ver=V9.2.2.0.MALMIEK&type=miui_HM3SGlobal&size=1404M&name=e6ac0c428e_6.0.zip){:.btn.btn--primary} |
 
-| Redmi Note 5A &type= Redmi Y1 Lite |
+| Redmi Note 5A /Redmi Y1 Lite |
 |:------:|
 | [Fastboot 1723M](bigota?ver=V9.2.5.0.NDFMIEK&type=ugglite_global_images&size=1723M&name=2018
 0129.0000.00_7.1_global_15a11d8116.tgz){:.btn.btn--primary} |
@@ -132,7 +130,7 @@
 0129.0000.00_7.1_global_9d52ea8ef8.tgz){:.btn.btn--primary} |
 | [Recovery 1192M](bigota?ver=V9.2.3.0.NDKMIEK&type=miui_HMNote5AGlobal&size=1192M&name=b91914df63_7.1.zip){:.btn.btn--primary} |
 
-| Redmi Note 4 Qualcomm&type=Redmi Note 4X |
+| Redmi Note 4 Qualcomm/Redmi Note 4X |
 |:------:|
 | [Fastboot 1788M](bigota?ver=V9.2.2.0.NCFMIEK&type=mido_global_images&size=1788M&name=2018
 0202.0000.00_7.0_global_43a7819ad0.tgz){:.btn.btn--primary} |
@@ -176,6 +174,5 @@
 
 | Redmi 4A |
 |:------:|
-| [Fastboot 1752M](bigota?ver=V9.2.6.0.NCCMIEK&type=rolex_global_images&size=1752M&name=2018
-0206.0000.00_7.1_global_0847316da4.tgz){:.btn.btn--primary} |
+| [Fastboot 1752M](bigota?ver=V9.2.6.0.NCCMIEK&type=rolex_global_images&size=1752M&name=20180206.0000.00_7.1_global_0847316da4.tgz){:.btn.btn--primary} |
 | [Recovery 1239M](bigota?ver=V9.2.6.0.NCCMIEK&type=miui_HM4AGlobal&size=1239M&name=3552ea4023_7.1.zip){:.btn.btn--primary} |

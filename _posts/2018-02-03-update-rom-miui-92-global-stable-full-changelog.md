@@ -106,25 +106,28 @@ Berikut ini adalah tabel device yang mendapat update kali ini hingga 23 Februari
 | V9.2.2.0.NDAMIEK | Redmi 5 | [Download](/global-stable-miui-922-redmi-5-rosy-recovery-only){:.btn.btn--primary} |
 | V9.2.3.0.NEGMIEK | Redmi 5 Plus | [Download](/global-stable-miui-923-redmi-5-plus-vince-recovery-only){:.btn.btn--primary} |
 | _New_ V9.2.6.0.NEGMIEK | Redmi 5 Plus | [Download](/global-stable-miui-926-redmi-5-plus-vince-fastboot-recovery){:.btn.btn--primary} |
-| V9.2.3.0.MBEMIEK | Redmi 4 Prime | [Download](#/global-stable-miui-923-redmi-4-markw-fastboot-recovery){:.btn.btn--primary} |
-| V9.2.2.0.MXDMIEK | Mi 3/Mi 4 | [Download](#/global-stable-miui-922-mi-3-4-cancro-fastboot-recovery){:.btn.btn--primary} |
-| V9.2.3.0.MXEMIEK | Mi Note | [Download](#/global-stable-miui-923-mi-note-virgo-fastboot-recovery){:.btn.btn--primary} |
-| V9.2.3.0.NAMMIEK | Redmi 4X | [Download](#/global-stable-miui-923-redmi-4x-santoni-fastboot-recovery){:.btn.btn--primary} |
+| V9.2.3.0.MBEMIEK | Redmi 4 Prime | [Download](/global-stable-miui-923-redmi-4-prime-markw-fastboot-recovery){:.btn.btn--primary} |
+| V9.2.2.0.MXDMIEK | Mi 3/Mi 4 | [Download](/global-stable-miui-922-mi-3-4-cancro-fastboot-recovery){:.btn.btn--primary} |
+| V9.2.3.0.MXEMIEK | Mi Note | [Download](/global-stable-miui-923-mi-note-virgo-fastboot-recovery){:.btn.btn--primary} |
+| V9.2.3.0.NAMMIEK | Redmi 4X | [Download](/global-stable-miui-923-redmi-4x-santoni-fastboot-recovery){:.btn.btn--primary} |
 | V9.2.1.0.NCFMIEK | Redmi Note 4 Qualcomm/Redmi Note 4X | [Download](/global-stable-miui-92-redmi-note-4x-mido-fastboot-recovery){:.btn.btn--primary} |
 | _New_ V9.2.2.0.NCFMIEK | Redmi Note 4 Qualcomm/Redmi Note 4X | [Download](/global-stable-miui-922-redmi-note-4x-mido-fastboot-recovery){:.btn.btn--primary} |
 | V9.2.1.0.NBCMIEK | Mi Max 32G | [Download](/global-stable-miui-92-mi-max-hydrogen-fastboot-recovery){:.btn.btn--primary} |
 | V9.2.1.0.NBDMIEK | Mi Max 64G/128G | [Download](/global-stable-miui-92-mi-max-helium-fastboot-recovery){:.btn.btn--primary} |
-| V9.2.1.0.NDDMIEK | Mi Max 2 | [Download](#/global-stable-miui-92-mi-max-2-oxygen-fastboot-recovery){:.btn.btn--primary} |
-| V9.2.4.0.MHOMIEK | Redmi Note 3 Qualcomm | [Download](#/global-stable-miui-924-redmi-note-kenzo-3-fastboot-recovery){:.btn.btn--primary} |
-| V9.2.3.0.KHKMIEK | Redmi Note Prime | [Download](#/global-stable-miui-923-redmi-note-prime-gucci-fastboot-recovery){:.btn.btn--primary} |
-| V9.2.2.0.NCKMIEK | Redmi 5A | [Download](#/global-stable-miui-922-redmi-5a-riva-fastboot-recovery){:.btn.btn--primary} |
-| V9.2.1.0.NBGMIEK | Mi 5s Plus | [Download](#/global-stable-miui-92-mi-5s-plus-natrium-fastboot-recovery){:.btn.btn--primary} |
-| V9.2.2.0.LXAMIEK | Mi 2/2S | [Download](#/global-stable-miui-922-mi-2s-aries-fastboot-recovery){:.btn.btn--primary} |
-| V9.2.2.0.MALMIEK | Redmi 5A | [Download](#/global-stable-miui-922-redmi-5a-riva-fastboot-recovery){:.btn.btn--primary} |
-| V9.2.2.0.MALMIEK | Redmi 3S | [Download](#/global-stable-miui-922-redmi-3s-land-fastboot-recovery){:.btn.btn--primary} |
-| V9.2.2.0.LXIMIEK | Mi 4i | [Download](#/global-stable-miui-922-mi-4i-fastboot-recovery){:.btn.btn--primary} |
-| V9.2.1.0.LAIMIEK | Redmi 3 | [Download](#/global-stable-miui-92-redmi-3-fastboot-recovery){:.btn.btn--primary} |
+| V9.2.1.0.NDDMIEK | Mi Max 2 | [Download](/global-stable-miui-92-mi-max-2-oxygen-fastboot-recovery){:.btn.btn--primary} |
+| V9.2.4.0.MHOMIEK | Redmi Note 3 Qualcomm | [Download](/global-stable-miui-924-redmi-note-kenzo-3-fastboot-recovery){:.btn.btn--primary} |
+| V9.2.3.0.KHKMIEK | Redmi Note Prime | [Download](/global-stable-miui-923-redmi-note-prime-gucci-fastboot-recovery){:.btn.btn--primary} |
+| V9.2.2.0.NCKMIEK | Redmi 5A | [Download](/global-stable-miui-922-redmi-5a-riva-fastboot-recovery){:.btn.btn--primary} |
+| V9.2.1.0.NBGMIEK | Mi 5s Plus | [Download](/global-stable-miui-92-mi-5s-plus-natrium-fastboot-recovery){:.btn.btn--primary} |
+| V9.2.2.0.LXAMIEK | Mi 2/2S | [Download](/global-stable-miui-922-mi-2s-aries-fastboot-recovery){:.btn.btn--primary} |
+| V9.2.2.0.MALMIEK | Redmi 5A | [Download](/global-stable-miui-922-redmi-5a-riva-fastboot-recovery){:.btn.btn--primary} |
+| V9.2.2.0.MALMIEK | Redmi 3S | [Download](/global-stable-miui-922-redmi-3s-land-fastboot-recovery){:.btn.btn--primary} |
+| V9.2.2.0.LXIMIEK | Mi 4i | [Download](/global-stable-miui-922-mi-4i-ferrari-fastboot-recovery){:.btn.btn--primary} |
+| V9.2.1.0.LAIMIEK | Redmi 3 | [Download](/global-stable-miui-92-redmi-3-ido-fastboot-recovery){:.btn.btn--primary} |
 | V9.2.1.0.NAHMIEK | Mi MIX | [Download](/global-stable-miui-92-mi-mix-lithium-fastboot-recovery){:.btn.btn--primary} |
-| V9.2.1.0.NAAMIEK | Mi 5 | [Download](#/global-stable-miui-92-mi-5-fastboot-recovery){:.btn.btn--primary} |
+| V9.2.1.0.NAAMIEK | Mi 5 | [Download](/global-stable-miui-92-mi-5-gemini-fastboot-recovery){:.btn.btn--primary} |
+| V9.2.4.0.NEIMIEK | Redmi Note 3 Special Edition | [Download](/global-stable-miui-924-note-3-se-kate-fastboot-recovery){:.btn.btn--primary} |
+| V9.2.4.0.NEIMIEK | Redmi Note 5 Pro | [Download](/global-stable-miui-924-redmi-5-fastboot-recovery){:.btn.btn--primary} |
+| V9.2.6.0.NCCMIEK | Redmi 4A | [Download](/global-stable-miui-926-redmi-4a-rolex-fastboot-recovery){:.btn.btn--primary} |
 
 > Info: ditandai dengan _**New**_ adalah versi update terbaru

@@ -23,6 +23,6 @@ This ROM for Redmi Note 4 Qualcomm/Redmi Note 4X. Codename: `mido`. V9.2.3.0.NDK
 
 {% include respo.html %}
 
-V9.2.1.0.NCFMIEK for [Redmi Note 4 Qualcomm/Redmi Note 4X _mido_](/global-stable-miui-92-redmi-note-4x-mido-fastboot-recovery){.btn.btn--primary}
+V9.2.1.0.NCFMIEK for [Redmi Note 4 Qualcomm/Redmi Note 4X _mido_](/global-stable-miui-92-redmi-note-4x-mido-fastboot-recovery){:.btn.btn--primary}
 
-And here [List MIUI 9.2 Global Stable](https://mi.knoacc.org/update-rom-miui-92-global-stable-full-changelog){.btn.btn--primary}
+And here [List MIUI 9.2 Global Stable](https://mi.knoacc.org/update-rom-miui-92-global-stable-full-changelog){:.btn.btn--primary}
