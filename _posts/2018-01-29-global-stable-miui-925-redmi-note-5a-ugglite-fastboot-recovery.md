@@ -2,7 +2,7 @@
 title: Xiaomi Redmi Note 5A/Redmi Y1 Lite ★ Global Stable V9.2.3.0 ★ ROM MIUI 9.2
 excerpt: "Download update ROM Global Stable MIUI V9.2.3.0 RRedmi Note 5A/Redmi Y1 Lite (ugglite). Recovery ROM (updater/.zip) Fastboot ROM (firmware/.tgz)"
 header:
- image: /assets/image/Redmi-Note-5A.jpg
+ overlay_image: /assets/image/Redmi-Note-5A.jpg
  teaser: https://i0.wp.com/mi.knoacc.org/assets/image/Redmi-Note-5A.jpg?resize=420,210
 category:
  - MIUI 9.2

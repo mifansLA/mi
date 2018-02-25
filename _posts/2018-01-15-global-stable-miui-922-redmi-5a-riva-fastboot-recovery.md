@@ -2,7 +2,7 @@
 title: Xiaomi Redmi 5A ★ Global Stable V9.2.2.0 ★ ROM MIUI 9.2
 excerpt: "Download update ROM Global Stable MIUI V9.2.2.0.NCKMIEK Redmi 5A (riva). Recovery ROM (updater/.zip) Fastboot ROM (firmware/.tgz)"
 header:
- image: /assets/image/redmi-5a.jpg
+ overlY_image: /assets/image/redmi-5a.jpg
  teaser: https://i0.wp.com/mi.knoacc.org/assets/image/redmi-5a?resize=420,210
 category:
  - MIUI 9.2
