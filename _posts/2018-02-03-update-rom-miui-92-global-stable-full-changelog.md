@@ -16,7 +16,7 @@ tags:
  - MIUI 9.2.3.0
  - MIUI 9.2.4.0
  - MIUI 9.2.5.0
-last_updated_at: 2018-02-23
+last_modified_at: 2018-02-25
 ---
 Setelah menanti lama versi Global Stable untuk MIUI 9.2 up pu  kini tersedia untuk lebih banyak type ponsel xiaomi. {{ page.excerpt }}. Apa saja yang berubah? Apa saja yang harus dilakukan untuk mendapat update dan bagaimana cara upgrade ke MIUI 9.2 Stabil?
 
@@ -102,8 +102,9 @@ Berikut ini adalah tabel device yang mendapat update kali ini hingga 23 Februari
 | **V9.2.5.0.NDFMIEK** | Redmi Note 5A/Redmi Y1 Lite | [Download](/global-stable-miui-925-redmi-note-5a-ugglite-fastboot-recovery){:.btn.btn--primary} |
 | **V9.2.3.0.NDKMIEK** | Redmi Note 5A Prime/Redmi Y1 | [Download](/global-stable-miui-923-redmi-note-5a-prime-ugg-fastboot-recovery){:.btn.btn--primary} |
 | V9.2.3.0.NDEMIEK | Mi MIX 2 | [Download](/global-stable-miui-923-redmi-note-5-chiron-fastboot-recovery){:.btn.btn--primary} |
-| V9.2.2.0.NDAMIEK | Redmi 5 | [Download](#/global-stable-miui-922-redmi-5-rosy-fastboot-recovery){:.btn.btn--primary} |
-| V9.2.3.0.NEGMIEK | Redmi 5 Plus | [Download](#/global-stable-miui-926-redmi-5-plus-vince-fastboot-recovery){:.btn.btn--primary} |
+| V9.2.2.0.NDAMIEK | Redmi 5 | [Download](/global-stable-miui-922-redmi-5-rosy-recovery-only){:.btn.btn--primary} |
+| V9.2.3.0.NEGMIEK | Redmi 5 Plus | [Download](/global-stable-miui-923-redmi-5-plus-vince-recovery-only){:.btn.btn--primary} |
+| V9.2.3.0.NEGMIEK | Redmi 5 Plus | [Download](/global-stable-miui-926-redmi-5-plus-vince-fastboot-recovery){:.btn.btn--primary} |
 | V9.2.3.0.MBEMIEK | Redmi 4 Prime | [Download](#/global-stable-miui-923-redmi-4-markw-fastboot-recovery){:.btn.btn--primary} |
 | V9.2.2.0.MXDMIEK | Mi 3/Mi 4 | [Download](#/global-stable-miui-922-mi-3-4-cancro-fastboot-recovery){:.btn.btn--primary} |
 | V9.2.3.0.MXEMIEK | Mi Note | [Download](#/global-stable-miui-923-mi-note-virgo-fastboot-recovery){:.btn.btn--primary} |
