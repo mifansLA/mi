@@ -46,22 +46,19 @@
 | [Fastboot 1773M](bigota?ver=V9.2.3.0.NAMMIEK&type=santoni_global_images&size=1773M&name=20180115.0000.00_7.1_global_421b199a99.tgz){:.btn.btn--primary} |
 | [Recovery 1235M](bigota?ver=V9.2.3.0.NAMMIEK&type=miui_HM4XGlobal&size=1235M&name=9ae332cc27_7.1.zip){:.btn.btn--primary} |
 
-| Redmi Note 4 Qualcomm&type=Redmi Note 4X |
+| Redmi Note 4 Qualcomm/Redmi Note 4X |
 |:------:|
-| [Fastboot 1788M](bigota?ver=V9.2.1.0.NCFMIEK&type=mido_global_images&size=1788M&name=2018
-0113.0000.00_7.0_global_88ecfa543f.tgz){:.btn.btn--primary} |
+| [Fastboot 1788M](bigota?ver=V9.2.1.0.NCFMIEK&type=mido_global_images&size=1788M&name=20180113.0000.00_7.0_global_88ecfa543f.tgz){:.btn.btn--primary} |
 | [Recovery 1261M](bigota?ver=V9.2.1.0.NCFMIEK&type=miui_HMNote4XGlobal&size=1261M&name=095a79e80a_7.0.zip){:.btn.btn--primary} |
 
 | Mi Max 32G |
 |:------:|
-| [Fastboot 1627M](bigota?ver=V9.2.1.0.NBCMIEK&type=hydrogen_global_images&size=1627M&name=2017
-1219.0000.00_7.0_global_13c49bb1fb.tgz){:.btn.btn--primary} |
+| [Fastboot 1627M](bigota?ver=V9.2.1.0.NBCMIEK&type=hydrogen_global_images&size=1627M&name=20171219.0000.00_7.0_global_13c49bb1fb.tgz){:.btn.btn--primary} |
 | [Recovery 1418M](bigota?ver=V9.2.1.0.NBCMIEK&type=miui_MIMAXGlobal&size=1418M&name=9b0680b676_7.0.zip){:.btn.btn--primary} |
 
-| Mi Max 64G&type=128G |
+| Mi Max 64G/128G |
 |:------:|
-| [Fastboot 1627M](bigota?ver=V9.2.1.0.NBDMIEK&type=helium_global_images&size=1627M&name=2017
-1219.0000.00_7.0_global_18678acae5.tgz){:.btn.btn--primary} |
+| [Fastboot 1627M](bigota?ver=V9.2.1.0.NBDMIEK&type=helium_global_images&size=1627M&name=20171219.0000.00_7.0_global_18678acae5.tgz){:.btn.btn--primary} |
 | [Recovery 1418M](bigota?ver=V9.2.1.0.NBDMIEK&type=miui_MIMAX652Global&size=1418M&name=89f4a2cce2_7.0.zip){:.btn.btn--primary} |
 
 | Mi Max 2 |
@@ -96,8 +93,7 @@
 
 | Redmi 5A |
 |:------:|
-| [Fastboot 1742M](bigota?ver=V9.2.2.0.NCKMIEK&type=riva_global_images&size=1742M&name=2018
-0115.0000.00_7.1_global_f0b39c81a9.tgz){:.btn.btn--primary} |
+| [Fastboot 1742M](bigota?ver=V9.2.2.0.NCKMIEK&type=riva_global_images&size=1742M&name=20180115.0000.00_7.1_global_f0b39c81a9.tgz){:.btn.btn--primary} |
 | [Recovery 1192M](bigota?ver=V9.2.2.0.NCKMIEK&type=miui_HM5AGlobal&size=1192M&name=05a8a3da8b_7.1.zip){:.btn.btn--primary} |
  
 | Mi 5s Plus |
@@ -114,8 +110,7 @@
 
 | Redmi 3S |
 |:------:|
-| [Fastboot 1614M](bigota?ver=V9.2.2.0.MALMIEK&type=land_global_images&size=1614M&name=2018
-0124.0000.00_6.0_global_7a14bd1470.tgz){:.btn.btn--primary} |
+| [Fastboot 1614M](bigota?ver=V9.2.2.0.MALMIEK&type=land_global_images&size=1614M&name=20180124.0000.00_6.0_global_7a14bd1470.tgz){:.btn.btn--primary} |
 | [Recovery 1404M](bigota?ver=V9.2.2.0.MALMIEK&type=miui_HM3SGlobal&size=1404M&name=e6ac0c428e_6.0.zip){:.btn.btn--primary} |
 
 | Redmi Note 5A /Redmi Y1 Lite |
@@ -144,8 +139,7 @@
 
 | Redmi 3 |
 |:------:|
-| [Fastboot 1111M](bigota?ver=V9.2.1.0.LAIMIEK&type=ido_xhdpi_global_images&size=1111M&name=2018
-0129.0000.00_5.1_global_0843a2170b.tgz){:.btn.btn--primary} |
+| [Fastboot 1111M](bigota?ver=V9.2.1.0.LAIMIEK&type=ido_xhdpi_global_images&size=1111M&name=20180129.0000.00_5.1_global_0843a2170b.tgz){:.btn.btn--primary} |
 | [Recovery 907M](bigota?ver=V9.2.1.0.LAIMIEK&type=miui_HM3Global&size=907M&name=e0fc04ee3d_5.1.zip){:.btn.btn--primary} |
 
 | Mi MIX |
