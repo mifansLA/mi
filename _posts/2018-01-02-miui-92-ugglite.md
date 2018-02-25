@@ -24,6 +24,6 @@ This ROM for Redmi Note 5A a.k.a Redmi Y1 Lite. Codename: `ugglite`.
 
 {% include respo.html %}
 
-For [Redmi Note 5A Prime/Redmi Y1 (ugg)](/global-stable-miui-92-redmi-note-5a-ugglite-fastboot-recovery){.btn.btn--primary}
+For [Redmi Note 5A Prime/Redmi Y1 (ugg)](/global-stable-miui-92-redmi-note-5a-prime-ugg-fastboot-recovery){.btn.btn--primary}
 
 And here [List MIUI 9.2 Global Stable](https://mi.knoacc.org/update-rom-miui-92-global-stable-full-changelog){.btn.btn--primary}
