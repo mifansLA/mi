@@ -1,9 +1,9 @@
 ---
-title: Xiaomi Redmi 3 ★ Global Stable V9.2.2.0 ★ ROM MIUI 9.2
-excerpt: "Download update ROM Global Stable MIUI V9.2.2.0.MALMIEK Redmi 3 (land). Recovery ROM (updater/.zip) Fastboot ROM (firmware/.tgz)"
+title: Xiaomi Redmi 3S ★ Global Stable V9.2.2.0 ★ ROM MIUI 9.2
+excerpt: "Download update ROM Global Stable MIUI V9.2.2.0.MALMIEK Redmi 3S (land). Recovery ROM (updater/.zip) Fastboot ROM (firmware/.tgz)"
 header:
- image: /assets/image/miui-92-stable.jpg
- teaser: https://i0.wp.com/mi.knoacc.org/assets/image/miui-92-stable.jpg?resize=420,210
+ image: /assets/image/redmi-3s.jpg
+ teaser: https://i0.wp.com/mi.knoacc.org/assets/image/redmi-3s?resize=420,210
 category:
  - MIUI 9.2
 tags:
@@ -13,7 +13,9 @@ tags:
  - Xiaomi land
 last_modified_at: 2018-02-24
 ---
-This ROM for Redmi 3/ Redmi 3 Prime. Codename: `land`. V9.2.2.0.LAIMIEK {{ page.excerpt }}
+This ROM for Redmi 3S/ Redmi 3S Prime. Codename: `land`. V9.2.2.0.LAIMIEK {{ page.excerpt }}
+
+![Global Stable MIUI V9.2.2.0.MALMIEK](/assets/image/miui-92-stable.jpg){:.align-center}
 
 | Redmi 3S |
 |:------:|
@@ -22,6 +24,6 @@ This ROM for Redmi 3/ Redmi 3 Prime. Codename: `land`. V9.2.2.0.LAIMIEK {{ page.
 
 {% include respo.html %}
 
-V9.2.1.0.LAIMIEK for [Redmi 3 Prime _ido_](/global-stable-miui-922-redmi-3s-land-fastboot-recovery){:.btn.btn--primary}
+Download V9.2.1.0.LAIMIEK for Redmi 3 Prime _ido_ [here](/global-stable-miui-922-redmi-3-ido-fastboot-recovery){:.btn.btn--primary}
 
 And here [List MIUI 9.2 Global Stable](https://mi.knoacc.org/update-rom-miui-92-global-stable-full-changelog){:.btn.btn--primary}
