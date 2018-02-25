@@ -2,7 +2,7 @@
 title: "Mi Fans Lamongan: Ngumpulno Bolo Dewe" 
 excerpt: "konsolidasi komunitas Mi Fans Lamongan lur"
 header:
- overlay_image: "/img/logo.jpeg"
+ overlay_image: "/image/logonew.jpg"
  caption: "mifansLa"
 category:
  - uncategorized

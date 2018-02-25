@@ -28,6 +28,8 @@ Dengan menggunakan kombinasi tombol, tekan terlebih dahulu tombol volume atas
 
 Menekan kombinasi tiga tombol yaitu dengan cara menekan tombol volume atas + volume bawah dilanjutkan dengan menekan tombol powerbersamaan dalam keadaan Xiaomi smartphone tidak menyala. Untuk kombinasi tombol ini hanya terdapat pada tipe-tipe tertentu saja yang dapat mempergunakan kombinasi tombol ini.
 
+{% include respo.html %}
+
 ### Cara ketiga
 
 Menggunakan tools Fastboot Mode to EDL, cara menggunakan tools ini cukup mudah dalam keadaan smartphone tidak menyala gunakan  kombinasi tombol, tekan terlebih dahulu  tombol volume bawah kemudian barulah menekan tombol power bersamaan nantinya akan muncul gambar MIUI BUNNY Fastboot kemudian hubungkan kabel data ke komputer kemudian jalankan tools Fastboot Mode to EDL, jangan lupa untuk ekstrak terlebih dahulu kemudian klik xiomi_edl_boot, apabila sukses devices akan beralih ke mode EDL mode.

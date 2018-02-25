@@ -15,6 +15,8 @@ tags:
 
 [Download Fastboot V7.1.1.0.LHPCNCK](/bigota?type=ido_xhdpi_images&ver=V7.1.1.0.LHPCNCK&size=972MB&name=20151221.0000.11_5.1_cn_ed00d29f38.tgz){:.btn.btn--block.btn--primary}
 
+{% include respo.html %}
+
 ### Cara Pakai
 
 Cara 1
