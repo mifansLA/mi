@@ -12,11 +12,11 @@ locale                   : "id_EN"
 title: "Mi Fans Lamongan"
 title_separator: "-"
 name: &name "mifansLA"
-description: &description "Documentation Source for MI Fans Lamongan and Xiaomi Devices User."
+description: &description "Documentation Source for MIUI Fans Lamongan and Xiaomi Devices User."
 url: "https://mi.knoacc.org"
 baseurl: "/" # the subpath of your site, e.g. "/blog"
 repository: "mifansLA/miFans"
-teaser: "https://i0.wp.com/mi.knoacc.org/assets/image/logonew.png?resize=460,180" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser: "https://i0.wp.com/mi.knoacc.org/assets/image/logonew.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -107,6 +107,9 @@ include:
   - .htaccess
   - _pages
 #  - _portofolio
+
+timezone: Indonesia/Jakarta
+
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
