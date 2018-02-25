@@ -15,7 +15,7 @@ last_modified_at: 2018-02-24
 ---
 This ROM for Redmi 5A. Codename: `riva`. V9.2.2.0.LAIMIEK {{ page.excerpt }}
 
-![Redmi 5A V9.2.2.0 LAIMIEK](/assets/image/redmi-5a.jpg)
+![Redmi 5A V9.2.2.0 LAIMIEK](/assets/image/redmi-5a.jpg){:.align-center}
 
 | Redmi 5A |
 |:------:|
@@ -24,9 +24,9 @@ This ROM for Redmi 5A. Codename: `riva`. V9.2.2.0.LAIMIEK {{ page.excerpt }}
 
 {% include respo.html %}
 
-V9.2.6.0.NEGMIEK for [Redmi 5 Plus _vince_](/global-stable-miui-926-redmi-5-plus-vince-fastboot-recovery){:.btn.btn--primary}
-V9.2.3.0.NEGMIEK (recovery ROM only) for [Redmi 5 Plus _vince_](/global-stable-miui-923-redmi-5-plus-vince-recovery-only){:.btn.btn--primary}
-V9.2.2.0.NDAMIEK (recovery ROM only) for [Redmi 5 _rosy_](/global-stable-miui-922-redmi-5-rosy-recovery-only){:.btn.btn--primary}
+- Download for Redmi 5 Plus _vince_ V9.2.6.0.NEGMIEK[here](/global-stable-miui-926-redmi-5-plus-vince-fastboot-recovery)
+- Download for Redmi 5 Plus _vince_V9.2.3.0.NEGMIEK (recovery ROM only) [here](/global-stable-miui-923-redmi-5-plus-vince-recovery-only)
+- Download for Redmi 5 _rosy_ V9.2.2.0.NDAMIEK (recovery ROM only) [here](/global-stable-miui-922-redmi-5-rosy-recovery-only)
 
 ![MIUI 9.2 Global Stable](/assets/image/miui-92-stable.jpg)
 
