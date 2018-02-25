@@ -12,9 +12,9 @@ tags:
  - MIUI 9.2
  - Redmi Note 5A
  - Redmi Y1 Lite
- - Xiaomi mido
+ - Xiaomi ugglite
 ---
-This ROM for Redmi Note 5A a.k.a Redmi Y1 Lite. Codename: `ugglite`.
+This ROM for Redmi Note 5A a.k.a Redmi Y1 Lite. Codename: `ugglite`. V9.2.1.0.NDFMIEK {{ page.excerpt }}
 
 | Redmi Note 5A/Redmi Y1 Lite |
 |:------:|
