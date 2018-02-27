@@ -2,7 +2,7 @@
 title: Xiaomi Redmi Note 5A Prime/Redmi Y1 ★ Global Stable V9.2.3.0 ★ ROM MIUI 9.2
 excerpt: "Download update ROM Global Stable MIUI V9.2.3.0 Redmi Note 5A Prime (ugg). Recovery ROM (updater/.zip) Fastboot ROM (firmware/.tgz)"
 header:
- image: /assets/image/Redmi-Note-5A-Prime.jpg
+ overlay_image: /assets/image/Redmi-Note-5A-Prime.jpg
  teaser: https://i0.wp.com/mi.knoacc.org/assets/image/Redmi-Note-5A-Prime.jpg?resize=420,210
 category:
  - MIUI 9.2
@@ -29,4 +29,4 @@ Download for [Redmi Note 5A/Redmi Y1 lite _ugglite_ V9.2.5.0.NDFMIEK [here](/glo
 
 ![MIUI V9.2.3.0 Redmi Note 5A Prime](/assets/image/miui-92-stable.jpg)
 
-And here complete [List MIUI 9.2 Global Stable](https://mi.knoacc.org/update-rom-miui-92-global-stable-full-changelog){.btn.btn--primary}
+And here complete [List MIUI 9.2 Global Stable](https://mi.knoacc.org/update-rom-miui-92-global-stable-full-changelog)

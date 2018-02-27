@@ -2,7 +2,7 @@
 title: Xiaomi Redmi 3S ★ Global Stable V9.2.2.0 ★ ROM MIUI 9.2
 excerpt: "Download update ROM Global Stable MIUI V9.2.2.0.MALMIEK Redmi 3S (land). Recovery ROM (updater/.zip) Fastboot ROM (firmware/.tgz)"
 header:
- image: /assets/image/redmi-3s.jpg
+ overlay_image: /assets/image/redmi-3s.jpg
  teaser: https://i0.wp.com/mi.knoacc.org/assets/image/redmi-3s?resize=420,210
 category:
  - MIUI 9.2
