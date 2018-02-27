@@ -10,6 +10,7 @@ tags:
  - ADM Pro APK
  - Advanced Download Manager
  - Download Tool Android
+last_modified_at: 2018-02-20
 ---
 
 File ROM atau Firmaware untuk ponsel android versi baru termasuk besar. Dengan ukuran berkisar antara 1GB hingga 2GB, seringkali membuat yang ingin mengunduh langsung dari ponsel mengalami kesulitan. Utamanya jika kondisi jaringan tidak stabil atau koneksi putus-putus.
