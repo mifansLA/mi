@@ -14,7 +14,7 @@ og_image: /assets/image/miuipro-92.jpg
 ---
 **ROM MIUI Pro 9.2 Stable** ini dibangun oleh developer Belarusia berdasarkan ROM MIUI 9.2 China Stable. Meskipun begitu, ROM MIUI ini sudah di modifikasi sehingga **bloatware app china** sudah dihilangkan. Termasuk ROM/Firmware patch terbaru dari **MiuiPro**, juga pembaruan **Magisk** juga fitur tambahan (tab fitur) seperti **FaceId** untuk tipe ponsel yang didukung.
 
-![MIUI PRO 9.2](/assets/image/miuipro.jpg){:.align-center}
+![MIUI PRO 9.2](/assets/image/miuipro-92.jpg){:.align-center}
 
 Jika kamu bertanya-tanya kenapa MiuiPro tidak menggunakan ROM Global Stable, maka jawabannya adalah karena ROM China Stable **rilis lebih awal**. Sehingga proses modifikasi bisa lebih cepat jika dibanding menunggu rilis versi stabil.
 
