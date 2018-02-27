@@ -145,8 +145,6 @@ Langsung saja, berikut ini daftar link download miuipro 9.2 terbaru yang bisa ka
 
 > Catatan: Update 31 Januari 2018
 
-### Download Link MIUI 9.2.x MIUI PRO
-
 | Device | Codename | Versi |
 | Fitur | Official | Mirror |
 |------|:------:|:------:|
@@ -162,6 +160,50 @@ Langsung saja, berikut ini daftar link download miuipro 9.2 terbaru yang bisa ka
 | Faceid | [miuipro](/miuipro?device=xiaomi_mi6&name=miuipro_v7.1.1_sagit_v9.2.4.0_NCACNEK.zip){:.btn.btn--primary} | [google](/dl/drive?id=1SpLmdbaLAg5JyDMCPBJP9UiYYDspboYf){:.btn.btn--primary} |
 | Mi Note 3 | jason | v9.2.2.0 |
 | Faceid | [miuipro](/dl/miuipro?device=mi_note_3&name=miuipro_v7.1.1_jason_v9.2.2.0_NCHCNEK.zip){:.btn.btn--primary} | [google](/dl/drive?id=1YPJuKI0pILlDR3Q_7K0eimmbZ6eeepmc){:.btn.btn--primary} |
+
+> lihat [panduan install](#langkah-instalasi-miuipro)
+
+## MiuiPro Stable 9.2.1.0, 9.2.3.0, 9.2.4.0 untuk Mi 5c, MiNote, MiNote Pro, Redmi 2 Prime WC, Mi 2s, Redmi 4
+
+> Catatan: Update 29 Januari 2018
+
+| Device | Codename | Versi |
+| Fitur | Official | Mirror |
+|------|:------:|:------:|
+| Mi 5c | song |  v9.2.1.0 |
+| Faceid | [miuipro](/miuipro?device=xiaomi_mi5c&name=miuipro_v7.1.2_song_v9.2.1.0_NCJCNEK.zip){:.btn.btn--primary} | [google](/dl/drive?id=1SCJmzTq3mesWFt-CrhXc_CnEnuMS4O7a){:.btn.btn--primary} |
+| MiNote | virgo | v9.2.3.0 |
+| - | [miuipro](/miuipro?device=xiaomi_mi_note&name=miuipro_v6.0.1_virgo_v9.2.3.0_MXECNEK.zip){:.btn.btn--primary} | [google](/dl/drive?id=1aXu33WcNS4HTrk6URWMNpT-XIzK-jYzt){:.btn.btn--primary} |
+| MiNote Pro | leo | v9.2.3.0 |
+| Faceid | [miuipro](/miuipro?device=xiaomi_mi_note_pro&name=miuipro_v7.0_leo_v9.2.3.0_NXHCNEK.zip){:.btn.btn--primary} | [google](/dl/drive?id=1EmJ8QIYD5oSwYW3fdlfQHnXQ6XcXC54z){:.btn.btn--primary} |
+| Mi 2s | aries | v9.2.3.0 |
+| - | [miuipro](/miuipro?device=xiaomi_mi2_2s&name=miuipro_v5.0.2_aries_v9.2.3.0_LXACNEK.zip){:.btn.btn--primary} | [google](/dl/drive?id=1mSbj008F4cEMwPlAqow5u78Vd0-11QPt){:.btn.btn--primary} |
+| Redmi 2 Prime WC | wt88047| v9.2.3.0 |
+| - | [miuipro](/miuipro?device=xiaomi_redmi_2_pro_w&name=miuipro_v5.1.1_wt88047_v9.2.3.0_LHJCNEK.zip){:.btn.btn--primary} | [google](/dl/drive?id=1UEqN8p2vjvU1FLsqI3kny8wQrtzeetZz){:.btn.btn--primary} |
+| Redmi 4 | prada | v9.2.4.0 |
+| Faceid | [miuipro](/miuipro?device=xiaomi_redmi_4_(2_16)&name=miuipro_v6.0.1_prada_v9.2.4.0_MCECNEK.zip){:.btn.btn--primary} | [google](/dl/drive?id=1_5-DXXPBLWrwOB2M-Mva_1vyb4Qr9UHZ){:.btn.btn--primary} |
+
+> lihat [panduan install](#langkah-instalasi-miuipro)
+
+## MiuiPro Stable 9.2.1.0, 9.2.2.0, 9.2.3.0 untuk Mi 5s, Mi 5s Plus, MiMax2, Redmi Note3 Pro, Redmi Note 3 Pro SE dan Mi 6
+
+> Catatan: Update 28 Januari 2018
+
+| Device | Codename | Versi |
+| Fitur | Official | Mirror |
+|------|:------:|:------:|
+| Mi 6 | sagit | v9.2.3.0 |
+| FaceId | [miuipro](/miuipro?device=xiaomi_mi6&name=miuipro_v7.1.1_sagit_v9.2.3.0_NCACNEK.zip){:.btn.btn--primary} | [google](/dl/drive?id=1mzP6ofd75SwLZZzQCHFFTvfKu7rKpNiH){:.btn.btn--primary} |
+| Redmi Note 3 Pro SE | kate | v9.2.2.0 |
+| FaceId | [miuipro](/miuipro?device=xiaomi_redmi_note_3_pro_se&name=miuipro_v6.0.1_kate_v9.2.2.0_MHOCNEK.zip){:.btn.btn--primary} | [google](/dl/drive?id=1whxMAinE3LjtBXnP6VlrlTjsV54Dbs22){:.btn.btn--primary} |
+| Mi 5s | capricorn | v9.2.1.0 |
+| FaceId | [miuipro](/miuipro?device=xiaomi_mi5s&bame=miuipro_v7.0_capricorn_v9.2.1.0_NAGCNEK.zip){:.btn.btn--primary} | [google](/dl/drive?id=1vb7BtYfWy2c2qhw67_VIOoc9tZYu2kkE){:.btn.btn--primary} |
+| Mi 5s Plus | natrium | v9.2.1.0 |
+| FaceId | [miuipro](/miuipro?device=xiaomi_mi5s_plus&name=miuipro_v7.0_natrium_v9.2.1.0_NBGCNEK.zip){:.btn.btn--primary} | [google](/dl/drive?id=10je1PebfPwo966d28xtgj8JeATFqstLe){:.btn.btn--primary} |
+| Mi Max 2 | oxygen | v9.2.1.0 |
+| FaceId | [miuipro](/miuipro?device=xiaomi_mi_max_2&name=miuipro_v7.1.1_oxygen_v9.2.1.0_NDDCNEK.zip){:.btn.btn--primary} | [google](/dl/drive?id=1SmLrn1cO-xUAsOn6WL0yQXKGdCxJPnYX){:.btn.btn--primary} |
+| Redmi Note 3 Pro | kenzo | v9.2.2.0 |
+| FaceId | [miuipro](/miuipro?device=xiaomi_redmi_note_3_pro&name=miuipro_v6.0.1_kenzo_v9.2.2.0_MHOCNEK.zip){:.btn.btn--primary} | [google](/dl/drive?id=1Se2SBnuo9CuTHG2XIt5qUU_ZFbuselsF){:.btn.btn--primary} |
 
 ### Langkah instalasi MiuiPro
 
