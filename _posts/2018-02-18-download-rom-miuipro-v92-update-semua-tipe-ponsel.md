@@ -94,7 +94,9 @@ Langsung saja, berikut ini daftar link download miuipro 9.2 terbaru yang bisa ka
 
 | Device | Codename | Versi |
 | Fitur | Official | Mirror |
-| Mi 3/4 WCDMA  | cancro | v9.2.3.0 | [miuipro](/miuipro?device=xiaomi_mi3_mi4_wcdma&name=miuipro_v6.0.1_cancro_v9.2.3.0_MXDCNEK.zip){:.btn.btn--primary} | [google](/dl/drive?id=1g8HqD46YuA3Ae5Ls92x53iIiLtnACglS){:.btn.btn--primary} |
+|------|:------:|:------:|
+| Mi 3/4 WCDMA  | cancro | v9.2.3.0 |
+| - | [miuipro](/miuipro?device=xiaomi_mi3_mi4_wcdma&name=miuipro_v6.0.1_cancro_v9.2.3.0_MXDCNEK.zip){:.btn.btn--primary} | [google](/dl/drive?id=1g8HqD46YuA3Ae5Ls92x53iIiLtnACglS){:.btn.btn--primary} |
 
 > lihat [panduan install](#langkah-instalasi-miuipro)
 
@@ -125,11 +127,12 @@ Langsung saja, berikut ini daftar link download miuipro 9.2 terbaru yang bisa ka
 | - | [miuipro](/miuipro?device=xiaomi_redmi_note_2&name=miuipro_v5.0.2_hermes_v9.2.3.0_LHMCNEK.zip){:.btn.btn--primary} | [google](/dl/drive?id=1kXzbAsgt08ZgTI8Nu2z4j9WMuaw61yTo){:.btn.btn--primary} |
 | Redmi Note 3 | hennessy | v9.2.3.0 |
 | - | [miuipro](/miuipro?device=xiaomi_redmi_note_3&name=miuipro_v5.0.2_hennessy_v9.2.3.0_LHNCNEK.zip){:.btn.btn--primary} | [google](/dl/drive?id=1896t5-HHEDVwhv-2Ja9V5vogvF36PdqE){:.btn.btn--primary} |
-| Redmi Note 4X | mido | v9.2.1.0 
+| Redmi Note 4X | mido | v9.2.1.0 |
 | - | [miuipro](/miuipro?device=xiaomi_redmi_note_4x_(3_32)&name=miuipro_v7.0_mido_v9.2.1.0_NCFCNEK.zip){:.btn.btn--primary} | [google](/dl/drive?id=1cW58qJDPrRH4NKrv1vHVop8mF2LSYoyz){:.btn.btn--primary} |
-| Redmi Note 5A | ugglite | v9.2.1.0
+| Redmi Note 5A | ugglite | v9.2.1.0 |
 | - | [miuipro](/miuipro?device=xiaomi_redmi_note_5a&name=miuipro_v7.1.2_ugglite_v9.2.1.0_NDFCNEK.zip){:.btn.btn--primary} | [google](/dl/1gNWIpdv5F-oRYk7XvqGIFzlIzeiR8DUj){:.btn.btn--primary} |
-| Redmi Note 5A Prime | ugg | v9.2.1.0 | [miuipro](/miuipro?device=xiaomi_redmi_note_5a_prime&name=miuipro_v7.1.2_ugg_v9.2.1.0_NDKCNEK.zip){:.btn.btn--primary} | [google](/dl/drive?id=10tjxf4x4fGCWDn2tF-TC9ZAg-BhNTuHc){:.btn.btn--primary} |
+| Redmi Note 5A Prime | ugg | v9.2.1.0 |
+| - | [miuipro](/miuipro?device=xiaomi_redmi_note_5a_prime&name=miuipro_v7.1.2_ugg_v9.2.1.0_NDKCNEK.zip){:.btn.btn--primary} | [google](/dl/drive?id=10tjxf4x4fGCWDn2tF-TC9ZAg-BhNTuHc){:.btn.btn--primary} |
 | - |
 | Redmi 4X | santoni | v9.2.1.0 |
 | - | [miuipro](/miuipro?device=xiaomi_redmi_4x&name=miuipro_v7.1.2_santoni_v9.2.1.0_NAMCNEK.zip){:.btn.btn--primary} | [google](/dl/drive?id=1cCuVABNKY6sT0iePkKro_AMIcgxTs7Ou){:.btn.btn--primary} |
