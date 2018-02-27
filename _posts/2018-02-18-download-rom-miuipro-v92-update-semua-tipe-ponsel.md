@@ -69,7 +69,7 @@ Langsung saja, berikut ini daftar link download miuipro 9.2 terbaru yang bisa ka
 | FaceID | [miuipro](/miuipro?device=xiaomi_redmi_3s&name=miuipro_v6.0.1_land_v9.2.2.0_MALCNEK.zip){:.btn.btn--primary} | [google](/dl/drive?id=1pVAeyfz1UA0pOloiJxs0EqF-VjCpaNUJ){:.btn.btn--primary} |
 | MiMix | lithium | v9.2.2.0 |
 | FaceID | [miuipro](/miuipro?device=xiaomi_mi_mix&name=miuipro_v7.0_lithium_v9.2.2.0_NAHCNEK.zip){:.btn.btn--primary} | [google](/dl/drive?id=1Lz4NgVwODZhk_TMFESGD2WZo0W6-JwQ-){:.btn.btn--primary} |
-| Lenovo s90a |sisleyr) v.9.2.2.0 |
+| Lenovo s90a | sisleyr | v.9.2.2.0 |
 | - | [miuipro](/miuipro?device=lenovo_s90a&name=miuipro_v5.1.1_sisleyr_v9.2.2.0_LAICNEK.zip){:.btn.btn--primary} | [google](/dl/drive?id=1aU1DPBeDG_YSLu_kEMPLMSh-UhTN7BK1){:.btn.btn--primary} |
 | Asus ZenFone Max | zc550kl | v9.2.2.0 |
 | - | [miuipro](/miuipro?device=asus_zenfone_max&name=miuipro_v5.1.1_ZC550KL_v9.2.2.0_LAICNEK.zip){:.btn.btn--primary} | [google](/dl/drive?id=1OEjAZ4VTf4Z2o6c5-u0IItEnGNq3ovIY){:.btn.btn--primary} |
@@ -173,7 +173,7 @@ Untuk instalasi, secara umum sama dengan pemasangan Custom ROM lain seperti [Lin
 2. Boot ke TWRP, **buat nandroid-backup**
 3. Update / Fresh Install
  - Saat **ganti rom** dari dev lain ke **MiuiPro**, ganti dari  firmware **mingguan** (beta) ke **stabil**, dan juga dengan transisi dari **MIUI8** ke **MIUI9** harus wipe (menghapus) partisi _Cache_, _ART/Dalvik_, _sistem_ dan _data_. 
- - Saat **mengupdate** versi **MiuiPro** , Kamu tidak perlu melakukan _wipe_ baik itu _cache_, _ART/dalvik_ maupun partisi _sistem_. instalasi akan berjalan otomatis. Jika dibutuhkan, dalam mide TWRP Anda bisa membersihkan folder _Android_ dan _MIUI_ di bagian pengguna (ada sisa data semua yang terinstal, termasuk sistem dan aplikasi). 
+ - Saat **mengupdate** versi **MiuiPro**, Kamu tidak perlu melakukan _wipe_ baik itu _cache_, _ART/dalvik_ maupun partisi _sistem_. Instalasi akan berjalan otomatis. Jika dibutuhkan, dalam mide TWRP Anda bisa membersihkan folder _Android_ dan _MIUI_ di bagian pengguna (ada sisa data semua yang terinstal, termasuk sistem dan aplikasi). 
 4. Jalankan proses instalasi dari TWRP. Dianjurkan untuk memasang firmware hanya pada versi terbaru TWRP.
 
 Sebagai catatan tambahan yang perlu kamu tahu, **MiuiPro tak hanya merilis ROM MIUI untuk ponsel-ponsel Xiaomi** saja. Developer MiuiPro juga merilis **Custom ROM MIUI untuk ponsel dari vendor lain seperti Lenovo, Asus dan lainnya**.
