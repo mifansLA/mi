@@ -169,10 +169,10 @@ Untuk instalasi, secara umum sama dengan pemasangan Custom ROM lain seperti [Lin
 1. Download firmware dari situs MiuiPro atau GDrive ke memori internal atau ke kartu SD
 2. Boot ke TWRP, **buat nandroid-backup**
 3. Update / Fresh Install
-   1. Saat **ganti rom** dari dev lain ke **MiuiPro**, ganti dari  firmware **mingguan** (beta) ke **stabil**, dan juga dengan transisi dari **MIUI8** ke **MIUI9** harus wipe (menghapus) partisi _Cache_, _ART/Dalvik_, _sistem_ dan _data_. 
-   2. Saat **mengupdate** versi **MiuiPro** , Kamu tidak perlu melakukan _wipe_ baik itu _cache_, _ART/dalvik_ maupun partisi _sistem_. instalasi akan berjalan otomatis. Jika dibutuhkan, dalam mide TWRP Anda bisa membersihkan folder _Android_ dan _MIUI_ di bagian pengguna (ada sisa data semua yang terinstal, termasuk sistem dan aplikasi). 
+ - Saat **ganti rom** dari dev lain ke **MiuiPro**, ganti dari  firmware **mingguan** (beta) ke **stabil**, dan juga dengan transisi dari **MIUI8** ke **MIUI9** harus wipe (menghapus) partisi _Cache_, _ART/Dalvik_, _sistem_ dan _data_. 
+ - Saat **mengupdate** versi **MiuiPro** , Kamu tidak perlu melakukan _wipe_ baik itu _cache_, _ART/dalvik_ maupun partisi _sistem_. instalasi akan berjalan otomatis. Jika dibutuhkan, dalam mide TWRP Anda bisa membersihkan folder _Android_ dan _MIUI_ di bagian pengguna (ada sisa data semua yang terinstal, termasuk sistem dan aplikasi). 
 4. Jalankan proses instalasi dari TWRP. Dianjurkan untuk memasang firmware hanya pada versi terbaru TWRP.
 
 Sebagai catatan tambahan yang perlu kamu tahu, **MiuiPro tak hanya merilis ROM MIUI untuk ponsel-ponsel Xiaomi** saja. Developer MiuiPro juga merilis **Custom ROM MIUI untuk ponsel dari vendor lain seperti Lenovo, Asus dan lainnya**.
 
-> Thank's to [Official MiuiPro](http://miuipro.by) (MIUI fans Belarus)
+> Thank's to [Official MiuiPro](http://miuipro.by){:rel="noopener nofollow external" target="_blank"}(MIUI fans Belarus)
