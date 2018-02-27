@@ -1,18 +1,20 @@
+---
 title: Download Links ★ ROM MiuiPRO 9.2 Stable ★ All Devices
-excerpt: Informasi link unduh update MiuiPRO (MIUI 9.2) dan rekomendasi install Miui PRO
+excerpt: Informashttps://3.bp.blogspot.com/-DS2XOz_KcZI/V6tE6BK87oI/AAAAAAAABIQ/Th-QzIgs4l0DbhJeCVDYNg00CtsGtZKCgCLcB/s1600/miuipro-prada.muk link unduh update MiuiPRO (MIUI 9.2) dan rekomendasi install Miui PRO
 category:
  - MiuiPRO 9.2
 tags:
- - 
+ - Download MiuiPro
  - MiuiPro 9.2
  - MiuiPro Stable
+og_image: /assets/image/miuipro-92.jpg
 last_modified_at: 2018-02-27
 ---
 
 ROM MIUI Pro 9.2 Stable ini dibangun oleh developer Belarusia berdasarkan ROM MIUI 9.2 China Stable. Meskipun begitu, ROM MIUI ini sudah di modifikasi sehingga **bloatware app china** sudah dihilangkan. Termasuk ROM/Firmware patch terbaru dari **MiuiPro**, juga pembaruan **Magisk**.
 
 <div class="align-center">
-![MIUI PRO 9.2](/assets/image/miuipro.jpg)
+![MIUI PRO 9.2](/assets/image/miuipro-92.jpg)
 **MIUI PRO V.9.2.X {{ page.last_modifed_at }}**
 </div>
 
