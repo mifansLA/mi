@@ -13,7 +13,7 @@ tags:
 last_modified_at: 2018-02-20
 ---
 
-[File ROM atau Firmware](/penjalasan-mengenai-ROM-android) untuk ponsel android versi baru termasuk besar. Dengan ukuran berkisar antara 1GB hingga 2GB, seringkali membuat yang ingin mengunduh langsung dari ponsel mengalami kesulitan. Utamanya jika kondisi jaringan tidak stabil atau koneksi putus-putus.
+[File ROM atau Firmware](/penjelasan-mengenai-ROM-android) untuk ponsel android versi baru termasuk besar. Dengan ukuran berkisar antara 1GB hingga 2GB, seringkali membuat yang ingin mengunduh langsung dari ponsel mengalami kesulitan. Utamanya jika kondisi jaringan tidak stabil atau koneksi putus-putus.
 
 ![File Corrupt](https://2.bp.blogspot.com/-Xn4YV3MQctE/WjIvjarm9LI/AAAAAAAAFhs/jkHjv0BSbLsyKV8O0blfojyW8BE8VJGGQCLcBGAs/s600/corrupt-147974.jpg)
  
