@@ -126,8 +126,8 @@ Berikut ini adalah tabel device yang mendapat update kali ini hingga 23 Februari
 | V9.2.1.0.LAIMIEK | Redmi 3 | [Download](/global-stable-miui-92-redmi-3-ido-fastboot-recovery){:.btn.btn--primary} |
 | V9.2.1.0.NAHMIEK | Mi MIX | [Download](/global-stable-miui-92-mi-mix-lithium-fastboot-recovery){:.btn.btn--primary} |
 | V9.2.1.0.NAAMIEK | Mi 5 | [Download](/global-stable-miui-92-mi-5-gemini-fastboot-recovery){:.btn.btn--primary} |
-| V9.2.4.0.NEIMIEK | Redmi Note 3 Special Edition | [Download](/global-stable-miui-924-note-3-se-kate-fastboot-recovery){:.btn.btn--primary} |
-| V9.2.4.0.NEIMIEK | Redmi Note 5 Pro | [Download](/global-stable-miui-924-redmi-5-fastboot-recovery){:.btn.btn--primary} |
+| V9.2.4.0.NEIMIEK | Redmi Note 3 Special Edition | [Download](/global-stable-miui-924-redmi-note-3-se-kate-fastboot-recovery){:.btn.btn--primary} |
+| V9.2.4.0.NEIMIEK | Redmi Note 5 Pro | [Download](/global-stable-miui-924-redmi-note-5-pro-whyred-fastboot-recovery){:.btn.btn--primary} |
 | V9.2.6.0.NCCMIEK | Redmi 4A | [Download](/global-stable-miui-926-redmi-4a-rolex-fastboot-recovery){:.btn.btn--primary} |
 
 > Info: ditandai dengan _**New**_ adalah versi update terbaru

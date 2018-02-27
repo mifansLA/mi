@@ -15,7 +15,7 @@ last_modified_at: 2018-02-24
 ---
 This ROM for Redmi 3S/ Redmi 3S Prime. Codename: `land`. V9.2.2.0.LAIMIEK {{ page.excerpt }}
 
-![Global Stable MIUI V9.2.2.0.MALMIEK](/assets/image/miui-92-stable.jpg){:.align-center}
+![Global Stable MIUI V9.2.2.0.MALMIEK](/assets/image/redmi-3s.jpg){:.align-center}
 
 | Redmi 3S |
 |:------:|

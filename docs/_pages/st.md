@@ -37,8 +37,7 @@
  
 | Mi Note |
 |:------:|
-| [Fastboot 1111M](bigota?ver=V9.2.3.0.MXEMIEK&type=virgo_global_images&size=1111M&name=2018
-0103.0000.00_6.0_global_ad722b0d54.tgz){:.btn.btn--primary} |
+| [Fastboot 1111M](bigota?ver=V9.2.3.0.MXEMIEK&type=virgo_global_images&size=1111M&name=20180103.0000.00_6.0_global_ad722b0d54.tgz){:.btn.btn--primary} |
 | [Recovery 759M](bigota?ver=V9.2.3.0.MXEMIEK&type=miui_MINoteGlobal&size=759M&name=1dbb61175a_6.0.zip){:.btn.btn--primary} |
 
 | Redmi 4X |
@@ -162,8 +161,7 @@
 
 | Redmi Note 5 Pro |
 |:------:|
-| [Fastboot 2226M](bigota?ver=V9.2.4.0.NEIMIEK&type=whyred_global_images&size=2226M&name=2018
-0210.0000.00_7.1_global_9de13715c9.tgz){:.btn.btn--primary} |
+| [Fastboot 2226M](bigota?ver=V9.2.4.0.NEIMIEK&type=whyred_global_images&size=2226M&name=20180210.0000.00_7.1_global_9de13715c9.tgz){:.btn.btn--primary} |
 | [Recovery 1622M](bigota?ver=V9.2.4.0.NEIMIEK&type=miui_WHYREDGlobal&size=1622M&name=561259cda0_7.1.zip){:.btn.btn--primary} |
 
 | Redmi 4A |

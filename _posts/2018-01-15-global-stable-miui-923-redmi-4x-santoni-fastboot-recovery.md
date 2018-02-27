@@ -2,7 +2,6 @@
 title: Xiaomi Redmi 4X ★ Global Stable V9.2.3.0 ★ ROM MIUI 9.2
 excerpt: "Download update ROM Global Stable MIUI V9.2.3.0. Redmi 4X (santoni). Recovery ROM (updater/.zip) Fastboot ROM (firmware/.tgz)"
 header:
- image: /assets/image/miui-92-stable.jpg
  teaser: https://i0.wp.com/mi.knoacc.org/assets/image/miui-92-stable.jpg?resize=420,210
 category:
  - MIUI 9.2
@@ -11,9 +10,13 @@ tags:
  - MIUI 9.2
  - Redmi 4X
  - Xiaomi santoni
+og_image: /assets/image/redmi-4x.jpg
 last_modified_at: 2018-02-22
 ---
+
 This ROM for Redmi 4X. Codename: `santoni`. V9.2.3.0.MBEMIEK {{ page.excerpt }}
+
+![Global Stable V9.2.3.0](https://i0.wp.com/mi.knoacc.org/assets/image/miui-92-stable.jpg?resize=600,300)
 
 | Redmi 4X |
 |:------:|

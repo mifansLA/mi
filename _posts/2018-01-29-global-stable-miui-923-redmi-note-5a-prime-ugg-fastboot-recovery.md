@@ -2,7 +2,6 @@
 title: Xiaomi Redmi Note 5A Prime/Redmi Y1 ★ Global Stable V9.2.3.0 ★ ROM MIUI 9.2
 excerpt: "Download update ROM Global Stable MIUI V9.2.3.0 Redmi Note 5A Prime (ugg). Recovery ROM (updater/.zip) Fastboot ROM (firmware/.tgz)"
 header:
- overlay_image: /assets/image/Redmi-Note-5A-Prime.jpg
  teaser: https://i0.wp.com/mi.knoacc.org/assets/image/Redmi-Note-5A-Prime.jpg?resize=420,210
 category:
  - MIUI 9.2
@@ -12,6 +11,7 @@ tags:
  - Redmi Note 5A Prime
  - Redmi Y1
  - Xiaomi ugg
+og_image: /assets/image/Redmi-Note-5A-Prime.jpg
 last_modified_at: 2018-02-22
 ---
 This ROM for Redmi Note 5A Prime/Redmi Y1. Codename: `ugg`. V9.2.3.0.NDKMIEK {{ page.excerpt }}
