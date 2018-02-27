@@ -76,4 +76,6 @@ Jika tipe ponsel kamu tidak ada dalam tabel update minggu ini (8.2.8), Kamu masi
 {% include howtoflash.md %}
 {% include respo.html %} 
 
-Seperti biasa, jika kamu ingin mencicipi **MIUI PRO update terbaru** silahkan tunggu update artikel besok. Sedangkan recap untuk **MIUI Multirom** (jika ada update terbaru) akan disediakan besok lusa Untuk informasi bagi yang belum tahu apa itu MIUI PRO dan bagai mana cara memasang-nya bisa lihat [postingan ini](https://mi.knoacc.org/cara-panduan-pasang-rom-miui-pro-semua-xiaomi).
+Seperti biasa, jika kamu ingin mencicipi **MIUI PRO update terbaru** silahkan tunggu update artikel lusa. Sedangkan recap untuk **MIUI Multirom** (jika ada update terbaru) akan disediakan besok lusa Untuk informasi bagi yang belum tahu apa itu MIUI PRO dan bagai mana cara memasang-nya bisa lihat [postingan ini](https://mi.knoacc.org/cara-panduan-pasang-rom-miui-pro-semua-xiaomi).
+
+> Update: [MIUI Pro Stable V.9.2 has been Released!](https://mi.knoacc.org/download-rom-miuipro-v92-update-semua-tipe-ponsel)
