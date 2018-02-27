@@ -14,13 +14,13 @@ og_image: /assets/image/miuipro-92.jpg
 ---
 **ROM MIUI Pro 9.2 Stable** ini dibangun oleh developer Belarusia berdasarkan ROM MIUI 9.2 China Stable. Meskipun begitu, ROM MIUI ini sudah di modifikasi sehingga **bloatware app china** sudah dihilangkan. Termasuk ROM/Firmware patch terbaru dari **MiuiPro**, juga pembaruan **Magisk** juga fitur tambahan (tab fitur) seperti **FaceId** untuk tipe ponsel yang didukung.
 
-![MIUI PRO 9.2](/assets/image/miuipro-92.jpg){:.align-center}
+<figure class="align-center"><img alt="ROM MiuiPRO 9.2 Stable" src="/assets/image/miuipro-92.jpg"/><figcaption>ROM MiuiPRO 9.2 Stable</figcaption></figure>
 
 Jika kamu bertanya-tanya kenapa MiuiPro tidak menggunakan ROM Global Stable, maka jawabannya adalah karena ROM China Stable **rilis lebih awal**. Sehingga proses modifikasi bisa lebih cepat jika dibanding menunggu rilis versi stabil.
 
 Langsung saja, berikut ini daftar link download miuipro 9.2 terbaru yang bisa kamu unduh langsung, baik dari **server official MiuiPro** (bukan server Xiaomi) maupun Google Drive (di upload oleh official miuipro) jika tersedia.
 
-> **Akan di-_update_ jika ada rom stable baru sudah dirilis** (lihat catatan tanggal update-nya).
+> **Akan di-update jika ada rom stable baru sudah dirilis** (lihat catatan tanggal update-nya).
 > Untuk mengunduh dari ponsel kamu bisa menggunakan ADM (Advanced Download Manager) yang bisa kamu unduh [dari sini](/menghindari-file-korup-dengan-aplikasi-advanced-download-manager){:rel="noopener" target="_blank"}
 
 
