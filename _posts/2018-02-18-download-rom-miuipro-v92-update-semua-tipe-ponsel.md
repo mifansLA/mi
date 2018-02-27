@@ -1,8 +1,8 @@
 ---
 title: Download Links ★ ROM MiuiPRO 9.2 Stable ★ All Devices
-excerpt: Informasi link unduh update MiuiPRO (MIUI 9.2) dan rekomendasi install Miui PRO
+excerpt: "Informasi link unduh update MiuiPRO (MIUI 9.2) dan rekomendasi install Miui PRO"
 header:
- teaser: /assets/image/miuipro-92/jpg
+ teaser: /assets/image/miuipro-92.jpg
 category:
  - MiuiPRO 9.2
 tags:
@@ -15,8 +15,6 @@ og_image: /assets/image/miuipro-92.jpg
 **ROM MIUI Pro 9.2 Stable** ini dibangun oleh developer Belarusia berdasarkan ROM MIUI 9.2 China Stable. Meskipun begitu, ROM MIUI ini sudah di modifikasi sehingga **bloatware app china** sudah dihilangkan. Termasuk ROM/Firmware patch terbaru dari **MiuiPro**, juga pembaruan **Magisk** juga fitur tambahan (tab fitur) seperti **FaceId** untuk tipe ponsel yang didukung.
 
 ![MIUI PRO 9.2](/assets/image/miuipro.jpg){:.align-center}
-
-**{{ page.last_modifed_at }}**
 
 Jika kamu bertanya-tanya kenapa MiuiPro tidak menggunakan ROM Global Stable, maka jawabannya adalah karena ROM China Stable **rilis lebih awal**. Sehingga proses modifikasi bisa lebih cepat jika dibanding menunggu rilis versi stabil.
 
@@ -169,10 +167,11 @@ Langsung saja, berikut ini daftar link download miuipro 9.2 terbaru yang bisa ka
 Untuk instalasi, secara umum sama dengan pemasangan Custom ROM lain seperti [Lineage OS](https://www.lineageosrom.net) atau Custom ROM lain yang membutuhkan TWRP. Untuk instruksi lanjutan bisa membaca [artikel ini](https://mi.knoacc.org/cara-panduan-pasang-rom-miui-pro-semua-xiaomi), namun berikut langkah-langkahnya secara umum dan singkat:
 
 1. Download firmware dari situs MiuiPro atau GDrive ke memori internal atau ke kartu SD
-2. Boot ke TWRP *, **buat nandroid-backup**
-3. 1. Saat ganti rom dari dev lain ke **MiuiPro**, ganti dari  firmware **mingguan** (beta) ke **stabil**, dan juga dengan transisi dari **MIUI8** ke **MIUI9** harus wipe (menghapus) partisi _Cache_, _ART/Dalvik_, _sistem_ dan _data_. 
-3. 2. Saat mengupdate versi **MiuiPro** , Kamu tidak perlu melakukan _wipe_ baik itu _cache_, _ART/dalvik_ maupun partisi _sistem_. instalasi akan berjalan otomatis. Jika dibutuhkan, dalam mide TWRP Anda bisa membersihkan folder _Android_ dan _MIUI_ di bagian pengguna (ada sisa data semua yang terinstal, termasuk sistem dan aplikasi). 
-4. Jalankan proses instalasi. * Dianjurkan untuk memasang firmware hanya pada versi baru TWRP.
+2. Boot ke TWRP, **buat nandroid-backup**
+3. Update / Fresh Install
+   1. Saat **ganti rom** dari dev lain ke **MiuiPro**, ganti dari  firmware **mingguan** (beta) ke **stabil**, dan juga dengan transisi dari **MIUI8** ke **MIUI9** harus wipe (menghapus) partisi _Cache_, _ART/Dalvik_, _sistem_ dan _data_. 
+   2. Saat **mengupdate** versi **MiuiPro** , Kamu tidak perlu melakukan _wipe_ baik itu _cache_, _ART/dalvik_ maupun partisi _sistem_. instalasi akan berjalan otomatis. Jika dibutuhkan, dalam mide TWRP Anda bisa membersihkan folder _Android_ dan _MIUI_ di bagian pengguna (ada sisa data semua yang terinstal, termasuk sistem dan aplikasi). 
+4. Jalankan proses instalasi dari TWRP. Dianjurkan untuk memasang firmware hanya pada versi terbaru TWRP.
 
 Sebagai catatan tambahan yang perlu kamu tahu, **MiuiPro tak hanya merilis ROM MIUI untuk ponsel-ponsel Xiaomi** saja. Developer MiuiPro juga merilis **Custom ROM MIUI untuk ponsel dari vendor lain seperti Lenovo, Asus dan lainnya**.
 
