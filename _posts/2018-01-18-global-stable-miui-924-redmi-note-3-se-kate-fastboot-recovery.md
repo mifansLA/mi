@@ -17,13 +17,13 @@ This ROM for Redmi Note 3 Special Edition. Codename: `kate`. V9.2.3.0.MHRMIEK {{
 
 ![MIUI 9.2](/assets/image/miui-92-stable.jpg)
 
-| Redmi Note 3 Special Edition | |http://bigota.d.miui.com/V9.2.3.0.MHRMIEK/kate_global_images_V9.2.3.0.MHRMIEK_20180118.0000.00_6.0_global_448f2bd5d6.tgz
+| Redmi Note 3 Special Edition |
 |:------:|
 | [Fastboot 2023M](bigota?ver=V9.2.3.0.MHRMIEK&type=kate_global_images&size=2023M&name=20180118.0000.00_6.0_global_448f2bd5d6.tgz){:.btn.btn--primary} |
 | [Recovery 1451M](bigota?ver=V9.2.3.0.MHRMIEK&type=miui_HMNote3ProtwGlobal&size=1451M&name=04c442630f_6.0.zip){:.btn.btn--primary} |
 
 {% include respo.html %}
 
-MIUI V9.2.4.0.MHOMIEK for Redmi Note 3 Qualcomm [here](/global-stable-miui-924-redmi-note-kenzo-3-fastboot-recovery)
+MIUI V9.2.4.0.MHOMIEK for Redmi Note 3 Qualcomm [here](/global-stable-miui-924-redmi-note-3-kenzo-fastboot-recovery)
 
 And here [List MIUI 9.2 Global Stable](https://mi.knoacc.org/update-rom-miui-92-global-stable-full-changelog){:.btn.btn--primary}
