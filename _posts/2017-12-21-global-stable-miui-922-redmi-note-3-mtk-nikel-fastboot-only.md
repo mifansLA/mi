@@ -13,7 +13,11 @@ tags:
  - Xiaomi nikel
 last_modified_at: 2018-02-23
 ---
-This ROM for Redmi Note 3 MTK. Codename: `nikel`. V9.2.2.0.MBFMIEK Saat ini baru tersedia dalam bentuk {{ page.excerpt }}. Ini karena aslinya Redmi Note 3 Mediatek secara resmi hanya dipasarkan untuk pasar China.
+This ROM for Redmi Note 3 MTK. Codename: `nikel`. V9.2.2.0.MBFMIEK Hanya tersedia dalam bentuk Fastboot ROM mengingat ponsel ini seharusnya hanya untuk pasar China. Namun karena ada distributor di Indonesia yang jual jadi kini pun disediakan ROM GLOBAL dan untuk berganti ROM ke global HARUS memakai MiFlashtool dengan menggunakan ROM Fastboot
+
+![MIUI 9.2 Global Stable](/assets/image/miui-92-stable.jpg)
+
+{{ page.excerpt }}. 
 
 ![MIUI 9.2](/assets/image/miui-92-stable.jpg)
 
