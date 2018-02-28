@@ -19,8 +19,6 @@ This ROM for Redmi Note 3 MTK. Codename: `nikel`. V9.2.2.0.MBFMIEK Hanya tersedi
 
 {{ page.excerpt }}. 
 
-![MIUI 9.2](/assets/image/miui-92-stable.jpg)
-
 | Redmi Note 3 MTK |
 |:------:|
 | [Fastboot 2023M](bigota?ver=V9.2.2.0.MHRMIEK&type=nikel_global_images&size=1.5GBM&name=20171221.0000.00_6.0_global_efe2573052.tgz){:.btn.btn--primary} |
