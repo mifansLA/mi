@@ -109,7 +109,6 @@ Berikut ini adalah tabel device yang mendapat update kali ini hingga 23 Februari
 | V9.2.1.0.NBDMIEK | Mi Max 64G/128G | [Fastboot - Recovery](/global-stable-miui-92-mi-max-helium-fastboot-recovery){:.btn.btn--primary} |
 | V9.2.1.0.NDDMIEK | Mi Max 2 | [Fastboot - Recovery](/global-stable-miui-92-mi-max-2-oxygen-fastboot-recovery){:.btn.btn--primary} |
 | V9.2.4.0.MHOMIEK | Redmi Note 3 Qualcomm | [Fastboot - Recovery](/global-stable-miui-924-redmi-note-3-kenzo-fastboot-recovery){:.btn.btn--primary} |
-| V9.2.2.0.MBFMIEK | Redmi Note 3 MTK | [Fastboot Only](/global-stable-miui-922-redmi-3-mtk-nikel-fastboot-only){:.btn.btn--primary} |
 | V9.2.3.0.KHKMIEK | Redmi Note Prime | [Fastboot - Recovery](/global-stable-miui-923-redmi-note-prime-gucci-fastboot-recovery){:.btn.btn--primary} |
 | V9.2.2.0.NCKMIEK | Redmi 5A | [Fastboot - Recovery](/global-stable-miui-922-redmi-5a-riva-fastboot-recovery){:.btn.btn--primary} |
 | V9.2.1.0.NBGMIEK | Mi 5s Plus | [Fastboot - Recovery](/global-stable-miui-92-mi-5s-plus-natrium-fastboot-recovery){:.btn.btn--primary} |
