@@ -13,6 +13,7 @@ tags:
  - pasang rom miuipro
 author: phateholloway
 ---
+
 Versi MIUI 9 yang muncul pada pertengahan tahun ini memang memberi kejutan pada pengguna Xiaomi. Dengan fitur yang lengkap dan peningkatan performa yang lebih baik dari pada MIUI 8 sebelumnya, para pengguna Xiaomi melakukan update MIUI 9 mereka.
 
 Beberapa waktu sebelumnya mifansLA sudah memberikan update ROM MIUI 9 versi 7.9.7 dilanjut dengan update 7.9.21 dan 7.9.22. Kali ini mifansLA memberikan update ROM MIUI Pro versi terbaru dengan peningkatan performa lebih baik. untuk MIUI Pro versi terbaru saat ini versi 7.10.5. Yang **tidak dipublikasikan** dengan alasan tertentu. Lebih jelasnya bisa di baca [pernyataan official](https://miuipro.by/vazhnaya-informatsiya-2/) di situs miuipro Belarusia.
@@ -71,7 +72,9 @@ Fitur-fitur yang dipunyai MIUI Pro bisa anda lihat secara lengkap dibawah ini:
 
 ### Download :
 
-Untuk link download ROM MIUI PRO untuk masing-masing device silahkan cari dengan meng-klik tautan berikut: [rom miui pro terbaru](/tags/#miui-pro){:.btn} dan cari sesuai dengan tipe ponsel Xiaomi anda.
+Untuk link download ROM MIUI PRO untuk masing-masing device silahkan cari dengan meng-klik tautan berikut: [rom miui pro terbaru](#https://mi.knoacc.org/download-rom-miuipro-beta-update-semua-tipe-ponsel){: rel="color:blue} dan cari sesuai dengan tipe ponsel Xiaomi anda.
+
+**Update:** *Kumpulan MIUIPRO Stable ROM (MIUI V9.2.X)*{: style="color:green"} [download di sini](https://mi.knoacc.org/download-rom-miuipro-v92-update-semua-tipe-ponsel){: style="color:orange"} untuk semua tipe ponsel.
 
 ### Langkah Instalasi:
 
