@@ -1,6 +1,5 @@
 ---
 title: "Native Root-Unroot ★ MIUI V9.2.2.0.KHCMIEK Global Stable ★ Xiaomi Redmi 1S"
-"
 excerpt: "Cara Native Root dan Native Unroot untuk Redmi 1S dengan ROM MIUI V9.2.2.0.KHCMIEK Global Stable"
 header:
  overlay_image: /assets/image/redmi-1s.webp
