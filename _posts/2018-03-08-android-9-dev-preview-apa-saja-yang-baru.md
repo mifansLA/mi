@@ -1,5 +1,5 @@
 ---
-title: "Mengintip Fitur Baru Android 9.0 (Developer Preview)" 
+title: "Intermezo ★ Mengintip Fitur Baru Android 9.0 ★ Developer Preview 1" 
 excerpt: "Android 9.0 Developer Preview sudah di rilis! Fitur apa saja yang baru?"
 header:
  overlay_image: https://www1-lw.xda-cdn.com/files/2018/03/Android-P.png
@@ -14,7 +14,7 @@ tags:
  - Rilis Ansroid 9.0
 ---
 
-Kecuali kamu menggunakan devices Xiaomi terbaru atau mengganti ROM dengan AOSP based, kamu belum bisa mencicipi Android Oreo. Bahkan baru saja beberapa dari kita (MIUI) bisa menikmati android Nougat dalam update MIUI 9, Google sudah mengeluarkan OS Android terbaru-nya dengan codename Android P.
+Kecuali kamu menggunakan devices Xiaomi terbaru atau mengganti ROM dengan AOSP based, kamu belum bisa mencicipi Android Oreo. Bahkan baru saja beberapa dari kita (MIUI) bisa menikmati android Nougat dalam [update MIUI 9](https://mi.knoacc.org//update-rom-miui-92-global-stable-full-changelog), Google sudah mengeluarkan OS Android terbaru-nya dengan codename Android P.
 
 ## Menelanjangi Fitur-fitur Android 9.0
 
