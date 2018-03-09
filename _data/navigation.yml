@@ -1,15 +1,15 @@
 main:
   - title: "MIUI 9 Beta"
-    url: https://mi.knoacc.org//download-miui-global-beta-828-fastboot-recovery
+    url: https://mi.knoacc.org/download-miui-global-beta-838-fastboot-recovery
   - title: "MIUI 9 Stable"
-    url: https://mi.knoacc.org//update-rom-miui-92-global-stable-full-changelog
+    url: https://mi.knoacc.org/update-rom-miui-92-global-stable-full-changelog
   - title: "MIUI Pro Stable"
     url: https://mi.knoacc.org/download-rom-miuipro-v92-update-semua-tipe-ponsel
   - title: "MiFlash Tool"
     url: https://miflashtool.knoacc.org/
   - title: "MiUnlock Tool"
-    url: https://mi.knoacc.org//download-miflash-unlock-tool-2380310
+    url: https://mi.knoacc.org/download-miflash-unlock-tool-2380310
   - title: "Xiaomi Codename"
-    url: https://mi.knoacc.org//codename
+    url: https://mi.knoacc.org/codename
   - title: "Xiaomi Test Point"
-    url: https://mi.knoacc.org//testpoint
+    url: https://mi.knoacc.org/testpoint
