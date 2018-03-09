@@ -20,4 +20,4 @@ permalink: "/miuipro"
 </div>
 {% include miuipro %}
 {% include adsense1.html %}
-{% include flashmiuipro.md. %}
+{% include flashmiuipro.md %}
