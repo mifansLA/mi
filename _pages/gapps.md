@@ -28,85 +28,86 @@ But the problem is it's too many links out there wich make difficult to decide. 
 
 ### GApps Android Oreo 8.1
 
-Note: the links provided is the smallest package, pico and nano package Wich is the most choosed GApps by users.
+Note: the links provided is the smallest variant, pico and nano variant Wich is the most choosed GApps by users.
 
 | Architecture | ARM | ARM64 | X86 | X64 |
-| Package | ✓ | ✓ | ✓ | ✓ |
+| variant | ✓ | ✓ | ✓ | ✓ |
 |---|---|---|---|---|
-| Pico | [download](//gapps.knoacc.org/?download=true&package=pico&arch=arm&api=8.1) | [download](//gapps.knoacc.org/?download=true&package=pico&arch=arm64&api=8.1) | [download](//gapps.knoacc.org/?download=true&package=pico&arch=x86&api=8.1) | [download](//gapps.knoacc.org/?download=true&package=pico&arch=x64&api=8.1) |
-| Nano |[download](//gapps.knoacc.org/?download=true&package=nano&arch=arm&api=8.1) | [download](//gapps.knoacc.org/?download=true&package=nano&arch=arm64&api=8.1) | [download](//gapps.knoacc.org/?download=true&package=nano&arch=x86&api=8.1) | [download](//gapps.knoacc.org/?download=true&package=nano&arch=x64&api=8.1) |
+| Pico | [download](//gapps.knoacc.org/?download=true&variant=pico&arch=arm&api=8.1) | [download](//gapps.knoacc.org/?download=true&variant=pico&arch=arm64&api=8.1) | [download](//gapps.knoacc.org/?download=true&variant=pico&arch=x86&api=8.1) | [download](//gapps.knoacc.org/?download=true&variant=pico&arch=x64&api=8.1) |
+| Nano |[download](//gapps.knoacc.org/?download=true&variant=nano&arch=arm&api=8.1) | [download](//gapps.knoacc.org/?download=true&variant=nano&arch=arm64&api=8.1) | [download](//gapps.knoacc.org/?download=true&variant=nano&arch=x86&api=8.1) | [download](//gapps.knoacc.org/?download=true&variant=nano&arch=x64&api=8.1) |
 
 ### GApps Android Oreo 8.0
 
-Note: the links provided is the smallest package, pico and nano package. Wich is the most choosed GApps by users.
+Note: the links provided is the smallest variant, pico and nano variant. Wich is the most choosed GApps by users.
 
 | Architecture | ARM | ARM64 | X86 | X64 |
-| Package | ✓ | ✓ | ✓ | ✓ |
+| variant | ✓ | ✓ | ✓ | ✓ |
 |---|---|---|---|---|
-| Pico | [download](//gapps.knoacc.org/?download=true&package=pico&arch=arm&api=8.0) | [download](//gapps.knoacc.org/?download=true&package=pico&arch=arm64&api=8.0) | [download](//gapps.knoacc.org/?download=true&package=pico&arch=x86&api=8.0) | [download](//gapps.knoacc.org/?download=true&package=pico&arch=x64&api=8.0) |
-| Nano |[download](//gapps.knoacc.org/?download=true&package=nano&arch=arm&api=8.0) | [download](//gapps.knoacc.org/?download=true&package=nano&arch=arm64&api=8.0) | [download](//gapps.knoacc.org/?download=true&package=nano&arch=x86&api=8.0) | [download](//gapps.knoacc.org/?download=true&package=nano&arch=x64&api=8.0) |
+| Pico | [download](//gapps.knoacc.org/?download=true&variant=pico&arch=arm&api=8.0) | [download](//gapps.knoacc.org/?download=true&variant=pico&arch=arm64&api=8.0) | [download](//gapps.knoacc.org/?download=true&variant=pico&arch=x86&api=8.0) | [download](//gapps.knoacc.org/?download=true&variant=pico&arch=x64&api=8.0) |
+| Nano |[download](//gapps.knoacc.org/?download=true&variant=nano&arch=arm&api=8.0) | [download](//gapps.knoacc.org/?download=true&variant=nano&arch=arm64&api=8.0) | [download](//gapps.knoacc.org/?download=true&variant=nano&arch=x86&api=8.0) | [download](//gapps.knoacc.org/?download=true&variant=nano&arch=x64&api=8.0) |
 
 {% include respo.html %}
 
 ### GApps Android Nougat 7.1
 
-Note: the links provided is the smallest package, pico and nano package. Wich is the most choosed GApps by users.
+Note: the links provided is the smallest variant, pico and nano variant. Wich is the most choosed GApps by users.
 
 | Architecture | ARM | ARM64 | X86 | X64 |
-| Package | ✓ | ✓ | ✓ | ✓ |
+| variant | ✓ | ✓ | ✓ | ✓ |
 |---|---|---|---|---|
-| Pico | [download](//gapps.knoacc.org/?download=true&package=pico&arch=arm&api=7.1) | [download](//gapps.knoacc.org/?download=true&package=pico&arch=arm64&api=7.1) | [download](//gapps.knoacc.org/?download=true&package=pico&arch=x86&api=7.1) | [download](//gapps.knoacc.org/?download=true&package=pico&arch=x64&api=7.1) |
-| Nano |[download](//gapps.knoacc.org/?download=true&package=nano&arch=arm&api=7.1) | [download](//gapps.knoacc.org/?download=true&package=nano&arch=arm64&api=7.1) | [download](//gapps.knoacc.org/?download=true&package=nano&arch=x86&api=7.1) | [download](//gapps.knoacc.org/?download=true&package=nano&arch=x64&api=7.1) |
+| Pico | [download](//gapps.knoacc.org/?download=true&variant=pico&arch=arm&api=7.1) | [download](//gapps.knoacc.org/?download=true&variant=pico&arch=arm64&api=7.1) | [download](//gapps.knoacc.org/?download=true&variant=pico&arch=x86&api=7.1) | [download](//gapps.knoacc.org/?download=true&variant=pico&arch=x64&api=7.1) |
+| Nano |[download](//gapps.knoacc.org/?download=true&variant=nano&arch=arm&api=7.1) | [download](//gapps.knoacc.org/?download=true&variant=nano&arch=arm64&api=7.1) | [download](//gapps.knoacc.org/?download=true&variant=nano&arch=x86&api=7.1) | [download](//gapps.knoacc.org/?download=true&variant=nano&arch=x64&api=7.1) |
+
 
 ### GApps Android Nougat 7.0
 
-Note: the links provided is the smallest package, pico and nano package. Wich is the most choosed GApps by users.
+Note: the links provided is the smallest variant, pico and nano variant. Wich is the most choosed GApps by users.
 
 | Architecture | ARM | ARM64 | X86 | X64 |
-| Package | ✓ | ✓ | ✓ | ✓ |
+| variant | ✓ | ✓ | ✓ | ✓ |
 |---|---|---|---|---|
-| Pico | [download](//gapps.knoacc.org/?download=true&package=pico&arch=arm&api=7.0) | [download](//gapps.knoacc.org/?download=true&package=pico&arch=arm64&api=7.0) | [download](//gapps.knoacc.org/?download=true&package=pico&arch=x86&api=7.0) | [download](//gapps.knoacc.org/?download=true&package=pico&arch=x64&api=7.0) |
-| Nano |[download](//gapps.knoacc.org/?download=true&package=nano&arch=arm&api=7.0) | [download](//gapps.knoacc.org/?download=true&package=nano&arch=arm64&api=7.0) | [download](//gapps.knoacc.org/?download=true&package=nano&arch=x86&api=7.0) | [download](//gapps.knoacc.org/?download=true&package=nano&arch=x64&api=7.0) |
+| Pico | [download](//gapps.knoacc.org/?download=true&variant=pico&arch=arm&api=7.0) | [download](//gapps.knoacc.org/?download=true&variant=pico&arch=arm64&api=7.0) | [download](//gapps.knoacc.org/?download=true&variant=pico&arch=x86&api=7.0) | [download](//gapps.knoacc.org/?download=true&variant=pico&arch=x64&api=7.0) |
+| Nano |[download](//gapps.knoacc.org/?download=true&variant=nano&arch=arm&api=7.0) | [download](//gapps.knoacc.org/?download=true&variant=nano&arch=arm64&api=7.0) | [download](//gapps.knoacc.org/?download=true&variant=nano&arch=x86&api=7.0) | [download](//gapps.knoacc.org/?download=true&variant=nano&arch=x64&api=7.0) |
 
 ### GApps Android Marshmallow 6.0
 
-Note: the links provided is the smallest package, pico and nano package. Wich is the most choosed GApps by users.
+Note: the links provided is the smallest variant, pico and nano variant. Wich is the most choosed GApps by users.
 
 | Architecture | ARM | ARM64 | X86 | X64 |
-| Package | ✓ | ✓ | ✓ | ✓ |
+| variant | ✓ | ✓ | ✓ | ✓ |
 |---|---|---|---|---|
-| Pico | [download](//gapps.knoacc.org/?download=true&package=pico&arch=arm&api=6.0) | [download](//gapps.knoacc.org/?download=true&package=pico&arch=arm64&api=6.0) | [download](//gapps.knoacc.org/?download=true&package=pico&arch=x86&api=6.0) | [download](//gapps.knoacc.org/?download=true&package=pico&arch=x64&api=6.0) |
-| Nano |[download](//gapps.knoacc.org/?download=true&package=nano&arch=arm&api=6.0) | [download](//gapps.knoacc.org/?download=true&package=nano&arch=arm64&api=6.0) | [download](//gapps.knoacc.org/?download=true&package=nano&arch=x86&api=6.0) | [download](//gapps.knoacc.org/?download=true&package=nano&arch=x64&api=6.0) |
+| Pico | [download](//gapps.knoacc.org/?download=true&variant=pico&arch=arm&api=6.0) | [download](//gapps.knoacc.org/?download=true&variant=pico&arch=arm64&api=6.0) | [download](//gapps.knoacc.org/?download=true&variant=pico&arch=x86&api=6.0) | [download](//gapps.knoacc.org/?download=true&variant=pico&arch=x64&api=6.0) |
+| Nano |[download](//gapps.knoacc.org/?download=true&variant=nano&arch=arm&api=6.0) | [download](//gapps.knoacc.org/?download=true&variant=nano&arch=arm64&api=6.0) | [download](//gapps.knoacc.org/?download=true&variant=nano&arch=x86&api=6.0) | [download](//gapps.knoacc.org/?download=true&variant=nano&arch=x64&api=6.0) |
 
 ### GApps Android Lollipop 5.1
 
-Note: the links provided is the smallest package, pico and nano package. Wich is the most choosed GApps by users.
+Note: the links provided is the smallest variant, pico and nano variant. Wich is the most choosed GApps by users.
 
 | Architecture | ARM | ARM64 | X86 | X64 |
-| Package | ✓ | ✓ | ✓ | ✓ |
+| variant | ✓ | ✓ | ✓ | ✓ |
 |---|---|---|---|---|
-| Pico | [download](//gapps.knoacc.org/?download=true&package=pico&arch=arm&api=5.1) | [download](//gapps.knoacc.org/?download=true&package=pico&arch=arm64&api=5.1) | [download](//gapps.knoacc.org/?download=true&package=pico&arch=x86&api=5.1) | [download](//gapps.knoacc.org/?download=true&package=pico&arch=x64&api=5.1) |
-| Nano |[download](//gapps.knoacc.org/?download=true&package=nano&arch=arm&api=5.1) | [download](//gapps.knoacc.org/?download=true&package=nano&arch=arm64&api=5.1) | [download](//gapps.knoacc.org/?download=true&package=nano&arch=x86&api=5.1) | [download](//gapps.knoacc.org/?download=true&package=nano&arch=x64&api=5.1) |
+| Pico | [download](//gapps.knoacc.org/?download=true&variant=pico&arch=arm&api=5.1) | [download](//gapps.knoacc.org/?download=true&variant=pico&arch=arm64&api=5.1) | [download](//gapps.knoacc.org/?download=true&variant=pico&arch=x86&api=5.1) | [download](//gapps.knoacc.org/?download=true&variant=pico&arch=x64&api=5.1) |
+| Nano |[download](//gapps.knoacc.org/?download=true&variant=nano&arch=arm&api=5.1) | [download](//gapps.knoacc.org/?download=true&variant=nano&arch=arm64&api=5.1) | [download](//gapps.knoacc.org/?download=true&variant=nano&arch=x86&api=5.1) | [download](//gapps.knoacc.org/?download=true&variant=nano&arch=x64&api=5.1) |
 
 ### GApps Android Lollipop 5.0
 
-Note: the links provided is the smallest package, pico and nano package. Wich is the most choosed GApps by users.
+Note: the links provided is the smallest variant, pico and nano variant. Wich is the most choosed GApps by users.
 
 | Architecture | ARM | ARM64 | X86 | X64 |
-| Package | ✓ | ✓ | ✓ | ✓ |
+| variant | ✓ | ✓ | ✓ | ✓ |
 |---|---|---|---|---|
-| Pico | [download](//gapps.knoacc.org/?download=true&package=pico&arch=arm&api=5.0) | [download](//gapps.knoacc.org/?download=true&package=pico&arch=arm64&api=5.0) | [download](//gapps.knoacc.org/?download=true&package=pico&arch=x86&api=5.0) | [download](//gapps.knoacc.org/?download=true&package=pico&arch=x64&api=5.0) |
-| Nano |[download](//gapps.knoacc.org/?download=true&package=nano&arch=arm&api=5.0) | [download](//gapps.knoacc.org/?download=true&package=nano&arch=arm64&api=5.0) | [download](//gapps.knoacc.org/?download=true&package=nano&arch=x86&api=5.0) | [download](//gapps.knoacc.org/?download=true&package=nano&arch=x64&api=5.0) |
+| Pico | [download](//gapps.knoacc.org/?download=true&variant=pico&arch=arm&api=5.0) | [download](//gapps.knoacc.org/?download=true&variant=pico&arch=arm64&api=5.0) | [download](//gapps.knoacc.org/?download=true&variant=pico&arch=x86&api=5.0) | [download](//gapps.knoacc.org/?download=true&variant=pico&arch=x64&api=5.0) |
+| Nano |[download](//gapps.knoacc.org/?download=true&variant=nano&arch=arm&api=5.0) | [download](//gapps.knoacc.org/?download=true&variant=nano&arch=arm64&api=5.0) | [download](//gapps.knoacc.org/?download=true&variant=nano&arch=x86&api=5.0) | [download](//gapps.knoacc.org/?download=true&variant=nano&arch=x64&api=5.0) |
 
 ### GApps Android Kitkat 4.4
 
-Note: the links provided is the smallest package, pico and nano package. Wich is the most choosed GApps by users.
+Note: the links provided is the smallest variant, pico and nano variant. Wich is the most choosed GApps by users.
 
 | Architecture | ARM | ARM64 | X86 | X64 |
-| Package | ✓ | x | x | x |
+| variant | ✓ | x | x | x |
 |---|---|---|---|---|
-| Pico | [download](//gapps.knoacc.org/?download=true&package=pico&arch=arm&api=4.4) | [download](//gapps.knoacc.org/?download=true&package=pico&arch=arm64&api=4.4) | [download](//gapps.knoacc.org/?download=true&package=pico&arch=x86&api=4.4) | [download](//gapps.knoacc.org/?download=true&package=pico&arch=x64&api=4.4) |
-| Nano |[download](//gapps.knoacc.org/?download=true&package=nano&arch=arm&api=4.4) | [download](//gapps.knoacc.org/?download=true&package=nano&arch=arm64&api=4.4) | [download](//gapps.knoacc.org/?download=true&package=nano&arch=x86&api=4.4) | [download](//gapps.knoacc.org/?download=true&package=nano&arch=x64&api=4.4) |
+| Pico | [download](//gapps.knoacc.org/?download=true&variant=pico&arch=arm&api=4.4) | [download](//gapps.knoacc.org/?download=true&variant=pico&arch=arm64&api=4.4) | [download](//gapps.knoacc.org/?download=true&variant=pico&arch=x86&api=4.4) | [download](//gapps.knoacc.org/?download=true&variant=pico&arch=x64&api=4.4) |
+| Nano |[download](//gapps.knoacc.org/?download=true&variant=nano&arch=arm&api=4.4) | [download](//gapps.knoacc.org/?download=true&variant=nano&arch=arm64&api=4.4) | [download](//gapps.knoacc.org/?download=true&variant=nano&arch=x86&api=4.4) | [download](//gapps.knoacc.org/?download=true&variant=nano&arch=x64&api=4.4) |
 
 ## How to Install GAPPS
 
