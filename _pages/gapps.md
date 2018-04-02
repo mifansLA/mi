@@ -121,8 +121,10 @@ Note: the links provided is the smallest variant, pico and nano variant. Wich is
 
 Yes, you're now have Google on your phone whatever ROM you're using now. Congratuilations.  Enjoying this post? Just share to your friends.
 
-> Installing GApps tends to be problematic: in order to try to avoid installation issues, be sure to install GApps immediately after installing the ROM, before booting the system for the first time.{:.info}
-> MAYBE NEEDED (CHECK THE GAPPS XDA THREAD FOR MORE INFORMATION): After the initial bootup finished, be sure to go into Settings -> Apps, and grant every permission to every Google application - most importantly, Google Play services. In the case of an upgrade you also might need to re-install the GApps package, as upgrading wipes /system. You shouldn't need to re-set the permissions afterwards.{:.warning}
-> ONE MORE NOTE: DO NOT set up your Google account until you grant all permissions, otherwise you will be stuck on the initial setup.{:.danger}
+> Installing GApps tends to be problematic: in order to try to avoid installation issues, be sure to install GApps immediately after installing the ROM, before booting the system for the first time.
+
+> MAYBE NEEDED (CHECK THE GAPPS XDA THREAD FOR MORE INFORMATION): After the initial bootup finished, be sure to go into Settings -> Apps, and grant every permission to every Google application - most importantly, Google Play services. In the case of an upgrade you also might need to re-install the GApps package, as upgrading wipes /system. You shouldn't need to re-set the permissions afterwards.
+
+> ONE MORE NOTE: DO NOT set up your Google account until you grant all permissions, otherwise you will be stuck on the initial setup.
 
 {% include adsense2.html %}
