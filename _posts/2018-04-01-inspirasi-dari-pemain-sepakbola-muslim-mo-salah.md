@@ -2,8 +2,8 @@
 title: "Intermezo ★ Inspirasi Dari Pemain Sepak Bola Muslim"
 excerpt: "Sebuah inspirasi dari akhlak pemain sepak bola Muslim: Mo Salah, yang bermain di Liga Primer Inggris"
 header:
- overlay_image: "/Mo-Salah-31-03-2018.jpg"
- teaser: "/Mo-Salah-03-04-2018.jpg"
+ overlay_image: "/assets/image/Mo-Salah-31-03-2018.jpg"
+ teaser: "/assets/image/Mo-Salah-03-04-2018.jpg"
 categories:
  - intermezo
  - misport
@@ -26,7 +26,7 @@ tags:
 - Menyumbang sekitar Rp. 40 juta setiap bulan untuk santunan fakir miskin di tanah kelahirannya.
 - Memberikan 31 alat bantu pendengaran untuk 31 penderita tuli, yang harga satuannya Rp 40 juta.
 
-![Mo Salah - Liverpool FC](/Mo-Salah-04-03-2018.jpg)
+![Mo Salah - Liverpool FC](/assets/image/Mo-Salah-04-03-2018.jpg)
 
 ~ Setiap ia mencetak gol ia mengungkapkan syukurnya dengan menyembelih seekor sapi untuk dibagikan kepada fakir miskin..
 
