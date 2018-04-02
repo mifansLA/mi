@@ -1,9 +1,9 @@
 ---
 title: "Intermezo ★ Inspirasi Dari Pemain Sepak Bola Muslim"
-exverpt: "Sebuah inspirasi dari akhlak pemain sepak bola Muslim: Mo Salah, yang bermain di Liga Primer Inggris"
+excerpt: "Sebuah inspirasi dari akhlak pemain sepak bola Muslim: Mo Salah, yang bermain di Liga Primer Inggris"
 header:
  overlay_image: "/Mo-Salah-31-03-2018.jpg"
- teaser: "/Mo-Salah-04-03-2018.jpg"
+ teaser: "/Mo-Salah-03-04-2018.jpg"
 categories:
  - intermezo
  - misport
