@@ -59,8 +59,8 @@ Below are instructions on how to change your DNS settings for Windows and Mac, a
 - Select Internet Protocol Version 4 (or Version 6 if desired).
 - Click Properties.Write down any existing DNS server entries for future reference.Click Use The Following DNS Server Addresses.
 - Replace those addresses with the 1.1.1.1 DNS addresses: 
-..- For IPv4: `1.1.1.1` and `1.0.0.1`
-..- For IPv6: `2606:4700:4700::1111` and `2606:4700:4700::1001`
+  * For IPv4: `1.1.1.1` and `1.0.0.1`
+  * For IPv6: `2606:4700:4700::1111` and `2606:4700:4700::1001`
 
 {% include adsense1.html %}
 
@@ -92,8 +92,8 @@ Click OK, then Close.Restart your browser.
 - In your router’s configuration page, locate the DNS server settings.
 - Write down any existing DNS server entries for future reference.
 - Replace those addresses with the 1.1.1.1 DNS addresses: 
-..- For IPv4: `1.1.1.1` and `1.0.0.1`
-..- For IPv6: `2606:4700:4700::1111` and `2606:4700:4700::1001`
+  * For IPv4: `1.1.1.1` and `1.0.0.1`
+  * For IPv6: `2606:4700:4700::1111` and `2606:4700:4700::1001`
 - Save your settings, then restart your browser.
 
 Using a custom DNS on your Android device may require you to use a static IP address. Because of this, Cloudflare recommends changing the DNS settings on your home router instead. To do so, you’ll need to enter your router’s gateway IP, login and adjust the settings from there. If you wanted to use Cloudflare’s DNS on your home network, this would be the way to go anyway. (If you don’t know how to login to your home router, just call your ISP and ask.)
