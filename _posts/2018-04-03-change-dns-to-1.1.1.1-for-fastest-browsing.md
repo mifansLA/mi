@@ -15,13 +15,13 @@ tags:
 ---
 Cloudflare has launched its own consumer Domain Name System (DNS) service that not only promises to keep your browsing history safe, but appears significantly faster than any other DNS service available.
 
-### Newest yet Fastest DNS Resolver
+## Newest yet Fastest DNS Resolver
 
 Cloudflare, known primarily for DDoS mitigation, launched DNS resolver 1.1.1.1 and 1.0.0.1 on Sunday and, at time of writing, analytics show it processing queries at 14.01ms, officially making it in the internet’s fastest DNS resolver.
 
 {% include respo.html %}
 
-### What the Benefits of Changing DNS
+## What the Benefits of Changing DNS
 
 DNS services are an essential component of the internet, translating IP addresses into easy-to-remember names like “mi.knoacc.org.” Until yesterday, **OpenDNS was the fastest service** to do this, clocking in at around 20.6 ms per query (global average). The difference between 14 ms and 20 ms might seem negligible, but those fractions of a second add up quickly over time and your workflow will inevitably benefit.
 
@@ -43,7 +43,7 @@ Prince said Cloudflare will also bring in an external monitor to certify that it
 
 The FCC rule change was a major setback in terms of consumer privacy. Those using the DNS services set by their ISPs can have their browsing history recorded, sold, and analyzed for advertising purposes. There are several ways to prevent this, but most involve using a VPN or the Tor browser, both of which can impact speed. There’s also no guarantee that a VPN service isn’t amassing your data itself. (If you’re looking for a reliable VPN, however, I’d suggest _Private Internet Access_ or _ProtonVPN_.)
 
-### How To Change DNS resolver?
+## How To Change DNS resolver?
 
 For non-technical users who’ve never changed their DNS settings, it may seem like one of those unfamiliar options you’d rather not mess around with. But it’s actually quite simple and takes only a few seconds—and, as you’ve read, the benefits can be significant. 
 
@@ -51,20 +51,22 @@ For non-technical users who’ve never changed their DNS settings, it may seem l
 
 Below are instructions on how to change your DNS settings for Windows and Mac, as well as iPhone and Android devices.
 
-#### Windows
+### Windows
 
 - Click on the Start menu, then click on Control Panel.
 - Click on Network and Internet.Click on Change Adapter Settings.
 - Right click on the Wi-Fi network you are connected to, then click Properties.
 - Select Internet Protocol Version 4 (or Version 6 if desired).
 - Click Properties.Write down any existing DNS server entries for future reference.Click Use The Following DNS Server Addresses.
-- Replace those addresses with the 1.1.1.1 DNS addresses: For IPv4: 1.1.1.1 and 1.0.0.1; for IPv6: 2606:4700:4700::1111 and 2606:4700:4700::1001
+- Replace those addresses with the 1.1.1.1 DNS addresses: 
+  - For IPv4: `1.1.1.1` and `1.0.0.1`
+  - For IPv6: `2606:4700:4700::1111` and `2606:4700:4700::1001`
 
 {% include adsense1.html %}
 
 Click OK, then Close.Restart your browser.
 
-#### MacOS
+### MacOS
 
 - Open System Preferences.
 - Search for DNS Servers and select it from the dropdown.
@@ -72,7 +74,7 @@ Click OK, then Close.Restart your browser.
 - Click + again and enter 1.0.0.1(This is for redundancy.)
 - Click Ok, then click Apply.
 
-#### iPhone
+### iPhone
 
 - From your iPhone’s home screen, open the Settings app.
 - Tap Wi-Fi, then tap your preferred network in the list.Tap Configure DNS, then tap Manual.
@@ -81,7 +83,7 @@ Click OK, then Close.Restart your browser.
 - Tap the + Add Server button again, then type 1.0.0.1. (Again, this is for redundancy.)
 - Tap the Save button on the top right.
 
-#### Android
+### Android
 
 - Connect to your preferred wireless network.
 - Enter your router’s gateway IP address in your browser.
@@ -89,9 +91,10 @@ Click OK, then Close.Restart your browser.
 
 - In your router’s configuration page, locate the DNS server settings.
 - Write down any existing DNS server entries for future reference.
-- Replace those addresses with the 1.1.1.1 DNS addresses: For IPv4: 1.1.1.1 and 1.0.0.1; for IPv6: 2606:4700:4700::1111 and 2606:4700:4700::1001
-
-Save your settings, then restart your browser.
+- Replace those addresses with the 1.1.1.1 DNS addresses: 
+  - For IPv4: `1.1.1.1` and `1.0.0.1`
+  - For IPv6: `2606:4700:4700::1111` and `2606:4700:4700::1001`
+- Save your settings, then restart your browser.
 
 Using a custom DNS on your Android device may require you to use a static IP address. Because of this, Cloudflare recommends changing the DNS settings on your home router instead. To do so, you’ll need to enter your router’s gateway IP, login and adjust the settings from there. If you wanted to use Cloudflare’s DNS on your home network, this would be the way to go anyway. (If you don’t know how to login to your home router, just call your ISP and ask.)
 
