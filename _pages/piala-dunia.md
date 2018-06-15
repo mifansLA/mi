@@ -7,6 +7,7 @@ Spanyol vs Portugal
 <div style="width:100%;text-align:center">
 <video control><source src="https://mixer.com/api/v1/channels/39927539/manifest.m3u8?accessKey=39927539-a6ryhjj8byihevabb1l9t7wt6t4lg7kf" type="video/mp4"/>
 <!--source src="https://mixer.com/api/v1/channels/39927539/manifest.m3u8?accessKey=39927539-a6ryhjj8byihevabb1l9t7wt6t4lg7kf" type="video/ogg"/-->
+ kode streaming tidak didukung di browser kamu, <a href="http://go.knoacc.org/7I">klik disini</a> untuk nonton di link sumber.
 </video>
 </div>
 <!--
