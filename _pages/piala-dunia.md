@@ -27,4 +27,4 @@ Untuk alternatif, versi lite tanpa iklan:
 
 **MX Player Lite Mod no ads for X86** 
 
-[download apk](https://mi.knoacc.org/dl/pcloud?code=XZ9NVf7ZNH607ykjWAbRw9KCTj2nCLP9pBYX&size=13.33MB&name=name=MX_Player_1.9.22_x86_Lite.apk){:.btn.btn--primary} | [mirror](https://mi.knoacc.org/dl/any?dom=uplod.org&code=wpjc5y3tg6km&size=13.33Mb&name=MX_Player_1.9.22_x86_Lite.apk){:.btn.btn--primary}
+[download apk](https://mi.knoacc.org/dl/pcloud?code=XZ9NVf7ZNH607ykjWAbRw9KCTj2nCLP9pBYX&size=13.33MB&name=MX_Player_1.9.22_x86_Lite.apk){:.btn.btn--primary} | [mirror](https://mi.knoacc.org/dl/any?dom=uplod.org&code=wpjc5y3tg6km&size=13.33Mb&name=MX_Player_1.9.22_x86_Lite.apk){:.btn.btn--primary}
