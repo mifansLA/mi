@@ -12,7 +12,7 @@ header:
   Your browser does not support the video tag.
 </video>
 
-Jika video tidak muncul dalam 10 detik, kamu bisa menonton streaming Piala Dunia 2018 ini dengan menggunakan MX Player Pro yang bisa kamu unduh [dari sini](https://mi.knoacc.org/dl/any?dom=uplod.org&code=3d09q8nwhfg0&size=16.09Mb&name=MX_Player_Pro_1.9.24.apk). 
+Jika video tidak muncul dalam 10 detik, kamu bisa menonton streaming Piala Dunia 2018 ini dengan menggunakan MX Player Pro yang bisa kamu unduh [di sini](https://mi.knoacc.org/dl/pcloud?code=XZMNVf7ZzNO2agDx7ybreqCVq3oPvhMufPMV&size=16.09MB&name=MX_Player_Pro_1.9.24.apk) atau [dari sini](https://mi.knoacc.org/dl/any?dom=uplod.org&code=3d09q8nwhfg0&size=16.09Mb&name=MX_Player_Pro_1.9.24.apk). 
 
 **Caranya:**
 
@@ -21,7 +21,11 @@ Jika video tidak muncul dalam 10 detik, kamu bisa menonton streaming Piala Dunia
 - pilih aplikasi mx player  
 <!-- do not parse -->
 
-Alternatif aplikasi
+Alternatif, versi lite tanpa iklan:
 
-- [MX Player Lite Mod no ads for ARM](https://mi.knoacc.org/dl/any?dom=uplod.org&code=njm5cw16ll63&size=12.13Mb&name=MX_Player_1.9.22_Lite.apk)
-- [MX Player Lite Mod no ads for X86](https://mi.knoacc.org/dl/any?dom=uplod.org&code=wpjc5y3tg6km&size=13.33Mb&name=MX_Player_1.9.22_x86_Lite.apk)
+| **MX Player Lite Mod no ads | for ARM** |
+| [download apk](https://mi.knoacc.org/dl/pcloud?code=XZuNVf7ZKfkfn7HIqh0Y46eaFgawJQrYnOEy&size=12.13MB&name=MX_Player_1.9.22_Lite.apk) | [mirror](https://mi.knoacc.org/dl/any?dom=uplod.org&code=njm5cw16ll63&size=12.13Mb&name=MX_Player_1.9.22_Lite.apk) |
+
+| **MX Player Lite Mod no ads | for X86** |
+| 
+[download apk](https://mi.knoacc.org/dl/pcloud?code=XZ9NVf7ZNH607ykjWAbRw9KCTj2nCLP9pBYX&size=13.33MB&name=name=MX_Player_1.9.22_x86_Lite.apk) | [mirror](https://mi.knoacc.org/dl/any?dom=uplod.org&code=wpjc5y3tg6km&size=13.33Mb&name=MX_Player_1.9.22_x86_Lite.apk) |
