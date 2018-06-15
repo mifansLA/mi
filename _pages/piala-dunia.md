@@ -24,8 +24,8 @@ Jika video tidak muncul dalam 10 detik, kamu bisa menonton streaming Piala Dunia
 Alternatif, versi lite tanpa iklan:
 
 | **MX Player Lite Mod** | **no ads for ARM** |
-| [download apk](https://mi.knoacc.org/dl/pcloud?code=XZuNVf7ZKfkfn7HIqh0Y46eaFgawJQrYnOEy&size=12.13MB&name=MX_Player_1.9.22_Lite.apk){:.btn--primary} | [mirror](https://mi.knoacc.org/dl/any?dom=uplod.org&code=njm5cw16ll63&size=12.13Mb&name=MX_Player_1.9.22_Lite.apk){:.btn--primary} |
+| [download apk](https://mi.knoacc.org/dl/pcloud?code=XZuNVf7ZKfkfn7HIqh0Y46eaFgawJQrYnOEy&size=12.13MB&name=MX_Player_1.9.22_Lite.apk){:.btn.btn--primary} | [mirror](https://mi.knoacc.org/dl/any?dom=uplod.org&code=njm5cw16ll63&size=12.13Mb&name=MX_Player_1.9.22_Lite.apk){:.btn.btn--primary} |
 
 | **MX Player Lite Mod** | **no ads for X86** |
 | 
-[download apk](https://mi.knoacc.org/dl/pcloud?code=XZ9NVf7ZNH607ykjWAbRw9KCTj2nCLP9pBYX&size=13.33MB&name=name=MX_Player_1.9.22_x86_Lite.apk){:.btn--primary} | [mirror](https://mi.knoacc.org/dl/any?dom=uplod.org&code=wpjc5y3tg6km&size=13.33Mb&name=MX_Player_1.9.22_x86_Lite.apk){:.btn--primary} |
+[download apk](https://mi.knoacc.org/dl/pcloud?code=XZ9NVf7ZNH607ykjWAbRw9KCTj2nCLP9pBYX&size=13.33MB&name=name=MX_Player_1.9.22_x86_Lite.apk){:.btn.btn--primary} | [mirror](https://mi.knoacc.org/dl/any?dom=uplod.org&code=wpjc5y3tg6km&size=13.33Mb&name=MX_Player_1.9.22_x86_Lite.apk){:.btn.btn--primary} |
