@@ -21,3 +21,7 @@ Jika video tidak muncul dalam 10 detik, kamu bisa menonton streaming Piala Dunia
 - pilih aplikasi mx player  
 <!-- do not parse -->
 
+Alternatif aplikasi
+
+- [MX Player Lite Mod no ads for ARM](https://mi.knoacc.org/dl/any?dom=uplod.org&code=njm5cw16ll63&size=12.13Mb&name=MX_Player_1.9.22_Lite.apk)
+- [MX Player Lite Mod no ads for X86](https://mi.knoacc.org/dl/any?dom=uplod.org&code=wpjc5y3tg6km&size=13.33Mb&name=MX_Player_1.9.22_x86_Lite.apk)
