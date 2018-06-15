@@ -1,4 +1,10 @@
 main:
+  - title: "Piala Dunia 2018"
+    url: https://mi.knoacc.org/piala-dunia-2018
+  - title: "MIUI 10 Beta"
+    url: https://mi.knoacc.org/miui-10-global-beta
+  - title: "MIUI 10 Stable"
+    url: https://mi.knoacc.org/miui-10-global-stable
   - title: "MIUI 9 Beta"
     url: https://mi.knoacc.org/download-miui-global-beta-838-fastboot-recovery
   - title: "MIUI 9 Stable"
