@@ -7,7 +7,7 @@ header:
  caption: World Cup 2018
 ---
 <video autoplay controls height="250" poster="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/2018_FIFA_World_Cup.svg/544px-2018_FIFA_World_Cup.svg.png" width="100%">
-  <source src="https://mixer.com/api/v1/channels/39927539/manifest.m3u8?accessKey=39930023-y9ctevkaotivjcqa8f7uubyns8rsx5qa" type="video/mp4"></source>
+  <source src="https://mixer.com/api/v1/channels/32335806/manifest.m3u8" type="video/mp4"></source>
 Browser kamu tidak support atau hape kamu murahan!
 </video>
 {% include adsense1.html %}
