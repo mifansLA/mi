@@ -8,7 +8,7 @@ header:
 ---
 <center>HD Streaming</center>
 <video autoplay controls height="250" poster="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/2018_FIFA_World_Cup.svg/544px-2018_FIFA_World_Cup.svg.png" width="100%">
-<source src="https://live.cdn.asset.aparat.com/astv1/edge/tv3_high/index.m3u8?wmsAuthSign=618ec5a28a2ec620ac62d63c3f7124bd">type="video/mp4"></source>
+<source src="https://live.cdn.asset.aparat.com/astv1/edge/tv3_high/index.m3u8?wmsAuthSign=618ec5a28a2ec620ac62d63c3f7124bd"></source>
 Browser kamu tidak support atau hape kamu murahan!
 </video>
 cek juga: [Streaming kualitas medium Piala Dunia 2018](https://mi.knoacc.org/piala-dunia-2018)
