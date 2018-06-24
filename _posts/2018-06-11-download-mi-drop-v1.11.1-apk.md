@@ -2,7 +2,7 @@
 title: Resources ★ Update Aplikasi Berbagi File Mi Drop V.1.11.1 ★ APK
 excerpt: Download Mi Drop APK v1.11.1 versi terbaru
 header:
- image: https://i0.wp.xom/img.gizchina.com/2018/01/Xiaomi-Mi-Drop-1024x576.jpg?resize=640,320
+ image: https://i0.wp.com/img.gizchina.com/2018/01/Xiaomi-Mi-Drop-1024x576.jpg?resize=640,320
  caption: aplikasi berbagi file bebas iklan
 ---
 
