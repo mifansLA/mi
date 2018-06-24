@@ -22,6 +22,6 @@ Greetings from MIUI Global Forum. As you know, Mi Drop App has been released as 
 - Apk package is smaller and the page view has optimized   
 
 ### Mi Drop Version 1.1.11 Download 
-1) Download **Mi Drop v 1.11.1.apk 5 MB** [here](http://en.miui.com/forum.php?mod=attachment&aid=NDI0ODczNHxjNzcxYjIwY3wxNTI5ODY1NzAzfDIzODU0NTg0OXwyODE5MjIx&ck=673c84e5) or [here](/dl/pcloud?code=x&size=5MB&name=MiDropV.1.11.1.apk)
+1) Download **Mi Drop v 1.11.1.apk 5 MB** [here](http://en.miui.com/forum.php?mod=attachment&aid=NDI0ODczNHxjNzcxYjIwY3wxNTI5ODY1NzAzfDIzODU0NTg0OXwyODE5MjIx&ck=673c84e5) or [here](/dl/pcloud?code=XZY4xf7ZTAyEJev3pn0xFNs5uoMPuHoAmrjy&size=5.4MB&name=MiDropV.1.11.1.apk)
 
 2) Get it on [Google Play Store](https://play.google.com/store/apps/details?id=com.xiaomi.midrop&hl=en)
