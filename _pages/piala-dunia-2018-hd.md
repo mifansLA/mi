@@ -3,7 +3,7 @@ title: Nonton Piala Dunia 2018 Streaming HD
 permalink: "/piala-dunia-2018-hd"
 excerpt: Nonton Streaming HD Piala Dunia 2018 bareng MiFans Lamongan
 header:
- image: https://upload.wikimedia.org/wikipedia/en/thumb/6/67/2018_FIFA_World_Cup.svg/544px-2018_FIFA_World_Cup.svg.png
+ image: https://i0.wp.com/gilabola.com/wp-content/uploads/2018/02/Jadwal-Piala-Dunia-2018-1068x601.jpg?resize=720,360
  caption: World Cup 2018
 ---
 <center>HD Streaming</center>
