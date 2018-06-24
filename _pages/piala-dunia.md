@@ -8,7 +8,7 @@ header:
 ---
 <center>Medium Quality Streaming</center>
 <video autoplay controls height="auto" poster="https://i0.wp.com/gilabola.com/wp-content/uploads/2018/02/Jadwal-Piala-Dunia-2018-1068x601.jpg" width="100%">
-<source src="https://mixer.com/api9v1/channels/32335806/manifest.m3u8" type="video/mp4"></source>
+<source src="http://209.97.161.78:1935/sagahtvon/lives/playlist.m3u8" type="video/mp4"></source>
 Browser kamu tidak support atau hape kamu murahan!
 </video>
 Mau **nonton piala dunia 2018** dengan kualitas bagus? Cek [streaming kualitas HD](https://mi.knoacc.org/piala-dunia-2018-hd)
