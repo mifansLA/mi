@@ -3,7 +3,7 @@ title: Resources ★ Mi Browser Aplikasi Bawaan ROM MIUI ★ APK
 header:
  image: https://i0.wp.com/st1.bgr.in/wp-content/uploads/2018/05/Xiaomi-MIUI-10-feat.jpg?resize=600,300
  caption: Mi Browser APK terbaru
-excerpt: download aplikasi browser bawaan MIUI: Mi Browser v9.8.0 apk terbaru
+excerpt: download aplikasi browser bawaan MIUI, Mi Browser v9.8.0 apk terbaru
 ---
 Mi Browser, aplikasi yang terpasang secara default dalam rom MIUI. Bisa dipasang secara manual jika karena satu atau lain hal browser ini hilang. Untuk versi terbaru sekarang adalah **Mi Browser** versi _9.8.0_
 
