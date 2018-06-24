@@ -17,9 +17,9 @@ Jika video tidak muncul dalam 15 detik, kamu bisa menonton [streaming Piala Duni
 
 **Caranya:**
 
-- klik link [Stream Now](http://go.knoacc.org/7J).
+- klik link Stream [Now 1](http://ad.knoacc.org/48) atau [Now 2](http://ad.knoacc.org/49)
 - klik skip ad
-- pilih aplikasi mx player  
+- pilih aplikasi MX Player
 <!-- do not parse -->
 
 Untuk alternatif, versi lite tanpa iklan:
