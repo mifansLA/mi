@@ -11,13 +11,6 @@ header:
 Browser kamu tidak support atau hape kamu murahan!
 </video>
 {% include adsense1.html %}
-Streaming Piala Dunia 2018 untuk Pertandingan berikut:
-- K.O 1:00 19-Juni-0218 **Tunisia vs England** [live streaming]
-(https://mixer.com/api/v1/channels/32335806/manifest.m3u8)
-- K.O 19:00 18-Juni-2018 **Sweden** vs **Korea Republic** in [live streaming](
-https://mixer.com/api/v1/channels/32335806/manifest.m3u8)
-- K.O 22:00 **Belgium** vs **Panama** in [live streaming](https://mixer.com/api/v1/channels/32335806/manifest.m3u8)
-
 Jika video tidak muncul dalam 15 detik, kamu bisa menonton [streaming Piala Dunia 2018](https://mi.knoacc.org/piala-dunia-2018) ini dengan menggunakan aplikasi **MX Player Pro** yang bisa kamu unduh [di sini](https://mi.knoacc.org/dl/pcloud?code=XZMNVf7ZzNO2agDx7ybreqCVq3oPvhMufPMV&size=16.09MB&name=MX_Player_Pro_1.9.24.apk) atau [dari sini](https://mi.knoacc.org/dl/any?dom=uplod.org&code=3d09q8nwhfg0&size=16.09Mb&name=MX_Player_Pro_1.9.24.apk). 
 
 **Caranya:**
