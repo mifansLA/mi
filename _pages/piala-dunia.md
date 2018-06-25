@@ -10,8 +10,8 @@ Karena di gelar bersamaan, di halaman ini terdapat dua channel berbeda untuk men
 
 ### Channel 1 Live Streaming World Cup 2018
 
-<video autoplay controls height="auto" poster="https://dummyimage.com/600x300/000/fff.jpg&text=Saudi+Arabia+vs+Mesir+K.O.+21.00+WIB" width="100%"><source src="https://match3.sagahtv.xyz:1936/chanel2/lives/playlist.m3u8" type="video/mp4"><source></video>
-Saudi Arabia vs Egypt K.O. 21.00 WIB, 
+<video autoplay controls height="auto" poster="https://dummyimage.com/600x300/000/fff.jpg&text=Saudi+Arabia+vs+Mesir+K.O.+21.00+WIB" width="100%"><source src="https://chat02-aase.streaming.media.azure.net/7fb4b825-c7e9-40db-bd1e-8f8086d122dc/85ecb8d1-b064-44b6-987d-e23755639d5a.ism/manifest(format=m3u8-aapl-v3).m3u8" type="video/mp4"><source></video>
+Saudi Arabia vs Egypt K.O. 21.00 WIB
 
 ### Channel 2 Live Streaming World Cup 2018
 
