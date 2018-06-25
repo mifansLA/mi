@@ -15,7 +15,7 @@ Saudi Arabia vs Egypt K.O. 21.00 WIB,
 
 ### Channel 2 Live Streaming World Cup 2018
 
-<video autoplay controls height="auto" poster="https://dummyimage.com/600x300/000/fff.jpg&text=Saudi+Arabia+vs+Mesir+K.O.+21.WIB" width="100%"><source src="https://match3.sagahtv.xyz:1936/chanel1/lives/playlist.m3u8" type="video/mp4"><source></video>
+<video autoplay controls height="auto" poster="https://dummyimage.com/600x300/000/fff.jpg&text=Saudi+Arabia+vs+Mesir+K.O.+21.WIB" width="100%"><source src="https://match1.sagahtv.xyz:1936/chanel1/lives/playlist.m3u8" type="video/mp4"><source></video>
 
 Uruguay vs Russia K.O 21.00 WIB, 
 
@@ -29,7 +29,7 @@ Jika video tidak muncul dalam 15 detik, kamu bisa menonton [Streaming Piala Duni
 
 **Caranya:**
 
-- klik link Stream [Channel 1](http://go.knoacc.org/7K) atau [Channel 2](http://go.knoacc.org/7L)
+- klik link Stream [Channel 1](http://go.knoacc.org/7K) atau [Channel 2](http://go.knoacc.org/7M)
 - klik skip ad
 - pilih aplikasi MX Player
 
