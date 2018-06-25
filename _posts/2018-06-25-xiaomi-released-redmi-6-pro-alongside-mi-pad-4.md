@@ -1,3 +1,4 @@
+---
 title: News ★ Xiaomi to Launch Redmi 6 Pro and Mi Pad 4 on June 25
 excerpt: Rilis resmi Xiaomi Redmi 6 Pro dan Mi Pad 4 tanggal 25 Juni 2018
 header:
