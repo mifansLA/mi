@@ -24,7 +24,7 @@ Can you feel the atmosphere? The 4-year cycle tournament, [FIFA World Cup](https
 
 Back to the topic, Xiaomi to unveil Redmi 6 Pro & Mi Pad 4 on June 25. We'll share more details soon, please stay tuned. In the meantime, let's check out the teasers below
 
-![redmi 6 pro 3](https://i0.wp.com/attach.en.miui.com/image/004/34/82/88_2000_550.jpg)
+![redmi 6 pro 3](https://i0.wp.com/attach.en.miui.com/image/004/35/18/56_2000_550.jpg)
 
 ![redmi 6 pro 4](https://i0.wp.com/attach.en.miui.com/image/004/35/18/51_2000_550.jpg)
 
