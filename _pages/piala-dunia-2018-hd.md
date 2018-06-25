@@ -7,7 +7,7 @@ header:
  caption: World Cup 2018
 ---
 <center>HD Streaming</center>
-<video autoplay controls height="auto" poster="https://dummyimage.com/600x300/ffffff/00cccc.jpg&text=Uruguay+vs+Russia+K.O.+21.00.com" width="100%">
+<video autoplay controls height="auto" poster="https://dummyimage.com/600x300/000/fff.jpg&text=Uruguay+vs+Russia+K.O.+21.00" width="100%">
 <source src="https://live.cdn.asset.aparat.com/astv1/edge/tv3_high/index.m3u8?wmsAuthSign=618ec5a28a2ec620ac62d63c3f7124bd"></source>
 Browser kamu tidak support atau hape kamu murahan!
 </video>
