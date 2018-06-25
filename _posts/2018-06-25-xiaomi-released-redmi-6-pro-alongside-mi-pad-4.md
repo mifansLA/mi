@@ -21,8 +21,11 @@ Back to the topic, Xiaomi to unveil Redmi 6 Pro & Mi Pad 4 on June 25. We'll sha
 ### Sharing some photos shots on Redmi 6 Pro
 
 ![hasil foto redmi 6 1](https://i0.wp.com/attach.en.miui.com/image/004/36/94/30_2000_550.jpg)
+
 ![hasil foto redmi 6 2](https://i0.wp.com/attach.en.miui.com/image/004/36/94/32_2000_550.jpg)
+
 ![hasil foto redmi 6 3](https://i0.wp.com/attach.en.miui.com/image/004/36/94/31_2000_550.jpg)
+
 ![hasil foto redmi 6 4](https://i0.wp.com/attach.en.miui.com/image/004/36/94/33_2000_550.jpg)
 
 ### Guess it what!
