@@ -1,6 +1,6 @@
 ---
-title: MIUI 10 Global Beta ROM 8.6.28 Changelog Preview
-excerpt: MIUI 10 Global Beta ROM 8.6.28 Changelog Preview: Optimization and Bug Fixes
+title: "MIUI 10 ★ Global Beta ROM 8.6.28 ★ Changelog Preview"
+excerpt: "MIUI 10 Global Beta ROM 8.6.28 Changelog Preview: Optimization and Bug Fixes"
 header:
  image: https://i0.wp.com/attach.en.miui.com/image/004/40/72/18_2000_550.jpg?resize=640,320
  caption: MIUI Global Beta announced!
