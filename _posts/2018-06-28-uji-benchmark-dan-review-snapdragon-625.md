@@ -89,7 +89,7 @@ Hasil yang didapatkan Snapdragon 625 menunjukkan bahwa SoC tersebut terbilang mu
 Benchmark lain yang kami gunakan di pengujian kali ini adalah PCMark, yang menggambarkan performa ketika perangkat digunakan untuk bekerja. Tes yang dilakukan adalah skenario “Work”, di mana aplikasi akan memberikan penilaian untuk browsing, photo editing, video playback, dan lain-lain.
 
 ![skor pc mark sd 625](https://i0.wp.com/gadget.jagatreview.com/wp-content/uploads/2016/11/Zenfone-3-ZE520KL-PCMark-400x355-400x355.jpg){:.align-center}
-![perbandingan pc mark ss 625](https://i0.wp.com/gadget.jagatreview.com/wp-content/uploads/2016/11/PCMark-Score.png){:.align-center}
+![perbandingan pc mark sd 625](https://i0.wp.com/gadget.jagatreview.com/wp-content/uploads/2016/11/PCMark-Score.png){:.align-center}
 
 Kembali, Snapdragon 625 menunjukkan keperkasaannya dengan menjadi yang terkencang di pengujian 10 SoC kelas menengah kali ini di PCMark. PCMark sendiri berjalan dalam waktu yang cukup lama, dan membuat suhu operasi meningkat selama pengujian berlangsung. ini membuat beberapa SoC menurunkan clock CPU di SoC untuk mengkompensasi peningkatan suhu. Fabrikasi 14 nm di Snapdragon 625 membuatnya cenderung menghasilkan suhu yang tidak terlalu tinggi selama pengujian, dan itu berimbas pada kemampuan CPU di dalam SoC untuk berjalan pada kecepatan tinggi lebih sering dari SoC lain, sehingga skor PCMark-nya pun menjadi lebih tinggi.
 
