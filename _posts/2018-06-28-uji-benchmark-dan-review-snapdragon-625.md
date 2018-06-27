@@ -50,7 +50,7 @@ Hal lain yang mungkin akan jadi penghambat Snapdragon 625 adalah dukungan memori
 ## Pengujian Snapdragon 625
 
 Kami melakukan pengujian dengan menggunakan beberapa benchmark yang umum digunakan untuk melihat performa smartphone, yaitu AnTuTu 6.0.1, Geekbench 3, 3DMark, dan PCMark. Bagaimana performa yang ditawarkan oleh SoC Snapdragon 625, SoC dengan CPU delapan core Cortex A53 di kecepatan 2.0 GHz? Berikut ini hasilnya:
-
+{% include adsense1.html %}
 ### Hasil Pengujian memakai AnTuTu 6.0.1
 
 Pengujian pertama kami yaitu menggunakan aplikasi Benchmark AnTuTu. Perlu anda ketahui bahwa aplikasi yang kami gunakan adalah versi 6.0.1 dikarenakan database yang kami miliki saat ini sebagai pembanding masih menggunakan versi tersebut. Kami telah menguji performa dari Snapdragon 625 perangkat yang digunakan adalah ASUS Zenfone 3 520KL. Berikut hasil pengujiannya.
@@ -66,11 +66,11 @@ Berikutnya adalah pengujian dengan aplikasi Geekbench 3. Sama seperti sebelumnya
 
 ![uji sd 625 geekbench 3](https://i0.wp.com/gadget.jagatreview.com/wp-content/uploads/2016/11/Zenfone-3-ZE520KL-Geekbench-3-281x500.jpg)
 ![uji single core sd 625](https://i0.wp.com/gadget.jagatreview.com/wp-content/uploads/2016/11/Geekbench-Single-Core.png)
-![uji multi core sd 625](https://i0.wp.comgadget.jagatreview.com/wp-content/uploads/2016/11/Geekbench-Multi-Core.png)
+![uji multi core sd 625](https://i0.wp.com/gadget.jagatreview.com/wp-content/uploads/2016/11/Geekbench-Multi-Core.png)
 
-_*Trivia Mi FansLA:* Mi Max 2 dan seri [Redmi terbaru: Redmi 6 Pro](https://mi.knoacc.org/rilis-xiaomi-redmi-6-pro-spesifikasi-harga) juga memakai chipset Snapdragon 625_
+_**Trivia Mi FansLA:** Mi Max 2 dan seri [Redmi terbaru: Redmi 6 Pro](https://mi.knoacc.org/rilis-xiaomi-redmi-6-pro-spesifikasi-harga) juga memakai chipset Snapdragon 625_
 
-Hasil Geekbench 3 menunjukkan hal yang sangat menarik, yang terlihat berbeda antara pengujian single core dan multi core. Di pengujian single core, Snapdragon 625 memang bisa mengalahkan berbagai SoC lain, tepi kalah dari Snapdragon 650 dan Snapdragon 652. Hal ini tampaknya dipengaruhi oleh hadirnya core Cortex A72 di kedua SoC tersebut. Perbedaan performa single core yang cukup jauh ini seakan jadi bukti bahwa Cortex A72 menawarkan performa yang lebih baik dari Cortex A53, sementara di kalangan sesama Cortex A53, SoC yang jadi aktor utama pengujian kali ini, Snapdragon 625, menjadi yang terbaik dengan keunggulan tipis atas Helio X10 dan Kirin 650.
+Hasil **Geekbench 3** menunjukkan hal yang sangat menarik, yang terlihat berbeda antara pengujian single core dan multi core. Di pengujian single core, Snapdragon 625 memang bisa mengalahkan berbagai SoC lain, tepi kalah dari Snapdragon 650 dan Snapdragon 652. Hal ini tampaknya dipengaruhi oleh hadirnya core Cortex A72 di kedua SoC tersebut. Perbedaan performa single core yang cukup jauh ini seakan jadi bukti bahwa Cortex A72 menawarkan performa yang lebih baik dari Cortex A53, sementara di kalangan sesama Cortex A53, SoC yang jadi aktor utama pengujian kali ini, Snapdragon 625, menjadi yang terbaik dengan keunggulan tipis atas Helio X10 dan Kirin 650.
 
 Beralih ke skor multi-core. Di sini, kejutan terjadi karena Snapdragon 625 justru bisa mengungguli semua SoC lain dalam pengujian kali ini, termasuk duo yang sebelumnya selalu mengalahkan SoC ini. Hal ini tampaknya dipengaruhi oleh clock tinggi yang diusung kedelapan core di Snapdragon 625, di mana Snapdragon 650 dan Snapdragon 652 masih memiliki empat core Cortex A53 di kecepatan yang lebih rendah yang mungkin saja menghambat performa multi core keduanya. Sementara bila dibandingkan dengan Helio X10, yang mengusung delapan core Cortex A53 di 2.2 GHz, keunggulan Snapdragon 625 bisa jadi dipengaruhi oleh fabfikasi 14 nm yang diusung, yang bisa saja membuat CPU di SoC tersebut berjalan di clock tinggi lebih lama dibandingkan pesaingnya itu.
 
@@ -78,7 +78,7 @@ Skor single core yang masih terbilang baik, dan skor multi core yang tinggi, men
 
 ### Hasil Pengujian menggunakan 3DMark
 
-Benchmark yang kami gunakan berikutnya adalah untuk menguji performa 3D dari SoC yang ikut serta di pengujian ini, yaitu 3DMark. Tes yang kami gunakan kali ini adalah Ice Storm Unlimited.
+Benchmark yang kami gunakan berikutnya adalah untuk menguji **performa 3D dari SoC** yang ikut serta di pengujian ini, yaitu 3DMark. Tes yang kami gunakan kali ini adalah Ice Storm Unlimited.
 
 ![uji sd 625 dengan3dmark](https://i0.wp.com/gadget.jagatreview.com/wp-content/uploads/2016/11/Zenfone-3-ZE520KL-3DMark-400x355-400x355.jpg)
 ![perbandingam skor 3dmark](https://i0.wp.com/gadget.jagatreview.com/wp-content/uploads/2016/11/3DMark-Score.png)
@@ -122,7 +122,7 @@ Untuk melihat game playtest SoC Snapdragon 625 menggunakan ASUS Zenfone 3 ZE520K
 Snapdargon 625 menjadi SoC keluaran baru dari Qualcomm yang patut diperhitungkan untuk kelas menengah. Performa yang ditawarkan bisa dikatakan menarik. Pengguna smartphone premium dengan SoC kelas atas bisa jadi akan mendapatkan feel yang mirip dengan apa yang biasa mereka gunakan ketika menggunakan smartphone kelas menengah dengan SoC ini, termasuk ASUS Zenfone 3 ZE520KL yang kami gunakan kali ini. Aktivitas multitasking dapat dilahap dengan baik oleh smartphone dengan SoC Snapdragon 625, terutama karena kemampuan multi core tinggi yang dimilikinya.
 
 Fabrikasi 14 nm mendukung Qualcomm untuk menawarkan clock tinggi untuk delapan Cortex A53 di SoC ini, dan menjamin kestabilan clock saat digunakan dalam jangka waktu lama, tanpa masalah overheating. Fitur tambahan nan menarik yang disematkan Qualcomm pun mendukungnya untuk jadi SoC “modern” sesuai dengan standar tinggi saat ini, seperti USB 3.0, perekaman video 4K @ 30 fps, serta WiFi AC. Semua hal yang ditawarkan Qualcomm di SoC Snapdragon ini membuatnya menawarkan sensasi premium di smartphone kelas menengah (bahkan menengah ke bawah) yang terjangkau.
-
+{% include respo.html %}
 ### Kelebihan Snapdragon 625
 
 (+) Performa tinggi di kelas menengah
@@ -142,5 +142,7 @@ Fabrikasi 14 nm mendukung Qualcomm untuk menawarkan clock tinggi untuk delapan C
 ### Kekurangan Snapdragon 625
 
 (-) Dukungan resolusi layar terbatas di 1920 x 1080 piksel
-
+{% include inarticle.html %}
+```
 _note: review ini dibuat oleh **jagatreviw.com** pada tahun 2016. Yang pada saat itu, Asus lah yang pertamakali memakai SoC Snapdragon 625. Jadi cipset SD 625 termasuk generasi lawas._
+```
