@@ -8,7 +8,7 @@ header:
 
 Dear MIUIers,
 
-How is everything with you? In this week's update, our developers are focusing on the **system optimization** and **bug fixes** to give you a better experience. Please stay tuned to [the forum](http://en.miui.com/forum.php) for more information. We will [keep you updated](https://mi.knoacc.org/miui-10-global-beta.
+How is everything with you? In this week's update, our developers are focusing on the **system optimization** and **bug fixes** to give you a better experience. Please stay tuned to [the forum](http://en.miui.com/forum.php) for more information. We will [keep you updated](https://mi.knoacc.org/miui-10-global-beta)
 
 ### Important Bug Fixes
 
