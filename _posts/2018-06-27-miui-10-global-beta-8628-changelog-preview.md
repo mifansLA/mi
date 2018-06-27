@@ -12,9 +12,9 @@ How is everything with you? In this week's update, our developers are focusing o
 
 ### Important Bug Fixes
 
-Fix - Settings keeps stopping (All devices) 
-Fix - Phone enters Recovery mode when charging (All devices)
-Fix - Cleaner content doesn't translate to Russian in the file manager.
+- Fix, Settings keeps stopping (All devices) 
+- Fix, Phone enters Recovery mode when charging (All devices)
+- Fix, Cleaner content doesn't translate to Russian in the file manager.
 
 Full changelog will be posted on Friday as usual.
 
