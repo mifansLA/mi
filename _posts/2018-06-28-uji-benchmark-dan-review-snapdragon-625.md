@@ -68,7 +68,7 @@ Berikutnya adalah pengujian dengan aplikasi Geekbench 3. Sama seperti sebelumnya
 ![uji single core sd 625](https://i0.wp.com/gadget.jagatreview.com/wp-content/uploads/2016/11/Geekbench-Single-Core.png)
 ![uji multi core sd 625](https://i0.wp.comgadget.jagatreview.com/wp-content/uploads/2016/11/Geekbench-Multi-Core.png)
 
-zenfone-3-ze520kl-geekbench-3-281x500
+_*Trivia Mi FansLA:* Mi Max 2 dan seri [Redmi terbaru: Redmi 6 Pro](https://mi.knoacc.org/rilis-xiaomi-redmi-6-pro-spesifikasi-harga) juga memakai chipset Snapdragon 625_
 
 Hasil Geekbench 3 menunjukkan hal yang sangat menarik, yang terlihat berbeda antara pengujian single core dan multi core. Di pengujian single core, Snapdragon 625 memang bisa mengalahkan berbagai SoC lain, tepi kalah dari Snapdragon 650 dan Snapdragon 652. Hal ini tampaknya dipengaruhi oleh hadirnya core Cortex A72 di kedua SoC tersebut. Perbedaan performa single core yang cukup jauh ini seakan jadi bukti bahwa Cortex A72 menawarkan performa yang lebih baik dari Cortex A53, sementara di kalangan sesama Cortex A53, SoC yang jadi aktor utama pengujian kali ini, Snapdragon 625, menjadi yang terbaik dengan keunggulan tipis atas Helio X10 dan Kirin 650.
 
@@ -95,14 +95,11 @@ Kembali, Snapdragon 625 menunjukkan keperkasaannya dengan menjadi yang terkencan
 
 ## Playtest (Game) Snapdragon 625
 
-zenfone-3-ze520kl-gaming-need-for-speed
 Performa tinggi dari SoC Snapdragon 625 yang disematkan pada smartphone yang ASUS ZE520KL cukup membuat kami penasaran, sejauh apa kemampuan dari perangkat ini saat digunakan bermain game. Berdasarkan pengujian 3DMark Ice Storn Ultimate di halaman sebelumnya, terlihat bahwa Snapdragon 625 dengan GPU Adreno 506 terlihat cukup menjanjikan untuk game 3D walaupun bukan jadi yang terkencang. Oleh karena itu, kami akan coba memainkan langsung game 3D di smartphone Zenfone 3 untuk melihat performa dari SoC tersebut untuk game.
 
 Berikut beberapa game yang kami mainkan menggunakan Zenfone 3 ZE520KL yang dibekali chipset Snapdragon 625. Dalam pengujian ini kami tak hanya menguji performa dapur pacu dari smartphone tersebut, tapi penggunaan smartphone secara keseluruhan saat digunakan bermain game.
 
 ### Need For Speed: No Limit
-
-nfsnl
 
 Untuk menguji kemampuan dari Snapdragon 625, kami menguji dengan game yang secara grafis masih tergolong kelas menengah. Yaitu Game balap Need for Speed: No Limit. Hasilnya pun bisa dibilang memuaskan, karena perangkat smartphone yang kami gunakan, dalam hal ini adalah ASUS Zenfone 3 ZE520KL mampu menjalankan aplikasi game dengan sangat optimal.
 
@@ -110,53 +107,15 @@ Saya mencoba bermain game Need for Speed: No Limit dengan waktu kurang lebih 1 j
 
 ### Assassin Creed: Pirates
 
-acpKemudian saya melanjutkan ke game bertema petualang ini, dimana mungkin lebih banyak menampilkan grafis dengan kualitas sedikit lebih tinggi dari pada game balap yang sebelumnya saya mainkan. Meskipun sebenarnya untuk kontrol pada game ini, player sedikit lebih ‘pasif’, karena sebagian game play di isi oleh scene tentang petualangan bajak laut. Pemain baru mulai beraksi saat kapal saling berperang dengan adu tembakan. Game ini cukup seru dimainkan karena pemain juga harus mengadu ketangkasan dengan kapal musuh agar kapal tidak hancur terkena tembakan.
+Kemudian saya melanjutkan ke game bertema petualang ini, dimana mungkin lebih banyak menampilkan grafis dengan kualitas sedikit lebih tinggi dari pada game balap yang sebelumnya saya mainkan. Meskipun sebenarnya untuk kontrol pada game ini, player sedikit lebih ‘pasif’, karena sebagian game play di isi oleh scene tentang petualangan bajak laut. Pemain baru mulai beraksi saat kapal saling berperang dengan adu tembakan. Game ini cukup seru dimainkan karena pemain juga harus mengadu ketangkasan dengan kapal musuh agar kapal tidak hancur terkena tembakan.
 
 Saat bermain game ini, performa smartphone tampaknya agak lebih cepat turun. Tapi untuk suhu panas, perangkat ini juga  tetap stabil. Karena kinerja grafis lebih tinggi sehingga smartphone akan lebih cepat naik. Namun pada perangkat Zenfone 3 ZE520KL, pada saat kinerja prosesor telah ‘melebihi’ kapasitas, secara otomatis performa diturunkan agar tidak mengalami over heating. Hasilnya sesekali grafis mulai terasa laging, tapi setidaknya tidak mengalami crash. Dalam kondisi tersebut, ada baiknya pengguna sejenak mengistirahatkan smartphone hingga suhu perangkat kembali aman.
 
 ### NBA Live
 
-nbal
-
 NBA Live adalah salah satu game favorit yang biasa saya mainkan di smartphone. Meski secara grafis game yang satu ini masih terbilang menengah, game ini lebih banyak membutuhkan koneksi internet saat dimainkan. Saat dimainkan game ini juga terasa begitu lancar. Koneksi internet juga stabil dan tidak terputus saat menggunakan wi-fi maupun data selular. Modem LTE X9 tampaknya juga menjadi salah satu kunci dimana kestabilan koneksi internet terjaga dengan baik.
 
-Untuk melihat game playtest  SoC Snapdragon 625 menggunakan ASUS Zenfone 3 ZE520KL anda bisa menyimak videonya berikut ini.
-
-Jagat Gadget 
- Jagat Mobile
-HOMEREVIEWS
-in: Reviews | November 14, 2016 | by: Irham
-Review Snapdragon 625: Smartphone Kelas Menengah Menjadi Terasa Premium
-Bermain Game di Zenfone 3 ZE520KL
-zenfone-3-ze520kl-gaming-need-for-speed
-
-Performa tinggi dari SoC Snapdragon 625 yang disematkan pada smartphone yang ASUS ZE520KL cukup membuat kami penasaran, sejauh apa kemampuan dari perangkat ini saat digunakan bermain game. Berdasarkan pengujian 3DMark Ice Storn Ultimate di halaman sebelumnya, terlihat bahwa Snapdragon 625 dengan GPU Adreno 506 terlihat cukup menjanjikan untuk game 3D walaupun bukan jadi yang terkencang. Oleh karena itu, kami akan coba memainkan langsung game 3D di smartphone Zenfone 3 untuk melihat performa dari SoC tersebut untuk game.
-
-Berikut beberapa game yang kami mainkan menggunakan Zenfone 3 ZE520KL yang dibekali chipset Snapdragon 625. Dalam pengujian ini kami tak hanya menguji performa dapur pacu dari smartphone tersebut, tapi penggunaan smartphone secara keseluruhan saat digunakan bermain game.
-
-Need For Speed: No Limit
-
-nfsnl
-
-Untuk menguji kemampuan dari Snapdragon 625, kami menguji dengan game yang secara grafis masih tergolong kelas menengah. Yaitu Game balap Need for Speed: No Limit. Hasilnya pun bisa dibilang memuaskan, karena perangkat smartphone yang kami gunakan, dalam hal ini adalah ASUS Zenfone 3 ZE520KL mampu menjalankan aplikasi game dengan sangat optimal.
-
-Saya mencoba bermain game Need for Speed: No Limit dengan waktu kurang lebih 1 jam dan merasakan suhu perangkat ini sudah mulai naik. Tapi belum masuk dalam kategori overheating, karena perangkat masih sebatas hangat dalam genggaman.  Aplikasi pun tetap berjalan normal dan tetap lancar digunakan. Tak ada kendala selama bermain game yang satu ini.
-
-Assassin Creed: Pirates
-
-acpKemudian saya melanjutkan ke game bertema petualang ini, dimana mungkin lebih banyak menampilkan grafis dengan kualitas sedikit lebih tinggi dari pada game balap yang sebelumnya saya mainkan. Meskipun sebenarnya untuk kontrol pada game ini, player sedikit lebih ‘pasif’, karena sebagian game play di isi oleh scene tentang petualangan bajak laut. Pemain baru mulai beraksi saat kapal saling berperang dengan adu tembakan. Game ini cukup seru dimainkan karena pemain juga harus mengadu ketangkasan dengan kapal musuh agar kapal tidak hancur terkena tembakan.
-
-Saat bermain game ini, performa smartphone tampaknya agak lebih cepat turun. Tapi untuk suhu panas, perangkat ini juga  tetap stabil. Karena kinerja grafis lebih tinggi sehingga smartphone akan lebih cepat naik. Namun pada perangkat Zenfone 3 ZE520KL, pada saat kinerja prosesor telah ‘melebihi’ kapasitas, secara otomatis performa diturunkan agar tidak mengalami over heating. Hasilnya sesekali grafis mulai terasa laging, tapi setidaknya tidak mengalami crash. Dalam kondisi tersebut, ada baiknya pengguna sejenak mengistirahatkan smartphone hingga suhu perangkat kembali aman.
-
-NBA Live
-
-nbal
-
-NBA Live adalah salah satu game favorit yang biasa saya mainkan di smartphone. Meski secara grafis game yang satu ini masih terbilang menengah, game ini lebih banyak membutuhkan koneksi internet saat dimainkan. Saat dimainkan game ini juga terasa begitu lancar. Koneksi internet juga stabil dan tidak terputus saat menggunakan wi-fi maupun data selular. Modem LTE X9 tampaknya juga menjadi salah satu kunci dimana kestabilan koneksi internet terjaga dengan baik.
-
-Untuk melihat game playtest  SoC Snapdragon 625 menggunakan ASUS Zenfone 3 ZE520KL anda bisa menyimak videonya berikut ini.
-
-
+Untuk melihat game playtest SoC Snapdragon 625 menggunakan ASUS Zenfone 3 ZE520KL anda bisa menyimak videonya [berikut ini](https://www.youtube.com/watch?v=9dpSw0bB_80)
 
 ## Kesimpulan Review
 
@@ -184,5 +143,4 @@ Fabrikasi 14 nm mendukung Qualcomm untuk menawarkan clock tinggi untuk delapan C
 
 (-) Dukungan resolusi layar terbatas di 1920 x 1080 piksel
 
-
-_note: review ini dibuat oleh **jagatreviw.com** pada tahun 2016. yang pada saat itu, Asus lah yang pertamakali memakai SoC Snapdragon 625. Jadi cipset SD 625 termasuk generasi lawas._
+_note: review ini dibuat oleh **jagatreviw.com** pada tahun 2016. Yang pada saat itu, Asus lah yang pertamakali memakai SoC Snapdragon 625. Jadi cipset SD 625 termasuk generasi lawas._
