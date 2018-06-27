@@ -4,7 +4,7 @@ excerpt: "Review SoC Snapdragon 625: Spesifikasi, Fitur, Uji Benchmark dan Perfo
 header:
  image: https://i0.wp.com/paguphone.com/content/media/large/508203af-review-snapragon-625-sd-625-soc-handal-yang-ditanamkan-di-mi-max-2.jpg?resize=640,320
  teaser: https://i0.wp.com/paguphone.com/content/media/large/508203af-review-snapragon-625-sd-625-soc-handal-yang-ditanamkan-di-mi-max-2.jpg?resize=320,160
- caption: Mi Max 2 juga pakai Snapdragon 626
+ caption: Mi Max 2 juga pakai Snapdragon 625
 categories:
  - review chipset
  - soc snapdragon
@@ -55,8 +55,8 @@ Kami melakukan pengujian dengan menggunakan beberapa benchmark yang umum digunak
 
 Pengujian pertama kami yaitu menggunakan aplikasi Benchmark AnTuTu. Perlu anda ketahui bahwa aplikasi yang kami gunakan adalah versi 6.0.1 dikarenakan database yang kami miliki saat ini sebagai pembanding masih menggunakan versi tersebut. Kami telah menguji performa dari Snapdragon 625 perangkat yang digunakan adalah ASUS Zenfone 3 520KL. Berikut hasil pengujiannya.
 
-![skor uji antutu sd 625](https://i0.wp.com/gadget.jagatreview.com/wp-content/uploads/2016/11/AnTuTu-Snapdragon-625-.jpg){:.center-block}
-![perbandingan hasil antutu sd 625](https://i0.wp.com/gadget.jagatreview.com/wp-content/uploads/2016/11/AnTuTu-Score.png){:.center-block}
+![skor uji antutu sd 625](https://i0.wp.com/gadget.jagatreview.com/wp-content/uploads/2016/11/AnTuTu-Snapdragon-625-.jpg){:.align-center}
+![perbandingan hasil antutu sd 625](https://i0.wp.com/gadget.jagatreview.com/wp-content/uploads/2016/11/AnTuTu-Score.png){:.align-center}
 
 Hasil di atas menunjukkan performa yang ditawarkan oleh Snapdragon 625 ini terbilang baik di antara SoC kelas menengah. SoC ini hanya kalah di AnTuTu 6.0.1 dari dua saudaranya yang diposisikan di kelas yang sedikit lebih tinggi, yaitu Snapdragon 650 dan Snapdragon 652, tetapi bisa mengungguli SoC-SoC lain dalam pengujian kali ini. Apakah di benchmark lain SoC ini juga bisa menunjukkan performa serupa?
 
@@ -64,9 +64,9 @@ Hasil di atas menunjukkan performa yang ditawarkan oleh Snapdragon 625 ini terbi
 
 Berikutnya adalah pengujian dengan aplikasi Geekbench 3. Sama seperti sebelumnya, di sini kami masih menggunakan Geekbench 3, bukan versi terbaru dari benchmark tersebut, Geekbench 4, karena kelengkapan database kami.
 
-![uji sd 625 geekbench 3](https://i0.wp.com/gadget.jagatreview.com/wp-content/uploads/2016/11/Zenfone-3-ZE520KL-Geekbench-3-281x500.jpg)
-![uji single core sd 625](https://i0.wp.com/gadget.jagatreview.com/wp-content/uploads/2016/11/Geekbench-Single-Core.png)
-![uji multi core sd 625](https://i0.wp.com/gadget.jagatreview.com/wp-content/uploads/2016/11/Geekbench-Multi-Core.png)
+![uji sd 625 geekbench 3](https://i0.wp.com/gadget.jagatreview.com/wp-content/uploads/2016/11/Zenfone-3-ZE520KL-Geekbench-3-281x500.jpg){:.align-center}
+![uji single core sd 625](https://i0.wp.com/gadget.jagatreview.com/wp-content/uploads/2016/11/Geekbench-Single-Core.png){:.align-center}
+![uji multi core sd 625](https://i0.wp.com/gadget.jagatreview.com/wp-content/uploads/2016/11/Geekbench-Multi-Core.png){:.align-center}
 
 _**Trivia Mi FansLA:** Mi Max 2 dan seri [Redmi terbaru: Redmi 6 Pro](https://mi.knoacc.org/rilis-xiaomi-redmi-6-pro-spesifikasi-harga) juga memakai chipset Snapdragon 625_
 
@@ -80,16 +80,16 @@ Skor single core yang masih terbilang baik, dan skor multi core yang tinggi, men
 
 Benchmark yang kami gunakan berikutnya adalah untuk menguji **performa 3D dari SoC** yang ikut serta di pengujian ini, yaitu 3DMark. Tes yang kami gunakan kali ini adalah Ice Storm Unlimited.
 
-![uji sd 625 dengan3dmark](https://i0.wp.com/gadget.jagatreview.com/wp-content/uploads/2016/11/Zenfone-3-ZE520KL-3DMark-400x355-400x355.jpg)
-![perbandingam skor 3dmark](https://i0.wp.com/gadget.jagatreview.com/wp-content/uploads/2016/11/3DMark-Score.png)
+![uji sd 625 dengan3dmark](https://i0.wp.com/gadget.jagatreview.com/wp-content/uploads/2016/11/Zenfone-3-ZE520KL-3DMark-400x355-400x355.jpg){:.align-center}
+![perbandingam skor 3dmark](https://i0.wp.com/gadget.jagatreview.com/wp-content/uploads/2016/11/3DMark-Score.png){:.align-center}
 Hasil yang didapatkan Snapdragon 625 menunjukkan bahwa SoC tersebut terbilang mumpuni untuk kebutuhan 3D. Performa yang ditawarkan memang bukan yang terbaik di kelas menengah, tetapi masih berada di jajaran atas, hanya kalah dari Snapdragon 650 dan Snapdragon 652 yang menggunakan GPU Adreno 510, dan Helio X10 yang menggunakan PowerVR G6200. Kami merasa hasil tes 3DMark Ice Storm Unlimited dari SoC ini membuatnya bisa melibas beberapa game Android populer dengan kualitas grafis yang cukup tinggi. Oleh karena itu, kami akan melakukan playtest dengan beberapa game untuk membuktikannya.
 
 ### Hasil Pengujiam dengan PCMark
 
 Benchmark lain yang kami gunakan di pengujian kali ini adalah PCMark, yang menggambarkan performa ketika perangkat digunakan untuk bekerja. Tes yang dilakukan adalah skenario “Work”, di mana aplikasi akan memberikan penilaian untuk browsing, photo editing, video playback, dan lain-lain.
 
-![skor pc mark sd 625](https://i0.wp.com/gadget.jagatreview.com/wp-content/uploads/2016/11/Zenfone-3-ZE520KL-PCMark-400x355-400x355.jpg)
-![perbandingan pc mark ss 625](https://i0.wp.comgadget.jagatreview.com/wp-content/uploads/2016/11/PCMark-Score.png)
+![skor pc mark sd 625](https://i0.wp.com/gadget.jagatreview.com/wp-content/uploads/2016/11/Zenfone-3-ZE520KL-PCMark-400x355-400x355.jpg){:.align-center}
+![perbandingan pc mark ss 625](https://i0.wp.com/gadget.jagatreview.com/wp-content/uploads/2016/11/PCMark-Score.png){:.align-center}
 
 Kembali, Snapdragon 625 menunjukkan keperkasaannya dengan menjadi yang terkencang di pengujian 10 SoC kelas menengah kali ini di PCMark. PCMark sendiri berjalan dalam waktu yang cukup lama, dan membuat suhu operasi meningkat selama pengujian berlangsung. ini membuat beberapa SoC menurunkan clock CPU di SoC untuk mengkompensasi peningkatan suhu. Fabrikasi 14 nm di Snapdragon 625 membuatnya cenderung menghasilkan suhu yang tidak terlalu tinggi selama pengujian, dan itu berimbas pada kemampuan CPU di dalam SoC untuk berjalan pada kecepatan tinggi lebih sering dari SoC lain, sehingga skor PCMark-nya pun menjadi lebih tinggi.
 
