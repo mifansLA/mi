@@ -143,6 +143,4 @@ Fabrikasi 14 nm mendukung Qualcomm untuk menawarkan clock tinggi untuk delapan C
 
 (-) Dukungan resolusi layar terbatas di 1920 x 1080 piksel
 {% include inarticle.html %}
-```
-_note: review ini dibuat oleh **jagatreviw.com** pada tahun 2016. Yang pada saat itu, Asus lah yang pertamakali memakai SoC Snapdragon 625. Jadi cipset SD 625 termasuk generasi lawas._
-```
+> _note: review ini dibuat oleh **jagatreviw.com** pada tahun 2016. Yang pada saat itu, Asus lah yang pertamakali memakai SoC Snapdragon 625. Jadi cipset SD 625 termasuk generasi lawas._
