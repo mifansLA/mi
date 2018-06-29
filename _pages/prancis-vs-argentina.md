@@ -2,9 +2,9 @@
 layout: stream
 header:
  video:
-  id: nothing
+  id: https://pbs.twimg.com/media/Dg077u3V4AAhSJm?format=jpg
   provider: stream
-og_image:
+og_image: https://pbs.twimg.com/media/Dg077u3V4AAhSJm?format=jpg
 ---
 {% include adsense2.html %}
 {% include mx-player.html %}
