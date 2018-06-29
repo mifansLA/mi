@@ -3,7 +3,7 @@ title: Streaming 16 Besar Piala Dunia 2018 Update
 permalink: "/piala-dunia-2018"
 excerpt: "Streaming 16 Besar Piala Dunia 2018, Jadwal dan link streaming"
 header:
- image_feature: https://scontent-sit4-1.cdninstagram.com/vp/da1f973d9cfeec0e309f1a745b60c11b/5BCA7CE7/t51.2885-15/e35/35575942_247371939190412_2949756562203213824_n.jpg
+ feature_image: https://scontent-sit4-1.cdninstagram.com/vp/da1f973d9cfeec0e309f1a745b60c11b/5BCA7CE7/t51.2885-15/e35/35575942_247371939190412_2949756562203213824_n.jpg
  teaser: https://i0.wp.com/gilabola.com/wp-content/uploads/2018/02/Jadwal-Piala-Dunia-2018-1068x601.jpg?resize=540,270
  caption: World Cup 2018
 layout: splash
