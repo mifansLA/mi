@@ -29,26 +29,49 @@ Untuk lebih lengkapnya bisa disimak dalam bagan turnamen dan jadwal babak 16 bes
 
 ## JADWAL BABAK 16 BESAR
 
-**Prancis vs Argentina** Streaming
-Sabtu, 30 Juni 2018 | 21:00 WIB | Kazan Arena, Kazan
+**Prancis vs Argentina**
+Streaming{:.btn.btn--disabled}
+Sabtu, 30 Juni 2018
+21:00 WIB
+Kazan Arena, Kazan
 
-**Uruguay vs Portugal** Streaming
-Minggu, 1 Juli 2018 | 01:00 WIB | Fisht Olympic Stadium, Sochi
+**Uruguay vs Portugal**
+Streaming{:.btn.btn--disabled}
+Minggu, 1 Juli 2018
+01:00 WIB
+Fisht Olympic Stadium, Sochi
 
-**Spanyol vs Rusia** Streaming
-Minggu, 1 Juli 2018 | 21:00 WIB | Luzhniki Stadium, Moskwa
+**Spanyol vs Rusia**
+Streaming{:.btn.btn--disabled}
+Minggu, 1 Juli 2018 
+21:00 WIB
+Luzhniki Stadium, Moskwa
 
-**Kroasia vs Denmark** Streaming
-Senin, 2 Juli 2018 | 01:00 WIB | Nizhny Novgorod Stadium, Nizhny Novgorod
+**Kroasia vs Denmark**
+Streaming{:.btn.btn--disabled}
+Senin, 2 Juli 2018
+01:00 WIB
+Nizhny Novgorod Stadium, Nizhny Novgorod
 
-**Brasil vs Meksiko** Streaming
-Senin, 2 Juli 2018 | 21:00 WIB | Cosmos Arena, Samara
+**Brasil vs Meksiko**
+Streaming{:.btn.btn--disabled}
+Senin, 2 Juli 2018
+21:00 WIB
+Cosmos Arena, Samara
 
-**Belgia vs Jepang** Streaming
-Selasa, 3 Juli 2018 | 01:00 WIB | Rostov Arena, Rostov-on-Don
+**Belgia vs Jepang**
+Streaming{:.btn.btn--disabled}
+Selasa, 3 Juli 2018
+01:00 WIB | Rostov Arena, Rostov-on-Don
 
-**Swedia vs Swiss** Streaming
-Selasa, 3 Juli 2018 | 21:00 WIB | Krestovsky Stadium, Saint Petersburg
+**Swedia vs Swiss**
+Streaming{:.btn.btn--disabled}
+Selasa, 3 Juli 2018
+21:00 WIB
+Krestovsky Stadium, Saint Petersburg
 
 **Kolombia vs Inggris**
-Rabu, 4 Juli 2018 | 01:00 WIB | Otkritie Arena, Moskwa
+Streaming{:.btn.btn--disabled}
+Rabu, 4 Juli 2018
+01:00 WIB
+Otkritie Arena, Moskwa
