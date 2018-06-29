@@ -1,5 +1,5 @@
 ---
-title: "Qualcomm Announces Snapdragon 632, 439 and 429 Mobile Platforms"
+title: "Qualcomm Announces ★ Snapdragon 632, 439 and 429 ★ Mobile Platforms"
 header:
  image: https://www1-lw.xda-cdn.com/files/2018/06/chipfeatureimg.png
  teaser: https://i0.wp.com/www.xda-developers.com/files/2018/06/socblock.png?resize=320,160
