@@ -9,15 +9,17 @@ header:
 layout: splash
 ---
 Fase grup telah usai, saatnya Piala Dunia 2018 memasuki fase gugur. Ada sejumlah partai menarik di babak 16 besar.
+
 ## BABAK 16 BESAR PIALA DUNIA 2018: NERAKA DI SISI KIRI
 
 Tidak terasa, [Piala Dunia 2018](/piala-dunia-2018-hd) sudah melangkah ke tahap knock-out menyusul berakhirnya matchday ketiga dari delapan grup pada Kamis (28/6).
+![World Cup Trophy](https://pbs.twimg.com/media/Dg077u3V4AAhSJm?format=jpg)
 
 Babak 16 besar dipastikan menyajikan sejumlah partai sengit, bahkan sejumlah laga layak disebut sebagai final dini. Argentina, yang susah payah keluar dari grup, misalnya langsung berjumpa Prancis.
 
 Pemenang duel Prancis-Argentina ini nantinya bakal menghadapi Uruguay atau Portugal di perempat-final. Itu artinya, jika Argentina dan Portugal sama-sama lolos, dua megabintang sepakbola terbesar di muka bumi, Lionel Messi dan Cristiano Ronaldo, bakal saling beradu untuk pertama kali di ajang Piala Dunia.
-![World Cup Trophy](https://pbs.twimg.com/media/Dg077u3V4AAhSJm?format=jpg)
-Keempat tim itu seperti memilih jalur neraka untuk menuju final di Moskwa pada 15 Juli mendatang. Belum lagi ada potensi mereka akan berjumpa tim favorit Brasil dan kuda hitam Belgia yang juga berada di sisi tabel yang sama.
+
+Kempat tim itu seperti memilih jalur neraka untuk menuju final di Moskwa pada 15 Juli mendatang. Belum lagi ada potensi mereka akan berjumpa tim favorit Brasil dan kuda hitam Belgia yang juga berada di sisi tabel yang sama.
 
 Di sisi tabel seberang, persaingan terasa lebih adem. Spanyol barangkali mendapat prospek lawan yang relatif lebih enteng ketimbang tim raksasa lain. Jika sanggup mengalahkan tuan rumah Rusia di babak 16 besar, Spanyol bakal menantang Kroasia atau Denmark di perempat-final.
 
