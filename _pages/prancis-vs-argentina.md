@@ -5,7 +5,7 @@ excerpt: "Live Streaming Prancis vs Argentina Piala Dunia 2018 16 Besar Babak Kn
 permalink: "/16-besar-prancis-vs-argentina"
 header:
  video:
-  id: https://mixer.com/api/v1/channels/39927539/manifest.m3u8?accessKey=39927539-a6ryhjj8byihevabb1l9t7wt6t4lg7kf
+  id: https://live.cdn.asset.aparat.com/astv1/edge/tv3_high/index.m3u8?wmsAuthSign=618ec5a28a2ec620ac62d63c3f7124bd
   provider: stream
 og_image: https://pbs.twimg.com/media/Dg077u3V4AAhSJm?format=jpg
 ---
