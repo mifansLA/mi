@@ -9,7 +9,5 @@ header:
   provider: stream
 og_image: https://pbs.twimg.com/media/Dg077u3V4AAhSJm?format=jpg
 ---
-
-{% include inarticle.html %}
-
+{% include adsense1.html %}
 {% include mx-player.md %}
