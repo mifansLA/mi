@@ -34,55 +34,79 @@ Untuk lebih lengkapnya bisa disimak dalam bagan turnamen dan jadwal babak 16 bes
 
 **Prancis vs Argentina**
 
-[Streaming](/16-besar-prancis-vs-argentina){:.btn.btn--disabled}
+[Streaming](/16-besar-prancis-vs-argentina){:.btn.btn--primary}
+
 Sabtu, 30 Juni 2018
+
 Kick-Off: 21:00 WIB
+
 Kazan Arena, Kazan
 
 **Uruguay vs Portugal**
 
-[Streaming](/16-besar-prancis-vs-argentina){:.btn.btn--disabled}
+[Streaming](/16-besar-uruguay-vs-portugal){:.btn.btn--primary}
+
 Minggu, 1 Juli 2018
+
 Kick-Off: 01:00 WIB
+
 Fisht Olympic Stadium, Sochi
 
 **Spanyol vs Rusia**
 
-[Streaming](/16-besar-prancis-vs-argentina){:.btn.btn--disabled}
-Minggu, 1 Juli 2018 
+[Streaming](/16-besar-spanyol-vs-rusia){:.btn.btn--primary}
+
+Minggu, 1 Juli 2018
+
 Kick-Off: 21:00 WIB
+
 Luzhniki Stadium, Moskwa
 
 **Kroasia vs Denmark**
 
-[Streaming](/16-besar-prancis-vs-argentina){:.btn.btn--disabled}
+[Streaming](/16-besar-kroasia-vs-denmark){:.btn.btn--primary}
+
 Senin, 2 Juli 2018
+
 Kick-Off: 01:00 WIB
+
 Nizhny Novgorod Stadium, Nizhny Novgorod
 
 **Brasil vs Meksiko**
 
-[Streaming](/16-besar-prancis-vs-argentina){:.btn.btn--disabled}
+[Streaming](/16-besar-brasil-vs-meksiko){:.btn.btn--primary}
+
 Senin, 2 Juli 2018
+
 Kick-Off: 21:00 WIB
+
 Cosmos Arena, Samara
 
 **Belgia vs Jepang**
 
-[Streaming](/16-besar-prancis-vs-argentina){:.btn.btn--disabled}
+[Streaming](/16-besar-belgia-vs-jepang){:.btn.btn--primary}
+
 Selasa, 3 Juli 2018
-Kick-Off: 01:00 WIB | Rostov Arena, Rostov-on-Don
+
+Kick-Off: 01:00 WIB
+
+Rostov Arena, Rostov-on-Don
 
 **Swedia vs Swiss**
 
-[Streaming](/16-besar-prancis-vs-argentina){:.btn.btn--disabled}
+[Streaming](/16-besar-swedia-vs-swiss){:.btn.btn--primary}
+
 Selasa, 3 Juli 2018
+
 Kick-Off: 21:00 WIB
+
 Krestovsky Stadium, Saint Petersburg
 
 **Kolombia vs Inggris**
 
-[Streaming](/16-besar-prancis-vs-argentina){:.btn.btn--disabled}
+[Streaming](/16-besar-kolombia-vs-inggris){:.btn.btn--primary}
 Rabu, 4 Juli 2018
+
 Kick-Off: 01:00 WIB
+
 Otkritie Arena, Moskwa
