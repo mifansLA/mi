@@ -6,4 +6,5 @@ header:
   provider: stream
 og_image:
 ---
-{% include adsense.html %}
+{% include adsense2.html %}
+{% include mx-player.html %}
