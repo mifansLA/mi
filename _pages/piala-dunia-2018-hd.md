@@ -5,6 +5,7 @@ excerpt: Nonton Streaming HD Piala Dunia 2018 bareng MiFans Lamongan
 header:
  image: https://i0.wp.com/gilabola.com/wp-content/uploads/2018/02/Jadwal-Piala-Dunia-2018-1068x601.jpg?resize=720,360
  caption: World Cup 2018
+layout: splash
 ---
 <center>HD Streaming</center>
 <video autoplay controls height="auto" poster="https://dummyimage.com/600x300/000/fff.jpg&text=Uruguay+vs+Russia+K.O.+21.00" width="100%">
