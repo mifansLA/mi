@@ -7,6 +7,7 @@ header:
  image: "https://scontent-sit4-1.cdninstagram.com/vp/da1f973d9cfeec0e309f1a745b60c11b/5BCA7CE7/t51.2885-15/e35/35575942_247371939190412_2949756562203213824_n.jpg?_nc_eui2=AeFSIksbqCdYBHAoleNkuAyD7JQo9-Mcf83sDb58rewJ_k68LOSp2vr_2yYDr4Js0UII4IcZ3tXr3Gc6NMRZjjeT"
  caption: ﷼
 layout: splash
+last_modified_at: 2018-06-29
 ---
 Fase grup telah usai, saatnya Piala Dunia 2018 memasuki fase gugur. Ada sejumlah partai menarik di babak 16 besar.
 
@@ -29,51 +30,59 @@ Untuk lebih lengkapnya bisa disimak dalam bagan turnamen dan jadwal babak 16 bes
 
 ![bagan pertandingan 16 besar pd 2018](https://scontent-sit4-1.cdninstagram.com/vp/da1f973d9cfeec0e309f1a745b60c11b/5BCA7CE7/t51.2885-15/e35/35575942_247371939190412_2949756562203213824_n.jpg?_nc_eui2=AeFSIksbqCdYBHAoleNkuAyD7JQo9-Mcf83sDb58rewJ_k68LOSp2vr_2yYDr4Js0UII4IcZ3tXr3Gc6NMRZjjeT)
 
-## JADWAL BABAK 16 BESAR
+### JADWAL BABAK 16 BESAR
 
 **Prancis vs Argentina**
-Streaming{:.btn.btn--disabled}
+
+[Streaming](/16-besar-prancis-vs-argentina){:.btn.btn--disabled}
 Sabtu, 30 Juni 2018
-21:00 WIB
+Kick-Off: 21:00 WIB
 Kazan Arena, Kazan
 
 **Uruguay vs Portugal**
-Streaming{:.btn.btn--disabled}
+
+[Streaming](/16-besar-prancis-vs-argentina){:.btn.btn--disabled}
 Minggu, 1 Juli 2018
-01:00 WIB
+Kick-Off: 01:00 WIB
 Fisht Olympic Stadium, Sochi
 
 **Spanyol vs Rusia**
-Streaming{:.btn.btn--disabled}
+
+[Streaming](/16-besar-prancis-vs-argentina){:.btn.btn--disabled}
 Minggu, 1 Juli 2018 
-21:00 WIB
+Kick-Off: 21:00 WIB
 Luzhniki Stadium, Moskwa
 
 **Kroasia vs Denmark**
-Streaming{:.btn.btn--disabled}
+
+[Streaming](/16-besar-prancis-vs-argentina){:.btn.btn--disabled}
 Senin, 2 Juli 2018
-01:00 WIB
+Kick-Off: 01:00 WIB
 Nizhny Novgorod Stadium, Nizhny Novgorod
 
 **Brasil vs Meksiko**
-Streaming{:.btn.btn--disabled}
+
+[Streaming](/16-besar-prancis-vs-argentina){:.btn.btn--disabled}
 Senin, 2 Juli 2018
-21:00 WIB
+Kick-Off: 21:00 WIB
 Cosmos Arena, Samara
 
 **Belgia vs Jepang**
-Streaming{:.btn.btn--disabled}
+
+[Streaming](/16-besar-prancis-vs-argentina){:.btn.btn--disabled}
 Selasa, 3 Juli 2018
-01:00 WIB | Rostov Arena, Rostov-on-Don
+Kick-Off: 01:00 WIB | Rostov Arena, Rostov-on-Don
 
 **Swedia vs Swiss**
-Streaming{:.btn.btn--disabled}
+
+[Streaming](/16-besar-prancis-vs-argentina){:.btn.btn--disabled}
 Selasa, 3 Juli 2018
-21:00 WIB
+Kick-Off: 21:00 WIB
 Krestovsky Stadium, Saint Petersburg
 
 **Kolombia vs Inggris**
-Streaming{:.btn.btn--disabled}
+
+[Streaming](/16-besar-prancis-vs-argentina){:.btn.btn--disabled}
 Rabu, 4 Juli 2018
-01:00 WIB
+Kick-Off: 01:00 WIB
 Otkritie Arena, Moskwa
