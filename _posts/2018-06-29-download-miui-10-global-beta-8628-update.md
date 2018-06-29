@@ -34,6 +34,6 @@ Apa saja yang baru di Global Beta 8.6.28? Berikut ini daftar perubahan dan fitur
 
 ### Cara Flashing
 
-{% includd respo.html %}
+{% include respo.html %}
 
 {% include howtoflash.md %}
