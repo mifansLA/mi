@@ -2,15 +2,16 @@
 title: Streaming 16 Besar Piala Dunia 2018 Update
 permalink: "/piala-dunia-2018"
 excerpt: "Streaming 16 Besar Piala Dunia 2018, Jadwal dan link streaming"
-og_image: https://i0.wp.com/gilabola.com/wp-content/uploads/2018/02/Jadwal-Piala-Dunia-2018-1068x601.jpg?resize=540,270
+og_image: "https://i0.wp.com/gilabola.com/wp-content/uploads/2018/02/Jadwal-Piala-Dunia-2018-1068x601.jpg?resize=540,270"
 header: 
- image: https://scontent-sit4-1.cdninstagram.com/vp/da1f973d9cfeec0e309f1a745b60c11b/5BCA7CE7/t51.2885-15/e35/35575942_247371939190412_2949756562203213824_n.jpg?_nc_eui2=AeFSIksbqCdYBHAoleNkuAyD7JQo9-Mcf83sDb58rewJ_k68LOSp2vr_2yYDr4Js0UII4IcZ3tXr3Gc6NMRZjjeT
- caption: "Fase grup telah usai, saatnya Piala Dunia 2018 memasuki fase gugur. Ada sejumlah partai menarik di babak 16 besar."
+ image: "https://scontent-sit4-1.cdninstagram.com/vp/da1f973d9cfeec0e309f1a745b60c11b/5BCA7CE7/t51.2885-15/e35/35575942_247371939190412_2949756562203213824_n.jpg?_nc_eui2=AeFSIksbqCdYBHAoleNkuAyD7JQo9-Mcf83sDb58rewJ_k68LOSp2vr_2yYDr4Js0UII4IcZ3tXr3Gc6NMRZjjeT"
+ caption: ﷼
 layout: splash
 ---
+Fase grup telah usai, saatnya Piala Dunia 2018 memasuki fase gugur. Ada sejumlah partai menarik di babak 16 besar.
 ## BABAK 16 BESAR PIALA DUNIA 2018: NERAKA DI SISI KIRI
 
-Tidak terasa, Piala Dunia 2018 sudah melangkah ke tahap knock-out menyusul berakhirnya matchday ketiga dari delapan grup pada Kamis (28/6).
+Tidak terasa, [Piala Dunia 2018](/piala-dunia-2018-hd) sudah melangkah ke tahap knock-out menyusul berakhirnya matchday ketiga dari delapan grup pada Kamis (28/6).
 
 Babak 16 besar dipastikan menyajikan sejumlah partai sengit, bahkan sejumlah laga layak disebut sebagai final dini. Argentina, yang susah payah keluar dari grup, misalnya langsung berjumpa Prancis.
 
@@ -28,26 +29,26 @@ Untuk lebih lengkapnya bisa disimak dalam bagan turnamen dan jadwal babak 16 bes
 
 ## JADWAL BABAK 16 BESAR
 
-Prancis vs Argentina 
+**Prancis vs Argentina** Streaming
 Sabtu, 30 Juni 2018 | 21:00 WIB | Kazan Arena, Kazan
 
-Uruguay vs Portugal 
+**Uruguay vs Portugal** Streaming
 Minggu, 1 Juli 2018 | 01:00 WIB | Fisht Olympic Stadium, Sochi
 
-Spanyol vs Rusia 
+**Spanyol vs Rusia** Streaming
 Minggu, 1 Juli 2018 | 21:00 WIB | Luzhniki Stadium, Moskwa
 
-Kroasia vs Denmark 
+**Kroasia vs Denmark** Streaming
 Senin, 2 Juli 2018 | 01:00 WIB | Nizhny Novgorod Stadium, Nizhny Novgorod
 
-Brasil vs Meksiko 
+**Brasil vs Meksiko** Streaming
 Senin, 2 Juli 2018 | 21:00 WIB | Cosmos Arena, Samara
 
-Belgia vs Jepang
+**Belgia vs Jepang** Streaming
 Selasa, 3 Juli 2018 | 01:00 WIB | Rostov Arena, Rostov-on-Don
 
-Swedia vs Swiss 
+**Swedia vs Swiss** Streaming
 Selasa, 3 Juli 2018 | 21:00 WIB | Krestovsky Stadium, Saint Petersburg
 
-Kolombia vs Inggris
+**Kolombia vs Inggris**
 Rabu, 4 Juli 2018 | 01:00 WIB | Otkritie Arena, Moskwa
