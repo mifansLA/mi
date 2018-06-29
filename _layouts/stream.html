@@ -13,8 +13,11 @@ layout: default
 {% endif %}
     <section class="page__content" itemprop="image">
       <figure><img src="{{ page.og_image }}"/><figcaption>{{ page.title }}</figcaption></figure>
-    </section><section class="page__content" itemprop="text">
-      {{ content }}
+    </section>
+    <section class="page__content" itemprop="text">
+    {{ page.excerpt }}
+    
+    {{ content }}
     </section>
   </article>
 </div>
