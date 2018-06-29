@@ -8,6 +8,6 @@
 {% elsif video_provider == "youtube" %}
   <iframe src="https://www.youtube.com/embed/{{ video_id }}" frameborder="0" allowfullscreen></iframe>
 {% elsif video_provider == "stream" %}
-  <video autoplay controls><source src="{{ video_id }}" type="video/mp4"></source></video>
+  <video autoplay controls height="auto" poster="https://dummyimage.com/600x300/000/fff.jpg&text={{ og_image }}" width="100%" ><source src="{{ video_id }}" type="video/mp4"></source></video>
 {% endif %}
 </div>
