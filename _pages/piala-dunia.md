@@ -3,7 +3,8 @@ title: Streaming 16 Besar Piala Dunia 2018 Update
 permalink: "/piala-dunia-2018"
 excerpt: "Streaming 16 Besar Piala Dunia 2018, Jadwal dan link streaming"
 header:
- image: https://i0.wp.com/gilabola.com/wp-content/uploads/2018/02/Jadwal-Piala-Dunia-2018-1068x601.jpg?resize=640,320
+ image: https://scontent-sit4-1.cdninstagram.com/vp/da1f973d9cfeec0e309f1a745b60c11b/5BCA7CE7/t51.2885-15/e35/35575942_247371939190412_2949756562203213824_o.jpg
+ teaser: https://i0.wp.com/gilabola.com/wp-content/uploads/2018/02/Jadwal-Piala-Dunia-2018-1068x601.jpg?resize=540,270
  caption: World Cup 2018
 layout: splash
 ---
@@ -23,6 +24,8 @@ Di sisi tabel seberang, persaingan terasa lebih adem. Spanyol barangkali mendapa
 Bahkan jika terus melenggang ke semi-final, calon lawan La Roja juga akan tergolong sebagai tim-tim yang di atas kertas seharusnya bisa mereka kalahkan: Swedia, Swiss, Inggris, atau Kolombia.
 
 Untuk lebih lengkapnya bisa disimak dalam bagan turnamen dan jadwal babak 16 besar Piala Dunia 2018 di bawah ini!
+
+![bagan pertandingan 16 besar pd 2018](https://scontent-sit4-1.cdninstagram.com/vp/da1f973d9cfeec0e309f1a745b60c11b/5BCA7CE7/t51.2885-15/e35/35575942_247371939190412_2949756562203213824_o.jpg)
 
 ## JADWAL BABAK 16 BESAR
 
