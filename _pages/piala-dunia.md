@@ -2,14 +2,13 @@
 title: Streaming 16 Besar Piala Dunia 2018 Update
 permalink: "/piala-dunia-2018"
 excerpt: "Streaming 16 Besar Piala Dunia 2018, Jadwal dan link streaming"
-header:
- feature_image: https://scontent-sit4-1.cdninstagram.com/vp/da1f973d9cfeec0e309f1a745b60c11b/5BCA7CE7/t51.2885-15/e35/35575942_247371939190412_2949756562203213824_n.jpg
- teaser: https://i0.wp.com/gilabola.com/wp-content/uploads/2018/02/Jadwal-Piala-Dunia-2018-1068x601.jpg?resize=540,270
- caption: World Cup 2018
+og_image: https://i0.wp.com/gilabola.com/wp-content/uploads/2018/02/Jadwal-Piala-Dunia-2018-1068x601.jpg?resize=540,270
+header: 
+ image: https://scontent-sit4-1.cdninstagram.com/vp/da1f973d9cfeec0e309f1a745b60c11b/5BCA7CE7/t51.2885-15/e35/35575942_247371939190412_2949756562203213824_n.jpg
+ caption: "Fase grup telah usai, saatnya Piala Dunia 2018 memasuki fase gugur. Ada sejumlah partai menarik di babak 16 besar."
 layout: splash
 ---
 ## BABAK 16 BESAR PIALA DUNIA 2018: NERAKA DI SISI KIRI
-Fase grup telah usai, saatnya Piala Dunia 2018 memasuki fase gugur. Ada sejumlah partai menarik di babak 16 besar.
 
 Tidak terasa, Piala Dunia 2018 sudah melangkah ke tahap knock-out menyusul berakhirnya matchday ketiga dari delapan grup pada Kamis (28/6).
 
