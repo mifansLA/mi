@@ -8,6 +8,6 @@
 {% elsif video_provider == "youtube" %}
   <iframe src="https://www.youtube.com/embed/{{ video_id }}" frameborder="0" allowfullscreen></iframe>
 {% elsif video_provider == "stream" %}
-  <iframe src="{{ video_id }}" frameborder="0" allowfullscreen></iframe>
+  <video autoplay controls><source src="{{ video_id }}" type="video/mp4"></source></video>
 {% endif %}
 </div>
