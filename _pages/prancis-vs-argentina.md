@@ -8,5 +8,6 @@ header:
   id: 0-3YaqPBXi4
   provider: youtube
 ---
+Prancis berhasil menyingkirkan Messi cs dari pentas Piala Dunia Rusia dengan skor 4-3. Pertandingan berlangsung seru dengan kedua tim bermain terbuka.
 {% include adsense1.html %}
 {% include mx-player.md %}
