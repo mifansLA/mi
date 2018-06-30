@@ -6,17 +6,19 @@
 
 {% if page.title %}
 {% if page.layout == "stream" %}
- {% if page.round == "16besar" %}
-  {% assign seo_title = page.title | prepend: "Live Streaming ★ " | append: " ★ 16 Besar Piala Dunia 2018" %}
- {% elsif page.round == "8besar" %}
-  {% assign seo_title = page.title | prepend: "Live Streaming ★ " | append: " ★ 8 Besar Piala Dunia 2018" %}
- {% elsif page.round == "semifinal" %}
-  {% assign seo_title = page.title | prepend: "Live Streaming ★ " | append: " ★ Semifinal Piala Dunia 2018" %}
- {% else %}
-  {% assign seo_title = page.title | prepend: "Live Streaming ★ " | append: " ★ Final Piala Dunia 2018" %}
-{% endif %}
-{% else %}
+  {% assign stream_title = page.title | prepend: "Live Streaming ★ " %}
+{% elsif %}
   {% assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append: site.title %}
+{% endif %}
+
+ {% if page.round == "16besar" %}
+  {% assign seo_title = stream_title | append: " ★ 16 Besar Piala Dunia 2018" %}
+ {% if page.round == "8besar" %}
+  {% assign seo_title = stream_title | append: " ★ 8 Besar Piala Dunia 2018" %}
+ {% elsif page.round == "semifinal" %}
+  {% assign seo_title = stream_title | append: " ★ Semifinal Piala Dunia 2018" %}
+ {% elsif page.round == "final" %}
+  {% assign seo_title = stream_title | append: " ★ Final Piala Dunia 2018" %}
 {% endif %}
 
 {% if seo_title %}
