@@ -5,6 +5,17 @@
 {% assign seo_url = seo_url | default: site.github.url %}
 
 {% if page.title %}
+{% if page.layout == "stream" %}
+ {% if page.round == "16besar" %}
+  {% assign seo_title = page.title | prepend: "Live Streaming ★ " | append: " ★ 16 Besar Piala Dunia 2018" %}
+ {% elsif page.round == "8besar" %}
+  {% assign seo_title = page.title | prepend: "Live Streaming ★ " | append: " ★ 8 Besar Piala Dunia 2018" %}
+ {% elsif page.round == "semifinal" %}
+  {% assign seo_title = page.title | prepend: "Live Streaming ★ " | append: " ★ Semifinal Piala Dunia 2018" %}
+ {% else %}
+  {% assign seo_title = page.title | prepend: "Live Streaming ★ " | append: " ★ Final Piala Dunia 2018" %}
+{% endif %}
+{% else %}
   {% assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append: site.title %}
 {% endif %}
 
