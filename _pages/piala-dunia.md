@@ -10,7 +10,7 @@ layout: splash
 last_modified_at: 2018-06-29
 ---
 Fase grup telah usai, saatnya Piala Dunia 2018 memasuki fase gugur. Ada sejumlah partai menarik di babak 16 besar.
-
+{% include respo.html %}
 ## BABAK 16 BESAR PIALA DUNIA 2018: NERAKA DI SISI KIRI
 
 Tidak terasa, [Piala Dunia 2018](/piala-dunia-2018-hd) sudah melangkah ke tahap knock-out menyusul berakhirnya matchday ketiga dari delapan grup pada Kamis (28/6).
@@ -32,81 +32,30 @@ Untuk lebih lengkapnya bisa disimak dalam bagan turnamen dan jadwal babak 16 bes
 
 ### JADWAL BABAK 16 BESAR
 
-**Prancis vs Argentina**
+| **Prancis vs Argentina** | **Uruguay vs Portugal** |
+|:---:|:---:|
+| [Streaming](/16-besar-prancis-vs-){:.btn.btn--primary} | [Streaming](/16-besar-uruguay-vs-portugal){:.btn.btn--primary} |
+| Sabtu, 30 Juni 2018 | Minggu, 1 Juli 2018 |
+| Kick-Off: 21:00 WIB | Kick-Off: 01:00 WIB |
+| Kazan Arena, Kazan | Fisht Olympic Stadium, Sochi |
 
-[Streaming](/16-besar-prancis-vs-argentina){:.btn.btn--primary}
+| **Spanyol vs Rusia** | **Kroasia vs Denmark** |
+|:---:|:---:|
+| [Streaming](/16-besar-spanyol-vs-rusia){:.btn.btn--primary} | [Streaming](/16-besar-kroasia-vs-denmark){:.btn.btn--primary} |
+| Minggu, 1 Juli 2018 | Senin, 2 Juli 2018 |
+| Kick-Off: 21:00 WIB | Kick-Off: 01:00 WIB |
+| Luzhniki Stadium, Moskwa | Nizhny Novgorod Stadium, Nizhny Novgorod |
 
-Sabtu, 30 Juni 2018
+| **Brasil vs Meksiko** | **Belgia vs Jepang** |
+|:---:|:---:|
+| [Streaming](/16-besar-brasil-vs-meksiko){:.btn.btn--primary} | [Streaming](/16-besar-belgia-vs-jepang){:.btn.btn--primary} |
+| Senin, 2 Juli 2018 | Selasa, 3 Juli 2018 |
+| Kick-Off: 21:00 WIB | Kick-Off: 01:00 WIB |
+| Cosmos Arena, Samara | Rostov Arena, Rostov-on-Don |
 
-Kick-Off: 21:00 WIB
-
-Kazan Arena, Kazan
-
-**Uruguay vs Portugal**
-
-[Streaming](/16-besar-uruguay-vs-portugal){:.btn.btn--primary}
-
-Minggu, 1 Juli 2018
-
-Kick-Off: 01:00 WIB
-
-Fisht Olympic Stadium, Sochi
-
-**Spanyol vs Rusia**
-
-[Streaming](/16-besar-spanyol-vs-rusia){:.btn.btn--primary}
-
-Minggu, 1 Juli 2018
-
-Kick-Off: 21:00 WIB
-
-Luzhniki Stadium, Moskwa
-
-**Kroasia vs Denmark**
-
-[Streaming](/16-besar-kroasia-vs-denmark){:.btn.btn--primary}
-
-Senin, 2 Juli 2018
-
-Kick-Off: 01:00 WIB
-
-Nizhny Novgorod Stadium, Nizhny Novgorod
-
-**Brasil vs Meksiko**
-
-[Streaming](/16-besar-brasil-vs-meksiko){:.btn.btn--primary}
-
-Senin, 2 Juli 2018
-
-Kick-Off: 21:00 WIB
-
-Cosmos Arena, Samara
-
-**Belgia vs Jepang**
-
-[Streaming](/16-besar-belgia-vs-jepang){:.btn.btn--primary}
-
-Selasa, 3 Juli 2018
-
-Kick-Off: 01:00 WIB
-
-Rostov Arena, Rostov-on-Don
-
-**Swedia vs Swiss**
-
-[Streaming](/16-besar-swedia-vs-swiss){:.btn.btn--primary}
-
-Selasa, 3 Juli 2018
-
-Kick-Off: 21:00 WIB
-
-Krestovsky Stadium, Saint Petersburg
-
-**Kolombia vs Inggris**
-
-[Streaming](/16-besar-kolombia-vs-inggris){:.btn.btn--primary}
-Rabu, 4 Juli 2018
-
-Kick-Off: 01:00 WIB
-
-Otkritie Arena, Moskwa
+| **Swedia vs Swiss** | **Kolombia vs Inggris** |
+|:---:|:---:|
+| [Streaming](/16-besar-swedia-vs-swiss){:.btn.btn--primary} | [Streaming](/16-besar-kolombia-vs-inggris){:.btn.btn--primary} |
+| Selasa, 3 Juli 2018 | Rabu, 4 Juli 2018 |
+| Kick-Off: 21:00 WIB | Kick-Off: 01:00 WIB |
+| Krestovsky Stadium, Saint Petersburg | Otkritie Arena, Moskwa |
