@@ -32,9 +32,9 @@ Untuk lebih lengkapnya bisa disimak dalam bagan turnamen dan jadwal babak 16 bes
 
 ### JADWAL BABAK 16 BESAR
 
-| **Prancis vs Argentina** | **Uruguay vs Portugal** |
+| **Prancis 4 vs 3 Argentina** | **Uruguay 2 vs 1 Portugal** |
 |:---:|:---:|
-| [Streaming](/16-besar-prancis-vs-argentina){:.btn.btn--primary} | [Streaming](/16-besar-uruguay-vs-portugal){:.btn.btn--primary} |
+|[Highlight](/16-besar-prancis-vs-argentina){:.btn.btn--primary} | [Highlight](/16-besar-uruguay-vs-portugal){:.btn.btn--primary} |
 | Sabtu, 30 Juni 2018 | Minggu, 1 Juli 2018 |
 | Kick-Off: 21:00 WIB | Kick-Off: 01:00 WIB |
 | Kazan Arena, Kazan | Fisht Olympic Stadium, Sochi |
