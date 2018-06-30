@@ -9,7 +9,7 @@ header:
  video:
   id: https://live.cdn.asset.aparat.com/astv1/edge/tv3_high/index.m3u8?wmsAuthSign=618ec5a28a2ec620ac62d63c3f7124bd
   provider: stream
-poster: http://www.prediksibolamenang.net/wp-content/uploads/2018/06/Prediksi-Skor-Prancis-Vs-Argentina-30-Juni-2018-1-1024x642.jpg
+poster: https://i0.wp.com/www.prediksibolamenang.net/wp-content/uploads/2018/06/Prediksi-Skor-Prancis-Vs-Argentina-30-Juni-2018-1-1024x642.jpg?resize=460,250
 ---
 {% include adsense1.html %}
 {% include mx-player.md %}
