@@ -8,10 +8,6 @@
   {% assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append: site.title %}
 {% endif %}
 
-{% if page.layout.stream %}
-  {% assign seo_title = page.title | prepend: "Live Streaming ★ " %}
-{% elsif %}
-
 {% if seo_title %}
   {% assign seo_title = seo_title | markdownify | strip_html | strip_newlines | escape_once %}
 {% endif %}
