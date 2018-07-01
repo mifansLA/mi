@@ -2,7 +2,7 @@
 layout: stream
 title: "Live Streaming ★ Belgia vs Meksiko ★ 16 Besar Piala Dunia 2018"
 excerpt: "Hasil Live Streaming Pertandingan Belgia vs Meksiko Piala Dunia 2018 16 Besar Babak Knock Out"
-permalink: "/16-besar-brasil-vs-meksiko"
+permalink: "/16-besar-belgia-vs-jepang"
 header:
  image: https://i0.wp.com/www.pialadunia2018rusia.com/wp-content/uploads/2018/07/Prediksi-Bola-Piala-Dunia-Belgia-Vs-Jepang-3-Juli-2018.jpg?resize=640,320
  video:
