@@ -1,8 +1,8 @@
 ---
 layout: stream
-title: "Live Streaming ★ Swiss vs Swedia ★ 16 Besar Piala Dunia 2018"
-excerpt: "Live Streaming Pertandingan Swiss vs Swedia Piala Dunia 2018 16 Besar Babak Knock Out"
-permalink: "/16-besar-swiss-vs-swedia"
+title: "Live Streaming ★ Kolombia vs Inggris ★ 16 Besar Piala Dunia 2018"
+excerpt: "Live Streaming Pertandingan Kolombia vs Inggris Piala Dunia 2018 16 Besar Babak Knock Out"
+permalink: "/16-besar-kolombia-vs-inggris"
 header:
  image:  https://i0.wp.com/www.sepakbola.com/wp-content/uploads/2018/07/prediksi-Kolombia-vs-Inggris.jpg?resize=640,320
  video:
