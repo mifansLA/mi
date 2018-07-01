@@ -1,8 +1,8 @@
 ---
 layout: stream
-title: "Live Streaming ★ Belgia vs Jepang ★ 16 Besar Piala Dunia 2018"
-excerpt: "Hasil Live Streaming Pertandingan Belgia vs Jepang Piala Dunia 2018 16 Besar Babak Knock Out"
-permalink: "/16-besar-belgia-vs-jepang"
+title: "Live Streaming ★ Swedia vs Swiss ★ 16 Besar Piala Dunia 2018"
+excerpt: "Live Streaming Pertandingan Swedia vs Swiss Piala Dunia 2018 16 Besar Babak Knock Out"
+permalink: "/16-besar-swedia-vs-swiss"
 header:
  image: https://i0.wp.com/tipsprediksi.com/wp-content/uploads/2018/06/swedia-vs-swiss-2.jpg?resize=640,320
  video:
