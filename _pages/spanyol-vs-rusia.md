@@ -10,6 +10,7 @@ header:
   teaser: https://lh6.googleusercontent.com/proxy/azOYalORWprqudoTVZy8kcE81D5nSY54OtnZXbanxmzpco1fUQk_7LlizTbiNSbzHklqIgZwLjT86ewN0n67tLu5P-f2ozSjFjRTggcxsxeQCzfmo0AnKx-BR8xJrDDa-RJguqThaW0oPPYdqqIH=w340-h280-nc
 poster: https://lh6.googleusercontent.com/proxy/azOYalORWprqudoTVZy8kcE81D5nSY54OtnZXbanxmzpco1fUQk_7LlizTbiNSbzHklqIgZwLjT86ewN0n67tLu5P-f2ozSjFjRTggcxsxeQCzfmo0AnKx-BR8xJrDDa-RJguqThaW0oPPYdqqIH=w540-480-nc
 og_image: https://lh6.googleusercontent.com/proxy/azOYalORWprqudoTVZy8kcE81D5nSY54OtnZXbanxmzpco1fUQk_7LlizTbiNSbzHklqIgZwLjT86ewN0n67tLu5P-f2ozSjFjRTggcxsxeQCzfmo0AnKx-BR8xJrDDa-RJguqThaW0oPPYdqqIH=w540-480-nc
+last_modified_at: 2018-07-02
 ---
 
 ### Rusia "usir" Spanyol dari Piala Dunia 2018
