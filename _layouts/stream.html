@@ -12,9 +12,11 @@ layout: default
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
     {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date: "%B %d, %Y" }}">{% endif %}
+    {% if page.og_image %}
     <section class="page__content" itemprop="image">
       <figure><img src="{{ page.og_image }}"/><figcaption>{{ page.title }}</figcaption></figure>
     </section>
+    {% endif %}
     <section class="page__content" itemprop="text">
     {{ page.excerpt }}
     
