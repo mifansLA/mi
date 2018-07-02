@@ -15,7 +15,7 @@ last_modified_at: 2018-07-02
 
 ### Rusia "usir" Spanyol dari Piala Dunia 2018
 
-Timnas Rusia berhasil menyingkirkan timnas Spanyol dari Piala Dunia 2018 setelah menang melalui adu penalti dengan skor akhir 4-3 di Stadion Luzhniki, Minggu (1/7/2018).
+Timnas Rusia berhasil menyingkirkan timnas Spanyol dari [Piala Dunia 2018](https://mi.knoacc.org/piala-dunia-2018) setelaj menang melalui adu penalti dengan skor akhir 4-3 di Stadion Luzhniki, Minggu (1/7/2018).
 
 Pada waktu normal, Rusia dan Spanyol bermain imbang 1-1. Gol bunuh diri bek Rusia, Sergei Ignashevich, pada menit ke-12, membuka keunggulan Spanyol.
 
