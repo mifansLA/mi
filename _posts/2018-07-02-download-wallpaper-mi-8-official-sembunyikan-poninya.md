@@ -13,7 +13,9 @@ tags:
 Pernah merasa terganggu dengan tampilan Poni milik Mi 8? Kalaupun tidak, kamu akan tertarik untuk mencoba wallpaper yang bisa menyembunyikan poni di layar Xiaomi Mi 8 ini
 
 Wallpaper berwarna dominan kuninh cerah ini punya resolusi 1080 pixel x 2248 pixel. Lihat preview wallpapernya berikut:
-![](hide-the-notch.jpeg)
+
+![Wallpapaer](hide-the-notch.jpeg){:.align-center}
+
 Cukup unik bukan?
 
 ### Download Wallpaper
