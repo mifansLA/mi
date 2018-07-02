@@ -1,5 +1,5 @@
 ---
-title: Redmi Note 5  Ludes Terjual 5 Juta Unit
+title: News ★ Redmi Note 5 Ludes ★ Terjual 5 Juta Unit
 excerpt: Redmi Note 5 Ludes, Mi 8 Laku Keras dan Mi Credit Rilis di Indonesia
 header:
  teaser: https://i0.wp.com/images.firstpost.com/wp-content/uploads/2018/02/Xiaomi-Redmi-Note-5-Pro-review-tech2-1280-720-17.jpg?resize=360,155
