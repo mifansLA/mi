@@ -1,7 +1,7 @@
 ---
 layout: stream
-title: "Live Streaming ★ Spanyol vs Rusia ★ 16 Besar Piala Dunia 2018"
-excerpt: "Live Streaming Spanyol vs Rusia Piala Dunia 2018 16 Besar Babak Knock Out"
+title: "Live Streaming ★ Spanyol 1 (3) vs (4) 1 Rusia ★ 16 Besar Piala Dunia 2018"
+excerpt: "Hasil Live Streaming Pertandingan Spanyol 1 (3) vs (4) 1 Rusia Piala Dunia 2018 16 Besar Babak Knock Out"
 permalink: "/16-besar-spanyol-vs-rusia"
 header:
  video:
