@@ -11,9 +11,8 @@ header:
 poster: https://lh6.googleusercontent.com/proxy/azOYalORWprqudoTVZy8kcE81D5nSY54OtnZXbanxmzpco1fUQk_7LlizTbiNSbzHklqIgZwLjT86ewN0n67tLu5P-f2ozSjFjRTggcxsxeQCzfmo0AnKx-BR8xJrDDa-RJguqThaW0oPPYdqqIH=w540-480-nc
 og_image: https://lh6.googleusercontent.com/proxy/azOYalORWprqudoTVZy8kcE81D5nSY54OtnZXbanxmzpco1fUQk_7LlizTbiNSbzHklqIgZwLjT86ewN0n67tLu5P-f2ozSjFjRTggcxsxeQCzfmo0AnKx-BR8xJrDDa-RJguqThaW0oPPYdqqIH=w540-480-nc
 ---
-<video><src="https://mixer.com/api/v1/channels/39927539/manifest.m3u8?accessKey=39927539-a6ryhjj8byihevabb1l9t7wt6t4lg7kf"/>
-</video>
-### Rusia "usir Spanyol dari Piala Dunia 2018
+
+### Rusia "usir" Spanyol dari Piala Dunia 2018
 
 Timnas Rusia berhasil menyingkirkan timnas Spanyol dari Piala Dunia 2018 setelah menang melalui adu penalti dengan skor akhir 4-3 di Stadion Luzhniki, Minggu (1/7/2018).
 
