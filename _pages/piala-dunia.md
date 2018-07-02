@@ -42,14 +42,14 @@ Untuk lebih lengkapnya bisa disimak dalam bagan turnamen dan jadwal babak 16 bes
 | **Spanyol 1 vs 1 Rusia** | **Kroasia 1 vs 1 Denmark** |
 | Penalty round: 3 - 4 | Penalty round: 3 - 2 |
 |:---:|:---:|
-| [Higjlight](/16-besar-spanyol-vs-rusia){:.btn.btn--primary} | [Highlight](/16-besar-kroasia-vs-denmark){:.btn.btn--primary} |
+| [Highlight](/16-besar-spanyol-vs-rusia){:.btn.btn--primary} | [Highlight](/16-besar-kroasia-vs-denmark){:.btn.btn--primary} |
 | Minggu, 1 Juli 2018 | Senin, 2 Juli 2018 |
 | Kick-Off: 21:00 WIB | Kick-Off: 01:00 WIB |
 | Luzhniki Stadium, Moskwa | Nizhny Novgorod Stadium, Nizhny Novgorod |
 
-| **Brasil vs Meksiko** | **Belgia vs Jepang** |
+| **Brasil 2 vs 0 Meksiko** | **Belgia 3 vs 2 Jepang** |
 |:---:|:---:|
-| [Streaming](/16-besar-brasil-vs-meksiko){:.btn.btn--primary} | [Streaming](/16-besar-belgia-vs-jepang){:.btn.btn--primary} |
+| [Highlight](/16-besar-brasil-vs-meksiko){:.btn.btn--primary} | [Highlight](/16-besar-belgia-vs-jepang){:.btn.btn--primary} |
 | Senin, 2 Juli 2018 | Selasa, 3 Juli 2018 |
 | Kick-Off: 21:00 WIB | Kick-Off: 01:00 WIB |
 | Cosmos Arena, Samara | Rostov Arena, Rostov-on-Don |
