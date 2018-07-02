@@ -2,7 +2,7 @@
 title: "Resources ★ Mi 8 Official Wallpaper ★ Sembunyikan Poninya"
 excerpt: "Download wallpaper untuk menyembunyikan poni Xiaomi Mi 8"
 header:
- teaser: "/hide-the-notch.jpeg"
+ teaser: "/assets/image/hide-the-notch.jpeg"
 categories:
  - resources
 tags:
@@ -14,7 +14,7 @@ Pernah merasa terganggu dengan tampilan Poni milik Mi 8? Kalaupun tidak, kamu ak
 
 Wallpaper berwarna dominan kuning cerah ini punya resolusi 1080 pixel x 2248 pixel. Lihat preview wallpapernya berikut:
 
-![Wallpapaer](/hide-the-notch.jpeg){:.align-center}
+![Wallpaper](/assets/image/hide-the-notch.jpeg){:.align-center}
 
 Cukup unik bukan?
 
