@@ -1,11 +1,11 @@
 ---
 title: "Resources ★ Mi 8 Official Wallpaper ★ Sembunyikan Poninya"
-excerpt: Download wallpaper untuk menyembunyikan poni xiaomi mi 8
+excerpt: "Download wallpaper untuk menyembunyikan poni Xiaomi Mi 8"
 header:
- teaser: hide-the-notch.jpeg
+ teaser: "hide-the-notch.jpeg"
 categories:
  - resources
-tags
+tags:
  - hide the notch
  - mi 8 wallpaper
  - sembunyikan poninya
