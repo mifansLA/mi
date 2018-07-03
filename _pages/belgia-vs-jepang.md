@@ -4,13 +4,11 @@ title: "Live Streaming ★ Belgia 3 vs 2 Jepang ★ 16 Besar Piala Dunia 2018"
 excerpt: "Hasil Live Streaming Pertandingan Belgia 3 vs 2 Jepang Piala Dunia 2018 16 Besar Babak Knock Out"
 permalink: "/16-besar-belgia-vs-jepang"
 header:
- image: https://i0.wp.com/www.pialadunia2018rusia.com/wp-content/uploads/2018/07/Prediksi-Bola-Piala-Dunia-Belgia-Vs-Jepang-3-Juli-2018.jpg?resize=640,320
  video:
-  id: https://live.cdn.asset.aparat.com/astv1/edge/tv3_high/index.m3u8?wmsAuthSign=618ec5a28a2ec620ac62d63c3f7124bd
-  provider: stream
+  id: 2QbU2LpUUJA
+  provider : youtube
  teaser: https://i0.wp.com/www.pialadunia2018rusia.com/wp-content/uploads/2018/07/Prediksi-Bola-Piala-Dunia-Belgia-Vs-Jepang-3-Juli-2018.jpg?resize=340,170
-poster: https://i0.wp.com/www.pialadunia2018rusia.com/wp-content/uploads/2018/07/Prediksi-Bola-Piala-Dunia-Belgia-Vs-Jepang-3-Juli-2018.jpg?resize=640,320
-og_image: https://i0.wp.com/www.pialadunia2018rusia.com/wp-content/uploads/2018/07/Prediksi-Bola-Piala-Dunia-Belgia-Vs-Jepang-3-Juli-2018.jpg?resize=720,360
+last_modified_at: 2018-07-03
 ---
 ### Drama 5 Gol Jepang vs Belgia
 
