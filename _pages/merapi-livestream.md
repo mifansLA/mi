@@ -2,6 +2,7 @@
 layout: stream
 title: "Realtime Footage Mount Merapi Live Stream Video"
 excerpt: "Video Pantau Realtime Gunung Merapi [Live] Bukan Rekaman"
+permalink: "/live-stream-gunung-merapi"
 header:
  video:
   id: HOw4_zm82Xk
