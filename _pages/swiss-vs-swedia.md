@@ -20,7 +20,9 @@ Pada laga ini, Swiss sebenarnya lebih unggul dalam penguasaan bola, yakni dengan
 
 ### Babak Pertama
 
-Pada awal babak pertama, Swiss melakukan inisiatif serangan via Xherdan Shaqiri. Dia melakukan tendangan, tetapi masih melebar di sisi kiri gawang Swedia.
+Pada awal babak pertama, Swiss melakukan inisiatif serangan via Xherdan Shaqiri. Dia melakukan tendangan, tetapi masih melebar di sisi kiri gawang Swedia.
+
+{% include adsense1.html %}
 
 Swiss kembali mencoba untuk mencetak gol. Kali ini lewat Steven Zuber. Namun, tendangannya masih belum bisa menembus gawang Swedia yang dikawal Robin Olsen.
 
