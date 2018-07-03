@@ -7,7 +7,7 @@ header:
  video:
   id: https://live.cdn.asset.aparat.com/astv1/edge/tv3_high/index.m3u8?wmsAuthSign=618ec5a28a2ec620ac62d63c3f7124bd
   provider: stream
- teaser:https://pbs.twimg.com/media/DhMmwqBVQAUVhY6?format=jpg
+ teaser: https://pbs.twimg.com/media/DhMmwqBVQAUVhY6?format=jpg
 og_image: https://pbs.twimg.com/media/DhMmwqBVQAUVhY6?format=jpg
 poster: https://pbs.twimg.com/media/DhMmwqBVQAUVhY6?format=jpg
 last_modified_at: 2018-07-04 00:30
