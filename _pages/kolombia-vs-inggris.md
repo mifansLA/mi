@@ -24,6 +24,8 @@ Pada babak pertama, kedua tim bermain terbuka dengan silih berganti melakukan se
 
 Namun, serangan kedua tim selalu gagal menghasilkan gol karena buruknya koordinasi di sepertiga pertahanan lawan.
 
+{% include adsense1.html %}
+
 ### Babak Pertama
 
 Pertandingan berjalan dengan tempo cukup cepat selama babak pertama. Tidak jarang pemain dari kedua tim terlibat kontak fisik hingga berujung beradu argumen.
