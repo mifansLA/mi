@@ -10,7 +10,7 @@ header:
  teaser: https://pbs.twimg.com/media/DhMmwqBVQAUVhY6?format=jpg
 og_image: https://pbs.twimg.com/media/DhMmwqBVQAUVhY6?format=jpg
 poster: https://pbs.twimg.com/media/DhMmwqBVQAUVhY6?format=jpg
-last_modified_at: 2018-07-04 00:30
+last_modified_at: 2018-07-04
 ---
 
 Prediksi portal panditfootbal: Inggris dan Kolombia akan bermain terbuka sejak awal, mengingat kedua kesebelasan punya lini serang yang bagus. Meski begitu, agak sulit untuk terjadinya hujan gol karena laga akan berlangsung ketat. Kemungkinan, Inggris akan memenangi pertandingan dengan skor tipis 2-1. Kecuali jika pertandingan dilanjutkan ke babak adu penalti, narasinya akan berbeda lagi.. selengkapnya [di sini](https://www.panditfootball.com/analisa-pertandingan/211666/SPN/180703/prediksi-kolombia-vs-inggris-permainan-terbuka-yang-menantang){: rel="nofollow noreferer"}
