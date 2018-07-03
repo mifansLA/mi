@@ -14,7 +14,7 @@ header:
 
 Perancis berhasil menang 4-3 atas Argentina pada babak 16 besar Piala Dunia 2018 di Kazan Arena, Sabtu (30/6/2018).
 
-Prancis berhasil menyingkirkan Messi cs dari pentas Piala Dunia Rusia dengan skor 4-3. Pertandingan berlangsung seru dengan kedua tim bermain terbuka.
+Pertandingan berlangsung seru dengan kedua tim bermain terbuka.
 
 Gol Perancis dicetak Antoine Griezmann melalui eksekusi penalti pada menit ke-13, Benjamin Pavard (57'), dan Kylian Mbappe (64', 68'). Sementara itu gol Argentina dicetak Angel Di Maria (41'), Gabriel Mercado (48') dan Sergio Aguero (90+3').
 
