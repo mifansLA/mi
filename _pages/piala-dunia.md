@@ -22,7 +22,7 @@ Pemenang duel [Prancis-Argentina](/16-besar-prancis-vs-argentina) ini nantinya b
 
 {% include adsense2.html %}
 
-Kempat tim itu seperti memilih jalur neraka untuk menuju final di Moskwa pada 15 Juli mendatang. Belum lagi ada potensi mereka akan berjumpa [tim favorit Brasil](/16-besar-brasil-vs-meksiko) dan [kuda hitam Belgia](/16-besar-jepang-vs-belgia) yang juga berada di sisi tabel yang sama.
+Kempat tim itu seperti memilih jalur neraka untuk menuju final di Moskwa pada 15 Juli mendatang. Belum lagi ada potensi mereka akan berjumpa [tim favorit Brasil](/16-besar-brasil-vs-meksiko) dan [kuda hitam Belgia](/16-besar-belgia-vs-jepang) yang juga berada di sisi tabel yang sama.
 
 Di sisi tabel seberang, persaingan terasa lebih adem. Spanyol barangkali mendapat prospek lawan yang relatif lebih enteng ketimbang tim raksasa lain. Jika sanggup mengalahkan tuan rumah [Rusia di babak 16 besar](/16-besar-spanyol-vs-rusia), Spanyol bakal menantang [Kroasia atau Denmark](/16-besar-kroasia-vs-denmark) di perempat-final.
 
