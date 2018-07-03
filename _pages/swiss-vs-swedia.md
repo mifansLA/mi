@@ -28,6 +28,8 @@ Swedia bukan tanpa serangan. Tim asuhan Janne Anderson itu coba menekan lewat M
 
 Selanjutnya, pemain Swedia, Albin Ekdal, juga mencoba untuk membuat gol pertama. Namun, usahanya juga masih gagal.
 
+![Babak pertama swedia vs swiss](https://pbs.twimg.com/media/DhMDKgDXkAEgjBh?format=jpg)
+
 Setelah itu, hingga babak pertama berakhir, kedua tim belum mampu mencetak gol dan skor masih 0-0.
 
 ### Babak Kedua
@@ -39,6 +41,8 @@ Namun, usaha Forsberg masih bisa diantisipasi oleh barisan pertahanan Swiss.
 Swiss bukan tanpa serangan. Ricardo Rodriguez mencoba melakukan tembakan dengan kaki kanan dari luar kotak penalti, tetapi masih diblok oleh barisan pertahanan Swedia.
 
 Pendukung Swedia akhirnya bisa bersorak pada menit ke-66 setelah Forsberg bisa menjebol gawang Yan Sommer.
+
+![gooal! swedia 1 swiss 0](https://pbs.twimg.com/media/DhMNpAcXUAE9irx?format=jpg)
 
 Forsberg menembak dengan kaki kanan dari luar kotak penalti ke pojok kiri atas setelah menerima umpan dari Ola Toivonen.
 
@@ -56,7 +60,9 @@ Namun, Robin Olsen bisa menangkap bola dan mengamankan gawang Swedia. 
 
 Swedia melakukan serangan balik. Michael Lang mendapat kartu merah karena mendorong Martin Olsson di dekat kotak penalti.
 
-Wasit sempat menunjuk penalti, tetapi setelah menggunakan video assistant referee (VAR), keputusan itu dianulir dan menjadi tendangan bebas. Namun, tendangan bebas itu gagal dimanfaatkan menjadi gol.
+Wasit sempat menunjuk penalti, tetapi setelah menggunakan video assistant referee (VAR), keputusan itu dianulir dan menjadi tendangan bebas. Namun, tendangan bebas itu gagal dimanfaatkan menjadi gol.
+
+![babak kedua swedia vs swiss](https://pbs.twimg.com/media/DhMSxtFXUAErpW7?format=jpg)
 
 Hingga babak kedua usai, skor tetap **1-0 untuk kemenangan Swedia**.
 
