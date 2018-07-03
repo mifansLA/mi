@@ -10,7 +10,7 @@ header:
  teaser: https://i.ytimg.com/vi/CjV80nGOGdE/hqdefault.jpg
  last_modified_at: 2018-07-03
 ---
-### Kalahkan Swiss, Swedia Maju ke Perempat Final
+## Kalahkan Swiss, Swedia Maju ke Perempat Final
 
 Timnas [Swedia lolos ke perempat final Piala Dunia 2018](/piala-dunia-2018-hd) setelah mengalahkan Swiss dengan skor 1-0 pada laga 16 besar yang digelar di Stadion Saint-Petersburg, Rabu (3/7/2018).
 
