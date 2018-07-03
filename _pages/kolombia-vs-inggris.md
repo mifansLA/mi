@@ -5,11 +5,10 @@ excerpt: "Hasil Live Streaming Pertandingan Kolombia 1 (3) vs (4) 1 Inggris Pial
 permalink: "/16-besar-kolombia-vs-inggris"
 header:
  video:
-  id: jsbwixbnj
+  id: 2x11wK_z2MQ
   provider: youtube
  teaser: https://pbs.twimg.com/media/DhMmwqBVQAUVhY6?format=jpg
 og_image: https://pbs.twimg.com/media/DhMmwqBVQAUVhY6?format=jpg
-poster: https://pbs.twimg.com/media/DhMmwqBVQAUVhY6?format=jpg
 last_modified_at: 2018-07-04
 ---
 ## Sama-sama Main Terbuka, Inggris Kalahkan Kolombia
@@ -71,7 +70,7 @@ Gol penyeimbang Kolombia terjadi pada menit ke-90+4. Berawal dari skema sepak po
 
 Laga ini akhirnya harus berlanjut ke babak perpanjangan waktu.
 
-### Perpanjangan waktu
+### Perpanjangan Waktu, Tempo Turun
 
 Berlanjut ke perpanjangan waktu, tempo pertandingan sedikit menurun dan kedua tim bermain lebih hati-hati.
 
@@ -83,7 +82,7 @@ Pada menit ke-115, Inggris sempat mengancam lewat tandukan Eric Dier yang masih 
 
 Tidak ada gol yang tercipta selama babak perpanjangan, skor tetap imbang 1-1. Kedua tim harus menjalani babak adu penalti.
 
-### Penalti
+### Penalti 4-3, Inggris Lolos
 
 Inggris menang 4-3 saat adu penalti. Mateus Uribe dan Carlos Bacca menjadi dua penendang Kolombia yang gagal.
 
