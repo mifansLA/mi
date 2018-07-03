@@ -5,8 +5,9 @@ excerpt: "Hasil Live Streaming Pertandingan Prancis vs Argentina Piala Dunia 201
 permalink: "/16-besar-prancis-vs-argentina"
 header:
  video:
-  id: 0-3YaqPBXi4
+  id: mo0c7dohGdo
   provider: youtube
+ teaser: https://i.ytimg.com/vi/mo0c7dohGdo/hqdefault.jpg
 ---
 
 ### Perancis Vs Argentina Bermain Terbuka dan 2 Gol Bersejarah Mbappe
