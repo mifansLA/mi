@@ -7,7 +7,7 @@ header:
  video:
   id: CjV80nGOGdE
   provider: youtube
- teaser: https://i.ytimg.com/vi/CjV80nGOGdE
+ teaser: https://i.ytimg.com/vi/CjV80nGOGdE/hqdefault.jpg
  last_modified_at: 2018-07-03
 ---
 {% include adsense1.html %}
