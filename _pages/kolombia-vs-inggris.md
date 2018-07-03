@@ -9,7 +9,7 @@ header:
   provider: stream
  teaser:https://pbs.twimg.com/media/DhMmwqBVQAUVhY6?format=jpg
 og_image: https://pbs.twimg.com/media/DhMmwqBVQAUVhY6?format=jpg
-poster: 
+poster: https://pbs.twimg.com/media/DhMmwqBVQAUVhY6?format=jpg
 last_modified_at: 2018-07-04 00:30
 ---
 
