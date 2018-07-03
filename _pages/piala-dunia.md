@@ -7,7 +7,7 @@ header:
  image: "https://www.google.com/logos/doodles/2018/world-cup-2018-day-16-5769998143324160.2-law.gif"
  caption: ﷼
 layout: splash
-last_modified_at: 2018-06-29
+last_modified_at: 2018-07-03
 ---
 Fase grup telah usai, saatnya Piala Dunia 2018 memasuki fase gugur. Ada sejumlah partai menarik di babak 16 besar.
 {% include respo.html %}
@@ -18,13 +18,15 @@ Tidak terasa, [Piala Dunia 2018](/piala-dunia-2018-hd) sudah melangkah ke tahap 
 
 Babak 16 besar dipastikan menyajikan sejumlah partai sengit, bahkan sejumlah laga layak disebut sebagai final dini. Argentina, yang susah payah keluar dari grup, misalnya langsung berjumpa Prancis.
 
-Pemenang duel Prancis-Argentina ini nantinya bakal menghadapi Uruguay atau Portugal di perempat-final. Itu artinya, jika Argentina dan Portugal sama-sama lolos, dua megabintang sepakbola terbesar di muka bumi, Lionel Messi dan Cristiano Ronaldo, bakal saling beradu untuk pertama kali di ajang Piala Dunia.
+Pemenang duel [Prancis-Argentina](/16-besar-prancis-vs-argentina) ini nantinya bakal menghadapi [Uruguay atau Portugal](/16-besar-uruguay-vs-portugal) di perempat-final. Itu artinya, jika Argentina dan Portugal sama-sama lolos, dua megabintang sepakbola terbesar di muka bumi, Lionel Messi dan Cristiano Ronaldo, bakal saling beradu untuk pertama kali di ajang Piala Dunia.
 
-Kempat tim itu seperti memilih jalur neraka untuk menuju final di Moskwa pada 15 Juli mendatang. Belum lagi ada potensi mereka akan berjumpa tim favorit Brasil dan kuda hitam Belgia yang juga berada di sisi tabel yang sama.
+{% include adsense2.html %}
 
-Di sisi tabel seberang, persaingan terasa lebih adem. Spanyol barangkali mendapat prospek lawan yang relatif lebih enteng ketimbang tim raksasa lain. Jika sanggup mengalahkan tuan rumah Rusia di babak 16 besar, Spanyol bakal menantang Kroasia atau Denmark di perempat-final.
+Kempat tim itu seperti memilih jalur neraka untuk menuju final di Moskwa pada 15 Juli mendatang. Belum lagi ada potensi mereka akan berjumpa [tim favorit Brasil](/16-besar-brasil-vs-meksiko) dan [kuda hitam Belgia](/16-besar-jepang-vs-belgia) yang juga berada di sisi tabel yang sama.
 
-Bahkan jika terus melenggang ke semi-final, calon lawan La Roja juga akan tergolong sebagai tim-tim yang di atas kertas seharusnya bisa mereka kalahkan: Swedia, Swiss, Inggris, atau Kolombia.
+Di sisi tabel seberang, persaingan terasa lebih adem. Spanyol barangkali mendapat prospek lawan yang relatif lebih enteng ketimbang tim raksasa lain. Jika sanggup mengalahkan tuan rumah [Rusia di babak 16 besar](/16-besar-spanyol-vs-rusia), Spanyol bakal menantang [Kroasia atau Denmark](/16-besar-kroasia-vs-denmark) di perempat-final.
+
+Bahkan jika terus melenggang ke semi-final, calon lawan La Roja juga akan tergolong sebagai tim-tim yang di atas kertas seharusnya bisa mereka kalahkan: [Swedia, Swiss](/16-besar-swedia-vs-swiss), [Inggris, atau Kolombia](/16-besar-inggris-vs-kolombia).
 
 Untuk lebih lengkapnya bisa disimak dalam bagan turnamen dan jadwal babak 16 besar Piala Dunia 2018 di bawah ini!
 
