@@ -68,7 +68,7 @@ Wasit sempat menunjuk penalti, tetapi setelah menggunakan video assistant refere
 
 Hingga babak kedua usai, skor tetap **1-0 untuk kemenangan Swedia**.
 
-Atas hasil ini, Swedia lolos ke perempat final Piala Dunia 2018 dan akan menghadapi antara Kolombia atau Inggris.
+Atas hasil ini, Swedia lolos ke perempat final Piala Dunia 2018 dan akan menghadapi antara [Kolombia atau Inggris](/16-besar-kolombia-vs-inggris).
 
 ### Susunan Pemain
 
