@@ -1,6 +1,6 @@
 ---
 layout: stream
-title: Realtime Footage Mount Merapi Livestream Video
+title: "Realtime Footage Mount Merapi Live Stream Video"
 excerpt: "Video Pantau Realtime Gunung Merapi [Live] Bukan Rekaman"
 header:
  video:
@@ -10,3 +10,4 @@ header:
 share: true
 ---
  
+credit: yt
