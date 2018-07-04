@@ -68,4 +68,4 @@ Untuk lebih lengkapnya bisa disimak dalam bagan turnamen dan jadwal babak 16 bes
 
 ## Perempat Final Piala Dunia
 
-Di babak perempat final, Prancis akan berhadapan dengan Uruguay, Rusia akan meladeni Kroasia. Sedangkan Brazil bertemu Belgia pada babak 8 besar ini diikuti Swiss yang akan menghadapi Inggris. Selengkapnya bisa dilihat di [Jadwal dan Link Streaming 8 Besar Piala Dunia 2018](/piala-dunia-2018-hd)
+Di babak perempat final, Prancis akan berhadapan dengan Uruguay, Rusia akan meladeni Kroasia. Sedangkan Brazil bertemu Belgia pada babak 8 besar ini diikuti Swiss yang akan menghadapi Inggris. Selengkapnya bisa dilihat di [Jadwal dan Link Streaming 8 Besar Piala Dunia 2018](/quarter-piala-dunia-2018)
