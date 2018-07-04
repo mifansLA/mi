@@ -1,6 +1,7 @@
 ---
 layout: splash
 title: Jadwal Streaming Perempat Final Piala Dunia 2018
+excerpt: Streaming HD dan Jadwal Pertandingan Babak 8 Besar Piala Dunia 2018
 permalink: "/perempat-final-piala-dunia"
 header:
  image: https://i0.wp.com/gilabola.com/wp-content/uploads/2018/07/Perempatfinalis-Piala-Dunia-2018-1068x545.jpg?resize=720,360
