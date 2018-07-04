@@ -1,9 +1,31 @@
 ---
 layout: splash
-title: Streaming Perempat Final Besar Piala Dunia 2018
-permalink: '/quarter-piala-dunia"
+title: Jadwal Streaming Perempat Final Piala Dunia 2018
+permalink: "/perempat-final-piala-dunia"
 header:
  image: https://i0.wp.com/gilabola.com/wp-content/uploads/2018/07/Perempatfinalis-Piala-Dunia-2018-1068x545.jpg?resize=720,360
  caption: Perempat Final Piala Dunia 2018
 ---
+## Tim yang Lolos dan Jadwal Pertandingan
 
+Dengan kemenangan Inggris atas Kolombia, meski harus melalui adu penalti, sudah komplit 8 perempatfinalis Piala Dunia 2018. Rusia, Uruguay, Prancis, Brasil, Belgia, Kroasia, Swedia, dan Inggris adalah peserta perdelapan final atau perempat final turnamen di Rusia ini.
+
+![Hasil 16 Besar dan Jadwal Perempat Final](https://pbs.twimg.com/media/DhNYPKZW4AI2-vu?format=jpg)
+
+Jadwal untuk laga-laga perempat final adalah sebagai berikut:
+| Tanggal, Kick Off| Pertandingan | Link Streaming |
+|:---:|:---:|:---:|
+| 6 Juli 2018, 21.00 WIB | Uruguay vs Prancis | [Streaming HD](#){:.btn.btn--primary} |
+| 7 Juli 2018, 01.00 WIB | Brasil vs Belgia | [Streaming HD](#){:.btn.btn--primary} |
+| 7 Juli 2018, 21.00 WIB | Swedia vs Inggris | [Streaming HD](#){:.btn.btn--primary} |
+| 8 Juli 2018, 01.00 WIB | Rusia vs Kroasia | [Streaming HD](#){:.btn.btn--primary} |
+
+### Prediksi Babak Perempat Final
+
+Siapa yang kebagian laga paling mudah? Secara ranking FIFA mestinya Kroasia, karena Rusia menduduki posisi 70 dunia per ranking bulan Juni. Tapi kita tahu ranking bukan segalanya. Buktinya ranking No 1 sekarang sudah di rumah masing-masing di Jerman, nonton sisa Piala Dunia melalui televisi.
+
+Tapi bagaimana pun Rusia memamerkan kerapuhan mereka di lini belakang saat matchday terakhir lawan Uruguay, dan rekaman pertandingan akan ditonton berulang-ulang oleh para pemain Kroasia untuk menemukan cara menembus lini belakang tuan rumah.
+
+Jika berhasil melewati [Rusia, Kroasia](/8-besar-rusia-kroasia) akan bertemu pemenang dari [Swedia vs Inggris](/8-besar-swedia-vs-inggris) pada semi final. Tim Skandinavia itu terkenal rapat dalam bertahan, jadi The Three Lions musti lebih kreatif lagi dibandingkan laga malam ini untuk bisa masuk ke [semi final Piala Dunia 2018](/semifinal-piala-dunia).
+
+Laga-laga lebih sengit akan terjadi di separuh perempatfinalis lainnya. Jika Brasil berhasil lolos dari [hadangan Belgia](/8-besar-brasil-vs-belgia) maka mereka akan menjumpai salah satu dari [Uruguay atau Prancis](/8-besar-uruguay-vs-prancis). Ini jalur yang jauh lebih sulit karena mereka semua adalah mantan juara dunia.
