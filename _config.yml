@@ -106,7 +106,8 @@ author:
 include:
   - .htaccess
   - _pages
-#  - _portofolio
+# - _portofolio
+  - _piala-dunia
 
 timezone: Indonesia/Jakarta
 
@@ -284,5 +285,13 @@ defaults:
       type: portfolio
     values:
       layout: single
+      author_profile: false
+      share: true
+  # _piala-dunia
+  - scope:
+      path: "_piala-dunia"
+      type: pages
+    values:
+      layout: stream
       author_profile: false
       share: true
