@@ -13,7 +13,7 @@ Fase grup telah usai, saatnya Piala Dunia 2018 memasuki fase gugur. Ada sejumlah
 {% include respo.html %}
 ## BABAK 16 BESAR PIALA DUNIA 2018: NERAKA DI SISI KIRI
 
-Tidak terasa, [Piala Dunia 2018](/piala-dunia-2018-hd) sudah melangkah ke tahap knock-out menyusul berakhirnya matchday ketiga dari delapan grup pada Kamis (28/6).
+Tidak terasa, [Piala Dunia 2018](/piala-dunia-2018) sudah melangkah ke tahap knock-out menyusul berakhirnya matchday ketiga dari delapan grup pada Kamis (28/6).
 ![World Cup Trophy](https://pbs.twimg.com/media/Dg077u3V4AAhSJm?format=jpg)
 
 Babak 16 besar dipastikan menyajikan sejumlah partai sengit, bahkan sejumlah laga layak disebut sebagai final dini. Argentina, yang susah payah keluar dari grup, misalnya langsung berjumpa Prancis.
@@ -68,4 +68,4 @@ Untuk lebih lengkapnya bisa disimak dalam bagan turnamen dan jadwal babak 16 bes
 
 ## Perempat Final Piala Dunia
 
-Di babak perempat final, Prancis akan berhadapan dengan Uruguay, Rusia akan meladeni Kroasia. Sedangkan Brazil bertemu Belgia pada babak 8 besar ini diikuti Swiss yang akan menghadapi Inggris. Selengkapnya bisa dilihat di [Jadwal dan Link Streaming 8 Besar Piala Dunia 2018](/quarter-piala-dunia-2018)
+Di babak perempat final, Prancis akan berhadapan dengan Uruguay, Rusia akan meladeni Kroasia. Sedangkan Brazil bertemu Belgia pada babak 8 besar ini diikuti Swiss yang akan menghadapi Inggris. Selengkapnya bisa dilihat di [Jadwal dan Link Streaming 8 Besar Piala Dunia 2018](/perempat-final-piala-dunia-2018)
