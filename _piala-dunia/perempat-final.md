@@ -28,7 +28,7 @@ Jadwal untuk laga-laga perempat final adalah sebagai berikut:
 
 ### Prediksi Babak Perempat Final
 
-Siapa yang kebagian laga paling mudah? Secara ranking FIFA mestinya Kroasia, karena Rusia menduduki posisi 70 dunia per ranking bulan Juni. Tapi kita tahu ranking bukan segalanya. Buktinya ranking No 1 sekarang sudah di rumah masing-masing di Jerman, nonton sisa Piala Dunia melalui televisi.
+Siapa yang kebagian laga paling mudah dalam [Babak 8 Besar](/perempat-final-piala-dunia) ini? Secara ranking FIFA mestinya Kroasia, karena Rusia menduduki posisi 70 dunia per ranking bulan Juni. Tapi kita tahu ranking bukan segalanya. Buktinya ranking No 1 sekarang sudah di rumah masing-masing di Jerman, nonton sisa Piala Dunia melalui televisi.
 
 Tapi bagaimana pun Rusia memamerkan kerapuhan mereka di lini belakang saat matchday terakhir lawan Uruguay, dan rekaman pertandingan akan ditonton berulang-ulang oleh para pemain Kroasia untuk menemukan cara menembus lini belakang tuan rumah.
 
