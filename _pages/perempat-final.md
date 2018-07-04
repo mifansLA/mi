@@ -13,7 +13,8 @@ Dengan kemenangan Inggris atas Kolombia, meski harus melalui adu penalti, sudah
 ![Hasil 16 Besar dan Jadwal Perempat Final](https://pbs.twimg.com/media/DhNYPKZW4AI2-vu?format=jpg)
 
 Jadwal untuk laga-laga perempat final adalah sebagai berikut:
-| Tanggal, Kick Off| Pertandingan | Link Streaming |
+
+| **Tanggal, Kick Off** | **Tim** | **Link Streaming** |
 |:---:|:---:|:---:|
 | 6 Juli 2018, 21.00 WIB | Uruguay vs Prancis | [Streaming HD](#){:.btn.btn--primary} |
 | 7 Juli 2018, 01.00 WIB | Brasil vs Belgia | [Streaming HD](#){:.btn.btn--primary} |
