@@ -13,7 +13,7 @@ last_modified_at: 2018-07-04
 ---
 ## Sama-sama Main Terbuka, Inggris Kalahkan Kolombia
 
-Laga timnas Kolombia versus timnas Inggris berlanjut ke perpanjangan waktu setelah pada waktu normal berakhir imbang 1-1 pada laga 16 besar Piala Dunia 2018 di Otkrytiye Arena, Selasa (3/7/2018) atau Rabu dini hari WIB.
+Laga timnas Kolombia versus timnas Inggris berlanjut ke perpanjangan waktu setelah pada waktu normal berakhir imbang 1-1 pada laga [16 besar Piala Dunia 2018](/piala-dunia-2018) di Otkrytiye Arena, Selasa (3/7/2018) atau Rabu dini hari WIB.
 
 Inggris berhasil unggul terlebih dahulu lewat gol yang dicetak oleh kapten tim, Harry Kane, lewat titik putih pada menit ke-56.
 
@@ -90,4 +90,4 @@ Inggris menang 4-3 saat adu penalti. Mateus Uribe dan Carlos Bacca menjadi dua p
 
 Adapun di tim Inggris, Henderson menjadi satu-satunya pemain yang gagal mengeksekusi penalti.
 
-Dengan kemenangan ini, Inggris akan berhadapan dengan Swedia di babak perempat final. Sebelumnya, Swedia berhasil mengalahkan Swiss dengan skor 1-0, Selasa (4/7/2018).
+Dengan kemenangan ini, Inggris akan berhadapan dengan Swedia di babak perempat final. Sebelumnya, [Swedia berhasil mengalahkan Swiss](/16-besar-swedia-vs-swiss) dengan skor 1-0, Selasa (4/7/2018).
