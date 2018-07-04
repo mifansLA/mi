@@ -1,11 +1,11 @@
 ---
-layout: single
 title: Jadwal Streaming Perempat Final Piala Dunia 2018
 excerpt: Streaming HD dan Jadwal Pertandingan Babak 8 Besar Piala Dunia 2018
 permalink: "/perempat-final-piala-dunia"
 header:
- image: https://i0.wp.com/gilabola.com/wp-content/uploads/2018/07/Perempatfinalis-Piala-Dunia-2018-1068x545.jpg?resize=720,360
+ image: https://pbs.twimg.com/media/DhNYPKZW4AI2-vu?format=jpg
  caption: Perempat Final Piala Dunia 2018
+share: true
 last_modified_at: 2018-07-04
 ---
 {% include respo.html %}
@@ -13,7 +13,7 @@ last_modified_at: 2018-07-04
 
 Dengan kemenangan Inggris atas Kolombia, meski harus melalui adu penalti, sudah komplit 8 perempatfinalis Piala Dunia 2018. Rusia, Uruguay, Prancis, Brasil, Belgia, Kroasia, Swedia, dan Inggris adalah peserta delapan besar atau perempat final turnamen di Rusia ini.
 
-![Hasil 16 Besar dan Jadwal Perempat Final](https://pbs.twimg.com/media/DhNYPKZW4AI2-vu?format=jpg)
+![Hasil 16 Besar dan Jadwal Perempat Final](https://i0.wp.com/gilabola.com/wp-content/uploads/2018/07/Perempatfinalis-Piala-Dunia-2018-1068x545.jpg)
 
 Jadwal untuk laga-laga perempat final adalah sebagai berikut:
 
