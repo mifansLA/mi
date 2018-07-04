@@ -106,7 +106,7 @@ author:
 include:
   - .htaccess
   - _pages
-# - _portofolio
+  - _portofolio
   - _piala-dunia
 
 timezone: Indonesia/Jakarta
@@ -137,7 +137,7 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
-  - _portofolio
+#  - _portofolio
 keep_files:
   - .git
   - .svn
@@ -241,6 +241,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  pialadunia:
+    output: true
+    permalink: /:path/
 
 
 # Defaults
@@ -290,7 +293,7 @@ defaults:
   # _piala-dunia
   - scope:
       path: "_pialadunia"
-      type: pialadunia
+      type: pages
     values:
       layout: stream
       author_profile: false
