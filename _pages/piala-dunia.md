@@ -59,7 +59,7 @@ Untuk lebih lengkapnya bisa disimak dalam bagan turnamen dan jadwal babak 16 bes
 | **Swedia 0 vs 1 Swiss** | **Kolombia 1 vs 1 Inggris** |
 |- | Penalty round: 3 - 4 |
 |:---:|:---:|
-| [Highlight](/16-besar-swedia-vs-swiss){:.btn.btn--primary} | [Streaming](/16-besar-kolombia-vs-inggris){:.btn.btn--primary} |
+| [Highlight](/16-besar-swedia-vs-swiss){:.btn.btn--primary} | [Highlight](/16-besar-kolombia-vs-inggris){:.btn.btn--primary} |
 | Selasa, 3 Juli 2018 | Rabu, 4 Juli 2018 |
 | Kick-Off: 21:00 WIB | Kick-Off: 01:00 WIB |
 | Krestovsky Stadium, Saint Petersburg | Otkritie Arena, Moskwa |
