@@ -37,13 +37,14 @@ Untuk lebih lengkapnya bisa disimak dalam bagan turnamen dan jadwal babak 16 bes
 | **Prancis 4 vs 3 Argentina** | **Uruguay 2 vs 1 Portugal** |
 |:---:|:---:|
 |[Highlight](/16-besar-prancis-vs-argentina){:.btn.btn--primary} | [Highlight](/16-besar-uruguay-vs-portugal){:.btn.btn--primary} |
+| Normal | Normal |
 | Sabtu, 30 Juni 2018 | Minggu, 1 Juli 2018 |
 | Kick-Off: 21:00 WIB | Kick-Off: 01:00 WIB |
 | Kazan Arena, Kazan | Fisht Olympic Stadium, Sochi |
 
 | **Spanyol 1 vs 1 Rusia** | **Kroasia 1 vs 1 Denmark** |
-| Penalty round: 3 - 4 | Penalty round: 3 - 2 |
 |:---:|:---:|
+| Penalty round: 3 - 4 | Penalty round: 3 - 2 |
 | [Highlight](/16-besar-spanyol-vs-rusia){:.btn.btn--primary} | [Highlight](/16-besar-kroasia-vs-denmark){:.btn.btn--primary} |
 | Minggu, 1 Juli 2018 | Senin, 2 Juli 2018 |
 | Kick-Off: 21:00 WIB | Kick-Off: 01:00 WIB |
@@ -51,16 +52,20 @@ Untuk lebih lengkapnya bisa disimak dalam bagan turnamen dan jadwal babak 16 bes
 
 | **Brasil 2 vs 0 Meksiko** | **Belgia 3 vs 2 Jepang** |
 |:---:|:---:|
+| Normal | Normal |
 | [Highlight](/16-besar-brasil-vs-meksiko){:.btn.btn--primary} | [Highlight](/16-besar-belgia-vs-jepang){:.btn.btn--primary} |
 | Senin, 2 Juli 2018 | Selasa, 3 Juli 2018 |
 | Kick-Off: 21:00 WIB | Kick-Off: 01:00 WIB |
 | Cosmos Arena, Samara | Rostov Arena, Rostov-on-Don |
 
-| **Swedia 0 vs 1 Swiss** | **Kolombia 1 vs 1 Inggris** |
-|- | Penalty round: 3 - 4 |
+| **Swedia 0 vs 1 Swiss** | **Kolombia 1 vs 1 Inggris** |:---:|:---:|
 |:---:|:---:|
+| Normal | Penalti: 3 - 4 |
 | [Highlight](/16-besar-swedia-vs-swiss){:.btn.btn--primary} | [Highlight](/16-besar-kolombia-vs-inggris){:.btn.btn--primary} |
 | Selasa, 3 Juli 2018 | Rabu, 4 Juli 2018 |
 | Kick-Off: 21:00 WIB | Kick-Off: 01:00 WIB |
 | Krestovsky Stadium, St. Petersburg | Otkritie Arena, Moskwa |
 
+## Perempat Final Piala Dunia
+
+Di babak perempat final, Prancis akan berhadapan dengan Uruguay, Rusia akan meladeni Kroasia. Sedangkan Brazil bertemu Belgia pada babak 8 besar ini diikuti Swiss yang akan menghadapi Inggris. Selengkapnya bisa dilihat di [Jadwal dan Link Streaming 8 Besar Piala Dunia 2018](/piala-dunia-2018-hd)
