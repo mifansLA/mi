@@ -7,8 +7,8 @@ header:
  video:
   id: https://live.cdn.asset.aparat.com/astv1/edge/tv3_high/index.m3u8?wmsAuthSign=618ec5a28a2ec620ac62d63c3f7124bd
   provider: stream
- teaser: https://i0.wp.com/pdxsteel.com/wp-content/uploads/2018/07/Prediksi-Skor-Uruguay-Vs-Prancis-6-Juli-2018-1.jpg?resize=320,160
-og_image: https://i0.wp.com/pdxsteel.com/wp-content/uploads/2018/07/Prediksi-Skor-Uruguay-Vs-Prancis-6-Juli-2018-1.jpg?resize=720,360
+ teaser: https://i0.wp.com/https://www.sundul.com/wp-content/uploads/2018/07/prediksi-brasil-vs-belgia.jpg?resize=320,160
+og_image:https://www.sundul.com/wp-content/uploads/2018/07/prediksi-brasil-vs-belgia.jpg?resize=640,320
 ---
 _**Catatan:** Lakukan refresh halaman sebelum kick-off atau video streaming gagal muat._
 ### Prediksi
