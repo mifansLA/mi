@@ -62,5 +62,5 @@ Untuk lebih lengkapnya bisa disimak dalam bagan turnamen dan jadwal babak 16 bes
 | [Highlight](/16-besar-swedia-vs-swiss){:.btn.btn--primary} | [Highlight](/16-besar-kolombia-vs-inggris){:.btn.btn--primary} |
 | Selasa, 3 Juli 2018 | Rabu, 4 Juli 2018 |
 | Kick-Off: 21:00 WIB | Kick-Off: 01:00 WIB |
-| Krestovsky Stadium, Saint Petersburg | Otkritie Arena, Moskwa |
+| Krestovsky Stadium, St. Petersburg | Otkritie Arena, Moskwa |
 
