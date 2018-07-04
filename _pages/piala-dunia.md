@@ -58,7 +58,7 @@ Untuk lebih lengkapnya bisa disimak dalam bagan turnamen dan jadwal babak 16 bes
 | Kick-Off: 21:00 WIB | Kick-Off: 01:00 WIB |
 | Cosmos Arena, Samara | Rostov Arena, Rostov-on-Don |
 
-| **Swedia 0 vs 1 Swiss** | **Kolombia 1 vs 1 Inggris** |:---:|:---:|
+| **Swedia 0 vs 1 Swiss** | **Kolombia 1 vs 1 Inggris** |
 |:---:|:---:|
 | Normal | Penalti: 3 - 4 |
 | [Highlight](/16-besar-swedia-vs-swiss){:.btn.btn--primary} | [Highlight](/16-besar-kolombia-vs-inggris){:.btn.btn--primary} |
