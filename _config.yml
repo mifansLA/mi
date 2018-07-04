@@ -290,7 +290,7 @@ defaults:
   # _piala-dunia
   - scope:
       path: "_pialadunia"
-      type: pages
+      type: pialadunia
     values:
       layout: stream
       author_profile: false
