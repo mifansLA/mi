@@ -19,10 +19,10 @@ Jadwal untuk laga-laga perempat final adalah sebagai berikut:
 
 | **Tanggal, Kick Off** | **Tim** | **Link Streaming** |
 |:---:|:---:|:---:|
-| 6 Juli 2018, 21.00 WIB | Uruguay vs Prancis | [Streaming HD](#){:.btn.btn--primary} |
-| 7 Juli 2018, 01.00 WIB | Brasil vs Belgia | [Streaming HD](#){:.btn.btn--primary} |
-| 7 Juli 2018, 21.00 WIB | Swedia vs Inggris | [Streaming HD](#){:.btn.btn--primary} |
-| 8 Juli 2018, 01.00 WIB | Rusia vs Kroasia | [Streaming HD](#){:.btn.btn--primary} |
+| 6 Juli 2018, 21.00 WIB | Uruguay vs Prancis | [Streaming HD](/8-besar-uruguay-vs-prancis){:.btn.btn--primary} |
+| 7 Juli 2018, 01.00 WIB | Brasil vs Belgia | [Streaming HD](/8-besar-brasil-vs-belgia){:.btn.btn--primary} |
+| 7 Juli 2018, 21.00 WIB | Swedia vs Inggris | [Streaming HD](/8-besar-swedia-vs-inggris){:.btn.btn--primary} |
+| 8 Juli 2018, 01.00 WIB | Rusia vs Kroasia | [Streaming HD](/8-besar-rusia-vs-kroasia){:.btn.btn--primary} |
 
 {% include adsense1.html %}
 
@@ -32,6 +32,6 @@ Siapa yang kebagian laga paling mudah? Secara ranking FIFA mestinya Kroasia, kar
 
 Tapi bagaimana pun Rusia memamerkan kerapuhan mereka di lini belakang saat matchday terakhir lawan Uruguay, dan rekaman pertandingan akan ditonton berulang-ulang oleh para pemain Kroasia untuk menemukan cara menembus lini belakang tuan rumah.
 
-Jika berhasil melewati [Rusia, Kroasia](/8-besar-rusia-kroasia) akan bertemu pemenang dari [Swedia vs Inggris](/8-besar-swedia-vs-inggris) pada semi final. Tim Skandinavia itu terkenal rapat dalam bertahan, jadi The Three Lions musti lebih kreatif lagi dibandingkan laga malam ini untuk bisa masuk ke [semi final Piala Dunia 2018](/semifinal-piala-dunia).
+Jika berhasil melewati [Rusia, Kroasia](/8-besar-rusia-kroasia) akan bertemu pemenang dari [Swedia vs Inggris](/18-besar-swedia-vs-inggris) pada semi final. Tim Skandinavia itu terkenal rapat dalam bertahan, jadi The Three Lions musti lebih kreatif lagi dibandingkan laga malam ini untuk bisa masuk ke [semi final Piala Dunia 2018](/semifinal-piala-dunia).
 
 Laga-laga lebih sengit akan terjadi di separuh perempatfinalis lainnya. Jika Brasil berhasil lolos dari [hadangan Belgia](/8-besar-brasil-vs-belgia) maka mereka akan menjumpai salah satu dari [Uruguay atau Prancis](/8-besar-uruguay-vs-prancis). Ini jalur yang jauh lebih sulit karena mereka semua adalah mantan juara dunia.
