@@ -3,7 +3,7 @@ title: Rekap Babak 16 Besar Piala Dunia 2018
 permalink: "/piala-dunia-2018"
 excerpt: "Jadwal Main, Hasil dan Highlights Pertandingan 16 Besar Piala Dunia 2018"
 og_image: "https://i0.wp.com/gilabola.com/wp-content/uploads/2018/02/Jadwal-Piala-Dunia-2018-1068x601.jpg?resize=540,270"
-header: 
+header:
  image: "https://www.google.com/logos/doodles/2018/world-cup-2018-day-16-5769998143324160.2-law.gif"
  caption: ﷼
 layout: splash
