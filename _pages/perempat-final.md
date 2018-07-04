@@ -6,6 +6,7 @@ header:
  image: https://i0.wp.com/gilabola.com/wp-content/uploads/2018/07/Perempatfinalis-Piala-Dunia-2018-1068x545.jpg?resize=720,360
  caption: Perempat Final Piala Dunia 2018
 ---
+{% include respo.html %}
 ## Tim yang Lolos dan Jadwal Pertandingan
 
 Dengan kemenangan Inggris atas Kolombia, meski harus melalui adu penalti, sudah komplit 8 perempatfinalis Piala Dunia 2018. Rusia, Uruguay, Prancis, Brasil, Belgia, Kroasia, Swedia, dan Inggris adalah peserta perdelapan final atau perempat final turnamen di Rusia ini.
@@ -20,7 +21,7 @@ Jadwal untuk laga-laga perempat final adalah sebagai berikut:
 | 7 Juli 2018, 01.00 WIB | Brasil vs Belgia | [Streaming HD](#){:.btn.btn--primary} |
 | 7 Juli 2018, 21.00 WIB | Swedia vs Inggris | [Streaming HD](#){:.btn.btn--primary} |
 | 8 Juli 2018, 01.00 WIB | Rusia vs Kroasia | [Streaming HD](#){:.btn.btn--primary} |
-
+{% include adsense.html %}
 ### Prediksi Babak Perempat Final
 
 Siapa yang kebagian laga paling mudah? Secara ranking FIFA mestinya Kroasia, karena Rusia menduduki posisi 70 dunia per ranking bulan Juni. Tapi kita tahu ranking bukan segalanya. Buktinya ranking No 1 sekarang sudah di rumah masing-masing di Jerman, nonton sisa Piala Dunia melalui televisi.
