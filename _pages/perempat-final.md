@@ -5,11 +5,12 @@ permalink: "/perempat-final-piala-dunia"
 header:
  image: https://i0.wp.com/gilabola.com/wp-content/uploads/2018/07/Perempatfinalis-Piala-Dunia-2018-1068x545.jpg?resize=720,360
  caption: Perempat Final Piala Dunia 2018
+last_modified_at: 2018-07-04
 ---
 {% include respo.html %}
 ## Tim yang Lolos dan Jadwal Pertandingan
 
-Dengan kemenangan Inggris atas Kolombia, meski harus melalui adu penalti, sudah komplit 8 perempatfinalis Piala Dunia 2018. Rusia, Uruguay, Prancis, Brasil, Belgia, Kroasia, Swedia, dan Inggris adalah peserta perdelapan final atau perempat final turnamen di Rusia ini.
+Dengan kemenangan Inggris atas Kolombia, meski harus melalui adu penalti, sudah komplit 8 perempatfinalis Piala Dunia 2018. Rusia, Uruguay, Prancis, Brasil, Belgia, Kroasia, Swedia, dan Inggris adalah peserta delapan besar atau perempat final turnamen di Rusia ini.
 
 ![Hasil 16 Besar dan Jadwal Perempat Final](https://pbs.twimg.com/media/DhNYPKZW4AI2-vu?format=jpg)
 
