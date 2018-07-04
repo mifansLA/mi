@@ -289,7 +289,7 @@ defaults:
       share: true
   # _piala-dunia
   - scope:
-      path: "_piala-dunia"
+      path: "_pialadunia"
       type: pages
     values:
       layout: stream
