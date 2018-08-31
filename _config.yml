@@ -15,13 +15,13 @@
 minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                  : "en-US"
+locale                  : "id-ID"
 title                   : "MiFans LA"
 title_separator         : "-"
 name                    : "mifansLA"
 description             : "An amazing website."
 url                     : "https://mi.knoacc.org"
-baseurl                 : "/"
+#baseurl                 : ""
 repository              : "mifansLA/refresh"
 teaser                  : "/assets/image/logonew.jpg"
 words_per_minute           : 220
