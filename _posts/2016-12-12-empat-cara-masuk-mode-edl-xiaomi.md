@@ -36,6 +36,6 @@ Menggunakan tools Fastboot Mode to EDL, cara menggunakan tools ini cukup mudah d
 
 ### Cara terakhir
 
-Mempergunakan kabel khusus modifikasi DFC flash dengan cara ini kamu akan lebih mudah beralih ke mode EDL, kabel ini juga dapat membantu kamu untuk mengatasi hardbrick, apabila devices tidak dapat beralih ke mode EDL menggunakan cara pertama, kedua dan ketiga.
+Mempergunakan [kabel modifikasi DFC](https://mi.knoacc.org/cara-membuat-sendiri-kabel-dfc-cara-pakai-edl-mode)flash dengan cara ini kamu akan lebih mudah beralih ke mode EDL, kabel ini juga dapat membantu kamu untuk mengatasi hardbrick, apabila devices tidak dapat beralih ke mode EDL menggunakan cara pertama, kedua dan ketiga.
 
 Demikian tadi cara pamungkas agar kamu bisa masuk mode EDL dan melakukan flashing ROM fastboot.

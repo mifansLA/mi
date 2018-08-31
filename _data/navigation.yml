@@ -1,23 +1,12 @@
+# main links
 main:
-  - title: "Piala Dunia"
-    url: https://mi.knoacc.org/perempat-final-piala-dunia
-  - title: "MIUI 10 Beta"
-    url: https://mi.knoacc.org/miui-10-global-beta
-  - title: "MIUI 10 Stable"
-    url: https://mi.knoacc.org/miui-10-global-stable
-  - title: "MIUI 9 Beta"
-    url: https://mi.knoacc.org/download-miui-global-beta-838-fastboot-recovery
-  - title: "MIUI 9 Stable"
-    url: https://mi.knoacc.org/update-rom-miui-92-global-stable-full-changelog
-  - title: "MIUI Pro Stable"
-    url: https://mi.knoacc.org/download-rom-miuipro-v92-update-semua-tipe-ponsel
-  - title: "MiFlash Tool"
-    url: https://miflashtool.knoacc.org/
-  - title: "MiUnlock Tool"
-    url: https://mi.knoacc.org/download-miflash-unlock-tool-2380310
-  - title: "Xiaomi Codename"
-    url: https://mi.knoacc.org/codename
-  - title: "Xiaomi Test Point"
-    url: https://mi.knoacc.org/testpoint
-  - title: "Download GAPPS"
-    url: https://mi.knoacc.org/gapps
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/

@@ -3,91 +3,120 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process
+# `jekyll serve`. If you change this file, please restart the server process.
 
-#theme                    : "minimal-mistakes-jekyll"
-minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+# Theme Settings
+#
+# Review documentation to determine if you should use `theme` or `remote_theme`
+# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-locale                   : "id_EN"
-title: "Mi Fans Lamongan"
-title_separator: "-"
-name: &name "mifansLA"
-description: &description "Documentation Source for MIUI Fans Lamongan and Xiaomi Devices User."
-url: "https://mi.knoacc.org"
-baseurl: "/" # the subpath of your site, e.g. "/blog"
-repository: "mifansLA/miFans"
-teaser: "https://i0.wp.com/mi.knoacc.org/assets/image/logonew.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-breadcrumbs              : false # true, false (default)
-words_per_minute         : 200
+# theme                  : "minimal-mistakes-jekyll"
+# remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Site Settings
+locale                  : "en-US"
+title                   : "MiFans LA"
+title_separator         : "-"
+name                    : "mifansLA"
+description             : "An amazing website."
+url                     : "https://mi.knoacc.org"
+baseurl                 : "/"
+repository              : "mifansLA/refresh"
+teaser                  : "/assets/image/logonew.jpg"
+words_per_minute           : 220
 comments:
-  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
-  disqus:
-    shortname            : mifansla
+ provider : "disqus"
+ disqus:
+  shortname : "mifansla"
+  discourse:
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  facebook:
+    # https://developers.facebook.com/docs/plugins/comments
+    appid                :
+    num_posts            : # 5 (default)
+    colorscheme          : # "light" (default), "dark"
+staticman:
+  allowedFields          : # ['name', 'email', 'url', 'message']
+  branch                 : # "master"
+  commitMessage          : # "New comment."
+  filename               : # comment-{@timestamp}
+  format                 : # "yml"
+  moderation             : # true
+  path                   : # "/_data/comments/{options.slug}" (default)
+  requiredFields         : # ['name', 'email', 'message']
+  transforms:
+    email                : # "md5"
+  generatedFields:
+    date:
+      type               : # "date"
+      options:
+        format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+reCaptcha:
+  siteKey                :
+  secret                 :
 atom_feed:
- path:
-
+  path                   : # blank (default) uses feed.xml
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
+search_provider          : # lunr (default), algolia, google
+algolia:
+  application_id         : # YOUR_APPLICATION_ID
+  index_name             : # YOUR_INDEX_NAME
+  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
+  powered_by             : # true (default), false
+google:
+  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
+  instant_search         : # false (default), true
 # SEO Related
-google_site_verification : "KYQFq-wZMFvxDMR5G5rak58D-IwrgM8B_CuGS0To5AU"
-bing_site_verification   : "DA3D4C0368D7AE1105218F7F5B5BD6AC"
-alexa_site_verification  : "9vuxp7uDTuDQssajccQrFy1UnTQ"
-#yandex_site_verification :
-#naver_site_verification  :
+google_site_verification: "KYQFq-wZMFvxDMR5G5rak58D-IwrgM8B_CuGS0To5AU"
+bing_site_verification: "DA3D4C0368D7AE1105218F7F5B5BD6AC"
+yandex_site_verification :
+naver_site_verification  :
 
 # Social Sharing
-instagram:
-  username               : &instagram mifans_lamongan
 twitter:
-  username               : &twitter mifansLA
+  username               : mifansLA
 facebook:
-  username               : &facebook mifansLA
+  username               : zena.alf
   app_id                 : 356530788085649
-  publisher              : *facebook
-og_image                 : *logo # Open Graph/Twitter default site image
+  publisher              : mifansLA
+og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : "Person" # Person or Organization (defaults to Person)
-  name                   : "Mi Fans Lamongan" # If the user or organization name differs from the site's name
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-   - https://www.instagram/mifans_lamongan
-   - https://www.facebook.com/mifansLA
-   - https://www.twitter.com/mifansLA
 
 # Analytics
 analytics:
-  provider               : "google-universal"
+  provider               : google # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-43841292-2"
+    tracking_id          : UA-43841292-2
+    anonymize_ip         : true # true, false (default)
 
-# Ads
-ads:
-  provider               : "adsense"
-  adsense:
-    pub_id               : "ca-pub-8526606076277673"
-    fluid1               : "4140744311"
-    fluid2               : "8902490138"
-    auto1                : "8128278337"
-    auto2                : "3371390739"
 
 # Site Author
 author:
-  name             : *name
-  avatar           : "https://i0.wp.com/mi.knoacc.org/assets/image/logonew.jpg?resize=110,110" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "we are amazing persons."
-  location         : "Indonesia"
-  email            : "mi@knoacc.org"
+  name             : "Admin"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I am not our servant."
+  location         : # "Somewhere"
+  email            : mi@knoacc.org
   uri              :
+  home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : *facebook
+  facebook         : mifansLA
   foursquare       :
   github           :
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : *instagram
+  instagram        : mifans_lamongan
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
@@ -95,7 +124,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : *twitter
+  twitter          : mifansLA
   vine             :
   weibo            :
   xing             :
@@ -106,11 +135,6 @@ author:
 include:
   - .htaccess
   - _pages
-  - _portofolio
-  - _piala-dunia
-
-timezone: Indonesia/Jakarta
-
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -137,7 +161,6 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
-#  - _portofolio
 keep_files:
   - .git
   - .svn
@@ -148,7 +171,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 # Conversion
 markdown: kramdown
 highlighter: rouge
-lsi: true
+lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
@@ -164,16 +187,18 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
+
 # Outputting
-permalink: :title
-paginate: 8 # amount of posts to show
+permalink: /:title
+paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: "Asia/Jakarta" # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Indonesia/Jakarta # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
@@ -183,7 +208,6 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  # - jekyll-remote-theme
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -227,24 +251,12 @@ tag_archive:
 # - http://jch.penibelst.de/
 compress_html:
   clippings: all
+  comments: all
+  blanklines: true
+  endings: all
+  startings: [head, html, body]
   ignore:
     envs: development
-
-# Collections
-collections:
-  recipes:
-    output: true
-    permalink: /:collection/:path/
-  pets:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  pialadunia:
-    output: true
-    permalink: /:path/
-
 
 # Defaults
 defaults:
@@ -254,47 +266,18 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
+      author_profile: false
+      read_time: false
+      comments: true
       share: true
       related: true
-      comments: true
   # _pages
   - scope:
-      path: "_pages"
-      type: pages
+     path: "_pages"
+     type: pages
     values:
-      layout: single
-      author_profile: true
-  # _recipes
-  - scope:
-      path: "_recipes"
-      type: recipes
-    values:
-      layout: single
-      author_profile: true
-      share: true
-  # _downloads
-  - scope:
-      path: "_downloads"
-      type: pets
-    values:
-      layout: single
-      author_profile: false
-      share: true
-  # _portfolio
-  - scope:
-      path: "_portofolio"
-      type: portfolio
-    values:
-      layout: single
-      author_profile: false
-      share: true
-  # _piala-dunia
-  - scope:
-      path: "_pialadunia"
-      type: pages
-    values:
-      layout: stream
-      author_profile: false
-      share: true
+     layout: single
+     author_profile: false
+     comments: false
+     share: true
+     related: false

@@ -1,13 +1,16 @@
 ---
+layout: single
 title: Test Point All Xiaomi Devices
 permalink: /testpoint
 excerpt: lokasi download mode pin out test point semua ponsel xiaomi
 comments: true
-last_modified_at: 2017-11-14
+share: true
+date: 2017-11-14
+last_modified_at: 2018-07-13
 ---
-Berikut ini lokasi **EDL pin out** atau biasa disebut **test point** untuk beberapa device xiaomi yang bisa dipakai untuk shortcut menuju **download mode**. Dalam daftar testpoint ini juga di sertai *codename* masing-masing device agar kamu tidak kebingungan.
+{% include respo.html %}
 
-{% include toc %}
+Berikut ini lokasi **EDL pin out** atau biasa disebut **test point** untuk beberapa device xiaomi yang bisa dipakai untuk shortcut menuju **download mode**. Dalam daftar testpoint ini juga di sertai *codename* masing-masing device agar kamu tidak kebingungan.
 
 > Jika ada yang baru akan di update, kamu juga bisa memposting di halaman komentar disquss untuk membantu mifansLA yang lain.
 
@@ -77,7 +80,7 @@ Berikut ini lokasi **EDL pin out** atau biasa disebut **test point** untuk beber
 
 ### Redmi Note 4 (nikel)
 
-> idem
+> Mediatek
 
 ### Redmi Note 4 SD (mido)
 
@@ -85,9 +88,13 @@ Berikut ini lokasi **EDL pin out** atau biasa disebut **test point** untuk beber
 
 > termasuk Redmi Note 4X dan Redmi Note 4 Qualcomm
 
+### Redmi Note 5 (Whyred)
+
+![whyred testpoint edl](https://i0.wp.com/gadget2reviews.com/wp-content/uploads/2018/06/Test-Point-Xiaomi-Redmi-Note-5.png?resize=540,600){: .align-center}
+
 ### Redmi Note 5A (ugg)
 
-> to be updated gaes, masih belum nemu.
+![ugg testpoint pin out](https://4.bp.blogspot.com/-2qKSyc83jeY/Wpaidh81XlI/AAAAAAAAHsQ/gfidKizNXxEgWQPOrpnRG8THXu69m3hkgCK4BGAYYCw/s320/redmi-note-5a.jpg){:. align-center}
 
 ### Mi Note (virgo) 
 
@@ -112,6 +119,10 @@ Berikut ini lokasi **EDL pin out** atau biasa disebut **test point** untuk beber
 ### Mi 4 (cancro)
 
 ![cancro tespoint pin out](https://4.bp.blogspot.com/-LzHo8mZP3g8/V_gClAX9vqI/AAAAAAAALPo/E2bQH3aXkOIPpBbuY8nZ5zs2V-H0i8cxgCK4B/s600/mi4_test_point.jpg){: .align-center}
+
+### Mi 4i (Ferrari)
+
+![ferrari testpoint pin out](https://i0.wp.com/en.miui.com/data/attachment/image/001/28/15/57_2000_550.jpg?resize=600,600){: .align-center}
 
 ### Mi 5 (gemini) 
 

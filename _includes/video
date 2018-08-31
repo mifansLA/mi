@@ -7,7 +7,5 @@
   <iframe src="https://player.vimeo.com/video/{{ video_id }}" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 {% elsif video_provider == "youtube" %}
   <iframe src="https://www.youtube.com/embed/{{ video_id }}" frameborder="0" allowfullscreen></iframe>
-{% elsif video_provider == "stream" %}
-  <video controls="true" height="auto" {% if page.header.image %} poster="{{ page.header.image }}"{% elsif %} poster="https://i0.wp.com/androidunik.com/wp-content/uploads/2017/02/Live-streaming-video.png"{% endif %}width="100%" ><source src="{{ video_id }}" type="video/mp4"></source></video>
 {% endif %}
 </div>

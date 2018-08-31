@@ -2,7 +2,8 @@
 title: MIUI 10 ★  Global Beta ROM 8.6.28 ★ ROM Download
 excerpt: "Download ROM MIUI 10 Beta versi 8.6.28 untuk redmi 2s, mi mix 2 dan mi 6"
 header:
- teaser: https://i0.wp.com/st1.bgr.in/wp-content/uploads/2018/05/Xiaomi-MIUI-10-feat.jpg?resize=320,160
+ og_image: https://i0.wp.com/st1.bgr.in/wp-content/uploads/2018/05/Xiaomi-MIUI-10-feat.jpg?resize=640,320
+ teaser: https://i0.wp.com/st1.bgr.in/wp-content/uploads/2018/05/Xiaomi-MIUI-10-feat.jpg
 categories:
  - rom
 tags:
@@ -12,15 +13,16 @@ tags:
  - mi mix 2
  - redmi 2s
  - mi 6
-og_image: https://i0.wp.com/st1.bgr.in/wp-content/uploads/2018/05/Xiaomi-MIUI-10-feat.jpg?resize=640,320
 ---
+Cek dulu apakah sudah ada [versi terbaru di sini](/miui-10-global-beta)
+
 Apa saja yang baru di Global Beta 8.6.28? Berikut ini daftar perubahan dan fitur yang diperbaiki.
 
 - **Settings** : Fix - Settings keeps stopping (All devices) (06-26)
 - **Charge** : Fix - Phone enters Recovery mode when charging (All devices) (06-26)
 - **Localization** : Fix - Cleaner content doesn't translate to Russian in the file manager (06-26)
 
-![MIUI 10 Download](https://i0.wp.com/st1.bgr.in/wp-content/uploads/2018/05/Xiaomi-MIUI-10-feat.jpg?resize=600,300)
+[![MIUI 10 Download](https://i0.wp.com/st1.bgr.in/wp-content/uploads/2018/05/Xiaomi-MIUI-10-feat.jpg?resize=600,300)](/miui-10-global-beta){:.alig-center}
 
 ### MIUI 10 Global Beta ROM download links:
 

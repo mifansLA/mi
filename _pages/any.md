@@ -1,63 +1,43 @@
 ---
-title: "Download File from Other Server"
+title: "Guaranteed Issue vs Term and Whole Life Insurance"
 permalink: "/dl/any"
 sitemap: false
+share: false
+header:
+ og_image: https://3.bp.blogspot.com/-DAjQJzBBSfk/V7Hc95HeyUI/AAAAAAAAPxc/VBkBeiwdk5Yr8v1sQnZ4yE5W9P2s_RPRQCLcB/s1600/whole-life-insurance.png
+last_modified_at: 2018-07-31 23:29:00 +7
 ---
-<div style="display: block; text-align: center;">
-
+{% include respo.html %}
+_remember this:_ the links provide here it not appear out of nowhere suddenly, it is loaded from the pages or article from before you came here. So if the links is broken, you can go back to previous page and ask/report at the comment section.
+{:.notice.notice--warning}
+<div style="display: block; text-align: center">
 <a href="/" id="download" class="btn btn--primary">
-waiting..
+wait...
 </a>
-
+{% include dlany %}
 </div>
-{% include dlany %} 
-{% include adsense2.html %}
+Wait until file you want to download is ready and appear at the download button above
+{:#notice.notice.notice--warning}
+{% include adsense1.html %}
 
-## Privacy Policy
+## Guaranteed Issue vs Term and Whole Life Insurance
 
-The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+There are various points in life when people decide they need life insurance. Once you've come to that decision, you will usually be presented with several options and plans. Knowing which type of life insurance is best for you can really help save you money and make sure that the decision you make will give you what you are looking for.
 
-First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
+### Do I Need Life Insurance?
 
-### Log Files
+If you are wondering if you need life insurance, you probably do.
 
-Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
+Life insurance isn't just for when you get married, are buying your first house, or have children. There are many reasons a person may need life insurance, and some good strategies behind when to get life insurance and what kind of insurance to get. Some situations may call for short term life insurance policies, in other situations whole life policies may make more sense.
 
-* Internet Protocol addresses (IP)
-* Types of browser
-* Internet Service Provider (ISP)
-* Date and time stamp
-* Referring and exit pages
-* Number of click
+### What Type of Policy Should I Get?
 
-### Cookies and Web Beacons
+Before you decide what kind of policy to get, you need to understand what you want from your life insurance policy. Is it to protect your family or other dependents? Do you want a life insurance policy that will also allow you to save money, and borrow money if you need it in the future? How long do you need the policy for, and what your medical condition or age is will also determine what kind of policy you should get. 
 
-When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](http://disqus.com) the next time you leave a comment.
+For example, someone buying life insurance at age 20 will have very different rates than someone buying a policy at 35, or when they are over 50.
 
-Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. This site has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
+The rates for the life insurance will vary based on risk. This is why for many life insurance policies you will be asked to take a medical exam. 
 
-If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
+### Medical Issues and Getting Life Insurance
 
-#### Google Analytics
-
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
-
-#### Google Adsense
-
-Google Adsense, a third party affiliate marketing network, uses cookies to help make sure I get a commission when you buy a product after clicking on a link or ad banner that takes you to the site of one of their merchants. You can read [Google Adsense Privacy Policy](http://support.google.com/adsense/bin/answer.py?hl=en&answer=48182).
-
-## Disclosure Policy
-
-I make money on this website through affiliate programs. If you click an affiliate link or ad banner and buy the product, you help support this website because I'll get a percentage of that sale.
-
-Currently I'm an affiliate for Amazon and Google Adsense.
-
-What this means for you:
-
-* I became an affiliate to earn revenue towards the costs of running and maintaining this website. Where I have direct control over which ads are served on this website I offer only products that are directly related to the topic of this website and products that a reader/subscriber would have a genuine interest in or need of.
-* I do not and will not recommend a product just for the sake of making money.
-* I do not let the compensation I receive influence the content, topics, posts, or opinions expressed on this website.
-* I respect and value my readers too much to write anything other than my own genuine and objective opinions and advice.
-
-Just like this website, my Disclosure Policy is a work in progress. As the revenue streams evolve, so will this page.
-
+If you have no medical issues, or nothing serious in your medical history you will have more options than someone who has medical issues... [read more](/)

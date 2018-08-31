@@ -2,16 +2,10 @@
 layout: archive
 ---
 
-{% include infeeds.html %}
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
 {% for post in paginator.posts %}
   {% include archive-single.html %}
 {% endfor %}
 
-{% include adsense1.html %}
-
 {% include paginator.html %}
-
-{% for post in site.pialadunia %}
-  {% include archive-single.html type="grid" %}
-{% endfor %}

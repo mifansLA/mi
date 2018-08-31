@@ -26,3 +26,6 @@ How is everything with you? In this week's update, our developers are focusing o
 Full changelog will be [posted on Friday](/download-miui-10-global-beta-8628-update) as usual.
 
 MIUI Team post [here](http://en.miui.com/thread-3003219-1-1.html)
+
+_Latest Update for MIUI 10 Beta:_ [**Check**](/miui-10-global-beta)
+{:.notice.notice--info}
