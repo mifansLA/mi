@@ -1,7 +1,20 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "MiUI Pro"
+    url: "/
+  - title: "MIUI 10 Beta"
+    url: "/miui-10-beta"
+  - title: "MIUI 10 Stabil"
+    url: "/miui-10-stable"
+  - title: "Peta Situs"
+    url: "/sitemap"
+  - title: "Tes Poin"
+    url: "/testpoint"
+  - title: "Arsip: Kategori"
+    url: "/categories
+  - title: "Arsip: Label"
+    url: "/tags"
+  #
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
