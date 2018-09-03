@@ -14,7 +14,7 @@ categories:
   - MIUI Russia
   
 ---
-
+{% include respo.html %}
 Sperti yang sudah du informasikan sebelumnya, bahwa MultiROM tak lagi menyediakan update, dan terbatasnya pilihan untuk memakai MIYI Pro. Maka mau tak mau admin kembali melirik MIUI Russia, atau yang sering admin sebut MIUISU (ejaan ala admin: mi yu i su).
 
 ![logo miui su]({{ page.header.teaser }}){:.align-center}
@@ -27,5 +27,8 @@ Untuk masalah update ROM, MIUI Russia juga termasuk lambat memutahirkan versi MI
 |:---|:---:|---:|:---:|
 | Redmi Note 5A Lite | [ugglite](https://miui.su/firmware_manager/model_view/395/) | 9.5.5.0 CN | [download](https://miui.su/firmware_manager/firmware/download/16992/){:.btn.btn--primary} |
 | Redmi Note 5A Prime | [ugg](399) | 9.5.5.0 CN | [download](https://miui.su/firmware_manager/firmware/download/17018/){:.btn.btn--primary} |
+| Redmi 5 | [rossy](https://miui.su/firmware_manager/model_view/396/) | 9.5.2.0 CN | [download](https://miui.su/firmware_manager/firmware/download/17008/){:.btn.btn--primary} |
+| Redmi 5 Plus | [vince](https://miui.su/firmware_manager/model_view/397/) | 9.5.4.0 CN | [download](https://miui.su/firmware_manager/firmware/download/16994/){:.btn.btn--primary} |
+| Redmi 5A | [riva](https://miui.su/firmware_manager/model_view/398/) | 9.5.3.0 CN | [download](https://miui.su/firmware_manager/firmware/download/17004/){:.btn.btn--primary} |
 
-Untuk MIUISU berbasis ROM beta MIUI 10 belum tersedia, versi terakhir adalah versi beta MIUI 9, sedih ya? Tak masalah, karena kalau mau memakai ROM beta, bukankah lebih baik pakai yang [Official](/miui-10-glibal-beta)?
+Untuk MIUISU berbasis ROM beta MIUI 10 belum tersedia, versi terakhir adalah versi beta MIUI 9, sedih ya? Tak masalah, karena kalau mau memakai ROM beta, bukankah lebih baik pakai yang [Official](/miui-10-global-beta)?
