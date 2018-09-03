@@ -23,7 +23,7 @@ Komunitas pengembang MIUI Russia ini lebih cakep dibandingkan komunitas pengemba
 
 Untuk masalah update ROM, MIUI Russia juga termasuk lambat memutahirkan versi MIUI-nya. Sebagai teaser, berikut ini beberapa device Xiaomi yang mendapatkan dukungan ROM Stabil MIUI 9.5
 
-| Device | Codename | Base ROM | Link |
+| Device | [Codename](/codename) | Base ROM | Link |
 |:---|:---:|---:|:---:|
 | Redmi Note 5A Lite | [ugglite](https://miui.su/firmware_manager/model_view/395/) | 9.5.5.0 CN | [download](https://miui.su/firmware_manager/firmware/download/16992/){:.btn.btn--primary} |
 | Redmi Note 5A Prime | [ugg](399) | 9.5.5.0 CN | [download](https://miui.su/firmware_manager/firmware/download/17018/){:.btn.btn--primary} |
