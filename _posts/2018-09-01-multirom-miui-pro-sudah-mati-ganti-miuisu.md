@@ -1,5 +1,5 @@
 ---
-title: "Info: MIUI MultiROM sudah MATI, MIUI PRO? Tak Gratis Lagi!"
+title: "INFO: MIUI MultiROM sudah MATI, MIUI PRO? Tak Gratis Lagi!"
 excerpt: "Kedua ROM customasi MIUI populer ini sudah sulit diakses lagi. No more Update!"
 categories:
   - MIUI pro
@@ -9,7 +9,7 @@ tags:
   - MIUI Pro tidak gratis
   - MultiROM sudah mati
   - gantinya miui pro
-  - gamtinya multirom
+  - gantinya multirom
   - miui russia miuisu
 ---
 2 Kustomasi ROM MIUI paling ngetren dan populer; MIUI Pro dan MultiROM sudah tak lagi bisa diakses dengan mudah. Dalam kasus MultiROM, developer dan maintainer rom ini sudah menyatakan tak melanjutkan lagi pengembangan rom. Sedangkan untuk MIUI PRO, sejak pindah domain `miuipro.info`, kelompok developer belarusia ini membatasi unduhan ROM **hanya kepada donatur** saja. Admin situs Mifans LA masih cukup beruntung, karena masih memiliki link mirror G-Drive saat MIUI Pro masih memakai domain `miuipro.by`, tentu saja tidak terlalu update. Setidaknya yang ada dalam daftar adalah ROM MIUI Pri Stabil berbasis MIUI 9 China Stabil.
