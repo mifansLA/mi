@@ -15,7 +15,7 @@ categories:
   
 ---
 {% include respo.html %}
-Sperti yang sudah du informasikan sebelumnya, bahwa MultiROM tak lagi menyediakan update, dan terbatasnya pilihan untuk memakai MIYI Pro. Maka mau tak mau admin kembali melirik MIUI Russia, atau yang sering admin sebut MIUISU (ejaan ala admin: mi yu i su).
+Seperti yang sudah di informasikan [sebelumnya](https://mi.knoacc.org/multirom-miui-pro-sudah-mati-ganti-miuisu), bahwa MultiROM tak lagi menyediakan update, dan terbatasnya pilihan untuk memakai [MIUI Pro](https://mi.knoacc.org/download-rom-miuipro-v92-update-semua-tipe-ponsel). Maka mau tak mau admin kembali melirik MIUI Russia, atau yang sering admin sebut MIUISU (ejaan ala admin: mi yu i su).
 
 ![logo miui su]({{ page.header.teaser }}){:.align-center}
 
