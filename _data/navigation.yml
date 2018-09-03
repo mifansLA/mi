@@ -11,7 +11,7 @@ main:
   - title: "Tes Poin"
     url: "/testpoint"
   - title: "Arsip: Kategori"
-    url: "/categories
+    url: "/categories"
   - title: "Arsip: Label"
     url: "/tags"
   #
