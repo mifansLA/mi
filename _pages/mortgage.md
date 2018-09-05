@@ -1,11 +1,11 @@
 ---
 permalink: "/mortgage"
-title: The Best Mortgage Tips for August 2018
-excerpt: Here are tips to help navigate today's lending environment.
+title: The 6 Worst Mortgage You Can Make
+excerpt: "A house may be the most important purchase of your life. Don't blow it by making one of these dumb mistakes."
 header:
- og_image: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBLl6iR.img?h=0&w=720&m=6&q=60
+ og_image: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBMLnbG.img?h=0&w=720&m=6&q=60
  caption: Mortgage Tips
- teaser: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBLl6iR.img?h=0&w=340&m=6&q=60
+ teaser: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBMLnbG.img?h=0&w=340&m=6&q=60
 comments: false
 share: false
 
@@ -14,43 +14,64 @@ share: false
 
 {% include respo.html %}
 
-## The Best Mortgage Tips 
-The housing market is changing rapidly. Sales are falling as mortgage rates rise, but the lack of inventory is pushing up home prices, which means a tougher time for buyers, but more equity for homeowners.
+Is your house your castle? Or a monkey on your back?
 
-Here are tips to help navigate today's lending environment.
+The answer might depend on your mortgage. Getting an affordable property at a great rate can make you feel as if life couldn’t be any sweeter.
 
-### 1. Improve your credit score and your mortgage rate.
-Almost one in three homebuyers will be rejected for a mortgage because of their credit score, according to a report by the Urban Institute's Housing Finance Policy Center, or HFPC. The findings take into account the applicants' credit scores, combining publicly available data and CoreLogic data to estimate the denial rate.
+But ask anyone who bought a house with a mortgage they didn’t understand and couldn’t afford, and they will likely tell you their house has brought them nothing but frustration and tears.
 
-Although lenders consider more than just an applicant's credit score, that is a big component, says Shayn Carlson, mortgage originator for Fairway Independent Mortgage Corporation in Boise, Idaho.
+If you’ll be in the market for a new place soon, make sure you avoid the following six mortgage mistakes.
 
-"As a 30,000-foot view there are four major pillars lenders have to focus on: that's income, assets, credit and collateral," says Carlson. "But, good credit makes it so much easier to get a loan. It's a great compensating factor."
+### 1. Not reviewing your credit first
 
-Before you shop around for the best mortgage rate, check your credit score. The better your score, the lower your rate will be.
+You’ll need your credit score to be in great shape if you want the best terms on a mortgage.
 
-"When you're working with people with bankruptcies, student loans that never get paid and charge-offs, it becomes a tangled web. It's worth it to take the time to reestablish your credit and let it heal," says Carlson.
+At least six months before you go to your first open house, go to AnnualCreditReport.com. That’s the official site where you can get free credit reports issued by the big three credit-reporting agencies: Experian, Equifax and TransUnion. You’re entitled to one free credit report from each agency annually.
 
-### 2. Tap into your equity while rates are low
-As home values climb so does equity–that's the value of the house, less your mortgage. The collective amount of equity available to today's homeowners is $5.8 trillion, according to Black Knight, a mortgage software and analytics company.
+When you get your report, identify and correct any errors before you apply for a mortgage.
 
-The advantage of borrowing against your home's equity is that it's usually cheaper than taking out an unsecured loan, especially in today's relatively low mortgage-rate environment. Two ways homeowners can finance these equity loans is through a home equity line of credit, or HELOC, and a second mortgage. Both products are similar in that they're available with fixed and adjustable rate options and they both are secured by the equity in your home.
+Also check your credit score. Some banks and credit cards now offer the most widely used credit score, the FICO score, as a monthly perk for their customers. If your bank or card does not, check out this article, which offers more ways to get that all-important number for free.
 
-What makes these two products different is how they're dispensed and the monthly payments. Borrowers who get second mortgages receive a lump sum of cash whereas HELOC borrowers are extended a line of credit. HELOC borrowers can use what they need and are only obligated to pay back that amount.
+If you find your credit score simply stinks, learn how to boost it fast by reading “Boost Your Credit Score Fast With These 7 Moves.”
 
-The HELOC minimum payment varies depending on the balance, whereas with a second mortgage the payment remains the same.
+Bottom line: Spend the time to get your credit in the best possible shape so that you can get lenders’ most favorable terms.
 
-Consumers who want to make home improvements usually go for HELOCs, says Jon Maroni, business development officer at Spokane Federal Credit Union.
+### 2. Failing to get preapproved
 
-"HELOCs are great for people who don't know how much cash they'll need. With something like home improvements, people aren't sure how much the total cost will be. So, in that case, a HELOC would be useful because they can draw money as needed," says Maroni.
+Getting preapproved by a bank for a given loan amount is one way to avoid the heartbreak that comes from falling in love with a house that is way out of your price range. It may also give you an edge if yours is not the only offer for the same property. A seller will feel more confident selecting a bid from someone with a mortgage preapproval rather than from a person who hasn’t begun the process.
 
-Conversely, second mortgages might be a good option for those who want to consolidate debt. Because there's a known total amount, borrowers can pay off the old debt without running the risk of overborrowing.
+However, don’t get carried away by the preapproval amount the bank gives you. Remember, what the bank thinks you can afford and what you can actually afford may be two different things. For more, check out, “Stop and Think: How Much House Can You Really Afford?”
 
-### 3. Don't miss out on state-sponsored down-payment assistance programs
-Down payments can be barriers to home ownership for many consumers. Even a small down payment might be unaffordable for people who are otherwise able to make monthly mortgage payments. This can be frustrating to prospective buyers who want to lock in rates before they continue to rise.
+### 3. Not shopping around for the best rate
 
-According to a survey conducted by the HFPC last year 53 percent of renters cited saving for a down payment as an obstacle to homeownership.
+Consumer Financial Protection Bureau says nearly half of mortgage borrowers don’t shop around, and that’s a big mistake. Seasoned shoppers search for the best deals on soap, furniture and cars, but some fail to look for a better mortgage rate.
 
-"There are down-payment assistance where people can buy a home using state programs," says Kristina Hernandez, branch manager for Stearns Home Loans in Stockton, California. "The minimum credit score for some of these programs is 640, so it's not like they have to have excellent credit to qualify. It's within reach."
+It may be convenient to use your primary bank for a mortgage, but that could also be expensive if its rates aren’t competitive. For instance, take a 30-year fixed-rate mortgage of $200,000: For every 0.25 percent you reduce the interest rate, you save about $28 a month. Over a 30-year period that can add up to a lot of extra cash.
+
+Go to the Money Talks News Solutions Center and start comparing mortgage rates.
+
+### 4. Ignoring mortgage fees
+
+While you’re investigating rates, don’t forget the fees. Many mortgages come packed with fees of all kinds. Some — such as your county recording fee — are likely fixed, but others are negotiable.
+
+Before your closing, you should be provided with a good-faith estimate of the fees. Ask your lender to review what they are for and then see if you can negotiate a lower price. These are a few of the fees likely to have the most wiggle room:
+
+- Loan origination fee
+- Application fee
+- Broker fee
+- Underwriting fee
+
+### 5. Saving too little for a down payment
+
+Not having a down payment stashed away can sink your prospects for getting a mortgage. After being bitten by the housing market crash, traditional lenders shy away from giving mortgages to those bringing nothing to the table.
+
+You generally need to have a down payment of between 5 and 20 percent to qualify for a conventional loan. And if you put down less than 20 percent, be prepared to pay for mortgage insurance.
+
+### 6. Not understanding your mortgage terms
+
+Underwater mortgages weren’t the only problem homeowners faced during the Great Recession. An untold number of people also lost their houses simply because they signed on the dotted line without understanding what the heck their mortgage entailed.
+
+For example, people thought they’d hit the jackpot with adjustable-rate mortgages, known as ARMs. Homeowners were fine for the first few years while their mortgage rate was fixed and low. But when it reset to the current market rate, that affordable monthly payment suddenly wasn’t so affordable.
 
 <div style="display: block; text-align: center">
 <a href="/" id="link" class="btn btn-large btn--primary">
@@ -64,10 +85,12 @@ preparing..
 
 {% include adsense1.html %}
 
-Hernandez cites California's home loan program, called CalHFA, as a valuable resource.
 
-"There are renters who pay between $1,500 and $3,000 for rent. They can easily make a mortgage payment, they just might not have enough saved for a down payment. We want to help these people," says Hernandez.
+The moral of the story is to always understand what you’re signing up for. It’s not enough to know what your monthly payment is today. You also need to ask if the interest rate can change and, if so, when and by how much it will increase.
 
-Some buyers think they need to have 20 percent of the cost of the house, which isn't necessarily true. In fact, the national median loan-to-value (LTV) ratio is 93 percent, according to the HFPC survey.
+If you’re not comfortable with the loan terms or don’t understand them, it’s better to walk away than to make an expensive and potentially life-altering mistake. moral of the story is to always understand what you’re signing up for. It’s not enough to know what your monthly payment is today. You also need to ask if the interest rate can change and, if so, when and by how much it will increase.
 
-Research the programs available in your area. This information, including what you'll need to qualify, is likely available online. You should also talk to your lender about state- or county-sponsored programs. You might find that clearing the down-payment hurdle is easier than you think.
+If you’re not comfortable with the loan terms or don’t understand them, it’s better to walk away than to make an expensive and potentially life-altering mistake.
+
+
+
