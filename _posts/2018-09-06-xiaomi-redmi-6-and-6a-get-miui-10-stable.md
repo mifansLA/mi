@@ -4,7 +4,7 @@ excerpt: "It’s all new features are pretty cool, and fans of MIUI will probabl
 header:
  og_image: https://www.xda-developers.com/files/2018/06/MIUI-10.png
  teaser: https://i0.wp.com/www.xda-developers.com/files/2018/06/MIUI-10.png?resize=340,220
-categories
+categories:
  - MIUI 10 China
  - MIUI Stable
 tags:
