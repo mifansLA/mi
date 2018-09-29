@@ -254,7 +254,7 @@ compress_html:
   comments: all
   blanklines: true
   endings: all
-  startings: [head, html, body]
+  startings: [html, head, body]
   ignore:
     envs: development
 
