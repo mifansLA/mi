@@ -101,7 +101,7 @@ analytics:
 author:
   name             : "Admin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am not our servant."
+  bio              : #"I am not yur servant."
   location         : # "Somewhere"
   email            : mi@knoacc.org
   uri              :
@@ -253,8 +253,8 @@ compress_html:
   clippings: all
   comments: all
   blanklines: true
-  endings: all
-  startings: [html, head, body]
+#  endings: all
+#  startings: [html, head, body]
   ignore:
     envs: development
 
