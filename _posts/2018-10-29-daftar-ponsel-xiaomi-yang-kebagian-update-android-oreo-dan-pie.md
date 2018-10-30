@@ -25,7 +25,7 @@ Dilaporkan Gizmochina, Senin (29/10/2018), pembaruan ini akan digelontorkan Xiao
 
 Meski begitu, Xiaomi belum memberi keterangan kapan pembaruan besar ini akan dimulai. Besar kemungkinan pembaruan ini akan mulai dirilis pada pertengahan November hingga akhir Desember mendatang.
 
-{% include inarticle.html }
+{% include inarticle.html %}
 
 Pengguna yang ingin melakukan pembaruan, disarankan untuk menggunakan koneksi wifi yang cepat dan stabil. Pasalnya pembaruan ini membutuhkan kapasitas yang cukup besar.
 
