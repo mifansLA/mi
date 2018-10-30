@@ -16,7 +16,7 @@ description: &description "Documentation Source for MIUI Fans Lamongan and Xiaom
 url: "https://mi.knoacc.org"
 baseurl: "/" # the subpath of your site, e.g. "/blog"
 repository: "mifansLA/miFans"
-teaser: "https://i0.wp.com/mi.knoacc.org/assets/image/logonew.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser: "https://scontent.fsub4-1.fna.fbcdn.net/v/t1.0-9/42342453_1757388027662587_8486087295009554432_n.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 comments:
