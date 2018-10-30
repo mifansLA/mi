@@ -1,6 +1,6 @@
 ---
 title: Download ★  Redmi Note 5 Prime Plus V9.6.2.0.NDKMIFD Global Stable Version ★ Fastboot File
-category:
+categories:
  - fastboot
  - MIUI 9
 tags:
