@@ -85,12 +85,8 @@ preparing..
 
 {% include adsense1.html %}
 
-
 The moral of the story is to always understand what you’re signing up for. It’s not enough to know what your monthly payment is today. You also need to ask if the interest rate can change and, if so, when and by how much it will increase.
 
 If you’re not comfortable with the loan terms or don’t understand them, it’s better to walk away than to make an expensive and potentially life-altering mistake. moral of the story is to always understand what you’re signing up for. It’s not enough to know what your monthly payment is today. You also need to ask if the interest rate can change and, if so, when and by how much it will increase.
 
 If you’re not comfortable with the loan terms or don’t understand them, it’s better to walk away than to make an expensive and potentially life-altering mistake.
-
-
-

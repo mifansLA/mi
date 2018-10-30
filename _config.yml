@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                  : "id-ID"
@@ -22,7 +22,7 @@ name                    : "mifansLA"
 description             : "An amazing website."
 url                     : "https://mi.knoacc.org"
 #baseurl                 : ""
-repository              : "mifansLA/refresh"
+repository              : "mifansLA/mi"
 teaser                  : "/assets/image/logonew.jpg"
 words_per_minute           : 220
 comments:

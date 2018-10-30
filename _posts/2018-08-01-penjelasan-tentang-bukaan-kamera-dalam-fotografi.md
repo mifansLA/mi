@@ -15,9 +15,9 @@ tags:
  - Mobile Camera
  - Bukaan Kamera
 date: 2018-08-01 00:00:04 +7
-last_modified_at: 2018-08-01 17:05:00 +7
+last_modified_at: 2018-10-16 17:05:00 +7
 ---
-{% include respo.html %}
+<noscript>
 
 Banyak orang menyukai fotografi, tetapi apakah Anda tahu pengetahuan paling dasar tentang fotografi? Artikel ini terutama memperkenalkan fungsi, jenis, dan metrik bukaan.
 
@@ -70,6 +70,6 @@ Rentang lengkap dari F-number adalah sebagai berikut:
 Setiap dua blok yang jumlah perjalanan cahaya dengan perbedaan ganda.Sebagai contoh, aperture dari F4 ke F2.8 disesuaikan, jumlah cahaya akan ditambahkan ganda, dari F2.8 ke F2 yang ditambahkan ganda lagi. Dengan demikian F-number ke bukaan aktual terbalik, aperture adalah F1 ketika jumlah maksimum cahaya bepergian dan minimum F64. Untuk 135 kamera, aperture minimum untuk sebagian besar lensa adalah F22.
 
 Saat ini, lensa di bidang telepon selular dapat dicapai bahwa aperture maksimum adalah F1.8 yang merupakan mainstream untuk standar aperture besar di bidang kamera digital juga dan efek foto yang lebih cerah dan hidup yang halus.
-
-Sumber: [English MIUI Forum](//en.miui.com/forum)
+</noscript>
+Artikel dipndahkan ke https://www.paciran.com/penjelasan-tentang-bukaan-kamera-dalam-fotografi Sumber: [English MIUI Forum](//en.miui.com/forum)
 {:.notice.notice--info}

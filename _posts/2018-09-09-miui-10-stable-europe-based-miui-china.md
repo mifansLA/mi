@@ -25,22 +25,22 @@ last_modified_at: 2018-09-09 20:00:00 +7
 
 | Device | MIUI Version | Androi Version | ROM Download |
 |:---:|---:|:---|:---:|
-| HM6A | V10.0.1.0.OCBCNFH | Oreo 8.1 | [download 1.1 GB](https://androidfilehost.com/?fid=1322778262903999749) |
-| HM6 | V10.0.1.0.OCGCNFH | Oreo 8.1 | [download 1.1 GB](https://androidfilehost.com/?fid=1322778262903999750) |
-| HM6Pro | V10.0.1.0.ODICNFH | Oreo 8.1 | [download 1.3 GB](https://androidfilehost.com/?fid=1322778262903999699) |
-| MINote2 | V10.0.1.0.OADCNFH | Oreo 8.0 | [download 1.3 GB](https://androidfilehost.com/?fid=1322778262903999700) |
-| MI8Explorer | V10.0.4.0.OEHCNFH | Oreo 8.1 | [download 1.7 GB](https://androidfilehost.com/?fid=1322778262903998085) |
-| MIMix2S | V10.0.2.0.ODGCNFH | Oreo 8.0 | [download 1.5 GB](https://androidfilehost.com/?fid=1322778262903997685) |
-| MI8SE | V10.0.1.0.OEBCNFH | Oreo 8.1 | [download 1.5 GB](https://androidfilehost.com/?fid=1322778262903997460) |
-| HMS2 | V10.0.2.0.OEFCNFH | Oreo 8.1 | [download 1 GB](https://androidfilehost.com/?fid=1322778262903997458) |
-| MIMix | V10.0.1.0.OAHCNFH | Oreo 8.0 | [download 1.3 GB](https://androidfilehost.com/?fid=1322778262903997459) |
-| MI6X | V10.0.2.0.ODCCNFH | Oreo 8.1 | [download 1.4 GB](https://androidfilehost.com/?fid=1322778262903997427) |
-| MI8 | V10.0.4.0.OEACNFH | Oreo 8.1 | [download 1.5 GB](https://androidfilehost.com/?fid=1322778262903997299) |
-| HMNote5Pro | V10.0.1.0.OEICNFH | Oreo 8.1 | [download 1.4 GB](https://androidfilehost.com/?fid=1322778262903996300) |
-| MI5 | V10.0.1.0.OAACNFH | Oreo 8.0 | [download 1.3](https://androidfilehost.com/?fid=1322778262903996301) |
-| MI6 | V10.0.1.0.OCACNFH | Oreo 8.0 | [download 1.4 GB](https://androidfilehost.com/?fid=1322778262903996298) |
-| MINote3 | V10.0.2.0.OCHCNFH | Oreo 8.1 | [download 1.4 GB](https://androidfilehost.com/?fid=1322778262903996299) |
-| MIMix2 | V10.0.1.0.ODECNFH | Oreo 8.0 | [download 1.4 GB](https://androidfilehost.com/?fid=1322778262903996302) |
+| HM6A | V10.0.1.0.OCBCNFH | Oreo 8.1 | [download 1.1 GB](/dl/afh?size=1.1GB&name=HM6A&fid=1322778262903999749) |
+| HM6 | V10.0.1.0.OCGCNFH | Oreo 8.1 | [download 1.1 GB](/dl/afh?size=1.1GB&name=HM6&fid=1322778262903999750) |
+| HM6Pro | V10.0.1.0.ODICNFH | Oreo 8.1 | [download 1.3 GB](/dl/afh?size=1.3GB&name=HM6Pro&fid=1322778262903999699) |
+| MINote2 | V10.0.1.0.OADCNFH | Oreo 8.0 | [download 1.3 GB](/dl/afh?size=1.3GB&name=MINote2&fid=1322778262903999700) |
+| MI8Explorer | V10.0.4.0.OEHCNFH | Oreo 8.1 | [download 1.7 GB](/dl/afh?size=1.7GB&name=MI8Explorer&fid=1322778262903998085) |
+| MIMix2S | V10.0.2.0.ODGCNFH | Oreo 8.0 | [download 1.5 GB](/dl/afh?size=1.5GB&name=MIMix2S&fid=1322778262903997685) |
+| MI8SE | V10.0.1.0.OEBCNFH | Oreo 8.1 | [download 1.5 GB](/dl/afh?size=1.5GB&name=MI8SE&fid=1322778262903997460) |
+| HMS2 | V10.0.2.0.OEFCNFH | Oreo 8.1 | [download 1 GB](/dl/afh?size=1GB&name=HMS2&fid=1322778262903997458) |
+| MIMix | V10.0.1.0.OAHCNFH | Oreo 8.0 | [download 1.3 GB](/dl/afh?size=1.3GB&name=MIMix&fid=1322778262903997459) |
+| MI6X | V10.0.2.0.ODCCNFH | Oreo 8.1 | [download 1.4 GB](/dl/afh?size=1.4GB&name=MI6X&fid=1322778262903997427) |
+| MI8 | V10.0.4.0.OEACNFH | Oreo 8.1 | [download 1.5 GB](/dl/afh?size=1.5GB&name=MI8&fid=1322778262903997299) |
+| HMNote5Pro | V10.0.1.0.OEICNFH | Oreo 8.1 | [download 1.4 GB](/dl/afh?size=1.4GB&name=Note5Pro&fid=1322778262903996300) |
+| MI5 | V10.0.1.0.OAACNFH | Oreo 8.0 | [download 1.3](/dl/afh?size=1.3GB&name=MI5&fid=1322778262903996301) |
+| MI6 | V10.0.1.0.OCACNFH | Oreo 8.0 | [download 1.4 GB](/dl/afh?size=1.4GB&name=MI6&fid=1322778262903996298) |
+| MINote3 | V10.0.2.0.OCHCNFH | Oreo 8.1 | [download 1.4 GB](/dl/afh?size=1.4GB&name=MINote3&fid=1322778262903996299) |
+| MIMix2 | V10.0.1.0.ODECNFH | Oreo 8.0 | [download 1.4 GB](/dl/afh?size=1.4GB&name=MIMix2&fid=1322778262903996302) |
 
 ## Instalation for Xiaomi devices:
 

@@ -1,26 +1,24 @@
 ---
 layout: default
 ---
-{% if page.header.video.id and page.header.video.provider %}
 {% include respo.html %}
+{% if page.header.video.id and page.header.video.provider %}
   {% include page__hero_video.html %}
 {% endif %}
-{% include respo.html %}
+{% include adsense2.html %}
+{% if page.share %}
+{% include social-share.html %}
+{% endif %}
 <div id="main" role="main">
-  <article class="splash" itemscope itemtype="http://schema.org/CreativeWork">
+  <article class="archive" itemscope itemtype="http://schema.org/CreativeWork">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
     {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date: "%B %d, %Y" }}">{% endif %}
-    {% if page.header.image %}
-    <div class="page__inner-wrap">
-    <section class="page__content" itemprop="image">
-      <figure><img src="{{ page.header.image }}"/><figcaption>{{ page.title }}</figcaption></figure>
-    </section>
-    {% endif %}
     <section class="page__content" itemprop="text">
       {{ content }}
-      <em>{{ page.excerpt }}</em>
+      <figure><img src="{{ page.og_image }}"/><figcaption>{{ page.title }}</figcaption></figure>
+	  {% if page.excerpt %}<em>{{ page.excerpt }}</em><{% endif %}
     </section>
     <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
@@ -33,11 +31,6 @@ layout: default
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
         {% endif %}
       </footer>
-
-      {% if page.share %}{% include social-share.html %}{% endif %}
-
-      {% include post_pagination.html %}
-    </div>
-
   </article>
+{% include ads-right-sidebar.html %}
 </div>

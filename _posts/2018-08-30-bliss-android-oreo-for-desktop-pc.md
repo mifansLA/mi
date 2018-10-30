@@ -3,7 +3,7 @@ title: "USB based install ★ Bliss-x86 8.0/10.x ★ 32bit or 64bit"
 excerpt: Dokumentasi untuk pemasangan Android OS Oreo untuk Desktop PC atau Laptop. Tidak ada jaminan BlissOS akan berfungsi dengan baik. Dokumentasi dan instruksi dalam Bahasa Inggris
 header:
  image: https://i.imgur.com/nzsZTTY.png
- teaser: https://i.imgur.com/nzsZTTY.png
+ teaser: https:/i.imgur.com/nzsZTTY.png
  caption: BlissOS based on Android Oreo for PC
 categories:
  - Emulator
@@ -12,7 +12,7 @@ tags:
  - Android Oreo
  - Android Emulator
  - Android for PC
-locale: en
+
 ---
 {% include respo.html %}
 ## BlissOS based on Android Oreo for PC

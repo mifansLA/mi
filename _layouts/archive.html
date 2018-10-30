@@ -6,6 +6,8 @@ layout: default
   {% include page__hero.html %}
 {% elsif page.header.video.id and page.header.video.provider %}
   {% include page__hero_video.html %}
+{% else %}
+  {% include adsense1.html %}
 {% endif %}
 
 {% if page.url != "/" and site.breadcrumbs %}

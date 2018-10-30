@@ -1,7 +1,13 @@
 ---
 title: Download ★ Redmi 4A V8.5.1.0.MCCMIED Global Stable Fastboot ROM
-image: https://i.ytimg.com/vi/FlJ6ESi5cS8/maxresdefault.jpg
-fastboot: true
+header:
+ image: https://i.ytimg.com/vi/FlJ6ESi5cS8/maxresdefault.jpg
+categories:
+ - fastboot
+ - ROM
+tags:
+ - fastboot rom
+ - global stabil
 excerpt: Download redmi 4A rom fastboot official global stabil V8.5.1.0 MCCMIED update 2017-06-19
 ---
 - Device: XIAOMI Redmi 4A
