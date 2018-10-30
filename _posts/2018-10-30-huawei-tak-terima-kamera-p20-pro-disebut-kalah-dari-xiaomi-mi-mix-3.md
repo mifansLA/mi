@@ -1,6 +1,8 @@
 ---
 title: "Huawei Tak Terima Kamera P20 Pro Disebut Kalah dari Xiaomi Mi Mix 3"
 excerpt: "Klaim Jun agaknya membuat panas telinga CEO Huawei Consumer Business Group, Richard Yu. Dia mengatakan bahwa kamera smartphone P20 Pro buatan Huawei belum terkalahkan"
+header:
+ overlay_image: https://asset.kompas.com/crop/21x0:682x441/750x500/data/photo/2018/10/25/939615163.jpg
 categories:
  - News
  - Fotografi
