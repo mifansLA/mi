@@ -1,6 +1,8 @@
 ---
 title: "Daftar Ponsel Xiaomi yang Kebagian Update Android Oreo dan Pie"
 excerpt: "Xiaomi juga memutuskan untuk tidak memberikan banyak pembaruan pada perangkat lawasnya updater."
+header:
+ overlay_image: https://asset.kompas.com/crop/0x0:989x660/750x500/data/photo/2017/09/27/4024372441.jpeg
 category:
  - MIUI 10
 tags:
@@ -8,9 +10,6 @@ tags:
  - Android Pie
  - Android Oreo
 ---
-
-![xiaomi](https://asset.kompas.com/crop/0x0:989x660/750x500/data/photo/2017/09/27/4024372441.jpeg)
-
 Xiaomi merilis sebuah daftar ponsel yang akan menerima pembaruan besar-besaran pada kuartal empat (Q4) tahun ini. Seluruh ponsel yang ada dalam daftar tersebut akan mendapat pembaruan sistem operasi ke 8.1 Oreo dan 9.0 Pie.
 
 Daftar tersebut dirilis Xiaomi lewat halaman resminya. Menurut Xiaomi, perangkat yang sebelumnya telah mendapatkan dua pembaruan besar, tidak akan lagi mendapat pembaruan ini.
@@ -20,6 +19,8 @@ Daftar tersebut dirilis Xiaomi lewat halaman resminya. Menurut Xiaomi, perangkat
 Kebanyakan dari ponsel tersebut bukanlah pendatang baru. Sebagian besar adalah ponsel Xiaomi yang masih menggunakan sistem operasi Android 7.1 Nougat seperti Redmi 5, Redmi 5A, dan Redmi 5 Plus.
 
 Selain itu Xiaomi juga memutuskan untuk tidak memberikan banyak pembaruan pada perangkat lawasnya. Kendati demikian ada beberapa ponsel Xiaomi lama yang masih menerima pembaruan besar ini seperti Mi Mix, Mi Mix 2, dan Mi Note 2.
+
+![xiaomi](https://asset.kompas.com/crop/0x0:989x660/750x500/data/photo/2017/09/27/4024372441.jpeg)
 
 Dilaporkan Gizmochina, Senin (29/10/2018), pembaruan ini akan digelontorkan Xiaomi lewat update OTA (Over The Air). Pengguna nantinya bisa mengecek menu "software setting" untuk memeriksa pembaruan dengan menekan tombol "upgrade now".
 
