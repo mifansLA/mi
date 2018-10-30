@@ -7,6 +7,7 @@ tags:
  - MIUI 10 eropa 
  - patch rom
  - xiaomi eu stabil
+last_modified_at: 2018-10-31 06:00:01 +7
 ---
 Patch untuk menambahkan Bahasa Indonesai pada ROM Xiaomi EU Xiaomi V10.1.1.0.NEGCNFI Stable Version untuk Redmi 5 Plus (VINCE)
 
