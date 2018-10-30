@@ -14,4 +14,9 @@ Patch untuk menambahkan Bahasa Indonesai pada ROM Xiaomi EU Xiaomi V10.1.1.0.NEG
 [Download](/dl/drive?size=1,81GB&id=1fUqq1cSdqb4hw_8UKOMcKJGcknge3Vrw&name=Patch-BI_xiaomi.eu_multi_HM5Plus_V10.1.1.0.NEGCNFI_v10-7.1_FenFren.zip){: .btn.btn--large.btn--primary}
 
 Codename: vince
+
 > Link ROM bisa di cari dari [halaman ini](/dl/afh?fid=11410932744536987046&name=xiaomi.eu_multi_HM5Plus_V10.1.1.0.NEGCNFI_v10-7.1.zip&size=1.2GB)
+
+Warning!!
+
+**Do not select Center Clock on Aroma Installer**
