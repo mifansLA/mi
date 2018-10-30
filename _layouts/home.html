@@ -1,0 +1,17 @@
+---
+layout: archive
+---
+
+{% include infeeds.html %}
+
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% include adsense1.html %}
+
+{% include paginator.html %}
+
+{% for post in site.portofolio %}
+  {% include archive-single.html type="grid" %}
+{% endfor %}

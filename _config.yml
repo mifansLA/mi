@@ -1,0 +1,288 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process
+
+#theme                    : "minimal-mistakes-jekyll"
+minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+locale                   : "id_EN"
+title: "Mi Fans Lamongan"
+title_separator: "-"
+name: &name "mifansLA"
+description: &description "Documentation Source for MIUI Fans Lamongan and Xiaomi Devices User."
+url: "https://mi.knoacc.org"
+baseurl: "/" # the subpath of your site, e.g. "/blog"
+repository: "mifansLA/miFans"
+teaser: "https://i0.wp.com/mi.knoacc.org/assets/image/logonew.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+breadcrumbs              : false # true, false (default)
+words_per_minute         : 200
+comments:
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
+  disqus:
+    shortname            : mifansla
+atom_feed:
+ path:
+
+# SEO Related
+google_site_verification : "KYQFq-wZMFvxDMR5G5rak58D-IwrgM8B_CuGS0To5AU"
+bing_site_verification   : "DA3D4C0368D7AE1105218F7F5B5BD6AC"
+alexa_site_verification  : "9vuxp7uDTuDQssajccQrFy1UnTQ"
+#yandex_site_verification :
+#naver_site_verification  :
+
+# Social Sharing
+instagram:
+  username               : &instagram mifans_lamongan
+twitter:
+  username               : &twitter mifansLA
+facebook:
+  username               : &facebook mifansLA
+  app_id                 : 356530788085649
+  publisher              : *facebook
+og_image                 : *logo # Open Graph/Twitter default site image
+# For specifying social profiles
+# - https://developers.google.com/structured-data/customize/social-profiles
+social:
+  type                   : "Person" # Person or Organization (defaults to Person)
+  name                   : "Mi Fans Lamongan" # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
+   - https://www.instagram/mifans_lamongan
+   - https://www.facebook.com/mifansLA
+   - https://www.twitter.com/mifansLA
+
+# Analytics
+analytics:
+  provider               : "google-universal"
+  google:
+    tracking_id          : "UA-43841292-2"
+
+# Ads
+ads:
+  provider               : "adsense"
+  adsense:
+    pub_id               : "ca-pub-8526606076277673"
+    fluid1               : "4140744311"
+    fluid2               : "8902490138"
+    auto1                : "8128278337"
+    auto2                : "3371390739"
+
+# Site Author
+author:
+  name             : *name
+  avatar           : "https://i0.wp.com/mi.knoacc.org/assets/image/logonew.jpg?resize=110,110" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "we are amazing persons."
+  location         : "Indonesia"
+  email            : "mi@knoacc.org"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         : *facebook
+  foursquare       :
+  github           :
+  gitlab           :
+  google_plus      :
+  keybase          :
+  instagram        : *instagram
+  lastfm           :
+  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
+  tumblr           :
+  twitter          : *twitter
+  vine             :
+  weibo            :
+  xing             :
+  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+#  - _portofolio
+
+timezone: Indonesia/Jakarta
+
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - Rakefile
+  - README
+  - tmp
+  - /docs # ignore Minimal Mistakes /docs
+  - /test # ignore Minimal Mistakes /test
+  - _portofolio
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: true
+excerpt_separator: "\n\n"
+incremental: false
+
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+# Outputting
+permalink: :title
+paginate: 8 # amount of posts to show
+paginate_path: /page:num/
+timezone: "Asia/Jakarta" # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  # - jekyll-remote-theme
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+
+# Archives
+#  Type
+#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  Path (examples)
+#  - Archive page should exist at path when using Liquid method or you can
+#    expect broken links (especially with breadcrumbs enabled)
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path/my-awesome-category/index.html ~> path: /
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+# https://github.com/jekyll/jekyll-archives
+# jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+#   layouts:
+#     category: archive-taxonomy
+#     tag: archive-taxonomy
+#   permalinks:
+#     category: /categories/:name/
+#     tag: /tags/:name/
+
+
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
+# Collections
+collections:
+  recipes:
+    output: true
+    permalink: /:collection/:path/
+  pets:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true
+      related: true
+      comments: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _recipes
+  - scope:
+      path: "_recipes"
+      type: recipes
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _downloads
+  - scope:
+      path: "_downloads"
+      type: pets
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  # _portfolio
+  - scope:
+      path: "_portofolio"
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
