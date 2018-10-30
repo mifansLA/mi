@@ -9,7 +9,7 @@
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 locale                   : "id_EN"
-title: "Mi Fans Lamongan"
+title: "MiFans Lamongan"
 title_separator: "-"
 name: &name "mifansLA"
 description: &description "Documentation Source for MIUI Fans Lamongan and Xiaomi Devices User."
