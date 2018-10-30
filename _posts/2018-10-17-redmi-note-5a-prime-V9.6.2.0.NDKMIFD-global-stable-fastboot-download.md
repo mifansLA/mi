@@ -9,7 +9,7 @@ tags:
 ---
 Redmi Note 5 Prime Plus V9.6.2.0.NDKMIFD Global Stable Version
 
-[Download](/bigota?size=1,81GB&ver=V9.6.2.0.NDKMIFD&type=ugg_global_images&name=20180808.0000.00_7.1_global_3f3d1e2717.tgz){: .btn.btn--large}
+[Download](/bigota?size=1,81GB&ver=V9.6.2.0.NDKMIFD&type=ugg_global_images&name=20180808.0000.00_7.1_global_3f3d1e2717.tgz){: .btn.btn--large.btn--primary}
 
 Codename: ugg
 Build: 2018-08-08
