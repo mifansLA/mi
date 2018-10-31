@@ -18,11 +18,9 @@ Ada yang menarik dari peluncuran Xiaomi Mix 3 pekan lalu di China. Saat memprese
 
 Saat memperkenalkan mode pengambilan gambar “Night Mode” pada Mi Mix 3, Jun pun membandingkan hasil fotonya dengan Huawei P20 Pro dan menyebutkan bahwa jepretan Mi Mix 3 lebih baik.
 
-Klaim Jun agaknya membuat panas telinga CEO Huawei Consumer Business Group, Richard Yu. Seolah tak terima, dia mengatakan bahwa kamera _smartphone_ P20 Pro buatan Huawei belum bisa dikalahkan pabrikan pesaing.
+Klaim Jun agaknya membuat panas telinga CEO Huawei Consumer Business Group, Richard Yu. Seolah tak terima, dia mengatakan bahwa kamera _smartphone_ P20 Pro buatan Huawei belum bisa dikalahkan pabrikan pesaing.
 
-![xiaomi mi mix 3](https://asset.kompas.com/crop/21x0:682x441/750x500/data/photo/2018/10/25/939615163.jpg)
-
-“Pembuat _smartphone_ lain manapun tidak akan bisa melampaui P20 Pro milik Huawei dalam waktu dekat. Hanya kami yang bisa melewati diri sendiri,” ujarnya dalam sebuah _posting_ di media sosial.
+“Pembuat _smartphone_ lain manapun tidak akan bisa melampaui P20 Pro milik Huawei dalam waktu dekat. Hanya kami yang bisa melewati diri sendiri,” ujarnya dalam sebuah _posting_ di media sosial.
 
 Dirilis awal tahun ini, Huawei P20 Pro merupakan ponsel pertama yang mengusung konfigurasi tiga kamera di punggung perangkat.
 
