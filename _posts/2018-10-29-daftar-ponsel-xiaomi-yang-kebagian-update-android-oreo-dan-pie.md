@@ -2,7 +2,7 @@
 title: "Daftar Ponsel Xiaomi yang Kebagian Update Android Oreo dan Pie"
 excerpt: "Xiaomi juga memutuskan untuk tidak memberikan banyak pembaruan pada perangkat lawasnya updater."
 header:
- overlay_image: https://asset.kompas.com/crop/0x0:989x660/750x500/data/photo/2017/09/27/4024372441.jpeg
+ teaser: https://i0.wp.com/asset.kompas.com/crop/0x0:989x660/750x500/data/photo/2017/09/27/4024372441.jpeg?resize=320,170
 category:
  - MIUI 10
 tags:
