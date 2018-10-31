@@ -17,7 +17,7 @@ tags:
 
 **Sword Art Online** has become a major hit ever since its release. It has a huge fan base which continues to expand to this very day. It is not surprising that Sword Art Online is going attract a lot of attention whether it is good or bad. For 2018, Sword Art Online has already announced that they are going to release a spin off series.
 
-{% include respo.html %}
+{% include adsense1.html %}
 
 The spin-off series is titled Gun Gale Online and it is scheduled for release in 2018. The release of Gun Gale Online is only a few weeks away. If you believed that the year couldn’t get any better then be prepared to be surprised. The third season for Sword Art Online Season 3 has been finally confirmed.
 
