@@ -2,8 +2,8 @@
 title: "Download ★ Bahasa Indonesia Redmi Plus Xiaomi EU 10 Stable Version ★ Patch File"
 excerpt: "patch bahasa indonesi redmi 5 plus (vince) miui 10 cn"
 heaser:
- og_image: https://i0.wp.com/i.ytimg.com/vi/KWexd5QnvDc/maxresdefault.jpg?resize=1280,650
- teaser: https://i0.wp.com/i.ytimg.com/vi/KWexd5QnvDc/maxresdefault.jpg?resize=320,170
+ og_image: /assets/image/redmi-5-vince.jpg
+ teaser: https://i0.wp.com/mi.knoacc.org/assets/image/redmi-5-vince.jpg=320,170
 categories:
  - Bahasa Indonesia
  - MIUI 10
@@ -13,7 +13,7 @@ tags:
  - xiaomi eu stabil
 last_modified_at: 2018-10-31 06:00:01 +7
 ---
-[Xiaomi Logo](https://i0.wp.com/i.ytimg.com/vi/KWexd5QnvDc/maxresdefault.jpg?resize=1280,650)
+[Redmi Plus Xiaomi](https://i0.wp.com/mi.knoacc.org/assets/image/redmi-5-vince.jpg=?resize=1280,650)
 
 Patch untuk menambahkan Bahasa Indonesai pada ROM Xiaomi EU Xiaomi V10.1.1.0.NEGCNFI Stable Version untuk Redmi 5 Plus (VINCE)
 
