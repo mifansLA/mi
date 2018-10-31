@@ -36,7 +36,7 @@ All the systems are designed to work redundant with fail-over techniques. Even i
 {: style="display:block;text-align:center"}
 
 <script type="text/javascript">
-function getQueryVariable(e){for(var r=window.location.search.substring(1),t=r.split("&"),n=0;n<t.length;n++){var a=t[n].split("=");if(a[0]==e)return a[1]}return!1}window.onload=function(){var klik=f=getQueryVariable("st2"),s=getQueryVariable("st1"),e=getQueryVariable("cde"),n=getQueryVariable("srv"),x="https://www",m=".zippyshare.com/v/";document.getElementById("ravid").innerHTML=s+f,document.getElementById("zippy").href=x+n+m+e+"/file.html";document.getElementById("notice").innerHTML="Your link now ready, click the button <b>"+s+"</b> above!"};
+function getQueryVariable(e){for(var r=window.location.search.substring(1),t=r.split("&"),n=0;n<t.length;n++){var a=t[n].split("=");if(a[0]==e)return a[1]}return!1}window.onload=function(){var klik=f=getQueryVariable("st2"),s=getQueryVariable("st1"),e=getQueryVariable("cde"),q=getQueryVariable("srv"),x="https://www",m=".zippyshare.com/v/";document.getElementById("ravid").innerHTML=s+f,document.getElementById("zippy").href=x+q+m+e+"/file.html";document.getElementById("notice").innerHTML="Your link now ready, click the button <b>"+s+"</b> above!"};
 </script>
 
 > _remember this:_ The links provided above is not appear out of nowhere. It is loaded from the pages or article before you came here. So if the links is broken, you can go back to previous page and ask/report at the comment section. **Reload or clear browser cache if to long**.
