@@ -14,9 +14,7 @@ tags:
  - miui 10 rom download
  - xiaomi devices miui 10
 last_modified_at: 2018-09-09 20:00:00 +7
-
 ---
-{% include respo.html %}
 ### Device List
 
 ![Devicel list getting miui 10 stable](https://i.imgur.com/HOzn07E.png){: .align-center}
@@ -40,7 +38,9 @@ last_modified_at: 2018-09-09 20:00:00 +7
 | MI5 | V10.0.1.0.OAACNFH | Oreo 8.0 | [download 1.3](/dl/afh?size=1.3GB&name=MI5&fid=1322778262903996301) |
 | MI6 | V10.0.1.0.OCACNFH | Oreo 8.0 | [download 1.4 GB](/dl/afh?size=1.4GB&name=MI6&fid=1322778262903996298) |
 | MINote3 | V10.0.2.0.OCHCNFH | Oreo 8.1 | [download 1.4 GB](/dl/afh?size=1.4GB&name=MINote3&fid=1322778262903996299) |
-| MIMix2 | V10.0.1.0.ODECNFH | Oreo 8.0 | [download 1.4 GB](/dl/afh?size=1.4GB&name=MIMix2&fid=1322778262903996302) |
+| MIMix2 | V10.0.1.0.ODECNFH | Oreo 8.0 | [download 1.4 GB](/dl/afh?size=1.4GB&name=MIMix2&fid=1322778262903996302) 
+
+{% include respo.html %}
 
 ## Instalation for Xiaomi devices:
 
