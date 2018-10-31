@@ -3,7 +3,7 @@ title: "Download File from Android File Host"
 permalink: "/dl/afh"
 sitemap: false
 auto_id: false
-og_image: /assets/image/Android-Filehost-memebership.jpg
+og_image: /assets/image/AFH.png
 ---
 ### What Is AndrooidFilehost?
 
@@ -15,7 +15,7 @@ For the minority among us who love to live life dangerously by flashing the dail
 
 {% include adsense1.html %}
 
-So how do services like [Android File Host](https://androidfilehost.com/) do it? And why do they do it? I interviewed the members of the **Android File Host** team to find out more here: (https://www.xda-developers.com/androidfilehost-interview/){: rel="nofollow external"}
+So how do services like [Android File Host](https://androidfilehost.com/) do it? And why do they do it? I interviewed the members of the **Android File Host** team to find out more in "File Hosting and You: An Inside Look at Android File Host" from [here](https://www.xda-developers.com/androidfilehost-interview/){: rel="nofollow external"}
 
 ### Where Is Your File?
 
