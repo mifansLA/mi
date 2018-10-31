@@ -37,19 +37,19 @@ The series has been created by Reki Kawahara. It follows the story of a boy name
 
 Berikut ini link unduhan video yang di _render_ dengan resolusi `1080p`, format `matrovska`, encoder `x265`, karena ukuran yang lebih kecil dengan kualitas lebih bagus.
 
-![Episode 04](https://i0.wp.com/otakukart.com/wp-content/uploads/2018/10/sword-art-alicization-episode-4-spoilers.jpeg?resize=640,360)
+![Episode 04](https://i0.wp.com/otakukart.com/wp-content/uploads/2018/10/sword-art-alicization-episode-4-spoilers.jpeg?resize=640,360){: .align-center}
 
 [Ep. 04 - 112.08 MB](https://mi.knoacc.org/dl/zippy?srv=67&cde=WKh1PjNh&st1=SAO-4-1080p&st2=112.08MB){: .btn.btn--primary}
 
-![Episode 03](https://i0.wp.com/otakukart.com/wp-content/uploads/2018/10/sword-art-online-alicization-episode-3.jpeg?resize=640,360)
+![Episode 03](https://i0.wp.com/otakukart.com/wp-content/uploads/2018/10/sword-art-online-alicization-episode-3.jpeg?resize=640,360){: .align-center}
 
 [Ep. 03 - 78.9 MB](https://mi.knoacc.org/dl/zippy?srv=66&cde=mmmJ1DtX&st1=SAO-3-1080p&st2=79.9MB){: .btn.btn--primary}
 
-![Episode 02](https://i0.wp.com/otakukart.com/wp-content/uploads/2018/10/sword-art-online-alicization-episode-2-1.jpg?resize=640,360)
+![Episode 02](https://i0.wp.com/otakukart.com/wp-content/uploads/2018/10/sword-art-online-alicization-episode-2-1.jpg?resize=640,360){: .align-center}
 
 [Ep. 02 - 73 86 MB](https://mi.knoacc.org/dl/zippy?srv=95&cde=9MgyO46q&st1=SAO-2-1080p&st2=73.86MB){: .btn.btn--primary}
 
-![Episode 01](https://i0.wp.com/otakukart.com/wp-content/uploads/2018/10/Sword-Art-Online-Alicization-episode-1.jpg?resize=640,360)
+![Episode 01](https://i0.wp.com/otakukart.com/wp-content/uploads/2018/10/Sword-Art-Online-Alicization-episode-1.jpg?resize=640,360){: .align-center}
 
 [Ep. 01 - 172 83 MB](https://mi.knoacc.org/dl/zippy?srv=103&cde=tre0mIne&st1=SAO-1-1080p&st2=172.83){: .btn.btn--primary}
 
