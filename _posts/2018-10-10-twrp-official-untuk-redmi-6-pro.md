@@ -14,11 +14,11 @@ last_modified_at: 2018-10-31 06:00:01 +7
 ---
 Xiaomi Redmi 6 Pro adalah salah satu ponsel baru Xiaomi di pasar _budget_ untuk seri Redmi. Sebagai sepupu Xiaomi Mi A2 Lite yang ber-OS MIUI ini, 6 Pro menampilkan tenaga yang sebanding dengan Qualcomm Snapdragon 625, RAM 4GB, penyimpanan 64GB, dan banyak lagi.
 
-{% include adsenns1.html %}
+{% include adsense1.html %}
 
 Sama seperti semua smartphone Xiaomi, setelah melewati proses [pembukaan bootloader](/unlock-bootloader) yang bisa dibilang tidak menyenangkan, Xiaomi Redmi 6 Pro cukup ramah bagi pengguna mahir dan pengembang, dan kamu juga dapat dengan mudah [menginstal Magisk](https://www.knoacc.org/2017/04/penjelasan-magisk-root-cara-sembunyikan-status-root.html), ROM khusus, dan mod lain ke [Redmi 6 Pro](/spesifikasi-redmi-6-pro) kamu. Namun, sebagai langkah pertama sebelum memulai, kamu harus memiliki TWRP, baik versi resmi maupun tidak resmi. Untungnya, bagi pemilik perangkat ini, sekarang sudah mendapat dukungan dari pengembang TWRP secara resmi.
 
-[![TWRP Redmi 6 Pro](/assetss/image/TWRP-redmi-6-pro.jpg)](/twrp-official-untuk-redmi-6-pro)
+[![TWRP Redmi 6 Pro](/assets/image/TWRP-redmi-6-pro.jpg)](/twrp-official-untuk-redmi-6-pro)
 
 Perangkat ini sebenanrnya sudah memiliki TWRP tidak resmi sebelumnya, tetapi dengan adanya dukungan resmi berarti banyak hal positif yang bisa dicapai. Dan sudah seharusnya memacu pengembangan yang selama ini terbatas. Saat ini, tidak banyak pengembangan untuk Redmi 6 Pro, tetapi kamu sudah dapat menginstal Magisk dan mod lain menggunakan TWRP resmi, dan berkat adanya Project Treble, GSI juga masuk dalam pilihan.
 
