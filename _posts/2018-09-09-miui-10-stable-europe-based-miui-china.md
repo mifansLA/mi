@@ -2,7 +2,7 @@
 title: Latest Xiaomi EU MIUI 10 Stable ROM Download
 excerpt: list of xiaomi devices getting miui 10 stable from xiaomi europe
 header:
- image: https://i.imgur.com/pHpRjm0.jpg
+ overlay_image: /assets/image/mi-teaser.jpg
  caption: MIUI 10 Stable for Europe MiFans
  teaser: https://i0.wp.com/i.imgur.com/pHpRjm0.jpg?resize=320,170
 categories:
