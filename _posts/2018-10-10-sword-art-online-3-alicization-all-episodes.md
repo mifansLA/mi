@@ -4,7 +4,7 @@ excerpt: "Download anime Anime Sword Art Online: Alicization Kualitas Bagus Art 
 header:
  teaser: https://i0.wp.com/otakukart.com/wp-content/uploads/2018/10/Sword-Art-Online-Season-3-Episode-1.jpeg?resize=320,170
  og_image: https://i0.wp.com/otakukart.com/wp-content/uploads/2018/10/Sword-Art-Online-Season-3-Episode-1.jpeg?resize=640,320
- og_image: https://i0.wp.com/otakukart.com/wp-content/uploads/2018/10/Sword-Art-Online-Season-3-Episode-1.jpeg
+ overlay_image: https://i0.wp.com/otakukart.com/wp-content/uploads/2018/10/Sword-Art-Online-Season-3-Episode-1.jpeg
 last_modified_at: 2018-10-29 18:00:01
 categories:
  - Anime
