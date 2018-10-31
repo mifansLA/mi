@@ -2,8 +2,8 @@
 title: "Hore! POCO F1 Dijamin Akan Mendapat Update Hingga Android Q"
 excerpt: "The leaked Android Pie-based MIUI 10 beta build for the POCO F1 brings the Android version up to Android 9 and the MIUI version to MIUI 10 8.10.30"
 header:
- og_image: https://i0.wp.com/www.xda-developers.com/files/2018/10/MIUI-10-Android-Pie-POCO-F1-492x1024.jpg
- teaser: https://i0.wp.com/www.xda-developers.com/files/2018/10/MIUI-10-Android-Pie-POCO-F1-492x1024.jpg?resize=320,170"
+ og_image: https://i0.wp.com/static.digit.in/product/65aaf8b65bcbfde6b800252b52bd63f49a3fb19a.jpeg
+ teaser: https://i0.wp.com/static.digit.in/product/65aaf8b65bcbfde6b800252b52bd63f49a3fb19a.jpeg?resize=320,170"
 categories:
  - Android Q
 tags:
@@ -19,9 +19,9 @@ Xiaomi juga cukup pengertian kepada komunitas pengembang dengan janji hanya **me
 
 Xiaomi sendiri memiliki kebijakan menarik soal model pembaruan yang mereka pakai. Untuk sebagian besar OEM ponsel cerdas Android di luar sana, frekuensi pembaruan bergantung pada berapa harga telepon dan seberapa baru dirilis. Misalnya, flagship baru akan mendapatkan banyak perhatian selama beberapa bulan pertama karena menerima pembaruan keamanan, perbaikan bug, dll. Perangkat canggih ini biasanya juga dijamin setidaknya dua pembaruan versi Android utama. Semakin lama ponsel ini beredar di tangan pembeli semakin jarang pembaruan keamanan yang mereka dapatkan (kecuali untuk beberapa OEM) dan kemudian setelah perangkat mengatakan mendapat pembaruan versi Android besar kedua, maka ponsel tersebut pensiun. dapat jatah update.
 
-> Update MIUI 10 berdasarkan Android Pie untuk POCO F1 [di sini](https://mi.knoacc.org/download-miui-10-android-pie-beta-poco-f1-perdana)
-
 {% include adsense1.html %}
+
+> Update MIUI 10 berdasarkan Android Pie untuk POCO F1 [di sini](https://mi.knoacc.org/download-miui-10-android-pie-beta-poco-f1-perdana)
 
 Hal yang berbeda terjadi di Xiaomi dan ROM MIUI OEM mereka sekalipun. Kita akan melihat perangkat yang telah dirilis bertahun-tahun lalu terus menerima pembaruan MIUI baru. Pembaruan MIUI untuk ponsel yang lebih lama ini tidak datang dengan versi Android yang baru sekalipun, tetapi banyak dari mereka yang mendapatkan fitur baru yang telah dicantumkan kembali bahkan untuk perangkat yang lebih jadul sekalipun. Terkait Pocophone F1, Kita dalam area abu-abu karena ponsel ini adalah sub-merek eksperimental baru untuk Xiaomi, sehingga orang-orang bertanya-tanya bagaimana pembaruan akan ditangani.
 
