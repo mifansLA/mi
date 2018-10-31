@@ -2,13 +2,13 @@
 title: "Hore! POCO F1 Dijamin Akan Mendapat Update Hingga Android Q"
 excerpt: "The leaked Android Pie-based MIUI 10 beta build for the POCO F1 brings the Android version up to Android 9 and the MIUI version to MIUI 10 8.10.30"
 header:
+ og_image: https://i0.wp.com/www.xda-developers.com/files/2018/10/MIUI-10-Android-Pie-POCO-F1-492x1024.jpg
  teaser: https://i0.wp.com/www.xda-developers.com/files/2018/10/MIUI-10-Android-Pie-POCO-F1-492x1024.jpg?resize=320,170"
 categories:
  - Android Q
 tags:
  - Xiaomi Poco F1
  - Dijamin Android Q
-og_image: https://i0.wp.com/www.xda-developers.com/files/2018/10/MIUI-10-Android-Pie-POCO-F1-492x1024.jpg
 last_modified_at: 2018-10-31 14:11:00
 ---
 **Xiaomi Pocophone F1** adalah eksperimen yang menarik bagi Xiaomi dan saya ingin sekali melihat bagaimana hal itu membekas bagi mifans. Banyak yang mengatakan mereka menggunakan pendekatan OnePlus dengan menawarkan spesifikasi canggih dengan harga yang pantas. Mereka juga cukup ramah kepada komunitas pengembang dengan janji hanya **menunggu 3 hari untuk membuka program bootloader** mereka. Yang seharusnya tidak diperlukan, tetapi jauh lebih baik **daripada** harus menunggu lebih dari 2 bulan seperti perangkat Xiaomi lainnya. Beberapa informasi baru telah muncul mengenai smartphone dari sub-merek Xiaomi karena kita telah mendapat informasi resmi bahwa ponsel ini akan diperbarui setidaknya hingga versi Android Q.
