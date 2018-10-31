@@ -3,6 +3,7 @@ title: Download Rilis Perdana MIUI 10 Android Pie beta untuk POCO F1
 excerpt: "The leaked Android Pie-based MIUI 10 beta build for the POCO F1 brings the Android version up to Android 9 and the MIUI version to MIUI 10 8.10.30"
 header:
  teaser: https://i0.wp.com/www.xda-developers.com/files/2018/10/MIUI-10-Android-Pie-POCO-F1-492x1024.jpg?resize=320,170"
+ og_image: https://i0.wp.com/www.xda-developers.com/files/2018/10/MIUI-10-Android-Pie-POCO-F1-492x1024.jpg
 categories:
  - Update
  - Android Pie
@@ -10,7 +11,6 @@ tags:
  - Xiaomi Poco F1
  - Android Pie beta
  - MIUI 10 Pie
-og_image: https://i0.wp.com/www.xda-developers.com/files/2018/10/MIUI-10-Android-Pie-POCO-F1-492x1024.jpg"
 last_modified_at: 2018-10-31 13:51:00
 ---
 Tahun ini, Kita telah melihat banyak rilis ponsel "affordabe flagship" yang luar biasa seperti OnePlus 6, Asus ZenFone 5Z, Honor Play, dan sekarang OnePlus 6T. Namun, satu ponsel yang jelas lebih unggul daripada pesaingnya dalam hal nilai barang dengan harganya adalah Xiaomi POCO F1, juga dikenal sebagai Xiaomi Pocophone F1. Ponsel pertama yang dirilis dalam branding POCO sebagai sub-merek Xiaomi, [POCO F1](https://mi.knoacc.org/video-hand-on-xiaomi-pocophone-f1-indonesia) memiliki daftar spesifikasi tinggi termasuk Qualcomm Snapdragon 845 SoC, RAM 6GB / 8GB dengan 64GB / 128GB / 256GB penyimpanan, 6,18 inci Full HD+ (2246x1080) 18.7: 9 IPS LCD, kamera belakang 12MP + 5MP (kedalaman sensor), kamera depan 20MP dengan piksel binning, dan baterai 4.000 mAh. Telepon ini dipaketkan dengan MIUI 9.6 berbasis Android 8.1 Oreo.
