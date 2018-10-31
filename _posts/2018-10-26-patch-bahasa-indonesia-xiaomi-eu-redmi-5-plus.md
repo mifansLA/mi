@@ -1,7 +1,7 @@
 ---
 title: "Download ★ Bahasa Indonesia Redmi Plus Xiaomi EU 10 Stable Version ★ Patch File"
 excerpt: "patch bahasa indonesi redmi 5 plus (vince) miui 10 cn"
-heaser:
+header:
  og_image: /assets/image/redmi-5-vince.jpg
  teaser: https://i0.wp.com/mi.knoacc.org/assets/image/redmi-5-vince.jpg=320,170
 categories:
