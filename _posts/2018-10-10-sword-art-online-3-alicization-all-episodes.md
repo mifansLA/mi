@@ -37,7 +37,7 @@ The series has been created by Reki Kawahara. It follows the story of a boy name
 
 Berikut ini link unduhan video yang di _render_ dengan resolusi `1080p`, format `matrovska`, encoder `x265`, karena ukuran yang lebih kecil dengan kualitas lebih bagus.
 
-![Episode 04](https://i0.wp.com/otakukart.com/wp-content/uploads/2018/10/sword-art-alicization-episode-4-spoilers.jpeg?640,360)
+![Episode 04](https://i0.wp.com/otakukart.com/wp-content/uploads/2018/10/sword-art-alicization-episode-4-spoilers.jpeg?resize=640,360)
 
 [Ep. 04 - 112.08 MB](https://mi.knoacc.org/dl/zippy?srv=67&cde=WKh1PjNh&st1=SAO-4-1080p&st2=112.08MB){: .btn.btn--primary}
 
