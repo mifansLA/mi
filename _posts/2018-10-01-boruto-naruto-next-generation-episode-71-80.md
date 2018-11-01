@@ -1,10 +1,10 @@
 ---
 title: "Boruto - Naruto Next Generation [Ep. 71 - Ep. 80]"
-excerpt: Video streaming anime Boruto Episode 71 - 80. Juga bisa di download langsung
+excerpt: "Video streaming anime Boruto Episode 71 - 80. Juga bisa di download langsung"
 header:
- overlay_image: https://i0.wp.com/www.gambar.co.id/wp-content/uploads/2017/12/gambar-boruto-768x432.jpg
+ overlay_image: http://i0.wp.com/www.wallpapermaiden.com/image/2017/07/16/boruto-uzumaki-naruto-akatsuki-scar-katana-anime-16798.png
  og_image: https://www.gambar.co.id/wp-content/uploads/2017/12/gambar-boruto-768x432.jpg
- teaser: https://i0.wp.com/www.gambar.co.id/wp-content/uploads/2017/12/gambar-boruto-768x432.jpg?resize=320,170
+ teaser: http://i0.wp.com/www.wallpapermaiden.com/image/2017/07/16/boruto-uzumaki-naruto-akatsuki-scar-katana-anime-16798.png?resize=320,170
 videoid:
  0: bc75fde50d0bee94
   ep: 71
