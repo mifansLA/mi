@@ -31,7 +31,6 @@ tags:
   - Anime Boruto
   - Download Anime
 ---
-
 Boruto: Naruto Next Generations, juga dikenal sebagai Boruto, adalah sebuah seri manga Jepang yang ditulis oleh Ukyō Kodachi dan diilustrasikan oleh Mikio Ikemoto. [Wikipedia](https://id.m.wikipedia.org/wiki/Boruto:_Naruto_Next_Generations)
 
 {% include respo.html %}
