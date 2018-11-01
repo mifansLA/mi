@@ -1,5 +1,5 @@
 ---
-title: "Boruto - Naruto Next Generation [Ep. 71 - Ep. 80]"
+title: "Boruto - Naruto Next Generation Ep. 71 - Ep. 80"
 excerpt: "Video streaming anime Boruto Episode 71 - 80. Juga bisa di download langsung"
 header:
   overlay_image: "https://i0.wp.com/www.wallpapermaiden.com/image/2017/07/16/boruto-uzumaki-naruto-akatsuki-scar-katana-anime-16798.png"
