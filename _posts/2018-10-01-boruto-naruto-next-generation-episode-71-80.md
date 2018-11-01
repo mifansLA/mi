@@ -24,7 +24,10 @@ videoid:
   ep: 78
  8: 9d6ac1ce2a47583
   ep: 79
-comments: false
+
 ---
 
+Boruto: Naruto Next Generations, juga dikenal sebagai Boruto, adalah sebuah seri manga Jepang yang ditulis oleh Ukyō Kodachi dan diilustrasikan oleh Mikio Ikemoto. [Wikipedia](https://id.m.wikipedia.org/wiki/Boruto:_Naruto_Next_Generations)
+
+{% include respo.html %}
 {% include videoseries.html %}
