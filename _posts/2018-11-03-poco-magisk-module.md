@@ -3,7 +3,7 @@ title: "Magisk Module: Poco Xperience for MIUI 9"
 excerpt: "Put POCO Xperience to your MIUI 9! You need Magisk Framework installed to use it."
 header:
  overlay_image: /assets/image/Screenshot_2018-11-03-21-43-06-780_com.mi.android.globallauncher.png
- teaser: https://i0.wp.com/mi.knoacc.org/assets/image/Screenshot_2018-11-03-21-43-06-780_com.mi.android.globallauncher.png?resize=310,640
+ teaser: https://i0.wp.com/mi.knoacc.org/assets/image/Screenshot_2018-11-03-21-43-06-780_com.mi.android.globallauncher.png?resize=720,680
 categories:
  - Magisk
 tags:
@@ -19,7 +19,7 @@ As mentioned, You need to install latest Magisk Framework along with the latest 
 
 ## Screenshoots
 
-![ss1](https://i0.wp.com/mi.knoacc.org/assets/image/Screenshot_2018-11-03-21-42-30-372_com.mi.android.globallauncher.png?resize=320,640)![ss2](https://i0.wp.com/mi.knoacc.org/assets/image/Screenshot_2018-11-03-21-42-41-555_com.mi.android.globallauncher.png?resize=320,640)![ss3](https://i0.wp.com/mi.knoacc.org/assets/image/Screenshot_2018-11-03-21-42-48-837_com.mi.android.globallauncher.png?resize=320,640)![ss4](https://i0.wp.com/mi.knoacc.org/assets/image/Screenshot_2018-11-03-21-43-06-780_com.mi.android.globallauncher.png?resize=320,640)
+![ss1](https://i0.wp.com/mi.knoacc.org/assets/image/Screenshot_2018-11-03-21-42-30-372_com.mi.android.globallauncher.png?resize=360,640)![ss2](https://i0.wp.com/mi.knoacc.org/assets/image/Screenshot_2018-11-03-21-42-41-555_com.mi.android.globallauncher.png?resize=360,640)![ss3](https://i0.wp.com/mi.knoacc.org/assets/image/Screenshot_2018-11-03-21-42-48-837_com.mi.android.globallauncher.png?resize=360,640)![ss4](https://i0.wp.com/mi.knoacc.org/assets/image/Screenshot_2018-11-03-21-43-06-780_com.mi.android.globallauncher.png?resize=360,640)
 
 ## POCO App version
 
