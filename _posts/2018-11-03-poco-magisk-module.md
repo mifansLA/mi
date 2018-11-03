@@ -1,6 +1,6 @@
 ---
-title: "Magisk Module: Poco Experiance for MIUI 9"
-excerpt: You need Magisk Framework installed to use it.
+title: "Magisk Module: Poco Xperience for MIUI 9"
+excerpt: "Put POCO Xperience to your MIUI 9! You need Magisk Framework installed to use it."
 header:
  overlay_image: /assets/image/Screenshot_2018-11-03-21-43-06-780_com.mi.android.globallauncher.png
  teaser: https://i0.wp.com/mi.knoacc.org/assets/image/Screenshot_2018-11-03-21-43-06-780_com.mi.android.globallauncher.png?resize=310,640
@@ -13,7 +13,11 @@ tags:
  - POCO Bootscreen
 ---
 
-This module put POCO Launcher into your system. Including POCO Bootscreen and POCO default theme.
+This module put POCO Launcher into your MIUI system but sistemlessly with Magisk Framework. This Module also including POCO Bootscreen and POCO default theme.
+
+As mentioned, You need to install latest Magisk Framework along with the latest Magisk Manager to use this mod. It tested and work fine on MIUI 9 Lollipop based.
+
+## Screenshoots
 
 ![ss1](https://mi.knoacc.org/assets/image/Screenshot_2018-11-03-21-42-30-372_com.mi.android.globallauncher.png)
 ![ss2](https://mi.knoacc.org/assets/image/Screenshot_2018-11-03-21-42-41-555_com.mi.android.globallauncher.png)
@@ -22,7 +26,14 @@ This module put POCO Launcher into your system. Including POCO Bootscreen and PO
 
 ## POCO App version
 
-The app in this version using: `POCO Launcher 2.6.1.3`, we use APK downloaded with Android 5.1 phone from [Playstore](https://play.google.com/store/apps/details?id=com.mi.android.globallauncher).
+The app in this version using: `POCO Launcher 2.6.1.3`Download this version below:
+| MEGA | pCloud | GDrive |
+|:---:|:---:|:---:|
+| [Download](https://mi.knoacc.org/dl/mega?hash=o8sW1ahB!RcYe1QRgT9nJaso72wAvv44KfwfzDOo5ZY4xnRaTRX0&name=PCX2.zip&size=50.86MB){:.btn.btn--primary} | [Download](https://mi.knoacc.org/dl/mega?code=XZsIsM7ZhsT90afGwMyacIuW1FBavjL0uMHkname=PCX2.zip&size=50.86MB){:.btn.btn--primary} | [Download](#poco-app-version){:.btn.btn--disabled} |
+
+{% include respo.html %}
+
+We use APK downloaded with Android 5.1 phone from [Playstore](https://play.google.com/store/apps/details?id=com.mi.android.globallauncher).
 
 ## Update The App Version.
 
@@ -33,4 +44,4 @@ But if ain't, do directly update from Playstore if there is new version availabl
 ### NOTE: Bear With It!
 
 - It is a trial workaround from [MiFans Lamongan](https://mi.knoacc.org/) admins.
-- This isn't maintained project and not published in Magisk repo. You Won't get nofication update from Magisk Manager.
+- This isn't (promised) maintained project and not yet published in Magisk repo. You Won't get nofication update from Magisk Manager.
