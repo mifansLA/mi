@@ -32,7 +32,7 @@ Download POCO Xperience Module below:
 
 | MEGA | pCloud | GDrive |
 |:---:|:---:|:---:|
-| [Download](https://mi.knoacc.org/dl/mega?hash=o8sW1ahB!RcYe1QRgT9nJaso72wAvv44KfwfzDOo5ZY4xnRaTRX0&name=PCX2.zip&size=50.86MB){: .btn.btn--primary} | [Download](https://mi.knoacc.org/dl/mega?code=XZsIsM7ZhsT90afGwMyacIuW1FBavjL0uMHkname=PCX2.zip&size=50.86MB){: .btn.btn--primary} | [Download](#poco-app-version){: .btn.btn--disabled} |
+| [Download](https://mi.knoacc.org/dl/mega?hash=o8sW1ahB!RcYe1QRgT9nJaso72wAvv44KfwfzDOo5ZY4xnRaTRX0&name=PCX2.zip&size=50.86MB){: .btn.btn--primary} | [Download](https://mi.knoacc.org/dl/pcloud?code=XZsIsM7ZhsT90afGwMyacIuW1FBavjL0uMHk&name=PCX2.zip&size=50.86MB){: .btn.btn--primary} | [Download](#poco-app-version){: .btn.btn--disabled} |
 
 {% include respo.html %}
 
