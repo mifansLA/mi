@@ -24,9 +24,10 @@ As mentioned, You need to install latest Magisk Framework along with the latest 
 ## POCO App version
 
 The app in this version using: `POCO Launcher 2.6.1.3`Download this version below:
+
 | MEGA | pCloud | GDrive |
 |:---:|:---:|:---:|
-| [Download](https://mi.knoacc.org/dl/mega?hash=o8sW1ahB!RcYe1QRgT9nJaso72wAvv44KfwfzDOo5ZY4xnRaTRX0&name=PCX2.zip&size=50.86MB){:.btn.btn--primary} | [Download](https://mi.knoacc.org/dl/mega?code=XZsIsM7ZhsT90afGwMyacIuW1FBavjL0uMHkname=PCX2.zip&size=50.86MB){:.btn.btn--primary} | [Download](#poco-app-version){:.btn.btn--disabled} |
+| [Download](https://mi.knoacc.org/dl/mega?hash=o8sW1ahB!RcYe1QRgT9nJaso72wAvv44KfwfzDOo5ZY4xnRaTRX0&name=PCX2.zip&size=50.86MB){: .btn.btn--primary} | [Download](https://mi.knoacc.org/dl/mega?code=XZsIsM7ZhsT90afGwMyacIuW1FBavjL0uMHkname=PCX2.zip&size=50.86MB){: .btn.btn--primary} | [Download](#poco-app-version){: .btn.btn--disabled} |
 
 {% include respo.html %}
 
