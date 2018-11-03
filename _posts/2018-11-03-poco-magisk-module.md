@@ -17,8 +17,7 @@ This module put POCO Launcher into your MIUI system but sistemlessly with Magisk
 
 As mentioned, You need to install latest Magisk Framework along with the latest Magisk Manager to use this mod. It tested and work fine on MIUI 9 Lollipop based.
 
-## Screenshoots
-
+| Screenshoots | - |
 |------:|:------|
 | ![ss1](https://i0.wp.com/mi.knoacc.org/assets/image/Screenshot_2018-11-03-21-42-30-372_com.mi.android.globallauncher.png?resize=360,640) | ![ss2](https://i0.wp.com/mi.knoacc.org/assets/image/Screenshot_2018-11-03-21-42-41-555_com.mi.android.globallauncher.png?resize=360,640) |
 | ![ss3](https://i0.wp.com/mi.knoacc.org/assets/image/Screenshot_2018-11-03-21-42-48-837_com.mi.android.globallauncher.png?resize=360,640) | ![ss4](https://i0.wp.com/mi.knoacc.org/assets/image/Screenshot_2018-11-03-21-43-06-780_com.mi.android.globallauncher.png?resize=360,640) |
