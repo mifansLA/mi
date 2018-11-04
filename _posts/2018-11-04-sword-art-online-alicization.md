@@ -1,26 +1,26 @@
 ---
 title: "Sword Art Online: Alicization Ep. 01 - Ep. 05"
-excerpt "Seri SAO terbaru langsung striming gak pake ribet, bisa download juga"
+excerpt: "Seri SAO terbaru langsung striming gak pake ribet, bisa download juga"
 header:
- overlay_image: https://media.comicbook.com/2018/08/sword-art-online-alicization-1129100-640x320.jpeg
- og_image: https://pbs.twimg.com/media/DqhlTGLU0AA-w8m?format=jpg
- teaser: https://i0.wp.com/duniagames.co.id/image/jpg/122208/480?fit=360
+  overlay_image: https://media.comicbook.com/2018/08/sword-art-online-alicization-1129100-640x320.jpeg
+  og_image: https://pbs.twimg.com/media/DqhlTGLU0AA-w8m?format=jpg
+  teaser: https://i0.wp.com/duniagames.co.id/image/jpg/122208/480?fit=360
 videoid:
- x0:
-  ep: "01"
-  id: ae4f89603524d047
- x1:
-  ep: "02"
-  id: 71a134a61566d9e9
- x2:
-  ep: "03"
-  id: 837dbca4b3feb429
- x3:
-  id: 4761ec8058a7e09f
-  ep: "04"
- x4:
-  id: 731bb199cb60e585
-  ep: "05"
+  x0:
+    ep: "01"
+    id: ae4f89603524d047
+  x1:
+    ep: "02"
+    id: 71a134a61566d9e9
+  x2:
+    ep: "03"
+    id: 837dbca4b3feb429
+  x3:
+    id: 4761ec8058a7e09f
+    ep: "04"
+  x4:
+    id: 731bb199cb60e585
+    ep: "05"
 categories:
  - Anime
 tags:
