@@ -1,6 +1,6 @@
 ---
 tile: "Wajib Tahu, Ini Ciri Ponsel Xiaomi ROM Abal-abal Yang Baru"
-excerpt: nWeah, meskipun punya tiga titik, ternyata ROM MIUI untuk Xiaomi Vince ini ROM abal-abal"
+excerpt: "Wealah, meskipun punya tiga titik, ternyata ROM MIUI untuk Xiaomi Vince ini ROM abal-abal"
 header:
  overlay_image: /assets/image/redmi-5-plus.jpg
 categories:
@@ -12,7 +12,9 @@ tags:
  - ciri rom abal abal terbaru
 ---
 
-Bagi sebagian besar mifans pasti sudah banyak sekali yang sudah paham dengan ciri-ciri ponsel Xiaomi garansi distributor yang memakai ROM MIUI abal abal. Diantaranya adalah memakai **4 titik** dalam kode versi MIUI. Namun, sekarang muncul ciri baru yang **lebih sulit dideteksi**. Khususnya untuk ponsel tipe Redmi 5 Plus (codename: `vince`) yang kini punya ROM abal abal dengan angka di versi MIUI memakai **3 titik**
+> Note: Bukan tidak mungkin ciri baru ini juga ada pada ponsel Xiaomi garansi distributor selain Redmi 5 Plus
+
+Bagi sebagian besar mifans pasti sudah banyak sekali yang sudah paham dengan ciri-ciri ponsel Xiaomi garansi distributor yang memakai ROM MIUI abal abal. Diantaranya adalah memakai **4 titik** dalam kode versi MIUI. Namun, sekarang muncul ciri baru yang **lebih sulit dideteksi**. Khususnya untuk ponsel tipe Redmi 5 Plus (codename: `vince`) yang kini punya ROM abal abal dengan angka di versi MIUI memakai **3 titik**.
 
 [rom abal abal vince](/assets/image/kode-rom-abal-vince.jpg)
 
@@ -24,8 +26,10 @@ Pada Redmi 5 Plus, kode huruf seharusnya **memakai huruf GM pada huruf ketiga da
 
 ![perbandingan kode huruf versi miui](/assets/image/kode-huruf-vince-ugg.png)
 
-Silahkan cek sendiri pada halaman [download ROM MIUI 9 Stable](https://mi.knoacc.org/update-rom-miui-92-global-stable-full-changelog) dan badingkan antara kode huruf Redmi 5 Plus (vince) dan Redmi Note 5 (ugg) pada ROM MIUI 9 Global
+Silahkan cek sendiri pada halaman [download ROM MIUI 9 Stable](https://mi.knoacc.org/update-rom-miui-92-global-stable-full-changelog) kemudian bandingkan antara kode huruf Redmi 5 Plus (vince) dan Redmi Note 5 (ugg) pada ROM MIUI 9 Global.
 
 Dari situ admin mifansLA merasa yakin bahwa ROM Redmi 5 Plus  yang dipakai adalah ROM abal abal meskipun mempunyai **3 titik** dalam nomor versi MIUI-nya.
 
-Kesimpulannya, ROM abal-abal punya ciri baru yakni dengan membandingkan kode huruf pada nomor versi MIUI yang dipakai.
+Kesimpulannya, ROM abal-abal punya ciri baru yakni kode huruf yang tidak sesuai dengan tipe ponselnya. Untuk itu kalian perlu membandingkan kode huruf pada nomor versi MIUI yang dipakai.
+
+Kalian juga bisa melihat kode-kode ponsel lain di [halaman ini](https://mi.knoacc.org/update-rom-miui-92-global-stable-full-changelog) dan memastikan bahwa ponsel kalian aman.
