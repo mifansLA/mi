@@ -3,7 +3,8 @@ title: "Ini Daftar Tipe Ponsel Xiaomi yang Sudah Mendapat Update ROM MIUI 10 Sta
 excerpt: "Tipe-tipe ponsel Xiaomi yang sudah mendapat Official MIUI 10 ROM [Global/China Stable] beserta link unduhnya"
 header:
  overlay_image: /assets/image/update-terbaru-miui-10-stable.jpg
- teaser: https://i0.wp.com/mi.knoacc.org/assets/image/update-terbaru-miui-10-stable.jpg
+ og_image: /assets/image/update-rom-miui-10-stabil.jpeg
+ teaser: https://i0.wp.com/mi.knoacc.org/assets/image/update-rom-miui-10-stabil.jpg?resize,320,300
 categories:
  - MIUI 10
 tags:
