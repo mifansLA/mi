@@ -1,5 +1,5 @@
 ---
-title: "Sword Art Online: Alicization | Ep. 01 - Ep. 05"
+title: "Sword Art Online: Alicization Ep. 01 - Ep. 05"
 description: "Seri SAO terbaru langsung striming gak pake ribet, bisa download juga"
 header:
  overlay_image: https://media.comicbook.com/2018/08/sword-art-online-alicization-1129100-640x320.jpeg
