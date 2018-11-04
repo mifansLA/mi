@@ -6,19 +6,19 @@ header:
  og_image: https://pbs.twimg.com/media/DqhlTGLU0AA-w8m?format=jpg
  teaser: https://i0.wp.com/duniagames.co.id/image/jpg/122208/480?fit=360
 video:
- x00:
+ x0:
   ep: 01
   id: ae4f89603524d047
- x01:
+ x1:
   ep: 02
   id: 71a134a61566d9e9
- x02:
+ x2:
   ep: 03
   id: 837dbca4b3feb429
- x03:
+ x3:
   id: 4761ec8058a7e09f
   ep: 04
- x04:
+ x4:
   id: 731bb199cb60e585
   ep: 05
 categories:
