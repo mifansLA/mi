@@ -1,5 +1,5 @@
 ---
-tile: "Wajib Tahu, Ini Ciri Ponsel Xiaomi ROM Abal-abal Yang Baru"
+title: "Wajib Tahu, Ini Ciri Ponsel Xiaomi ROM Abal-abal Yang Baru"
 excerpt: "Wealah, meskipun punya tiga titik, ternyata ROM MIUI untuk Xiaomi Vince ini ROM abal-abal"
 header:
  overlay_image: /assets/image/redmi-5-plus.jpg
