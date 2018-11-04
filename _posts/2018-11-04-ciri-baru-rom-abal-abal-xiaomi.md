@@ -1,5 +1,5 @@
 ---
-title: "Wajib Tahu, Ini Ciri Ponsel Xiaomi ROM Abal-abal Yang Baru"
+title: "Wajib Tahu, Ini Ciri Terbaru ROM Abal-abal Ponsel Xiaomi"
 excerpt: "Wealah, meskipun punya tiga titik, ternyata ROM MIUI untuk Xiaomi Vince ini ROM abal-abal"
 header:
  overlay_image: /assets/image/redmi-5-plus.jpg
@@ -10,6 +10,7 @@ tags:
  - rom distributor
  - deteksi rom abal abal
  - ciri rom abal abal terbaru
+last_modified_at: 2018-11-04 16:15:01
 ---
 
 > Note: Bukan tidak mungkin ciri baru ini juga ada pada ponsel Xiaomi garansi distributor selain Redmi 5 Plus
@@ -26,7 +27,7 @@ Namun anehnya, ponsel ini **tidak pernah mendapat update**, dan ada **aplikasi s
 
 Sekilas, admin mifansLA juga menyangka ini bukan rom abal-abal. Namun karena merasa aneh dengan munculnya **gejala gejala penyakit rom abal abal**, admin pun melihat lebih teliti dan memukan sedikit **kejanggalan pada kode huruf** dari versi MIUI.
 
-Pada Redmi 5 Plus, kode huruf seharusnya **memakai huruf EG pada huruf kedua dan ketiga**. sedangkan Redmi 5 Plus milik kawan admin **memkai kode ND** yang seharusnya dipakai pada ROM seri Redmi Note 5A Prime (codename: `ugg`)
+Pada Redmi 5 Plus, kode huruf seharusnya **memakai huruf EG pada huruf kedua dan ketiga**. sedangkan Redmi 5 Plus milik kawan admin **memkai kode DF** yang seharusnya dipakai pada ROM seri Redmi Note 5A Prime (codename: `ugg`)
 
 ![perbandingan kode huruf versi miui](/assets/image/kode-huruf-vince-ugg.png)
 
