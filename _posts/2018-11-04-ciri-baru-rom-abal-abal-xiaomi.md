@@ -16,7 +16,7 @@ tags:
 
 Bagi sebagian besar mifans pasti sudah banyak sekali yang sudah paham dengan ciri-ciri ponsel Xiaomi garansi distributor yang memakai ROM MIUI abal abal. Diantaranya adalah memakai **4 titik** dalam kode versi MIUI. Namun, sekarang muncul ciri baru yang **lebih sulit dideteksi**. Khususnya untuk ponsel tipe Redmi 5 Plus (codename: `vince`) yang kini punya ROM abal abal dengan angka di versi MIUI memakai **3 titik**.
 
-[rom abal abal vince](/assets/image/kode-rom-abal-vince.jpg)
+[rom abal abal vince](/assets/image/kode-rom-vince-abal.jpg)
 
 Cerita bermula ketika ada salah satu kawan admin yang membeli Redmi 5 Plus garansi ditributor (bukan dari TAM), dan merasa lega setelah melihat nomor versi MIUI yang mempunyai tiga titik. Namun anehnya, ponsel ini **tidak pernah mendapat update**, dan ada **aplikasi sisipan beriklan** (adware) yang mengganggu yang biasanya memang ada dalam rom abal abal, dan tidak bisa dihapus karena ada partisi system.
 
