@@ -1,8 +1,12 @@
 main:
-  - title: "MIUI 9 Beta"
-    url: https://mi.knoacc.org/download-miui-global-beta-838-fastboot-recovery
+  - title: "MIUI 10 Stable"
+    url: https://mi.knoacc.org/update-terbaru-MIUI-10-stabil
+  - title: "MIUI 10 Beta"
+    url: https://mi.knoacc.org/update-terbaru-MIUI-10-beta
   - title: "MIUI 9 Stable"
     url: https://mi.knoacc.org/update-rom-miui-92-global-stable-full-changelog
+  - title: "MIUI 9 Beta"
+    url: https://mi.knoacc.org/download-miui-global-beta-838-fastboot-recovery
   - title: "MIUI Pro Stable"
     url: https://mi.knoacc.org/download-rom-miuipro-v92-update-semua-tipe-ponsel
   - title: "MiFlash Tool"
@@ -14,4 +18,6 @@ main:
   - title: "Xiaomi Test Point"
     url: https://mi.knoacc.org/testpoint
   - title: "Download GAPPS"
-    url: https://mi.knoacc.org/gapps
+    url: https://gapps.knoacc.org
+  - title: POCO Experience
+    url: /poco-magisk-module
