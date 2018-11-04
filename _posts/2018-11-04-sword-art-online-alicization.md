@@ -7,20 +7,20 @@ header:
  teaser: https://i0.wp.com/duniagames.co.id/image/jpg/122208/480?fit=360
 videoid:
  x0:
-  ep: 1
+  ep: "01"
   id: ae4f89603524d047
  x1:
-  ep: 2
+  ep: "02"
   id: 71a134a61566d9e9
  x2:
-  ep: 3
+  ep: "03"
   id: 837dbca4b3feb429
  x3:
   id: 4761ec8058a7e09f
-  ep: 4
+  ep: "04"
  x4:
   id: 731bb199cb60e585
-  ep: 5
+  ep: "05"
 categories:
  - Anime
 tags:
