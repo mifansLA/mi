@@ -26,7 +26,7 @@ Namun anehnya, ponsel ini **tidak pernah mendapat update**, dan ada **aplikasi s
 
 Sekilas, admin mifansLA juga menyangka ini bukan rom abal-abal. Namun karena merasa aneh dengan munculnya **gejala gejala penyakit rom abal abal**, admin pun melihat lebih teliti dan memukan sedikit **kejanggalan pada kode huruf** dari versi MIUI.
 
-Pada Redmi 5 Plus, kode huruf seharusnya **memakai huruf GM pada huruf ketiga dan keempat**. sedangkan Redmi 5 Plus milik kawan admin **memkai kode DF** yang seharusnya dipakai pada ROM seri Redmi Note 5 (codename: ugg)
+Pada Redmi 5 Plus, kode huruf seharusnya **memakai huruf EG pada huruf kedua dan ketiga**. sedangkan Redmi 5 Plus milik kawan admin **memkai kode ND** yang seharusnya dipakai pada ROM seri Redmi Note 5A Prime (codename: `ugg`)
 
 ![perbandingan kode huruf versi miui](/assets/image/kode-huruf-vince-ugg.png)
 
@@ -34,7 +34,7 @@ Silahkan cek sendiri pada halaman [download ROM MIUI 9 Stable](https://mi.knoacc
 
 {% include inarticle.html %}
 
-Dari situ admin mifansLA merasa yakin bahwa ROM Redmi 5 Plus  yang dipakai adalah ROM abal abal meskipun mempunyai **3 titik** dalam nomor versi MIUI-nya.
+Dari situ admin [mifansLA](https://mi.knoacc.org/poco-magisk-module) merasa yakin bahwa ROM Redmi 5 Plus  yang dipakai adalah ROM abal abal meskipun mempunyai **3 titik** dalam nomor versi MIUI-nya.
 
 Kesimpulannya, ROM abal-abal punya ciri baru yakni kode huruf yang tidak sesuai dengan tipe ponselnya. Untuk itu kalian perlu membandingkan kode huruf pada nomor versi MIUI yang dipakai.
 
