@@ -1,6 +1,6 @@
 ---
-tile: Wajib Tahu, Ini Ciri Ponsel Xiaomi ROM Abal-abal Yang Baru
-excerpt: Weah, meskipun punya tiga titik, ternyata ROM MIUI untuk Xiaomi Vince ini ROM abal-abal
+tile: "Wajib Tahu, Ini Ciri Ponsel Xiaomi ROM Abal-abal Yang Baru"
+excerpt: nWeah, meskipun punya tiga titik, ternyata ROM MIUI untuk Xiaomi Vince ini ROM abal-abal"
 header:
  overlay_image: /assets/image/redmi-5-plus.jpg
 categories:
