@@ -17,6 +17,8 @@ Bagaimana dengan versi beta? Sama saja, karena update versi stabil ini adalah ya
 
 Jadi jangan pernah berharap ponsel Redmi 3 kalian akan mendapat [update MIUI 10](https://mi.knoacc.org/update-terbaru-MIUI-10-stabil) _Mampoooos..._
 
+{% include adsense2.html %}
+
 > Tersedia Full ROM dan Fastboot ROM, langsung saja menuju [link unduhan](#download). Jika malas membaca changelog.
 
 Berikut ini adalah beberapa perubahan dan perbaikan untuk MIUI versi 9.6.2.0:
@@ -58,6 +60,9 @@ New - Devices locked by "Find device" can't be turned off (08-22)
 - Fix, Fonts adjust to the background color in the Notification shade (08-21)
 
 ## Download
+
+{% include adsense1.html %}
+
 | Tipe ROM | MD5 | Download |
 |------|------|------|
 | Fastboot | 3dc81ac7e402108659effa0c03435da5 | [1185M](http://bigota.d.miui.com/V9.6.2.0.LAIMIFD/ido_xhdpi_global_images_V9.6.2.0.LAIMIFD_20180813.0000.00_5.1_global_cmonly_3dc81ac7e4.tgz) |
