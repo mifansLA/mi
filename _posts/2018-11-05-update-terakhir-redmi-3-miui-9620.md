@@ -1,14 +1,15 @@
 ---
-title: "MIUI 9.6 Global Stable ROM V9.6.2.0.LAIMIFD untuk Redmi 3/Prime"
-excerpt: "ROM ini adalah update terakhir untuk seri Redmi 3/pro/prime (ido)"
+title: "MIUI 9.6 Global Stable ROM V9.6.2.0.LAIMIFD untuk Redmi 3/Prime, Update Terakhir"
+excerpt: "ROM MIUI 9.6.2.0 LAIMIFD ini adalah update terakhir untuk seri Redmi 3/pro/prime (ido)"
 ---
 Xiaomi Redmi 3 sudah memasuki menopause gaess... Developer MIUI sudah menyatakan [secara resmi](http://en.miui.com/thread-3661984-1-1.html) bahwa **TIDAK AKAN ADA UPDATE** setelah ROM MIUI 9.6.2.0 ini. Meskipun artikel ini baru terbit sekarang, sebenarnya pengumuman penghentian dukungan ini sudah diberikan sejak 24 Agustus 2018 yang lalu. Artikel ini terbit untuk mempertegas dan menjawab pertanyaan yang masuk ke admin Mifans Lamongan.
 
-![end of life](/assets/image/last-update-redmi-3.jpg)
+|:---:|:---:|
+| ![end of life](/assets/image/last-update-redmi-3.png) | !![stabil otomatis](/assets/image/beta-ke-stabil.png) |
 
 Bagaimana dengan versi beta? Sama saja, karena update versi stabil ini adalah yang terakhir, maka yang masih berada pada ROM Developer pun akan otomatis mendapat update ke ROM stabil.
 
-![stabil otomatis](/assets/image/beta-ke-stabil.jpg)
+![stabil otomatis](/assets/image/never.png)
 
 Jadi jangan pernah berharap ponsel Redmi 3 kalian akan mendapat [update MIUI 10](https://mi.knoacc.org/update-terbaru-MIUI-10-stabil) _Mampoooos..._
 
@@ -63,5 +64,7 @@ New - Devices locked by "Find device" can't be turned off (08-22)
 Jadi, jika ada diantara kalian mifans Lamongan yang masih memegang ponsel ini, dan ingin hidup tentram, silahkan update ke versi terakhir MIUI ini. Karena tidak ada lagi _klunting-klunting_ pemberitahuan update selamanya.
 
 Akan tetapi, kalau _sampeyan_ masih berniat untuk meneruskan bakat kreatif kalian, silahkan pakai ROM alternatif yang menurut 2keyakinan admin juga punya kelbihan dibanding rom MIUI. Sebut saja versi OS Android yang lebih tinggi. Bahkan sudah banyak ROM yang memakai Android Oreo 8.1. Coba cek [di sini](https://mi.knoacc.org/daftar-rom-android-oreo-redmi-3-ido), barangkali mifans ketemu jodoh.
+
+![i'm dead](https://media1.tenor.com/images/e4a18b50c7b470620db2d9ff0f4d45b2/tenor.gif){: .center-align}
 
 Sekian, wassalam dan sampai jumpa lagi Redmi 3.
