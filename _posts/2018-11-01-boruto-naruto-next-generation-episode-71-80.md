@@ -33,6 +33,9 @@ videoid:
   x8:
     id: 9d6ac1ce2a47583
     ep: "79"
+  x9:
+    id: dca255add3dea178
+    ep: "80"
 categories:
   - Anime
 tags:
