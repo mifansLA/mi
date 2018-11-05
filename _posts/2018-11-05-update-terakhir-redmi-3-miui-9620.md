@@ -8,8 +8,9 @@ header:
 ---
 Xiaomi Redmi 3 sudah memasuki menopause gaess... Developer MIUI sudah menyatakan [secara resmi](http://en.miui.com/thread-3661984-1-1.html) bahwa **TIDAK AKAN ADA UPDATE** setelah ROM MIUI 9.6.2.0 ini. Meskipun artikel ini baru terbit sekarang, sebenarnya pengumuman penghentian dukungan ini sudah diberikan sejak 24 Agustus 2018 yang lalu. Artikel ini terbit untuk mempertegas dan menjawab pertanyaan yang masuk ke admin Mifans Lamongan.
 
-|:---:|:---:|
-| ![end of life](/assets/image/last-update-redmi-3.png) | ![stabil otomatis](/assets/image/beta-ke-stabil.png) |
+![stabil otomatis](/assets/image/last-update-redmi-3.png){: .align-center}
+
+![end of life](/assets/image/beta-ke-stabil.png){: .align-center}
 
 Bagaimana dengan versi beta? Sama saja, karena update versi stabil ini adalah yang terakhir, maka yang masih berada pada ROM Developer pun akan otomatis mendapat update ke ROM stabil.
 
@@ -63,10 +64,10 @@ New - Devices locked by "Find device" can't be turned off (08-22)
 
 {% include adsense1.html %}
 
-| Tipe ROM | MD5 | Download |
-|------|------|------|
-| Fastboot | 3dc81ac7e402108659effa0c03435da5 | [1185M](http://bigota.d.miui.com/V9.6.2.0.LAIMIFD/ido_xhdpi_global_images_V9.6.2.0.LAIMIFD_20180813.0000.00_5.1_global_cmonly_3dc81ac7e4.tgz) |
-| Recovery | 99f034030c4c2ef5d23f21493d6b88da | [939M](http://bigota.d.miui.com/V9.6.2.0.LAIMIFD/miui_HM3Global_V9.6.2.0.LAIMIFD_99f034030c_5.1.zip) | 
+| MD5 | Download |
+|------|------|
+| 3dc81ac7e402108659effa0c03435da5 | [Fastboot 1185M](http://bigota.d.miui.com/V9.6.2.0.LAIMIFD/ido_xhdpi_global_images_V9.6.2.0.LAIMIFD_20180813.0000.00_5.1_global_cmonly_3dc81ac7e4.tgz){: .btn.btn--primary} |
+| 99f034030c4c2ef5d23f21493d6b88da | [Recovery 939M](http://bigota.d.miui.com/V9.6.2.0.LAIMIFD/miui_HM3Global_V9.6.2.0.LAIMIFD_99f034030c_5.1.zip){: .btn.btn--primary} | 
 
 ## Sayonara MIUI, Welcome AOSP
 
