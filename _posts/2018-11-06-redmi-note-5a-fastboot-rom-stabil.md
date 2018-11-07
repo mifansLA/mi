@@ -9,7 +9,7 @@ tags:
  - Fastboot Redmi Note 5A
  - ROM Fastboot UggLite
 header:
- overlay_image: /assets/image/redmi-note-5a.jpg
+ overlay_image: /assets/image/Redmi-Note-5A.jpg
  teaser: https://i0.wp.com/cdn.metrotvnews.com/images/library/images/Tekno/Daru/Uboxing%20Xiaomi%20Redmi%20Note%205A/IMG_20171105_104633.jpg?340,180
 ---
 
