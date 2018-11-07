@@ -10,7 +10,7 @@ tags:
  - ROM Fastboot UggLite
 header:
  overlay_image: https://i0.wp.com/cdn.metrotvnews.com/images/library/images/Tekno/Daru/Uboxing%20Xiaomi%20Redmi%20Note%205A/IMG_20171105_104633.jpg
- teaser:bhttps://i0.wp.com/cdn.metrotvnews.com/images/library/images/Tekno/Daru/Uboxing%20Xiaomi%20Redmi%20Note%205A/IMG_20171105_104633.jpg?340,180
+ teaser: https://i0.wp.com/cdn.metrotvnews.com/images/library/images/Tekno/Daru/Uboxing%20Xiaomi%20Redmi%20Note%205A/IMG_20171105_104633.jpg?340,180
 ---
 
 Redmi Note 5A sudah mendapatkan update MIUI 10 Stabil, yakni V10.1.1.0 untuk versi ROM Cina. Sedangkan untuk Global Stabil baru sampai versi MIUI 9.6.2.0.
