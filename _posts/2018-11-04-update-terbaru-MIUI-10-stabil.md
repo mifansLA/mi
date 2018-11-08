@@ -18,7 +18,7 @@ MIUI menawarkan banyak perubahan dalam pembaruan kali ini. Banyak fitur baru yan
 
 Hingga saat ini, update ROM MIUI 10 Global Stable ROM **sudah diberikan** (ada link) dan **akan diberikan** (belum ada link) untuk perangkat berikut:
 
-### Perangkat prioritas
+### Perangkat yang diprioritaskan:
 
 | Type | codename | sudah/belum |
 |:---|:---:|---:|
@@ -44,7 +44,6 @@ Hingga saat ini, update ROM MIUI 10 Global Stable ROM **sudah diberikan** (ada l
 | Redmi 3S/Prime/3X | (land) | [belum](){: .btn.btn--disabled} |
 
 {% include adsense2.html %}
-
 
 ### Perangkat yang didukung secepatnya:
 
@@ -73,7 +72,7 @@ Bagaimana nasib tipe ponsel lain yang tidak terdaftar? Terimalah dengan lapang d
 
 ## Link Download
 
-> Update MIUI 10 terbaru ada pada daftar paling atas.
+> Update untuk ponsel terbaru yang dapat MIUI 10 ada pada daftar paling atas.
 
 {% include respo.html %}
 
