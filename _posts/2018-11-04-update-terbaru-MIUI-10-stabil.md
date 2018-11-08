@@ -43,6 +43,9 @@ Hingga saat ini, update ROM MIUI 10 Global Stable ROM **sudah diberikan** (ada l
 | Redmi 4 | (prada) | [belum](){: .btn.btn--disabled} |
 | Redmi 3S/Prime/3X | (land) | [belum](){: .btn.btn--disabled} |
 
+{% include adsense2.html %}
+
+
 ### Perangkat yang didukung secepatnya:
 
 | Type | codename |
@@ -66,7 +69,7 @@ Hingga saat ini, update ROM MIUI 10 Global Stable ROM **sudah diberikan** (ada l
 | Redmi 4X | (santoni) |
 | Redmi 4A | (rolex) |
 
-Bagaimana dengan type ponsel lain yang tidak terdaftar? Terimalah dengan papang dada gaess... 
+Bagaimana nasib tipe ponsel lain yang tidak terdaftar? Terimalah dengan lapang dada gaess, tipe yang tidak tercantum dalam tabel di atas tidak akan dapat update MIUI 10.
 
 ## Link Download
 
