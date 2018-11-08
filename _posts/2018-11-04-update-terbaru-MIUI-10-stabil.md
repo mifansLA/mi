@@ -20,6 +20,8 @@ Hingga saat ini, update ROM MIUI 10 Global Stable ROM **sudah diberikan** (ada l
 
 ### Perangkat prioritas
 
+| Type | codename | sudah/belum |
+|:---|:---:|---:|
 | Xiaomi Mi MIX 2S | (polaris) | [sudah](#download) |
 | Xiaomi Mi MIX 2 | (chiron) | [sudah](#download) |
 | Xiaomi Mi MIX | (lithium) | [sudah](#download) |
