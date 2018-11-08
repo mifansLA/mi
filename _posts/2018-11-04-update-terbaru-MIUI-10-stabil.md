@@ -22,20 +22,20 @@ Hingga saat ini, update ROM MIUI 10 Global Stable ROM **sudah diberikan** (ada l
 
 | Type | codename | sudah/belum |
 |:---|:---:|---:|
-| Xiaomi Mi MIX 2S | (polaris) | [sudah](#download) |
-| Xiaomi Mi MIX 2 | (chiron) | [sudah](#download) |
-| Xiaomi Mi MIX | (lithium) | [sudah](#download) |
-| Xiaomi Mi Max 3 | (nitrogen) | [sudah](#download) |
-| Xiaomi Mi Note 2 | (scorpio) | [sudah](#download) |
-| Xiaomi Mi 8 | (dipper) | [sudah](#download) |
-| Xiaomi Mi 6 | (sagit) | [sudah](#download) |
-| Xiaomi Mi 5 | (gemini) | [sudah](#download) |
-| Redmi Note 5 Pro | (whyred) | [sudah](#download) |
-| Redmi S2/Y2 | (ysl) | [sudah](#download) |
-| Redmi 6 | (cereus) | [sudah](#download) |
-| Redmi 6A | (cactus) | [sudah](#download) |
-| Redmi 5 Plus | (vince) | [sudah](#download) |
-| Pocophone F1 | (beryllium) | [sudah](#download) |
+| Xiaomi Mi MIX 2S | (polaris) | [sudah](#link-download) |
+| Xiaomi Mi MIX 2 | (chiron) | [sudah](#link-download) |
+| Xiaomi Mi MIX | (lithium) | [sudah](#link-download) |
+| Xiaomi Mi Max 3 | (nitrogen) | [sudah](#link-download) |
+| Xiaomi Mi Note 2 | (scorpio) | [sudah](#link-download) |
+| Xiaomi Mi 8 | (dipper) | [sudah](#link-download) |
+| Xiaomi Mi 6 | (sagit) | [sudah](#link-download) |
+| Xiaomi Mi 5 | (gemini) | [sudah](#link-download) |
+| Redmi Note 5 Pro | (whyred) | [sudah](#link-download) |
+| Redmi S2/Y2 | (ysl) | [sudah](#link-download) |
+| Redmi 6 | (cereus) | [sudah](#link-download) |
+| Redmi 6A | (cactus) | [sudah](#link-download) |
+| Redmi 5 Plus | (vince) | [sudah](#link-download) |
+| Pocophone F1 | (beryllium) | [sudah](#link-download) |
 | Xiaomi Mi 3/4 | (cancro) | [belum](){: .btn.btn--disabled} |
 | Redmi Note 3 Special Edition | (kate) | [belum](){: .btn.btn--disabled} |
 | Redmi Note 3 | (kenzo) | [belum](){: .btn.btn--disabled} |
