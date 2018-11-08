@@ -78,7 +78,7 @@ Bagaimana nasib tipe ponsel lain yang tidak terdaftar? Terimalah dengan lapang d
 
 | Type-Ponsel (Versi-MIUI) | Full ROM Update | Fastboot Flash |
 |------|:------:|:------:|
-| Pocophone F1 (V10.0.4.0 OEJMIFH) | [Recovery](http://bigota.d.miui.com/V10.0.4.0.OEJMIFH/miui_POCOF1Global_V10.0.4.0.OEJMIFH_ef67c4052e_8.1.zip){: .btn.btn--primary} | [Fastboot](http://bigota.d.miui.com/V10.0.4.0.OEJMIFH/beryllium_global_images_V10.0.4.0.OEJMIFH_20181026.0000.00_8.1_global_583b78e5d6.tgz){: .btn.btn--primary} |
+| Pocophone F1 (V10.0.4.0 OEJMIFH) | [Recovery 1.72G](http://bigota.d.miui.com/V10.0.4.0.OEJMIFH/miui_POCOF1Global_V10.0.4.0.OEJMIFH_ef67c4052e_8.1.zip){: .btn.btn--primary} | [Fastboot 2.48G](http://bigota.d.miui.com/V10.0.4.0.OEJMIFH/beryllium_global_images_V10.0.4.0.OEJMIFH_20181026.0000.00_8.1_global_583b78e5d6.tgz){: .btn.btn--primary} |
 | Redmi 6 (V10.0.1.0 OCGMIFH) | [Recovery 1240M](http://bigota.d.miui.com/V10.0.1.0.OCGMIFH/miui_HM6Global_V10.0.1.0.OCGMIFH_fd06fbb541_8.1.zip){: .btn.btn--primary} | [Fastboot 1951M](http://bigota.d.miui.com/V10.0.1.0.OCGMIFH/cereus_global_images_V10.0.1.0.OCGMIFH_20180919.0000.00_8.1_global_794ccbbe18.tgz){: .btn.btn--primary} |
 | Redmi 6A (V10.0.2.0 OCBMIFH) | [Recovery 1245M](zip){: .btn.btn--primary} | [Fastboot 1953M](http://bigota.d.miui.com/V10.0.2.0.OCBMIFH/miui_HM6AGlobal_V10.0.2.0.OCBMIFH_f3505ab8ee_8.1.zip){: .btn.btn--primary} |
 | Redmi 5 Plus (V10.0.2.0 OEGMIFH) | [Recovery 1415M](http://bigota.d.miui.com/V10.0.2.0.OEGMIFH/miui_HM5PlusGlobal_V10.0.2.0.OEGMIFH_dc9f1b974c_8.1.zip){: .btn.btn--primary} | [Fastboot 2237M](http://bigota.d.miui.com/V10.0.2.0.OEGMIFH/vince_global_images_V10.0.2.0.OEGMIFH_20180914.0000.00_8.1_global_018f1e352d.tgz){: .btn.btn--primary} |
