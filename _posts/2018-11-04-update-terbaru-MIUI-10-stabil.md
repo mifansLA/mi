@@ -35,7 +35,7 @@ Hingga saat ini, update ROM MIUI 10 Global Stable ROM **sudah diberikan** (ada l
 | Redmi 6 | (cereus) | [sudah](#link-download) |
 | Redmi 6A | (cactus) | [sudah](#link-download) |
 | Redmi 5 Plus | (vince) | [sudah](#link-download) |
-| Pocophone F1 | (beryllium) | [sudah](#link-download) |
+| Pocophone F1 | (beryllium) | [sudah (OTA](){: .btn.btn--disabled} |
 | Xiaomi Mi 3/4 | (cancro) | [belum](){: .btn.btn--disabled} |
 | Redmi Note 3 Special Edition | (kate) | [belum](){: .btn.btn--disabled} |
 | Redmi Note 3 | (kenzo) | [belum](){: .btn.btn--disabled} |
