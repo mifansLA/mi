@@ -31,7 +31,7 @@ Siapkan dulu dua akun Mi yang telah mendapat ijin _unlock_, cara ini memang tamp
 4. Hubungkan Xiaomi ke PC atau Laptop, kemudian klik **Unlock** pada program **MiFlash Unlock**, tunggu hingga muncul penanda waktu dengan keterangan **Menunggu 72 jam** atau **Menunggu 360 jam**.
 5. Cabut kabel USB, tekan tombol `power` hingga Xiaomi kalian menyala.
 6. Buka lagi **Mi Account** dan _logout_ dari akun Mi pertama (hapus akun sebelumnya).
-7. Setelah sukses keluar atau logout. Masukkan akun Mi yang kedua. Setelah berhasil masuk, **jangan lakukan apapun**, langsung saja matikan ponsel xiaomi.
+7. Setelah sukses keluar atau _logout_. Masukkan akun Mi yang kedua. Setelah berhasil masuk, **jangan lakukan apapun**, langsung saja matikan ponsel xiaomi.
 8. Nyalakan lagi dalam mode _fastboot_
 9. Dalam **Miflash Unlock**, keluarkan juga akun Mi pertama, dan gunakan akun Mi yang kedua (akun yang juga terkait pada ponsel saat ini) untuk login.
 10. Hubungkan ke PC sekali lagi danlanjutkan proses membuka kunci dengan cara klik **Unlock** Tunggu saja hingga selesai.
