@@ -1,5 +1,5 @@
 ---
-title:"Unlock Bootloader Xiaomi Tanpa Nunggu 360 Jam? Gampang!"
+title: "Unlock Bootloader Xiaomi Tanpa Nunggu 360 Jam? Gampang!"
 excerpt: "Trik baru agar cepat unlock bootloader tanpa menunggu 360 jam bound untuk Xiaomi garansi TAM. Langkahnya lengkap luur.."
 header:
  teaser: https://i0.wp.com/mi.knoacc.org/assets/image/360-jam-ubl.jpeg?resize=360,200
