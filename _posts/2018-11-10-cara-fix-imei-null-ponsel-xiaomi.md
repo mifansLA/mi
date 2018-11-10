@@ -8,6 +8,8 @@ tags:
  - Fix erase persist
  - Baseband Null
  - QCN imei fix
+header:
+ og_image: https://u01.appmifile.com/images/2018/04/03/3cef2eec-6811-406b-bed8-89dd91bf9916.jpg
 ---
 
 Hai MiFans...
