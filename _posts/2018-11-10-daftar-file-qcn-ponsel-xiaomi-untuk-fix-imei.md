@@ -1,5 +1,5 @@
 ---
-title: "Fix IMEI NULL untuk ponsel Xiaomi dengan file QCN"
+title: "Daftar File QCN untuk Berbagai Tipe Ponsel Xiaomi"
 excerpt: "Cara Memperbaiki IMEI Hilang dan Baseband melalui Cara Restore File QCN pada Device Xiaomi"
 categories:
  - IMEI
