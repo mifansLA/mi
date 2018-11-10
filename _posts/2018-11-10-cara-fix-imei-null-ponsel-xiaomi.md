@@ -1,7 +1,13 @@
 ---
 title: "Fix IMEI NULL untuk ponsel Xiaomi dengan file QCN"
-excerpt: ""
-
+excerpt: "Cara Memperbaiki IMEI Hilang dan Baseband melalui Cara Restore File QCN pada Device Xiaomi"
+categories:
+ - IMEI
+tags:
+ - Fix IMEI null
+ - Fix erase persist
+ - Baseband Null
+ - QCN imei fix
 ---
 
 Hai MiFans...
@@ -10,14 +16,14 @@ Ketemu lagi nih.., kali ini saya ingin membagikan Cara Memperbaiki IMEI Hilang 
 
 Siapkan Bahan-Bahan :
 
-- Siapkan PC/Laptop.
-- Kable USB Original / bawaan.
-- Download Tool QPST 2.2.422 [di sini](https://drive.google.com/file/d/12IidHLvtbvZ66AhwpLPdFqMflUVvnUAb/view?usp=drivesdk)
-- Download Kumpulan QCN Xiaomi (pilih sesuai device agan) cari [di sini](https://c.mi.com/thread-897288-1-0.html)
-- Download Write Dual IMEI [di sini](https://drive.google.com/file/d/1MF9S6ouFk45J3KnRXWtQletqo4J8jpnt/view?usp=drivesdk)
-- Download Minimal ADB Fastboot [di sini](https://drive.google.com/file/d/1nljtGoYfDQTpcdPi_g2DhnJNz7dkXmpU/view?usp=drivesdk)
-- Download Driver HS USB QDLoader 32bit [di sini](https://drive.google.com/file/d/1rD-dXhnoGDhlz0lbF4WMvN1TjUZt6-ip/view?usp=drivesdk)
-- Download Driver HS USB QDLoader 64bit [di sini](https://drive.google.com/file/d/1HQO3uRIIf2snvbVu3kOumBug8RM0uH_U/view?usp=drivesdk)
+1. Siapkan PC/Laptop.
+2. Kable USB Original / bawaan.
+3. Download Tool QPST 2.2.422 [di sini](https://drive.google.com/file/d/12IidHLvtbvZ66AhwpLPdFqMflUVvnUAb/view?usp=drivesdk)
+4. Download Kumpulan QCN Xiaomi (pilih sesuai device agan) cari [di sini](https://c.mi.com/thread-897288-1-0.html)
+5. Download Write Dual IMEI [di sini](https://drive.google.com/file/d/1MF9S6ouFk45J3KnRXWtQletqo4J8jpnt/view?usp=drivesdk)
+6. Download Minimal ADB Fastboot [di sini](https://drive.google.com/file/d/1nljtGoYfDQTpcdPi_g2DhnJNz7dkXmpU/view?usp=drivesdk)
+7. Download Driver HS USB QDLoader 32bit [di sini](https://drive.google.com/file/d/1rD-dXhnoGDhlz0lbF4WMvN1TjUZt6-ip/view?usp=drivesdk)
+8. Download Driver HS USB QDLoader 64bit [di sini](https://drive.google.com/file/d/1HQO3uRIIf2snvbVu3kOumBug8RM0uH_U/view?usp=drivesdk)
 
 Setelah siap semua bahan di atas, kita lanjut ke langkah selanjutnya.
 
