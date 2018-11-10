@@ -21,7 +21,7 @@ Siapkan Bahan-Bahan :
 1. Siapkan PC/Laptop.
 2. Kable USB Original / bawaan.
 3. Download Tool QPST 2.2.422 [di sini](https://drive.google.com/file/d/12IidHLvtbvZ66AhwpLPdFqMflUVvnUAb/view?usp=drivesdk)
-4. Download Kumpulan QCN Xiaomi (pilih sesuai device agan) cari [di sini](https://c.mi.com/thread-897288-1-0.html)
+4. Download Kumpulan QCN Xiaomi (pilih sesuai device agan) cari [di sini](https://mi.knoacc.org/daftar-file-qcn-ponsel-xiaomi-untuk-fix-imei)
 5. Download Write Dual IMEI [di sini](https://drive.google.com/file/d/1MF9S6ouFk45J3KnRXWtQletqo4J8jpnt/view?usp=drivesdk)
 6. Download Minimal ADB Fastboot [di sini](https://drive.google.com/file/d/1nljtGoYfDQTpcdPi_g2DhnJNz7dkXmpU/view?usp=drivesdk)
 7. Download Driver HS USB QDLoader 32bit [di sini](https://drive.google.com/file/d/1rD-dXhnoGDhlz0lbF4WMvN1TjUZt6-ip/view?usp=drivesdk)
