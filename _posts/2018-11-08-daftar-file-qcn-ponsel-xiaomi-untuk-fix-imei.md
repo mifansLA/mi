@@ -12,10 +12,11 @@ header:
  og_image: https://u01.appmifile.com/images/2018/04/02/ab0e9e32-4d01-405c-9003-3ece00a54263.jpg
 ---
 
-Selamat siang mifanLA dan mifans Indonesia dimanapun kamu sedang online. Mungkin ada dari kalian yang membutuhkan file QCN Xiaomi? Kali ini saya ingin membagikan beberapa File QCN yg berhasil saya kumpulkan. Ok singkat saja ya, dibawah ini beberapa File QCN Xiaomi yang bisa kalian download disini :
+Selamat siang **mifans LA** dan mifans Indonesia dimanapun kamu sedang online. Mungkin ada dari kalian yang membutuhkan file QCN Xiaomi? Kali ini saya ingin membagikan beberapa file QCN dari berbagai tipe ponsel Xiaomi. Ok, bagi yang masih bertanya tanya soal file QCN bisa mencari tahu [dari sini]() agar lebih singkat. Langsung saja, berikut ini beberapa **file QCN Xiaomi** yang bisa kalian download dari tabel di bawah ini
 
 ### Seri Xiaomi Redmi:
 
+{% include adsense1.html %}
 
 | Tipe | Codename | Link |
 |------|-------|------|
@@ -40,6 +41,8 @@ Selamat siang mifanLA dan mifans Indonesia dimanapun kamu sedang online. Mungkin
 | Redmi 5 Plus | (Vince) | [Download](https://drive.google.com/open?id=1Y0pz3y57irzDaafZhFCst2rmo786waVs) |
 
 ### Seri Xiaomi Mi
+
+{% include respo.html %}
 
 | Tipe | Codename | Link |
 |------|-------|------|
