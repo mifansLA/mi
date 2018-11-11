@@ -71,7 +71,7 @@ Langsung saja agar lebih singkat., berikut ini beberapa **file QCN Xiaomi** yang
 | Xiaomi Mi A1 | (Tissot) | [Download](https://mi.knoacc.org/drive?size=±2MB&id=1VHPNRNHzw_hNFX7QXMlKuEKYYfvQ-zzV) |
 | Xiaomi Mi 6 | (Sagit) | [Download](https://mi.knoacc.org/drive?size=±2MB&id=1tmTTMlqcuwPD7lWvOYVtj7yKcq_tcZvV) |
 
-> Trivia 2: Chipset Mediatek punya cara lebih mudah untuk **memperbaiki IMEI** dibandingkan chipset qualcomm. Tetapi perbaikan untuk ponsel quallcom lebih reliable dan paten.
+> Trivia 2: Chipset Mediatek punya [cara lebih mudah](https://www.knoacc.org/2014/06/cara-memperbaiki-invalid-imei-android-mtk.html) untuk **memperbaiki IMEI** dibandingkan chipset qualcomm. Tetapi perbaikan untuk ponsel quallcom lebih reliable dan paten.
 
 Merasa terbantu dengan daftar qcn xiaomi beserta link download yang ada di atas? Tinggalkan komentarmu kawan...
 
