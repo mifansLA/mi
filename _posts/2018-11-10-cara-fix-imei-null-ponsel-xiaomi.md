@@ -1,5 +1,5 @@
 ---
-title: "Fix IMEI NULL untuk ponsel Xiaomi dengan file QCN"
+title: "[Qualcomm] Fix IMEI NULL untuk ponsel Xiaomi dengan file QCN"
 excerpt: "Cara Memperbaiki IMEI Hilang dan Baseband melalui Cara Restore File QCN pada Device Xiaomi"
 categories:
  - IMEI
@@ -12,28 +12,35 @@ header:
  og_image: https://u01.appmifile.com/images/2018/04/03/3cef2eec-6811-406b-bed8-89dd91bf9916.jpg
 ---
 
-Hai MiFans...
+Halao halao MiFans LA yang budiman, ketemu lagi dengan pak diman di sini yang ingin membagikan sebuah cara memperbaiki IMEI Hilang atau _invalid_ dan  kasus Baseband melayang yg mengakibatkan ~sariawan dan bibir pecah-pecah~ tidak bisa menyalakan wi-fi dan bluetooth. Solusinya akan dijelaskan dalam acara **Restore file QCN pada Device Xiaomi**.
 
-Ketemu lagi nih.., kali ini saya ingin membagikan Cara Memperbaiki IMEI Hilang dan Baseband melalui Cara Restore File QCN pada Device  Xiaomi, seperti dikutip dari beberapa sumber bahwa hilang nya IMEI bisa dikarenakan kesalahan dalam memasang firmware atau corrupt dan juga terhapusnya IMEI dan beberapa alamat WiFi dan Bluetooth (Baseband), sama hal nya pengguna smartphone xiaomi banyak sekali yang bertanya tentang cara mengembalikan IMEI yang hilang, buat kalian penguna smartphone xiaomi kali ini saya akan buat artikel tentang cara mengembalikan IMEI yang hilang, dan bagi kalian yang salah memasang firmware hanya perlu dikembalikan dahulu ke firmware sebelumnya baru lanjut ke tahap ini, dan untuk yang corrupt atau sampai terhapus IMEI saja bisa lanjut menggunakan tutorial dibawah ini.
+Dalam beberapa kasus yang terjadi, bahwa hilangnya IMEI dan Baseband bisa diksebabkan oleh kesalahan dalam memasang firmware, corrupt saat flashing, dan juga karena kesengajaan (menghapus partisi persist untuk mem-bypass Mi Account). Terhapusnya IMEI dan beberapa alamat WiFi dan Bluetooth (Baseband)
 
-Siapkan Bahan-Bahan :
+Berbeda dengan ponsel cipshet Mediatek yang imeinya bisa diganti dengan aplikasi android, IMEI Qualcomm sedikit lebih rumit. Dan kebanyakan smartphone Xiaomi memakai Qualcomm. Demi kalian, artikel tentang cara mengembalikan IMEI yang hilang ini muncul. 
 
-1. Siapkan PC/Laptop.
-2. Kable USB Original / bawaan.
-3. Download Tool QPST 2.2.422 [di sini](https://drive.google.com/file/d/12IidHLvtbvZ66AhwpLPdFqMflUVvnUAb/view?usp=drivesdk)
-4. Download Kumpulan QCN Xiaomi (pilih sesuai device agan) cari [di sini](https://mi.knoacc.org/daftar-file-qcn-ponsel-xiaomi-untuk-fix-imei)
-5. Download Write Dual IMEI [di sini](https://drive.google.com/file/d/1MF9S6ouFk45J3KnRXWtQletqo4J8jpnt/view?usp=drivesdk)
-6. Download Minimal ADB Fastboot [di sini](https://drive.google.com/file/d/1nljtGoYfDQTpcdPi_g2DhnJNz7dkXmpU/view?usp=drivesdk)
-7. Download Driver HS USB QDLoader 32bit [di sini](https://drive.google.com/file/d/1rD-dXhnoGDhlz0lbF4WMvN1TjUZt6-ip/view?usp=drivesdk)
-8. Download Driver HS USB QDLoader 64bit [di sini](https://drive.google.com/file/d/1HQO3uRIIf2snvbVu3kOumBug8RM0uH_U/view?usp=drivesdk)
+> Catatan: Bagi mifans yang salah memasang firmware hanya perlu mengmbalikan firmware ponselnya ke firmware yang tepat sebelum lanjut ke tahap ini.
 
-Setelah siap semua bahan di atas, kita lanjut ke langkah selanjutnya.
+### Siapkan Alat, File dan Software yang dibutuhkan
+Hal-hal yang perlu dipersiapkan sebelum melakukan perbaikan IMEI/Baseband
 
-Langkah-Langkah Eksekusi Restore :
+1. Siapkan PC/Laptop, jika tidak punya sebaiknya pinjam kawan, jangan di Warnet. 
+2. Kabel USB Original/bawaan atau yang berkualitas bagus.
+3. Download **Tool QPST 2.2.422** [dari sini](https://drive.google.com/file/d/12IidHLvtbvZ66AhwpLPdFqMflUVvnUAb/view?usp=drivesdk)
+4. Download file **QCN Xiaomi** yang sesuai dengan device mifans, cari [di sini](https://mi.knoacc.org/daftar-file-qcn-ponsel-xiaomi-untuk-fix-imei)
+5. Download Tool **Write Dual IMEI** [di sini](https://drive.google.com/file/d/1MF9S6ouFk45J3KnRXWtQletqo4J8jpnt/view?usp=drivesdk)
+6. Download **Minimal ADB Fastboot** [di sini](https://drive.google.com/file/d/1nljtGoYfDQTpcdPi_g2DhnJNz7dkXmpU/view?usp=drivesdk) jika belum punya.
+7. Download **Driver HS USB QDLoader 32bit** [di sini](https://drive.google.com/file/d/1rD-dXhnoGDhlz0lbF4WMvN1TjUZt6-ip/view?usp=drivesdk) untuk Windows 32 bit
+8. Atau download **Driver HS USB QDLoader 64bit** [di sini](https://drive.google.com/file/d/1HQO3uRIIf2snvbVu3kOumBug8RM0uH_U/view?usp=drivesdk) untuk Windows 64 bit
+
+> Ekstrak file yang di unduh dalam satu lokasi (folder) agar mudah mengakses, install software QPST dan Driver,
+
+Setelah siap semua bahan di atas, lanjut ke langkah selanjutnya.
+
+### Langkah-Langkah Melakukan Restore QCN
 
 1. Pertama nyalakan _USB Debugging_ dengan cara **Setting** - **Developer Options** - Ceklis **USB Debugging** dan bagi kalian yang belum tau cara aktifkan opsi pengembang / developer option bisa mengikuti cara berikut **Setting** - **About Phone** - tap7x pada **MIUI Version**.
 2. Setelah itu sambungkan perangkat kalian ke PC/Laptop menggunakan kabel USB.
-3. Ekstrak **Minimal ADB Fastboot.zip** di PC kemudian masuk ke folder Minimal ADB Fastboot dan jalankan file **Start.bat** maka akan muncul jendela command prompt lalu ketik perintah berikut :
+3. Ekstrak **Minimal ADB Fastboot.zip** di PC (jika belum) kemudian masuk ke folder _Minimal ADB Fastboot_ dan jalankan file **Start.bat** (atau tekan keyboard `shift` dan klik kanan, pilih Command Promt) maka akan muncul jendela command prompt lalu ketik perintah berikut :
 `adb devices` (enter) 
 Akan muncul kombinasi huruf dan angka.
 bila sudah lanjutkan ketik perintah : 
@@ -53,8 +60,9 @@ bila sudah lanjutkan ketik perintah : 
 `adb shell` (enter)
 `setprop sys.usb.config adb,mtp` (enter)
 10. Selesai, kemudian reboot hape nya.
-11. Setelah itu silahkan kalian cek IMEI nya pakai *#06#.
+11. Setelah itu silahkan kalian cek IMEI dengan dial *#06#.
 
-Demikianlah Cara Restore File QCN pada Device Xiaomi kali ini.
+Okay, Restore File QCN pada Device Xiaomi sudah selesai.
 
-Semoga bermanfaat…
+Semoga bermanfaat, jangan lupa tiggalkan jejak kalian. Itung-itung numpang terkenal seperti Ngadimin, hehehe..
+Bantu admin menyebarkan ilmu dengan membagikan artiekl ini ya luur...
