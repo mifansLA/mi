@@ -46,9 +46,9 @@ Selamat siang **mifans LA** dan mifans Indonesia dimanapun kamu sedang online. M
 
 | Tipe | Codename | Link |
 |------|-------|------|
-| Xiaomi Mi Max 32gb | (Hydrogen) | [Download]() |
-| Xiaomi Mi Max Pro | (Helium) | [Download] |
-| Xiaomi Mi Note 3 | (Jason) | [Download]() |
+| Xiaomi Mi Max 32gb | (Hydrogen) | [Download](https://drive.google.com/open?id=1DMF3xEyy9PiDD1MQcU2fb3_xhQh_ET1R) |
+| Xiaomi Mi Max Pro | (Helium) | [Download](https://drive.google.com/open?id=1PCuZ8Trfx5qjT2QdhBEm2Of9UBtoO62M) |
+| Xiaomi Mi Note 3 | (Jason) | [Download](https://drive.google.com/open?id=1_9wQtYHWu2IRG1OqyZuJkY459MgcVf8o |
 | Xiaomi Mi Note Pro | (Leo) | [Download]() |
 | Xiaomi Mi Note 16gb | (Virgo) | [Download]() |
 | Xiaomi Mi Note 64gb | (Virgo) | [Download] |
