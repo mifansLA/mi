@@ -1,5 +1,5 @@
 ---
-title: "Daftar File QCN untuk Berbagai Tipe Ponsel Xiaomi"
+title: "[Download] Daftar File QCN untuk Berbagai Tipe Ponsel Xiaomi"
 excerpt: "Cara Memperbaiki IMEI Hilang dan Baseband melalui Cara Restore File QCN pada Device Xiaomi"
 categories:
  - IMEI
