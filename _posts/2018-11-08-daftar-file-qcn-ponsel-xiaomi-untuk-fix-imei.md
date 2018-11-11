@@ -15,7 +15,7 @@ header:
 
 Selamat siang **mifans LA** dan mifans Indonesia dimanapun kamu sedang online. Mungkin ada dari kalian yang membutuhkan file QCN Xiaomi? Kali ini saya ingin membagikan beberapa file QCN dari berbagai tipe ponsel Xiaomi.
 
-> Jika kalian bertanya fungsi file QCN, salah satunya adalah untuk [fix baseband dan imei hilang](https://mi.knoacc.org/cara-fix-imei-null-ponsel-xiaomi)
+> Jika kalian bertanya fungsi file QCN, salah satunya adalah untuk [fix baseband dan imei hilang](https://mi.knoacc.org/cara-fix-imei-null-ponsel-xiaomi).
 
 Langsung saja agar lebih singkat., berikut ini beberapa **file QCN Xiaomi** yang bisa kalian download dari tabel di bawah ini
 
@@ -45,6 +45,8 @@ Langsung saja agar lebih singkat., berikut ini beberapa **file QCN Xiaomi** yang
 | Redmi 5 | (Rosy) | [Download](https://mi.knoacc.org/drive?size=±2MB&id=1ZqTqf3XaC3zkMI9QpJ_s4yhX6Nwdi9RT) |
 | Redmi 5 Plus | (Vince) | [Download](https://mi.knoacc.org/drive?size=±2MB&id=1Y0pz3y57irzDaafZhFCst2rmo786waVs) |
 
+> Trivia 1: Kasus hilangnya baseband dan imei biasanya sering dialami pennguna MIUI yang melakukan **bypass Mi Account** secara paksa dengan **menghapus partisi persits**.
+
 ### Seri Xiaomi Mi
 
 {% include respo.html %}
@@ -57,19 +59,19 @@ Langsung saja agar lebih singkat., berikut ini beberapa **file QCN Xiaomi** yang
 | Xiaomi Mi Note Pro | (Leo) | [Download](https://mi.knoacc.org/drive?size=±2MB&id=1Klzoh4r8AwpGnIS-hiUQ_OWWO-9xf82x) |
 | Xiaomi Mi Note 16gb | (Virgo) | [Download](https://mi.knoacc.org/drive?size=±2MB&id=1MxNBec6FENUVAEzowhUwuc4qciJ7ghq4) |
 | Xiaomi Mi Note 64gb | (Virgo) | [Download](https://mi.knoacc.org/drive?size=±2MB&id=17-LzxQWAR2lHqx1BT9qpT9Qb3lmW_Vrd) |
-| Xiaomi Mi 3w |
-| [Download](https://mi.knoacc.org/drive?size=±2MB&id=1H8Eek3WKkX1fFBNALy7oxVYPtJeyLB3A) |
+| Xiaomi Mi 3w | - | [Download](https://mi.knoacc.org/drive?size=±2MB&id=1H8Eek3WKkX1fFBNALy7oxVYPtJeyLB3A) |
 | Xiaomi Mi 4 LTE | (Cancro) | [Download](https://mi.knoacc.org/drive?size=±2MB&id=1lO1xTY_7zGyTdp0DLGh-NXp01XaRZZ5w) |
 | Xiaomi Mi 4c | (Libra) | [Download](https://mi.knoacc.org/drive?size=±2MB&id=1MfWxi5Pn0MPMThDSAz2SjWrcZu5ZuA7M) |
 | Xiaomi Mi 4i | (Ferrari) | [Download](https://mi.knoacc.org/drive?size=±2MB&id=1YVH6k0REJZ2O5Fu3yfSYdM0Yo6oGg_2v) |
 | Xiaomi Mi 4s | (Aqua) | [Download](https://mi.knoacc.org/drive?size=±2MB&id=1hxM0IxEnyJ59kd7qYZVE-jXAM5XwnhYB) |
-| Xiaomi Mi 4w |
-| [Download](https://mi.knoacc.org/drive?size=±2MB&id=1Kj2hPVd52k_QPM_avwQFq02ZlSPFCmhW) |
+| Xiaomi Mi 4w | - | [Download](https://mi.knoacc.org/drive?size=±2MB&id=1Kj2hPVd52k_QPM_avwQFq02ZlSPFCmhW) |
 | Xiaomi Mi 5 | (Gemini) | [Download](https://mi.knoacc.org/drive?size=±2MB&id=14qPT8Zhta1zxOyHpd3z4bkPGCHMrznu3) |
 | Xiaomi Mi 5s | (Capricorn) | [Download](https://mi.knoacc.org/drive?size=±2MB&id=1Lit7izuPTDYo8Bi0iZIIEihAOb3g-B3O) |
 | Xiaomi Mi 5s Plus | (Natrium) | [Download](https://mi.knoacc.org/drive?size=±2MB&id=1SClznR5jafCZI2B3APevESK5Mq_FMJDx) |
 | Xiaomi Mi A1 | (Tissot) | [Download](https://mi.knoacc.org/drive?size=±2MB&id=1VHPNRNHzw_hNFX7QXMlKuEKYYfvQ-zzV) |
 | Xiaomi Mi 6 | (Sagit) | [Download](https://mi.knoacc.org/drive?size=±2MB&id=1tmTTMlqcuwPD7lWvOYVtj7yKcq_tcZvV) |
+
+> Trivia 2: Chipset Mediatek punya cara lebih mudah untuk **memperbaiki IMEI** dibandingkan chipset qualcomm. Tetapi perbaikan untuk ponsel quallcom lebih reliable dan paten.
 
 Merasa terbantu dengan daftar qcn xiaomi beserta link download yang ada di atas? Tinggalkan komentarmu kawan...
 
