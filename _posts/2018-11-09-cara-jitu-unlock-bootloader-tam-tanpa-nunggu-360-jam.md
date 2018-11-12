@@ -1,6 +1,6 @@
 ---
-title: "Unlock Bootloader Xiaomi Tanpa Nunggu 360 Jam? Gampang!"
-excerpt: "Trik baru agar cepat unlock bootloader tanpa menunggu 360 jam bound untuk Xiaomi garansi TAM. Langkahnya lengkap luur.."
+title: "Unlock Bootloader Xiaomi Tanpa Nunggu 360/720 Jam? Gampang!"
+excerpt: "Trik baru agar cepat unlock bootloader tanpa menunggu 720 atau 360 jam bound untuk Xiaomi garansi TAM. Langkahnya lengkap luur.."
 header:
  teaser: https://i0.wp.com/mi.knoacc.org/assets/image/360-jam-ubl.jpeg?resize=360,200
  og_image: /assets/image/360-jam-ubl.jpeg
@@ -28,7 +28,7 @@ Siapkan dulu dua akun Mi yang telah mendapat ijin _unlock_, cara ini memang tamp
 1. Masuk ke menu **Mi Account**, tambahkan akun mi di **Mi Unlock Status** dalam pilihan **Developer Option**. Nonaktifkan ponsel Xiaomi kalian setelah berhasil menambahkan.
 2. Buka program **MiFlash Unlock** di PC atau laptop, dan login ke akun mi **yang sudah ditambahkan** ke ponsel Xiaomi pada langkah di atas.
 3. Naylakan ponsel yang tadi sudah nonaktif ke mode _fastboot_ dengan cara menekan tekan `vol –` dan `power` bersamaan hingga muncul gambar **[mi bunny lagi nge-las](/https://3.bp.blogspot.com/-XBj54LA92Sg/Wa2JYedr6xI/AAAAAAAAGG8/rfmflPxXXfkD2Jbfpu_Iwh0LY803xCrPQCLcBGAs/s1600/xiaomi-mi5c-fastboot-mode.jpg)**.
-4. Hubungkan Xiaomi ke PC atau Laptop, kemudian klik **Unlock** pada program **MiFlash Unlock**, tunggu hingga muncul penanda waktu dengan keterangan **Menunggu 72 jam** atau **Menunggu 360 jam**.
+4. Hubungkan Xiaomi ke PC atau Laptop, kemudian klik **Unlock** pada program **MiFlash Unlock**, tunggu hingga muncul penanda waktu dengan keterangan **Menunggu 720 jam** atau **Menunggu 360 jam**.
 5. Cabut kabel USB, tekan tombol `power` hingga Xiaomi kalian menyala.
 6. Buka lagi **Mi Account** dan _logout_ dari akun Mi pertama (hapus akun sebelumnya).
 7. Setelah sukses keluar atau _logout_. Masukkan akun Mi yang kedua. Setelah berhasil masuk, **jangan lakukan apapun**, langsung saja matikan ponsel xiaomi.
