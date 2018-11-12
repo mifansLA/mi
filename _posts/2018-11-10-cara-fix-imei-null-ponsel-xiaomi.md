@@ -25,12 +25,12 @@ Hal-hal yang perlu dipersiapkan sebelum melakukan perbaikan IMEI/Baseband
 
 1. Siapkan PC/Laptop, jika tidak punya sebaiknya pinjam kawan, jangan di Warnet. 
 2. Kabel USB Original/bawaan atau yang berkualitas bagus.
-3. Download **Tool QPST 2.2.422** [dari sini](https://drive.google.com/file/d/12IidHLvtbvZ66AhwpLPdFqMflUVvnUAb/view?usp=drivesdk)
+3. Download **Tool QPST 2.7.422** [dari sini](https://mi.knoacc.org/dl/drive?id=12IidHLvtbvZ66AhwpLPdFqMflUVvnUAb&size=25MB&name=QPST_2.7.422.zip)
 4. Download file **QCN Xiaomi** yang sesuai dengan device mifans, cari [di sini](https://mi.knoacc.org/daftar-file-qcn-ponsel-xiaomi-untuk-fix-imei)
-5. Download Tool **Write Dual IMEI** [di sini](https://drive.google.com/file/d/1MF9S6ouFk45J3KnRXWtQletqo4J8jpnt/view?usp=drivesdk)
-6. Download **Minimal ADB Fastboot** [di sini](https://drive.google.com/file/d/1nljtGoYfDQTpcdPi_g2DhnJNz7dkXmpU/view?usp=drivesdk) jika belum punya.
-7. Download **Driver HS USB QDLoader 32bit** [di sini](https://drive.google.com/file/d/1rD-dXhnoGDhlz0lbF4WMvN1TjUZt6-ip/view?usp=drivesdk) untuk Windows 32 bit
-8. Atau download **Driver HS USB QDLoader 64bit** [di sini](https://drive.google.com/file/d/1HQO3uRIIf2snvbVu3kOumBug8RM0uH_U/view?usp=drivesdk) untuk Windows 64 bit
+5. Download Tool **Write Dual IMEI** [di sini](https://mi.knoacc.org/dl/drive?id=1MF9S6ouFk45J3KnRXWtQletqo4J8jpnt&name=WriteDualIMEI_W_G_eMMC.rar&size=31KB)
+6. Download **Minimal ADB Fastboot** [di sini](https://mi.knoacc.org/dl/drive?id=1nljtGoYfDQTpcdPi_g2DhnJNz7dkXmpU&size=625KB&name=Minimal_ADB_Fastboot.zip) jika belum punya.
+7. Download **Driver HS USB QDLoader 32bit** [di sini](https://mi.knoacc.org/dl/drive?id=1rD-dXhnoGDhlz0lbF4WMvN1TjUZt6-ip&size=5MB&name=USB_QDLoader_HS-USB_Driver_32bit_Setup.rar) untuk Windows 32 bit
+8. Atau download **Driver HS USB QDLoader 64bit** [di sini](https://mi.knoacc.org/dl/drive?id=1HQO3uRIIf2snvbVu3kOumBug8RM0uH_U&size=5MB&name=USB_QDLoader_HS-USB_Driver_32bit_Setup.rar) untuk Windows 64 bit
 
 > Ekstrak file yang di unduh dalam satu lokasi (folder) agar mudah mengakses, install software QPST dan Driver,
 
