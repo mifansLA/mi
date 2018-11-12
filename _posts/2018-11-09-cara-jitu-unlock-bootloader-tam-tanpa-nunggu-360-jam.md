@@ -7,10 +7,11 @@ header:
 categories:
  - Unlock Bootloader
 tags:
- - UBL TAM 360 Jam
+ - UBL Xiaomi 720 Jam
+ - UBL Xiaomi 360 Jam
  - UBL Xiaomi TAM
- - Unlock Bootloader Tanpa Nunggu
- - UBL Lebih Cepat
+ - Unlock Bootloader Cepat
+ - UBL Tanpa Menunggu
 ---
 
 Ini adalah salah satu masalah yang bikin kejang-kejang pemilik **ponsel Xiaomi dengan garansi TAM**, yakni harus sabar menunggu hingga akun _bound_ (tertaut) selama 360 jam untuk dapat melakukan **unlock bootloader**. Berbeda dengan ponsel yang dijual oleh distributor tak resmi yang biasanya sudah dalam posisi _unlocked_, meakipun kadang harus rela menerima keadaan bahwa posel yang dibeli terpasang ROM abal-abal dengan segala citra negatifnya, termasuk dugaan status _bootloader unlocked_ yang _fake_ alias palsu alias [cuma kosmetik](https://mi.knoacc.org/ciri-baru-rom-abal-abal-xiaomi). 
