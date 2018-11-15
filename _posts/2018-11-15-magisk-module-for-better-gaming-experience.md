@@ -9,7 +9,12 @@ tags:
  - better gaming magisk
  - magisk build prop
  - pubg mobile no lag
-header: 
+header:
+ og_image: /assets/image/pubg-no-lag-tweaks.png
+ image: /assets/image/pubg-no-lag-tweaks.png
+ caption: PUBG Mobile Tweaks
+ teaser: /assets/image/improve-gaming-xperience.jpeg
+
 ---
 If you use your phone for extensive gaming, this module is worth to try. I am using this prop value into my phone manually after experiencing lag while playing PUBG Mobile on my android phone. This modified build prop has increasing my gaming experience. But (maybe) if someone want to try will facing difficulties to implementing this. So [I decided](https://mi.knoacc.org/) to make this build prip tweaking easy to addopt by creating simple magisk module.
 
