@@ -48,7 +48,7 @@ ro.media.dec.aud.wma.enabled=1
 ro.media.dec.vid.wmv.enabled=1
 ro.media.cam.preview.fps=0
 ro.media.codec_priority_for_thumb=so
-```
+````
 
 Those prop value (above) will enable **tile rendering**, **utilize processing power** and **improve 3d performance**.
 ## Download Module
