@@ -1,5 +1,5 @@
 ---
-title: Magisk Module to Improve Gaming Experience
+title: "[Magisk Module] Improve Gaming Experience, No more Lags!"
 excerpt: Magisk Module for better gaming experience by adding custom props
 categories:
  - Magisk Modul
@@ -57,6 +57,6 @@ Those prop value (above) will enable **tile rendering**, **utilize processing po
 
 | Module | pCloud | MEGA |
 |---|:---:|:---:|
-| Improve Game Xperience v1 | [Download](/dl/pcloud?code=){} | [Download](/dl/mega?hash=) |
+| Improve Game Xperience v1 | [Download](/dl/pcloud?code=XZ3QhT7Z7XkM33T2YfkKNyVXT2s3jBwtc0MX&size=14KB&name=ImproveGamingXperience.zip){: .btn.btn--primary} | [Download](/dl/mega?hash=cg0DHQ6Q!VIdqqmwelYL43KWEwOkW1HvZ4TrtebbRY7hter1Jc1Y&size=14KB&name=ImproveGamingXperience.zip){: .btn.btn--primary} |
 
 Check another [usefull android build props optimatization](https://mi.knoacc.org/20-more-useful-android-build-prop-tweaks-for-better-experience).
