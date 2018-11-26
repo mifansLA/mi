@@ -30,7 +30,7 @@ Hingga saat ini, update ROM MIUI 10 Global Stable ROM **sudah diberikan** (ada l
 | Xiaomi Mi 8 | (dipper) | [sudah](#link-download){: .btn.btn--primary} |
 | Xiaomi Mi 6 | (sagit) | [sudah](#link-download){: .btn.btn--primary} |
 | Xiaomi Mi 5 | (gemini) | [sudah](#link-download){: .btn.btn--primary} |
-| Redmi Note 5 Pro | (whyred) | [sudah](#link-download) |
+| Redmi Note 5 Pro | (whyred) | [sudah](#link-download){: .btn.btn--primary} |
 | Redmi S2/Y2 | (ysl) | [sudah](#link-download){: .btn.btn--primary} |
 | Redmi 6 | (cereus) | [sudah](#link-download){: .btn.btn--primary} |
 | Redmi 6A | (cactus) | [sudah](#link-download){: .btn.btn--primary} |
