@@ -22,51 +22,51 @@ Hingga saat ini, update ROM MIUI 10 Global Stable ROM **sudah diberikan** (ada l
 
 | Type | codename | sudah/belum |
 |:---|:---:|---:|
-| Xiaomi Mi MIX 2S | (polaris) | [sudah](#link-download) |
-| Xiaomi Mi MIX 2 | (chiron) | [sudah](#link-download) |
-| Xiaomi Mi MIX | (lithium) | [sudah](#link-download) |
-| Xiaomi Mi Max 3 | (nitrogen) | [sudah](#link-download) |
-| Xiaomi Mi Note 2 | (scorpio) | [sudah](#link-download) |
-| Xiaomi Mi 8 | (dipper) | [sudah](#link-download) |
-| Xiaomi Mi 6 | (sagit) | [sudah](#link-download) |
-| Xiaomi Mi 5 | (gemini) | [sudah](#link-download) |
+| Xiaomi Mi MIX 2S | (polaris) | [sudah](#link-download){: .btn.btn--primary} |
+| Xiaomi Mi MIX 2 | (chiron) | [sudah](#link-download){: .btn.btn--primary} |
+| Xiaomi Mi MIX | (lithium) | [sudah](#link-download){: .btn.btn--primary} |
+| Xiaomi Mi Max 3 | (nitrogen) | [sudah](#link-download){: .btn.btn--primary} |
+| Xiaomi Mi Note 2 | (scorpio) | [sudah](#link-download){: .btn.btn--primary} |
+| Xiaomi Mi 8 | (dipper) | [sudah](#link-download){: .btn.btn--primary} |
+| Xiaomi Mi 6 | (sagit) | [sudah](#link-download){: .btn.btn--primary} |
+| Xiaomi Mi 5 | (gemini) | [sudah](#link-download){: .btn.btn--primary} |
 | Redmi Note 5 Pro | (whyred) | [sudah](#link-download) |
-| Redmi S2/Y2 | (ysl) | [sudah](#link-download) |
-| Redmi 6 | (cereus) | [sudah](#link-download) |
-| Redmi 6A | (cactus) | [sudah](#link-download) |
-| Redmi 5 Plus | (vince) | [sudah](#link-download) |
-| Pocophone F1 | (beryllium) | [sudah](#link-download) |
-| Xiaomi Mi 3/4 | (cancro) | [belum](){: .btn.btn--disabled} |
-| Redmi Note 3 Special Edition | (kate) | [belum](){: .btn.btn--disabled} |
-| Redmi Note 3 | (kenzo) | [belum](){: .btn.btn--disabled} |
-| Redmi 4 Prime | (markw) | [belum](){: .btn.btn--disabled} |
-| Redmi 4 | (prada) | [belum](){: .btn.btn--disabled} |
-| Redmi 3S/Prime/3X | (land) | [belum](){: .btn.btn--disabled} |
+| Redmi S2/Y2 | (ysl) | [sudah](#link-download){: .btn.btn--primary} |
+| Redmi 6 | (cereus) | [sudah](#link-download){: .btn.btn--primary} |
+| Redmi 6A | (cactus) | [sudah](#link-download){: .btn.btn--primary} |
+| Redmi 5 Plus | (vince) | [sudah](#link-download){: .btn.btn--primary} |
+| Pocophone F1 | (beryllium) | [sudah](#link-download){: .btn.btn--primary} |
+| Xiaomi Mi 3/4 | (cancro) | [sudah](#link-download){: .btn.btn--primary} |
+| Redmi Note 3 Special Edition | (kate) | [sudah](#link-download){: .btn.btn--primary} |
+| Redmi Note 3 | (kenzo) | [sudah](#link-download){: .btn.btn--primary} |
+| Redmi 4 Prime | (markw) | [sudah](#link-download){: .btn.btn--primary} |
+| Redmi 4 | (prada) | [sudah](#link-download){: .btn.btn--primary}} |
+| Redmi 3S/Prime/3X | (land) | [sudah](#link-download){: .btn.btn--primary}} |
 
 {% include adsense2.html %}
 
 ### Perangkat yang didukung secepatnya:
 
-| Type | codename |
-|:-----:|:-----:|
-| Xiaomi Mi 8 Pro | - |
-| Xiaomi Mi 8 Lite | - |
-| Xiaomi Mi Max 2 | (oxygen) |
-| Xiaomi Mi Max Prime | (helium) |
-| Xiaomi Mi Max | (hydrogen) |
-| Xiaomi Mi Note 3 | (jason) |
-| Xiaomi Mi 5s Plus | (natrium) |
-| Xiaomi Mi 5s | (capricorn) |
-| Redmi Note 6 Pro | (tulip) |
-| Redmi Note 5A/Redmi Y1 Lite | (ugglite) |
-| Redmi Note 5A Prime/Redmi Y1 | (ugg) |
-| Redmi Note 4/4X(SD version) | (mido) |
-| Redmi Note 4/4X(MTK version) | (nikel) |
-| Redmi 6 Pro Indian | (sakura_india) |
-| Redmi 5 | (rosy) |
-| Redmi 5A | (riva) |
-| Redmi 4X | (santoni) |
-| Redmi 4A | (rolex) |
+| Type | codename | sudah/belum |
+|:-----:|:-----:|:-----:|
+| Xiaomi Mi 8 Pro | (dipper) | sudah |
+| Xiaomi Mi 8 Lite | (platina) | sudah |
+| Xiaomi Mi Max 2 | (oxygen) | sudah |
+| Xiaomi Mi Max Prime | (helium) | sudah |
+| Xiaomi Mi Max | (hydrogen) | sudah |
+| Xiaomi Mi Note 3 | (jason) | sudah |
+| Xiaomi Mi 5s Plus | (natrium) | sudah |
+| Xiaomi Mi 5s | (capricorn) | sudah |
+| Redmi Note 6 Pro | (tulip) | sudah |
+| Redmi Note 5A/Redmi Y1 Lite | (ugglite) | sudah |
+| Redmi Note 5A Prime/Redmi Y1 | (ugg) | sudah |
+| Redmi Note 4/4X(SD version) | (mido) | sudah |
+| Redmi Note 4/4X(MTK version) | (nikel) | belum |
+| Redmi 6 Pro Indian | (sakura_india) | sudah |
+| Redmi 5 | (rosy) | sudah |
+| Redmi 5A | (riva) | sudah |
+| Redmi 4X | (santoni) | sudah |
+| Redmi 4A | (rolex) | sudah |
 
 Bagaimana nasib tipe ponsel lain yang tidak terdaftar? Terimalah dengan lapang dada gaess, tipe yang tidak tercantum dalam tabel di atas tidak akan dapat update MIUI 10.
 
@@ -78,6 +78,7 @@ Bagaimana nasib tipe ponsel lain yang tidak terdaftar? Terimalah dengan lapang d
 
 | Type-Ponsel (Versi-MIUI) | Full ROM Update | Fastboot Flash |
 |------|:------:|:------:|
+
 | Pocophone F1 (V10.0.4.0 OEJMIFH) | [Recovery 1.72G](http://bigota.d.miui.com/V10.0.4.0.OEJMIFH/miui_POCOF1Global_V10.0.4.0.OEJMIFH_ef67c4052e_8.1.zip){: .btn.btn--primary} | [Fastboot 2.48G](http://bigota.d.miui.com/V10.0.4.0.OEJMIFH/beryllium_global_images_V10.0.4.0.OEJMIFH_20181026.0000.00_8.1_global_583b78e5d6.tgz){: .btn.btn--primary} |
 | Redmi 5 Plus (V10.0.2.0 OEGMIFH) | [Recovery 1415M](http://bigota.d.miui.com/V10.0.2.0.OEGMIFH/miui_HM5PlusGlobal_V10.0.2.0.OEGMIFH_dc9f1b974c_8.1.zip){: .btn.btn--primary} | [Fastboot 2237M](http://bigota.d.miui.com/V10.0.2.0.OEGMIFH/vince_global_images_V10.0.2.0.OEGMIFH_20180914.0000.00_8.1_global_018f1e352d.tgz){: .btn.btn--primary} |
 | Redmi 6 (V10.0.1.0 OCGMIFH) | [Recovery 1240M](http://bigota.d.miui.com/V10.0.1.0.OCGMIFH/miui_HM6Global_V10.0.1.0.OCGMIFH_fd06fbb541_8.1.zip){: .btn.btn--primary} | [Fastboot 1951M](http://bigota.d.miui.com/V10.0.1.0.OCGMIFH/cereus_global_images_V10.0.1.0.OCGMIFH_20180919.0000.00_8.1_global_794ccbbe18.tgz){: .btn.btn--primary} |
