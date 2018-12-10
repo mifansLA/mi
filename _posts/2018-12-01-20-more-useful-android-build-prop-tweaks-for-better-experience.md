@@ -37,8 +37,8 @@ debug.sf.hw
 
 The new versions of Android do not support auto-rotation on lockscreen. Likewise, Numerous OEM launchers and stock launchers do not have auto-rotation support for the homescreen. Well, there is absolutely nothing to worry about. You can enable these rotation functionality by adding this command –
 
-``|
-lockscreen.rot_override=true  // for Lockscreen
+``
+lockscreen.rot_override=true  `// for Lockscreen
 log.tag.launcher_force_rotate=VERBOSE  // for Homescreen
 ```
 
