@@ -14,4 +14,6 @@ tags:
  - redmi 5 plus miui 10
 ---
 
-V10.0.2.0.OEGMIFH vince global images download link [fastboot (.tgz)](http://bigota.d.miui.com/V10.0.2.0.OEGMIFH/vince_global_images_V10.0.2.0.OEGMIFH_20180914.0000.00_8.1_global_018f1e352d.tgz)
+V10.0.2.0.OEGMIFH vince global images download link below:
+
+[fastboot (.tgz)](http://bigota.d.miui.com/V10.0.2.0.OEGMIFH/vince_global_images_V10.0.2.0.OEGMIFH_20180914.0000.00_8.1_global_018f1e352d.tgz)
