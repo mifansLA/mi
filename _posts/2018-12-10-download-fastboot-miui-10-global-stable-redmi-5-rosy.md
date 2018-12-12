@@ -14,4 +14,6 @@ tags:
  - redmi 5 miui 10
 ---
 
-V10.1.2.0.NDAMIFI rosy global images download link [fastboot (.tgz)](http://bigota.d.miui.com/V10.1.2.0.NDAMIFI/rosy_global_images_V10.1.2.0.NDAMIFI_20181106.0000.00_7.1_global_33741100ce.tgz)
+V10.1.2.0.NDAMIFI rosy global images download link below:
+
+[fastboot (.tgz)](http://bigota.d.miui.com/V10.1.2.0.NDAMIFI/rosy_global_images_V10.1.2.0.NDAMIFI_20181106.0000.00_7.1_global_33741100ce.tgz){:.btn.btn--primary rel="nofollow external" download}
