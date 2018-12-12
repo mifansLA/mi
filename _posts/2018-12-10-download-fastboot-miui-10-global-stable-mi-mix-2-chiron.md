@@ -1,6 +1,8 @@
 ---
 title: "MIUI 10 ★ Xiaomi Mi MIX 2 V10.0.2.0 Global Stable Version ★ Fastboot ROM Download"
 excerpt: "Released! Xiaomi Mi MIX 2 V10.0.2.0 ODEMIFH Global Stable Version Fastboot File Download"
+header:
+ image: /assets/image/MIUI-10-update-01.jpeg
 categories:
  - MIUI 10
  - Fastboot
