@@ -16,7 +16,7 @@ tags:
  - kekurangan miui 10
 ---
 
-Penasaran seperti apa rasanya memakai MIUI 10? Berikut ini Mifans LA berikan artikel review untuk pertimbangan bagi yang belum melakukan [upgrade ke MIUI 10](https://mi.knoacc.org/cara-instal-ulang-atau-upgrade-MIUI-10-stabil)
+Penasaran seperti apa rasanya memakai MIUI 10? Berikut ini Mifans LA berikan artikel review untuk pertimbangan bagi yang belum melakukan [upgrade ke MIUI 10](#https://mi.knoacc.org/cara-instal-ulang-atau-upgrade-MIUI-10-stabil)
 
 ### Performa MIUI 10
 
