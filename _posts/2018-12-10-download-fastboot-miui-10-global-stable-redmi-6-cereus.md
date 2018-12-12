@@ -14,4 +14,6 @@ tags:
  - redmi 6 miui 10
 ---
 
-V10.0.1.0.OCGMIFH cereus global images download link [fastboot (.tgz)](http://bigota.d.miui.com/V10.0.1.0.OCGMIFH/cereus_global_images_V10.0.1.0.OCGMIFH_20180919.0000.00_8.1_global_794ccbbe18.tgz)
+V10.0.1.0.OCGMIFH cereus global images download link below:
+
+[fastboot (.tgz)](http://bigota.d.miui.com/V10.0.1.0.OCGMIFH/cereus_global_images_V10.0.1.0.OCGMIFH_20180919.0000.00_8.1_global_794ccbbe18.tgz)
