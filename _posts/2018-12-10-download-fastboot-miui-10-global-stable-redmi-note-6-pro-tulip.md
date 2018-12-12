@@ -14,5 +14,7 @@ tags:
  - redmi note 6 pro miui 10
 ---
 
-V10.0.4.0.OEKMIFH tulip global images download link [fastboot (.tgz)](http://bigota.d.miui.com/V10.0.4.0.OEKMIFH/tulip_global_images_V10.0.4.0.OEKMIFH_20181105.0000.00_8.1_global_55f43b9fd3.tgz){:.btn.btn--primary rel="nofollow external" download}
+V10.0.4.0.OEKMIFH tulip global images download link below:
+
+[fastboot (.tgz)](http://bigota.d.miui.com/V10.0.4.0.OEKMIFH/tulip_global_images_V10.0.4.0.OEKMIFH_20181105.0000.00_8.1_global_55f43b9fd3.tgz){:.btn.btn--primary rel="nofollow external" download}
 
