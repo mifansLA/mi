@@ -14,4 +14,8 @@ tags:
  - mi max prime miui 10
 ---
 
-V10.1.1.0.NBDMIFI helium global images download link [fastboot (.tgz)](http://bigota.d.miui.com/V10.1.1.0.NBDMIFI/helium_global_images_V10.1.1.0.NBDMIFI_20181107.0000.00_7.0_global_1f74963490.tgz)
+V10.1.1.0.NBDMIFI helium global images download link:
+
+[fastboot (.tgz)](http://bigota.d.miui.com/V10.1.1.0.NBDMIFI/helium_global_images_V10.1.1.0.NBDMIFI_20181107.0000.00_7.0_global_1f74963490.tgz){:.btn.btn--primary rel="nofollow external" download}
+
+{% include respo.html %}
