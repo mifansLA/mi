@@ -14,4 +14,6 @@ tags:
  - redmi 4a miui 10
 ---
 
-V10.1.1.0.NCCMIFI rolex global images download link [fastboot (.tgz)](http://bigota.d.miui.com/V10.1.1.0.NCCMIFI/rolex_global_images_V10.1.1.0.NCCMIFI_20181107.0000.00_7.1_global_1acaf6f5ee.tgz)
+V10.1.1.0.NCCMIFI rolex global images download link below:
+
+[fastboot (.tgz)](http://bigota.d.miui.com/V10.1.1.0.NCCMIFI/rolex_global_images_V10.1.1.0.NCCMIFI_20181107.0000.00_7.1_global_1acaf6f5ee.tgz){:.btn.btn--primary rel="nofollow external" download}
