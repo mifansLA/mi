@@ -1,6 +1,8 @@
 ---
 title: "MIUI 10 ★ Xiaomi Redmi 5 V10.1.2.0 Global Stable Version ★ Fastboot ROM Download"
 excerpt: "Released! Xiaomi Redmi 5 V10.1.2.0 NDAMIFI Global Stable Version Fastboot File Download"
+header:
+ image: /assets/image/MIUI-10-update-01.jpeg
 categories:
  - MIUI 10
  - Fastboot
