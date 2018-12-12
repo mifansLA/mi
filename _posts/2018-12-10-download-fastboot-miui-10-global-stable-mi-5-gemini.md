@@ -4,6 +4,8 @@ excerpt: "Released! Xiaomi Mi 5 V10.0.1.0 OAAMIFH Global Stable Version Fastboot
 categories:
  - MIUI 10
  - Fastboot
+header:
+ image: /assets/image/MIUI-10-update-01.jpeg
 tags:
  - miui 10 mi 5
  - miui 10 gemini
