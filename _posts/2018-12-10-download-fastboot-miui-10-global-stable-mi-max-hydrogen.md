@@ -1,6 +1,8 @@
 ---
 title: "MIUI 10 ★ Xiaomi Mi Max V10.1.1.0 Global Stable Version ★ Fastboot ROM Download"
 excerpt: "Released! Xiaomi Mi Max V10.1.1.0 NBCMIFI Global Stable Version Fastboot File Download"
+header:
+ image: /assets/image/MIUI-10-update-01.jpeg
 categories:
  - MIUI 10
  - Fastboot
