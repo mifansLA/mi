@@ -14,4 +14,6 @@ tags:
  - mi note 2 miui 10
 ---
 
-V10.0.1.0.OADMIFH scorpio global images download link [fastboot (.tgz)](http://bigota.d.miui.com/V10.0.1.0.OADMIFH/scorpio_global_images_V10.0.1.0.OADMIFH_20180831.0000.00_8.0_global_cb0bc7a6a5.tgz)
+V10.0.1.0.OADMIFH scorpio global images download link below :
+
+[fastboot (.tgz)](http://bigota.d.miui.com/V10.0.1.0.OADMIFH/scorpio_global_images_V10.0.1.0.OADMIFH_20180831.0000.00_8.0_global_cb0bc7a6a5.tgz){:.btn.btn--primary rel="nofollow external" download}
