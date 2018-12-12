@@ -14,4 +14,8 @@ tags:
  - mi 6 miui 10
 ---
 
-V10.0.1.0.OCAMIFH sagit global images download link [fastboot (.tgz)](http://bigota.d.miui.com/V10.0.1.0.OCAMIFH/sagit_global_images_V10.0.1.0.OCAMIFH_20180905.0000.00_8.0_global_7ce4be65b4.tgz)
+V10.0.1.0.OCAMIFH sagit global images download link
+
+[fastboot (.tgz)](http://bigota.d.miui.com/V10.0.1.0.OCAMIFH/sagit_global_images_V10.0.1.0.OCAMIFH_20180905.0000.00_8.0_global_7ce4be65b4.tgz){:.btn.btn--primary rel="nofollow external" download}
+
+{% include respo.html %}
