@@ -14,4 +14,6 @@ tags:
  - pocophone f1 miui 10
 ---
 
-V10.0.6.0.OEJMIFH beryllium global images download link [fastboot (.tgz)](http://bigota.d.miui.com/V10.0.6.0.OEJMIFH/beryllium_global_images_V10.0.6.0.OEJMIFH_20181113.0000.00_8.1_global_ad6e716a76.tgz)
+V10.0.6.0.OEJMIFH beryllium global images download link below
+
+[fastboot (.tgz)](http://bigota.d.miui.com/V10.0.6.0.OEJMIFH/beryllium_global_images_V10.0.6.0.OEJMIFH_20181113.0000.00_8.1_global_ad6e716a76.tgz){:.btn.btn--primary rel="nofollow external" download}
