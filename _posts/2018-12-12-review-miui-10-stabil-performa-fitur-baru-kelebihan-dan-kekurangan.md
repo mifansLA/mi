@@ -1,6 +1,6 @@
 ---
 title: "Review OS ★ Fitur Baru MIUI 10 Global Stable Version ★ Kekurangan Kelebihan"
-excerpt: "Review MIUI 10 dari fitur baru yang disertakan. Mulai performa, tampilan baru di MIUI 10 hingga hasil kamera, serta kekurangan yang ada di dalamnya""
+excerpt: "Review MIUI 10 dari fitur baru yang disertakan. Mulai performa, tampilan baru di MIUI 10 hingga hasil kamera, serta kekurangan yang ada di dalamnya"
 header:
  image: https://i.ytimg.com/vi/qUOjrFaD_j0/maxresdefault.jpg
 categories:
