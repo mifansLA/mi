@@ -14,4 +14,8 @@ tags:
  - mi mix 2s miui 10
 ---
 
-V10.0.2.0.ODGMIFH polaris global images download link [fastboot (.tgz)](http://bigota.d.miui.com/V10.0.2.0.ODGMIFH/polaris_global_images_V10.0.2.0.ODGMIFH_20180910.0000.00_8.0_global_9c116ebbbe.tgz)
+V10.0.2.0.ODGMIFH polaris global images download link below:
+
+[fastboot (.tgz)](http://bigota.d.miui.com/V10.0.2.0.ODGMIFH/polaris_global_images_V10.0.2.0.ODGMIFH_20180910.0000.00_8.0_global_9c116ebbbe.tgz){:.btn.btn--primary rel="nofollow external" download}
+
+{% include respo.html %}
