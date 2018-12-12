@@ -14,4 +14,6 @@ tags:
  - redmi 3s miui 10
 ---
 
-V10.1.1.0.MALMIFI land global images download link [fastboot (.tgz)](http://bigota.d.miui.com/V10.1.1.0.MALMIFI/land_global_images_V10.1.1.0.MALMIFI_20181124.0000.00_6.0_global_c00edf0205.tgz)
+V10.1.1.0.MALMIFI land global images download link below:
+
+[fastboot (.tgz)](http://bigota.d.miui.com/V10.1.1.0.MALMIFI/land_global_images_V10.1.1.0.MALMIFI_20181124.0000.00_6.0_global_c00edf0205.tgz){:.btn.btn--primary rel="nofollow external" download}
