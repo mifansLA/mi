@@ -1,6 +1,8 @@
 ---
 title: "MIUI 10 ★ Xiaomi Redmi Note 6 Pro V10.0.4.0 Global Stable Version ★ Fastboot ROM Download"
 excerpt: "Released! Xiaomi Redmi Note 6 Pro V10.0.4.0 OEKMIFH Global Stable Version Fastboot File Download"
+header:
+ image: /assets/image/MIUI-10-update-01.jpeg
 categories:
  - MIUI 10
  - Fastboot
