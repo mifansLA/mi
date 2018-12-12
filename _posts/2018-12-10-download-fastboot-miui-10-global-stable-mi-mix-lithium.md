@@ -14,4 +14,6 @@ tags:
  - mi mix miui 10
 ---
 
-V10.0.1.0.OAHMIFH lithuim global images download link [fastboot (.tgz)](http://bigota.d.miui.com/V10.0.1.0.OAHMIFH/lithium_global_images_V10.0.1.0.OAHMIFH_20180831.0000.00_8.0_global_6af721a86e.tgz)
+V10.0.1.0.OAHMIFH lithuim global images download link [fastboot (.tgz)](http://bigota.d.miui.com/V10.0.1.0.OAHMIFH/lithium_global_images_V10.0.1.0.OAHMIFH_20180831.0000.00_8.0_global_6af721a86e.tgz){:.btn.btn--primary rel="nofollow external" download}
+
+{% include respo.html %}
