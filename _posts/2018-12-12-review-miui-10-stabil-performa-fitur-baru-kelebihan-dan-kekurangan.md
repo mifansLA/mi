@@ -16,7 +16,7 @@ tags:
  - kekurangan miui 10
 ---
 
-berikut ini Mifans LA sertakan versi artikelnya.
+Penasaran seperti apa rasanya memakai MIUI 10? Berikut ini Mifans LA berikan artikel review untuk pertimbangan bagi yang belum melakukan [upgrade ke MIUI 10](https://mi.knoacc.org/cara-instal-ulang-atau-upgrade-MIUI-10-stabil)
 
 ### Performa MIUI 10
 
@@ -47,6 +47,8 @@ Sebenarnya hasil jepretan portrait kamera Xiaomi ini mau saya sertakan di video,
 Selanjutnya ada volume slider baru seperti di android pie, dan ini default nya langsung jadi slider volume media, jadi kamu bisa atur cepat dengan swipe aja.
 
 Dan dibawahnya ada menu silent instan, yang kalo kamu tap more, bakal muncul setting silent dan do not disturb, nah yang saya suka dari fitur ini itu ada count down nya. Jadi kamu bisa atur mau silent atau do not disturb selama berapa lama, maksimal sampai delapan jam, untuk akhirnya non-aktif secara otomatis.
+
+> Catatan: Bagi kamu yang ingin melakukan upgrade secara manual atau flashing ulang bisa mencari ROM Fastboot yang sesuai dengan tipe ponsel kamu di [halaman ini](https://mi.knoacc.org/update-terbaru-MIUI-10-stabil) atau dari menu yang ada di kanan atas situs ini
 
 Fitur baru lain di MIUI 10, ini fitur yang udah ada di Android Oreo sejak lama benernya, tapi di MIUI 9 beberapa seri Xiaomi blm bisa make, dan sekarang sudah diusung ke MIUI 10. Pertama ada picture in picture, jadi ini beda dengan split view ya. Picture in picture ini window aplikasi bakal ditampilkan kecil secara overlay, Dan ini tampil terus, bisa kamu geser kemana mana, dan tetap tampil meskipun kamu buka aplikasi lainnya. Nggak semua aplikasi support picture in picture ini.
 
