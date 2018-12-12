@@ -14,4 +14,8 @@ tags:
  - mi 8 lite miui 10
 ---
 
-V10.0.3.0.ODTMIFH platina global images download link [fastboot (.tgz)](http://bigota.d.miui.com/V10.0.3.0.ODTMIFH/platina_global_images_V10.0.3.0.ODTMIFH_20181108.0000.00_8.1_global_69fcc88bee.tgz)
+V10.0.3.0.ODTMIFH platina global images download link button below
+
+[fastboot (.tgz)](http://bigota.d.miui.com/V10.0.3.0.ODTMIFH/platina_global_images_V10.0.3.0.ODTMIFH_20181108.0000.00_8.1_global_69fcc88bee.tgz){:.btn.btn--primary rel="nofollow external" download}
+
+{% include respo.html %}
