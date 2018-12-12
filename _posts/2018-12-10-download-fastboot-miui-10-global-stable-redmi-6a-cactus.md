@@ -17,3 +17,5 @@ tags:
 V10.0.2.0.OCBMIFH cactus global images download link below:
 
 [fastboot (.tgz)](http://bigota.d.miui.com/V10.0.2.0.OCBMIFH/cactus_global_images_V10.0.2.0.OCBMIFH_20180919.0000.00_8.1_global_95c26368e7.tgz){:.btn.btn--primary rel="nofollow external" download}
+
+{% include respo.html %}
