@@ -14,4 +14,6 @@ tags:
  - redmi 6 pro miui 10
 ---
 
-V10.0.1.0.ODMMIFH sakura india global images download link [fastboot (.tgz)](http://bigota.d.miui.com/V10.0.1.0.ODMMIFH/sakura_india_global_images_V10.0.1.0.ODMMIFH_20181107.0000.00_8.1_global_4811922899.tgz)
+V10.0.1.0.ODMMIFH sakura india global images download link below:
+
+[fastboot (.tgz)](http://bigota.d.miui.com/V10.0.1.0.ODMMIFH/sakura_india_global_images_V10.0.1.0.ODMMIFH_20181107.0000.00_8.1_global_4811922899.tgz){:.btn.btn--primary rel="nofollow external" download}
