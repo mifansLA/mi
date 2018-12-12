@@ -14,4 +14,8 @@ tags:
  - mi 5s miui 10
 ---
 
-V10.1.1.0.NAGMIFI capricorn global images download link [fastboot (.tgz)](http://bigota.d.miui.com/V10.1.1.0.NAGMIFI/capricorn_global_images_V10.1.1.0.NAGMIFI_20181101.0000.00_7.0_global_807d7e0a65.tgz)
+V10.1.1.0.NAGMIFI capricorn global images download link
+
+[fastboot (.tgz)](http://bigota.d.miui.com/V10.1.1.0.NAGMIFI/capricorn_global_images_V10.1.1.0.NAGMIFI_20181101.0000.00_7.0_global_807d7e0a65.tgz){:.btn.btn--primary rel="nofollow external" download}
+
+{% include respo.html %}
