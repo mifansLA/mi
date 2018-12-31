@@ -2,9 +2,14 @@
 title: Daftar GSI (Global System Image) ROM untuk Project Treble Android
 ---
 
+Apapun ponsel anda bisa memasang Update dengan cara melakukan flashing GSI ke partisi sistem jika ponsel kamu sudah mendukung Treble project. Biasanya setiap device yang sudah didukung oleh developer akan disediakan file vendor sesuai dengan tipe ponsel.
+
+Namun yang perlu diingat adalah besar partisi sistem lebih besar dari file image yang disediakan. Flashing GSI membutuhkan membutuhkan TWRP yang mendukung treble project. Yakni bisa melakukan flashing file `.img` ke partisi tertentu. Misalnya partisi system, vendor, custom, dan bootloader selain partisi yang didukung oleh TWRP reguler yakni partisi boot dan recovery.
+
 Here's a collection of available GSI ROMs, in order to keep it easy to choose what you want.
 
 ## Android 9 Pie:
+
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
 |Android P (PR1) sGSI |erfanoabdi|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/rom-android-p-developer-preview-t3816659)|A - A/B|arm64|
@@ -26,6 +31,7 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |Treble-ized 0s|noobstyle1337|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/9-0-treble-ized-0s-28-08-2018-t3835092)|A|arm64|
 
 ## Android 8 Oreo:
+
 |ROM|Maintainer|Thread/Download|Partition Style|Architecture|
 |:-:|:-:|:-:|:-:|:-:|
 |AICP-mordiford|AndroPlus|[Here](https://treble.andro.plus)|A - A/B|arm64|
@@ -55,3 +61,4 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |Resurrection Remix|pchatzop|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/unofficial-treble-enabled-resurrection-t3761279)|A - A/B|arm - arm64|
 |Pixel Experience|jhenrique09|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/8-1-0-pixel-experience-t3796011)|A - A/B|arm64|
 |XenonHD|yshalsager|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/8-1-0-xenonhd-t3800543)|A - A/B|arm - arm64|
+
