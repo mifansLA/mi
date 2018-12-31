@@ -64,4 +64,4 @@ Here's a collection of available GSI ROMs, in order to keep it easy to choose wh
 |Pixel Experience _jhenrique09_|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/8-1-0-pixel-experience-t3796011)|A - A/B|arm64|
 |XenonHD _yshalsager_|[Here](https://forum.xda-developers.com/project-treble/trebleenabled-device-development/8-1-0-xenonhd-t3800543)|A - A/B|arm - arm64|
 
-Keuntungan dari memanfaatkan project treble banyak keuntungan yang didapat. Salah satu yang paling penting adalah akan mensapat 
+Keuntungan dari memanfaatkan project treble banyak keuntungan yang didapat. Salah satu yang paling penting adalah akan mendapat update versi paling baru secara terus menerus selama ada file GSI yang rilis. Tetapi tentu saja file GSI tersebut tidak lebih besar dari partisi system yang tersedia. Misalnya saja dalam kasus Redmi 3 Pro yang tidak bisa memasang GSI Pie (Android 9) karena file lebih besar dari partisi system dan harus melukan modifikasi partisi sistem menjadi lebih besar..
