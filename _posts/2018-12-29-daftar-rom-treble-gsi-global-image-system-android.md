@@ -1,7 +1,18 @@
 ---
 title: Daftar GSI (Global System Image) ROM untuk Project Treble Android
 excerpt: "Daftar lengkap file GSI untuk upgrade ke OS Oreo dan Pie untuk semua jenis ponsel"
-
+header:
+ overlay_image: https://i.ytimg.com/vi/SsG8aGkHxKc/maxresdefault.jpg
+ og_image: https://i.ytimg.com/vi/SsG8aGkHxKc/maxresdefault.jpg
+categories:
+ - Treble
+ - GSI
+tags:
+ - project treble oreo
+ - project treble pie
+ - download file GSI
+ - android 9
+ - androud 8
 ---
 
 Apapun ponsel anda bisa memasang Update dengan cara melakukan flashing GSI ke partisi sistem jika ponsel kamu sudah mendukung Treble project. Biasanya setiap device yang sudah didukung oleh developer akan disediakan file vendor sesuai dengan tipe ponsel.
