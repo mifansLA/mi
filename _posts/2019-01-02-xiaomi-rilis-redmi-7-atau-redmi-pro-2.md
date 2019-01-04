@@ -3,6 +3,7 @@ title: "Besok Xiaomi Ungkap Smartphone Redmi 7 atau Redmi Pro 2?"
 excerpt: "Bukan hanya **Redmi Pro 2**, Xiaomi kemungkinan juga **meluncurkan Redmi 7** yang baru saja melewati proses sertifikasi di TENAA."
 header:
  image: /assets/image/redmi-7.jpeg
+ caption: Redmi 7
 categories:
  - news
  - release
