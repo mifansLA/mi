@@ -2,7 +2,7 @@
 title: Redmi Menjadi Merek Sendiri, Terpisah dari Xiaomi
 excerpt: Dengan pemisahan ini, perusahaan akan memiliki tiga merek terpisah berdasarkan segmen yang akan disasar. Mi untuk ponsel premium, Redmi untuk ponsel terjangkau, dan Poco untuk ponsel menengah, ponsel premium yang terjangkau
 header:
- image: /assets/images/redmi-6-pro.jepg
+ image: /assets/image/redmi-6-pro.jepg
  caption: Redmi 6 Pro
 categories:
  - news
