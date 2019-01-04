@@ -29,4 +29,4 @@ Bersama pengumuman itu, Xiaomi juga menyertakan poster dengan tulisan Redmi di b
 
 Bayangan dibelakang kata Redmi menerakan angka 48 yang diperkirakan merupakan petunjuk ponsel yang akan meluncur 10 Januari nanti pukul 14:00 waktu setempat, menggunakan kamera 48 megapiksel.
 
-Berdasarkan rumor dan bocoran yang beredar, ponsel yang akan meluncur itu sangat mirip dengan Redmi Pro 2 yang mendukung sensor kamera 48 megapiksel. Ponsel itu diperkirakan akan menggunakan chipset Qualcomm Snapdragon 675, seperti dilaporkan [Knocksense](https://www.knocksense.com/techsense/xiaomis-redmi-to-become-an-independent-brand-starting-january-10-with-a-48-megapixel-camera-phone)
+Berdasarkan rumor dan bocoran yang beredar, ponsel yang akan meluncur itu sangat mirip dengan [Redmi Pro 2](https://mi.knoacc.org/xiaomi-rilis-redmi-7-atau-redmi-pro-2) yang mendukung sensor kamera 48 megapiksel. Ponsel itu diperkirakan akan menggunakan chipset Qualcomm Snapdragon 675, seperti dilaporkan [Knocksense](https://www.knocksense.com/techsense/xiaomis-redmi-to-become-an-independent-brand-starting-january-10-with-a-48-megapixel-camera-phone)
