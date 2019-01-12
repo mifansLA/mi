@@ -9,10 +9,12 @@ tags:
  - Download MiuiPro
  - MiuiPro 9.2
  - MiuiPro Stable
-last_modified_at: 2018-02-27
+last_modified_at: 2019-01-12
 og_image: /assets/image/miuipro-92.jpg
 ---
-**ROM MIUI Pro 9.2 Stable** ini dibangun oleh developer Belarusia berdasarkan ROM MIUI 9.2 China Stable. Meskipun begitu, ROM MIUI ini sudah di modifikasi sehingga **bloatware app china** sudah dihilangkan. Termasuk ROM/Firmware patch terbaru dari **MiuiPro**, juga pembaruan **Magisk** juga fitur tambahan (tab fitur) seperti **FaceId** untuk tipe ponsel yang didukung.
+**ROM MIUI Pro 9.2 Stable** ini dibangun oleh developer Belarusia berdasarkan ROM MIUI 9.2 China Stable. Meskipun begitu, ROM MIUI ini sudah di modifikasi sehingga **bloatware app china** sudah dihilangkan. Termasuk ROM/Firmware patch terbaru dari **MiuiPro**, juga pembaruan **Magisk** juga fitur tambahan (tab fitur) seperti **FaceId** untuk tipe ponsel yang didukung.
+
+> Update 12 Januari 2019: Link official muipro mati semua. Pakai link google Drive saja. Fix link google drive untuk `ugglite`
 
 <figure class="align-center"><img alt="ROM MiuiPRO 9.2 Stable" src="/assets/image/miuipro-92.jpg"/><figcaption>ROM MiuiPRO 9.2 Stable</figcaption></figure>
 
@@ -130,7 +132,7 @@ Langsung saja, berikut ini daftar link download miuipro 9.2 terbaru yang bisa ka
 | Redmi Note 4X | mido | v9.2.1.0 |
 | - | [miuipro](/miuipro?device=xiaomi_redmi_note_4x_(3_32)&name=miuipro_v7.0_mido_v9.2.1.0_NCFCNEK.zip){:.btn.btn--primary} | [google](/dl/drive?size=ready&id=1cW58qJDPrRH4NKrv1vHVop8mF2LSYoyz&name=miuipro_v7.0_mido_v9.2.1.0_NCFCNEK.zip){:.btn.btn--primary} |
 | Redmi Note 5A | ugglite | v9.2.1.0 |
-| - | [miuipro](/miuipro?device=xiaomi_redmi_note_5a&name=miuipro_v7.1.2_ugglite_v9.2.1.0_NDFCNEK.zip){:.btn.btn--primary} | [google](/dl/1gNWIpdv5F-oRYk7XvqGIFzlIzeiR8DUj&name=miuipro_v7.1.2_ugglite_v9.2.1.0_NDFCNEK.zip){:.btn.btn--primary} |
+| - | [miuipro](/miuipro?device=xiaomi_redmi_note_5a&name=miuipro_v7.1.2_ugglite_v9.2.1.0_NDFCNEK.zip){:.btn.btn--primary} | [google](/dl/drive?size=&id=1gNWIpdv5F-oRYk7XvqGIFzlIzeiR8DUj&name=miuipro_v7.1.2_ugglite_v9.2.1.0_NDFCNEK.zip){:.btn.btn--primary} |
 | Redmi Note 5A Prime | ugg | v9.2.1.0 |
 | - | [miuipro](/miuipro?device=xiaomi_redmi_note_5a_prime&name=miuipro_v7.1.2_ugg_v9.2.1.0_NDKCNEK.zip){:.btn.btn--primary} | [google](/dl/drive?size=ready&id=10tjxf4x4fGCWDn2tF-TC9ZAg-BhNTuHc&name=miuipro_v7.1.2_ugg_v9.2.1.0_NDKCNEK.zip){:.btn.btn--primary} |
 | - |
