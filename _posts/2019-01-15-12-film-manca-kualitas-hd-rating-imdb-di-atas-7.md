@@ -16,7 +16,8 @@ Berikut ini film-film dengan rating IMDB tinggi yang sudah bisa kamu tonton atau
 
 Salah satu dari ke-12 film ini berjudul 'Crossroads' yang bercerita tentang bagaimana nasib TKI yang bekerja di Malaysia dan kucing-kucingan antara TKI dan Polisi Diraja Malaysia. Kemudian ada film dokumenter mengenai legalisasi aborsi berjudul Reversing Roe.
 
-| No. | Judul _[Tahun]_ | Rating IMDB | Genre | Resolusi | Kualitas | Link){:.btn.btn--primary rel="noopener nofollow"} ||:---:|:---|:---:|:---:|:---:|:---:|:---:|
+| No. | Judul _[Tahun]_ | Rating IMDB | Genre | Resolusi | Kualitas | Link |
+|:---:|:---|:---:|:---:|:---:|:---:|:---:|
 | 1. | Hallowen [2018] | IMDB 7.3 | Horror, Thriller | 480p, 720p, 1080p | bluray-rip | [RapidVideo](https://goo.gl/hZp6XQ){:.btn.btn--primary rel="noopener nofollow"} |
 | 2. | Tailor Swift: Reputation [2018] | IMDB 8.4 | Documentary, Music | 480p, 720p, 1080p | web-dl | [RapidVideo](https://goo.gl/RT9YmB){:.btn.btn--primary rel="noopener nofollow"} |
 | 3. | Reversing Roe [2018] | IMDB 7.3 | Dokumentary | 480p, 730p, 1080p | web-rip | [RapidVideo](https://goo.gl/61p7eC){:.btn.btn--primary rel="noopener nofollow"} |
