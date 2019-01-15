@@ -28,7 +28,7 @@ Salah satu dari ke-12 film ini berjudul 'Crossroads' yang bercerita tentang baga
 | 8. | Love, Simon [2018] | IMDB 7.9 | Comedy, Drama | 480p, 720p, 1080p | bluray-rip | [RapidVideo](https://goo.gl/4vwUXi){:.btn.btn--primary rel="noopener nofollow"} |
 | 9. | The Wild Peer Tree [2018] | IMDB 8.4 | Drama | 480p, 720p, 1080p | bluray-rip | [RapidVideo](https://goo.gl/Zf9uJA){:.btn.btn--primary rel="noopener nofollow"} |
 | 10. | Venom [2018] | IMDB 7.0 | Action, Sci-fi | 480p, 720p, 1080p | bluray-rip | [RapidVideo](https://goo.gl/96Phjo){:.btn.btn--primary rel="noopener nofollow"} |
-| 11. | Shadow (Ying) [2018] | IMDB 7.2 | Action, History | 480p, 720p, 1080p | web-dl | [RapidVideo](https://goo.gl/2N1RQt{:.btn.btn--primary rel="noopener nofollow"} |
+| 11. | Shadow (Ying) [2018] | IMDB 7.2 | Action, History | 480p, 720p, 1080p | web-dl | [RapidVideo](https://goo.gl/2N1RQt){:.btn.btn--primary rel="noopener nofollow"} |
 | 12. | Crossroads: One Two Jaga [2018] | IMDB 7.4 | Crime, Drama | 480p, 720p, 1080p | web-rip | [RapidVideo](https://goo.gl/MBZUEP){:.btn.btn--primary rel="noopener nofollow"} |
 
 Selamat menikmati!
