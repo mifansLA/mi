@@ -14,7 +14,7 @@ tags:
  - ram 1gb
 ---
 
-Setelah posternya sempat bersliweran di internet beberapa hari lalu, ponsel Android Go pertama Xiaomi, Redmi Go, pekan akhirnya resmi diperkenalkan.
+Setelah posternya sempat bersliweran di internet beberapa hari lalu, ponsel [Android Go pertama Xiaomi](https://mi.knoacc.org/xiaomi-rilis-android-go-harga-1-jutaan), Redmi Go, pekan akhirnya resmi diperkenalkan.
 
 Di bawah _sub-brand_ Redmi, Redmi Go siap meramaikan pasar ponsel _entry-level_ murah meriah di Asia dan Eropa bulan depan.
 
@@ -32,10 +32,14 @@ Perangkat ini menjalankan sistem operasi Android Go versi 8.1 Oreo yang termasuk
 
 ![Redmi Go via GSM Arena](https://i0.wp.com/asset.kompas.com/data/photo/2019/01/29/1577106064.png)
 
-Redmi Go menyediakan dua slot kartu SIM yang bersifat _hybrid_. Sehingga pengguna harus memilih apakah akan menggunakan semuanya untuk kartu SIM atau merelakan satu untuk tempat microSD demi memperluas memori internal.
+[Redmi](https://mi.knoacc.org/redmi-menjadi-merek-tersendiri-terpisah-dari-xiaomi) Go menyediakan dua slot kartu SIM yang bersifat _hybrid_. Sehingga pengguna harus memilih apakah akan menggunakan semuanya untuk kartu SIM atau merelakan satu untuk tempat microSD demi memperluas memori internal.
 
-Di sektor kapasitas daya, seperti dirangkum dari _GSM Arena_, Selasa (29/1/2019), Redmi Go dibekali baterai berkapasitas 3.000 mAh.
+Di sektor kapasitas daya, seperti dirangkum dari _GSM Arena_, Selasa (29/1/2019), Redmi Go dibekali baterai berkapasitas 3.000 mAh.
 
 Redmi Go tersedia dalam dua varian warna yakni hitam dan biru dengan banderol harga relatif terjangkau, yakni 80 euro (sekitar Rp 1,2 jutaan).
 
-Redmi Go diyakini akan segera masuk ke pasar Indonesia mengingat sudah tersertifikasi oleh P3DN Kementrian Perindustrian (Kemenperin) dengan Tingkat Kandungan Dalam Negeri (TKDN) sebesar 30,90 persen
+Redmi Go diyakini akan segera masuk ke pasar Indonesia mengingat sudah tersertifikasi oleh P3DN Kementrian Perindustrian (Kemenperin) dengan Tingkat Kandungan Dalam Negeri (TKDN) sebesar 30,90 persen.
+
+![lulus tkdn](https://i0.wp.com/asset.kompas.com/data/photo/2019/01/27/983979417.png)
+
+Redmi Go mengantongi nomor sertifikasi 35/ILMATE/TKDN/1/2019 yang diajukan tanggal 18 Januari 2019 dengan nomor referensi TKDN-19-14116. Sebelumnya, nomor kode "M1903C3GG" sempat muncul di lembaga sertifikasi IMDA Singapura dan EEC Rusia.
