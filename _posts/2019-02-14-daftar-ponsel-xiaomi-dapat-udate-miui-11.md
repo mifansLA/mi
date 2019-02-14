@@ -9,7 +9,7 @@ tags:
  - Update MIUI 11
  - Rilis MIUI 11
 ---
-Halo Mifans Lamongan! Tentu kalian sudah tahu bahwa belum lama ini [Xiaomi](/xiaomi-resmi-umumkan-miui-11) telah mengumumkan update [MIUI 11](/segunung-fitur-baru-di-miui-11) dengan segenap fitur barunya. Kira-kira tipa ponsel apa saja yang bakalan mendapatkan pembaruan ini?
+Halo Mifans Lamongan! Tentu kalian sudah tahu bahwa belum lama ini [Xiaomi](xiaomi-resmi-umumkan-miui-11) telah mengumumkan update [MIUI 11](#segunung-fitur-baru-di-miui-11) #dengan segenap fitur barunya. Kira-kira tipa ponsel apa saja yang bakalan mendapatkan pembaruan ini?
 
 Rupanya cukup banyak juga perangkat besutan perusahaan besutan om Lei Jun ini yang akan bisa mencicipi [update MIUI 11](/download-miui-11-semua-tipe). Gak pakai lama, berikut daftar lengkap perangkat Xiaomi yang mendapatkan pembaruan tersebut.
 
@@ -30,4 +30,5 @@ Adapun perangkat yang **tidak mendapatkan update MIUI 11** antara lain: Mi 5, Mi
 
 [Pengumuman MIUI 11](https://akcdn.detik.net.id/community/media/visual/2019/02/14/1bb34bbb-af75-42f3-aa03-b95035ea80d4.jpeg)
 
-Perlu kamu ketahui bahwa **MIUI 11** disebut-sebut sistem operasi yang baru dan unik. Jika dibandingkan dengan versi lama [MIUI 9](/update-rom-miui-92-global-stable-full-changelog) dan [MIUI 10](/review-miui-10-stabil-performa-fitur-baru-kelebihan-dan-kekurangan), MIUI 11 menjanjikan sistem yang sepenuhnya dioptimalkan dan membawa penyegaran.
+Perlu kamu ketahui bahwa **MIUI 11** disebut-sebut sistem operasi yang baru dan unik. Jika dibandingkan dengan versi lama [MIUI 9](/update-rom-miui-92-global-stable-full-changelog) dan [MIUI 10](/review-miui-10-stabil-performa-fitur-baru-kelebihan-dan-kekurangan), MIUI 11 menjanjikan sistem yang sepenuhnya dioptimalkan.
+Fitur baru yang lebih segar dan lebih humanis adalah [fokus pengembangan MIUI 11](/fitur-baru-miui-11-lebih-segar-dan-humanis) 
