@@ -2,7 +2,7 @@
 title: Ini Daftar Ponsel Xiaomi Yang Mendapat Jatah MIUI 11
 excerpt: Daftar smartphone Xiaomi yang akan mendapat jatah update MIUI 11
 header:
- image: UPDATE-MIUI-11.jpeg
+ image: /assets/image/UPDATE-MIUI-11.jpeg
 categories:
  - MIUI 11
 tags:
@@ -23,8 +23,8 @@ Rupanya cukup banyak juga perangkat besutan perusahaan besutan om Lei Jun ini ya
 
 ### Redmi Series
 
-- Redmi Note 7, Redmi Note 6/Pro, Redmi Note 5/Pro, Redmi Note 5Α, Redmi Note 4, Redmi Note 4X 
-- Redmi 6, Redmi 6Α, Redmi 6 Pro, Redmi 5, Redmi 5Α, Redmi 5 Plus, Redmi 4, Redmi 4Α, Redmi 4Χ, Redmi 3s, Redmi 3Χ, Redmi S2 
+- Redmi Note 7, Redmi Note 6/Pro, Redmi Note 5/Pro, Redmi Note 5, Redmi Note 4, Redmi Note 4X A
+- Redmi 6, Redmi 6, Redmi 6 Pro, Redmi 5, Redmi 5A, Redmi 5 Plus, Redmi 4, Redmi 4A, Redmi 4X, Redmi 3s, Redmi 3X, Redmi S2 A
 
 Adapun perangkat yang **tidak mendapatkan update MIUI 11** antara lain: Mi 5, Mi 4, Mi 4S, Mi 4C dan Redmi 3 Pro
 
