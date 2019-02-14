@@ -19,7 +19,7 @@ Rupanya cukup banyak juga perangkat besutan perusahaan besutan om Lei Jun ini ya
 - Mi Mix 3, Mi Mix 2s, Mix Mix 2, Mi Mix, 
 - Mi Note 3, Mi Note 2 
 - Mi Max 3 Mi Max 2, Mi Max, 
-- Mi Play, Mi 6Χ Mi 5c, Mi 5Χ, Mi 5s, Mi 5s Plus
+- Mi Play, Mi 6x Mi 5c, Mi 5X, Mi 5s, Mi 5s Plus
 
 ### Redmi Series
 
