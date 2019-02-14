@@ -9,7 +9,7 @@ tags:
  - Update MIUI 11
  - Rilis MIUI 11
 ---
-Halo Mifans Lamongan! Tentu kalian sudah tahu bahwa belum lama ini [Xiaomi](xiaomi-resmi-umumkan-miui-11) telah mengumumkan update [MIUI 11](#segunung-fitur-baru-di-miui-11) #dengan segenap fitur barunya. Kira-kira tipa ponsel apa saja yang bakalan mendapatkan pembaruan ini?
+Halo Mifans Lamongan! Tentu kalian sudah tahu bahwa belum lama ini [Xiaomi](#xiaomi-resmi-umumkan-miui-11) telah mengumumkan update [MIUI 11](#segunung-fitur-baru-di-miui-11) dengan segenap fitur barunya. Kira-kira tipa ponsel apa saja yang bakalan mendapatkan pembaruan ini?
 
 Rupanya cukup banyak juga perangkat besutan perusahaan besutan om Lei Jun ini yang akan bisa mencicipi [update MIUI 11](/download-miui-11-semua-tipe). Gak pakai lama, berikut daftar lengkap perangkat Xiaomi yang mendapatkan pembaruan tersebut.
 
