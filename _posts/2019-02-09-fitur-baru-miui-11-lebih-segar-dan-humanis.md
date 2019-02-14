@@ -13,7 +13,9 @@ Xiaomi hingga kini masih secara aktif meluncurkan MIUI 10 ke banyak perangkat Xi
 
 Pada acara **Xiaomi MIUI Core Experience Annual Meeting** beberapa hari yang lalu, Xiaomi secara resmi mengkonfirmasi bahwa mereka memulai proses pengembangan MIUI 11. Namun mereka tidak secara merinci fitur-fiturnya di acara tersebut.
 
-Kepala Departemen Perencanaan Produk Xiaomi, Liu Ming mengatakan bahwa **MIUI 11 akan menjadi OS generasi terbaru** dan “unik". Liu Ming mengatakan bahwa Xiaomi telah memulai pengembangan MIUI 11 di acara tersebut. Ini berarti bahwa MIUI 11 sekarang akan memasuki tahap penelitian dan pengembangan (R&D), di mana fitur-fitur tersebut baru akan dihapus, diuji, dan akhirnya [diluncurkan ke beberapa pengguna smartphone Xiaomi](https://mi.knoacc.org/daftar-ponsel-xiaomi-dapat-udate-miui-11) .
+Kepala Departemen Perencanaan Produk Xiaomi, Liu Ming mengatakan bahwa **MIUI 11 akan menjadi OS generasi terbaru** dan “unik". Liu Ming mengatakan bahwa Xiaomi telah memulai pengembangan MIUI 11 di acara tersebut. Ini berarti bahwa MIUI 11 sekarang akan memasuki tahap penelitian dan pengembangan (R&D), di mana fitur-fitur tersebut baru akan dihapus, diuji, dan akhirnya [diluncurkan ke beberapa pengguna smartphone Xiaomi](https://mi.knoacc.org/daftar-ponsel-xiaomi-dapat-udate-miui-11) 
+
+![Pengumuman MIUI 11](https://i0.wp.com/www.gizmochina.com/wp-content/uploads/2019/01/miui-11.jpg)
 
 Berdasarkan keterangan yang disampaikan di acara tersebut, menyebutkan bahwa MIUI 11 disebut sebagai OS baru dan sangat unik, terutama jika dibandingkan dengan [MIUI 9](https://mi.knoacc.org/update-rom-miui-92-global-stable-full-changelog) yang berfokus pada kecepatan, dan MIUI 10 yang berfokus pada AI dan pengalaman layar penuh. MIUI 11 kabarnya akan memberikan tampilan interface yang jauh lebih segar, dengan banyak fungsi dan fitur yang lebih humanis.
 
