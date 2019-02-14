@@ -1,6 +1,6 @@
 ---
 title: Ini Daftar Ponsel Xiaomi Yang Mendapat Jatah MIUI 11
-excerpt: Daftar smartphone Xiaomi yang akan mendapat jatah update MIUI 11
+excerpt: "Daftar smartphone Xiaomi yang akan mendapat jatah update MIUI 11, ada ponsel flagship yang tidak kebagian!"
 header:
  image: /assets/image/UPDATE-MIUI-11.jpeg
 categories:
