@@ -2,7 +2,7 @@
 title: "MIUI 11 Dikembangkan, Fitur Barunya Lebih Segar dan Humanis" 
 excerpt: MIUI 11 disebut sebagai OS unik, beda dengan MIUI 9 yang fokus pada kecepatan, dan MIUI 10 yang fokus pada AI. MIUI 11 fokus pada interface yang lebih segar, fungsi dan fitur humanis.
 header:
- image: UPDATE-MIUI-11.jpeg
+ image: /assets/image/UPDATE-MIUI-11.jpeg
 categories:
  - MIUI 11
 tags:
