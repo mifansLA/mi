@@ -1,7 +1,7 @@
 ---
 title: "Windows 7 Ultimate 32/64 bit ISO"
 excerpt: Download Image DVD Windows 7 32 bit dan Windows 7 64 bit format ISO Original Untouched
-category:
+categories:
  - Download
  - Resources
 tags:
