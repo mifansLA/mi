@@ -9,6 +9,7 @@ tags:
  - redmi 5 plus
 header:
  image: https://i0.wp.com/miui.blog/media/2019/02/Gcam-Redmi-5-Plus-Vince-680x441.jpg
+ teaser: https://i0.wp.com/miui.blog/media/2019/02/Gcam-Redmi-5-Plus-Vince-680x441.jpg?resize=320,170
 ---
 
 This article compiles Google Camera (gcam) app known compatible for Xiaomi Redmi 5 Plus (codename Vince). You can download its APK files through our mirror direct links provided below.
@@ -25,7 +26,9 @@ Powered with Qualcomm Snapdragon 625 SoC, its machine is capable to process 4K H
 
 Nevertheless, the stock MIUI Camera app is not as good as third-party app.
 
-Enter Google Camera! Many Android users around the globe are stunned by the awesomeness of Google Camera app. The app which was originally crafted for Google phones such as Nexus, Pixel, Pixel 2, or Pixel 3.
+## Enter Google Camera!
+
+Many Android users around the globe are stunned by the awesomeness of Google Camera app. The app which was originally crafted for Google phones such as Nexus, Pixel, Pixel 2, or Pixel 3.
 
 This is not without a reason. Google phones sport only a single camera but it can produce beautiful bokeh along with stunning HDR processing. High Dynamic Range feature within the Gcam has several level. Its highest one, the HDR+ Enhanced utilizes Google’s secret Artificial Intelligent (AI) algorithm. It can produces stunning photos in no time.
 
@@ -35,11 +38,11 @@ There is one drawback whatsoever. Not every device is compatible with certain ve
 
 Hence, it is crucial to find out what works on other users of the same phone.
 
-Here are Gcam app proven compatible to run on Xiaomi Redmi 5 Plus. Google Cam makes use of Android Camera2 API. You can enable this required API only if your bootloader is unlocked.
+Here are Gcam app proven compatible to run on Xiaomi Redmi 5 Plus. Google Cam makes use of Android Camera2 API. You can **enable this required API** 👉 [1](https://miui.blog/file/464/), [2](https://miui.blog/file/471/). (only if your bootloader is unlocked)
 
-### Download Gcam APK
+## Download Gcam APK
 
-**Gcam ported by Arnova8G2:** These two gcam APK files are ported from Google Pixel 2. Some of the key features including: Slow Motion up to 120 fps, Panorama, Photo Sphere, Lens Blur, Portrait, and HDR+ Enhanced. It also features Motion photo (not with HDR+). When Motion Photo is on, each photo you capture could include a short video before and after the shot. The video may be embedded when you share the photo.
+*Gcam ported by Arnova8G2:* These two gcam APK files are ported from Google Pixel 2. Some of the key features including: Slow Motion up to 120 fps, Panorama, Photo Sphere, Lens Blur, Portrait, and HDR+ Enhanced. It also features Motion photo (not with HDR+). When Motion Photo is on, each photo you capture could include a short video before and after the shot. The video may be embedded when you share the photo.
 
 The two builds below work flawlessly on Redmi 5 Plus running latest MIUI 10 (based on Android 8.1 Oreo). They also work on MIUI 9 based on Android 7.1 Nougat but you may expect random force close situation.
 
@@ -47,19 +50,19 @@ The two builds below work flawlessly on Redmi 5 Plus running latest MIUI 10 (bas
 | Version 8.1 | Size: 37 MB |
 | Download | [here](https://miui.blog/file/947/) |
 
-| File name : |GCam-5.1.018-Pixel2Mod-Arnova8G2-V8.3b1.apk |
+| File name | GCam-5.1.018-Pixel2Mod-Arnova8G2-V8.3b1.apk |
 | Version 5.1.018 build 8.3b1 | Size: 37 MB |
 | Download | [here](https://miui.blog/file/949/) |
 
-**Gcam ported by BSG:** Google cam APK file below is ported from Pixel 3 device. This one is built with better compatibility on Android 8.1. We really recommend you to use this modded build if you want to taste its _Night Shade_ feature on MIUI 10.
+*Gcam ported by BSG:* Google cam APK file below is ported from Pixel 3 device. This one is built with better compatibility on Android 8.1. We really recommend you to use this modded build if you want to taste its _Night Shade_ feature on MIUI 10.
 
-| File name : | MGC_6.1.021_FINAL_V1b_A8.1-bsg.apk
+| File name | MGC_6.1.021_FINAL_V1b_A8.1-bsg.apk
 | Version 6.1.021 final v1b | Size: 79 MB |
 | Download | [here](https://miui.blog/file/951/)|
 
-**Gcam ported by CStark27:** Ported from Pixel 3 as well, the gcam APK file below is modded by Cstark. It has better compatibility for Android 9.x Pie. We recommend this build if you run custom Android 9 ROM on your Redmi 5 Plus. This version has features of all previous gcam versions with the Night Sight feature being added.
+*Gcam ported by CStark27:* Ported from Pixel 3 as well, the gcam APK file below is modded by Cstark. It has better compatibility for Android 9.x Pie. We recommend this build if you run custom Android 9 ROM on your Redmi 5 Plus. This version has features of all previous gcam versions with the Night Sight feature being added.
 
-| File name : | P3v9.1_GoogleCamera_6.1.021-cstark27.apk |
+| File name  | P3v9.1_GoogleCamera_6.1.021-cstark27.apk |
 | Version 6.1.021 | Size: 89 MB |
 | Download | [here](https://miui.blog/file/953/) |
 
