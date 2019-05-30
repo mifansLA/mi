@@ -21,8 +21,6 @@ The great camera quality is undeniably excellent on most of Xiaomi flagship phon
 
 Some users simply prefer to have a decent phone with a just-enough specification. Xiaomi Redmi 5 Plus is not truly a budget phone. Instead, it is a mid-range phone that inherits perfect specifications at its price point. It is a steal-deal Android phone.
 
-{% include inarticle1.html %}
-
 Powered with Qualcomm Snapdragon 625 SoC, its machine is capable to process 4K HD videos and 480p 60fps videos. Thanks to its Omnivision camera planted on the rear side.
 
 Nevertheless, the stock MIUI Camera app is not as good as third-party app.
