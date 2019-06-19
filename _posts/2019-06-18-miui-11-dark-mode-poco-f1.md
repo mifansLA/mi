@@ -21,3 +21,5 @@ Xiaomi sendir masih menunggu umpan balik dari pengguna yang sudah memakai tema g
 ![dark mode poco f1](https://2.bp.blogspot.com/-poApddN0VQ4/XQoP8jIj30I/AAAAAAAAPXw/V91l2JfZEzEvw7E8XWVE9W-kRL8ELeDFQCLcBGAs/s1600/IMG_20190619_173515.jpg)
 
 Mengingat bahwa Tse adalah kepala Pocophone, dan bahwa POCO F1 menggunakan MIUI, bisa dipastikan bahwa POCO F1 akan mendaptkan tema gelap sistem-lebar setelah MIUI 11 dirilis. Tse juga menyebutkan bahwa MIUI 11 "tidak terlalu jauh." Meskipun masih samar-samar, pesan ini jadi indikasi kuat bahwa jadi MIUI 11 sudah hampir selesai dikembangkan oleh Xiaomi
+
+sumber: xdadevelopers
