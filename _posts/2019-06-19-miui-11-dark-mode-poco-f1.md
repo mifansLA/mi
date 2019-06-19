@@ -3,6 +3,7 @@ title: MIUI 11 Akan Mengaktifkan Mode Gelap ke POCO F1
 description: POCO F1 hampir pasti merasakan Dark Mode
 header:
  image: https://i0.wp.com/www.xda-developers.com/files/2019/06/miui-dark-mode.jpg
+ teaser: https://i0.wp.com/www.xda-developers.com/files/2019/06/miui-dark-mode.jpg?resize=180,100
 categories:
  - MIUI 11
  - Poco F1
