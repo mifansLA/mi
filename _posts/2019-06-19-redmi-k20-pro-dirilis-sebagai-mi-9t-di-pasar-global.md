@@ -22,3 +22,5 @@ XDA telah menemukan referensi yang sama di kamera MIUI, dengan tanda air berubah
 Perangkat itu sendiri diharapkan akan diluncurkan di pasar global dalam waktu beberapa bulan, dengan Xiaomi saat ini memfokuskan perhatiannya pada pasar India, di mana Redmi K20 Pro akan mempertahankan brandingnya. Xiaomi telah mulai menggoda perangkat di India, menyebutnya sebagai "telepon tercepat di dunia" berdasarkan skor AnTuTu-nya sebesar 388.803.
 
 Ada banyak yang disukai di Redmi K20 Pro, dengan perangkat yang menampilkan Snapdragon 855 dan kamera utama Sony IMX 586 48MP. Ada juga baterai 4000mAh dengan pengisian daya 27W, layar FHD + OLED 6,39 inci bersama dengan sensor sidik jari dalam layar, dan penggeser bermotor untuk modul kamera depan. Mengingat Redmi K20 Pro hanya seharga di bawah $ 400 di Cina, mudah untuk melihat mengapa ada begitu banyak minat pada perangkat ini.
+
+sumber: androidcentral
