@@ -1,6 +1,15 @@
 ---
 title: MIUI 11 Akan Mengaktifkan Mode Gelap ke POCO F1
 description: POCO F1 hampir pasti merasakan Dark Mode
+header:
+ image: https://i0.wp.com/www.xda-developers.com/files/2019/06/miui-dark-mode.jpg
+categories:
+ - MIUI 11
+ - Poco F1
+tags:
+ - dark mode MIUI
+ - dark mode poco f1
+
 ---
 MIUI milik Xiaomi adalah UI paling variatif. Bagi pengguna di luar China, bisa jadi tidak masumk dalam kategori UX yang paling menarik, tetapi MIUI tidak diragukan lagi sudah banyak berkembang sejak awal kemunculannya. Direktur Produk MIUI Liu Ming dan Direktur Desain Ge Rui mengadakan sesi AMA tentang MIUI 11 pada bulan Maret, di mana kita belajar tentang OS terbaru dan terhebat dari Xiaomi. Fitur seperti mode hemat daya ultra, manajemen tangkapan layar otomatis, dan tema gelap sistem-luas dibahas sebagai bagian dari AMA.
 
