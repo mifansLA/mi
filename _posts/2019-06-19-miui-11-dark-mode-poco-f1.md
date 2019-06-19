@@ -17,5 +17,6 @@ Tema gelap sistem-lebar adalah sesuatu yang telah kita lihat perusahaan seperti 
 
 Xiaomi sendir masih menunggu umpan balik dari pengguna yang sudah memakai tema gelap (dalam rom beta) sebelum mereka meluncurkannya ke perangkat lain. Ini memberi mereka waktu untuk memperbaiki bug dan menstabilkan pengaturan sebelum merilis versi stabil ke semua ponsel. Dan sepertinya itu akan dirilis ke semua orang. Dalam utas Twitter, kepala Pocophone Alvin Tse mengatakan bahwa setelah mode gelap stabil, porting akan dikirim ke MIUI 11.
 
+![dark mode poco f1](https://2.bp.blogspot.com/-poApddN0VQ4/XQoP8jIj30I/AAAAAAAAPXw/V91l2JfZEzEvw7E8XWVE9W-kRL8ELeDFQCLcBGAs/s1600/IMG_20190619_173515.jpg)
 
 Mengingat bahwa Tse adalah kepala Pocophone, dan bahwa POCO F1 menggunakan MIUI, bisa dipastikan bahwa POCO F1 akan mendaptkan tema gelap sistem-lebar setelah MIUI 11 dirilis. Tse juga menyebutkan bahwa MIUI 11 "tidak terlalu jauh." Meskipun masih samar-samar, pesan ini jadi indikasi kuat bahwa jadi MIUI 11 sudah hampir selesai dikembangkan oleh Xiaomi
