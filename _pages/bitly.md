@@ -10,5 +10,5 @@ Waiting bit.ly to be decrypted
 </a>
 
 </div>
-{% include dldrive %} 
+{% include bitly %} 
 {% include adsense2.html %}
