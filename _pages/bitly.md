@@ -1,6 +1,6 @@
 ---
 title: "Link Passer for bitly Shorthener"
-permalink: "/bit.ly"
+permalink: "/bitly"
 sitemap: false
 ---
 <div style="display: block; text-align: center;">
