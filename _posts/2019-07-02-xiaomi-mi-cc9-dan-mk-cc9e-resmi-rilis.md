@@ -9,8 +9,8 @@ tags:
  - xiaomi cc9
  - xiaomi cc9e
 header:
- overlay_image: https://i0.wp.com/www.droidlime.com/wp-content/uploads/2019/07/Mi-CC9-dan-Mi-CC9e-Launch.jpg
- teaser: https://i1.wp.com/www.droidlime.com/wp-content/uploads/2019/07/Mi-CC9-1.jpg
+ overlay_image: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSiE-5UcRrE2mVZufd65XVvG1KtyIB0P9jXQS4ecXbv72XpZ-hy
+ teaser: https://i1.wp.com/www.droidlime.com/wp-content/uploads/2019/07/Mi-CC9-1.jpg?resize=320,160
 
 ---
 Xiaomi Mi CC9 Series telah resmi diperkenalkan di Cina. Ada dua model yang diperkenalkan, yakni Mi CC9 dan Mi CC9e. Keduanya menawarkan daya tarik yang trendi dan datang dengan spesifikasi serta harga yang menarik untuk kalian ketahui.
