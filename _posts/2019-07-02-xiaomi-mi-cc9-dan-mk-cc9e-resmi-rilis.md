@@ -34,6 +34,8 @@ Xiaomi Mi CC9 dan Xiaomi Mi CC9e berjalan dengan antarmuka MIUI berbasis Android
 
 Berbicara soal catu daya yang disematkan, keduanya juga disokong baterai berkapasitas 4.030 mAh. Bedanya, Xiaomi Mi CC9 punya fitur fast charging 27W, sementara Xiaomi Mi CC9e hanya memiliki fast charging yang jauh lebih kecil, yakni 18W.
 
+![Xiaomi CC9 Package](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSiE-5UcRrE2mVZufd65XVvG1KtyIB0P9jXQS4ecXbv72XpZ-hy){:.align-center}
+
 Bagaimana dengan dukungan kameranya? Bagi kalian yang penasaran, Xiaomi melengkapi Mi CC9 dan Mi CC9e dengan dukungan tiga kamera di bagian belakang. Konfigurasinya adalah lensa utama 48 MP dengan sensor **Sony IMX586**, lensa ultra-wide 8 MP dan lensa kedalaman 2 MP. Ada juga dukungan LED flash.
 
 Sementara untuk memanjakan pengguna yang suka narsis, Xiaomi Mi CC9 dan Mi CC9e dilengkapi dengan selfie-camera yang memiliki resolusi sama, yakni 32 MP. Xiaomi mengklaim bahwa selfie-camera yang disematkan mampu memotret bidikan yang lebih baik dalam kondisi low-light.
