@@ -34,7 +34,9 @@ Redmi Y3 diklaim mampu memainkan berbagai macam game berat dengan grafis frame r
 
 Desain belakang Redmi Y3 ini terbuat dari bahan polycarbonate atau plastik. Namun, Redmi Y3 menambahkan beberapa gradasi warna pada bagian belakangnya agar terlihat menarik. Redmi Y3 memiliki tiga varian warna yang premium yakni elegant blue, bold red dan prime black.
 
-### 4. Baterai dan penyimpanan yang besar
+> Baca juga: [Spesifikasi dan Harga Xiaomi Mi CC99 & Mi CC9e](https://mi.knoacc.org/xiaomi-mi-cc9-dan-mk-cc9e-resmi-rilis). {:.notice}
+
+## 4. Baterai dan penyimpanan yang besar
 
 ![Gradasi warna](https://cdn.idntimes.com/content-images/post/20190704/redmi-y3-a-14ef7bfe0e71886ee73e5f44d4d04949.jpg)
 
