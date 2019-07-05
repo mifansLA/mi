@@ -18,6 +18,9 @@ Tak cuman itu, Redmi Y3 juga hadir dengan beragam kelebihan-kelebihan lainnya. P
 
 Salah satu hal yang paling diunggulkan dari Redmi Y3 ini adalah kamera depannya. Ya, Redmi Y3 memiliki kamera selfie yang beresolusi 32MP. Bahkan kamera selfienya ini sudah dilengkapi dengan fitur AI beautify 4.0.
 
+> Baca juga: [Redmi K20 Punya Nama Lain Xiaomi Mi 9T Pro](https://mi.knoacc.org/redmi-k20-pro-dirilis-sebagai-mi-9t-di-pasar-global).
+{:.notice}
+
 Untuk kamera belakangnya, Redmi Note 7 sudah dibekali dual kamera beresolusi 12MP + 2MP. Redmi Y3 juga telah dilengkapi berbagai macam fitur kamera terbaru, AI beautify 4.0, Auto-HDR, Google Lens Inbuilt.
 
 ### 2. Membawa chipset kelas menengah
@@ -26,7 +29,7 @@ Untuk kamera belakangnya, Redmi Note 7 sudah dibekali dual kamera beresolusi 12M
 
 Pada performanya, Redmi Y3 hadir dengan chipset kelas menengah terbaru dari Qualcomm, yakni Snapdragon 632. Chipset ini sudah dipadukan dengan CPU 1.8 GHz, prosesor Octa Core dan pengolah grafis Adreno 506.
 
-Redmi Y3 diklaim mampu memainkan berbagai macam game berat dengan grafis frame rate high. Smartphone ini juga sudah menggunakan user interface MIUI 10.2 yang berbasis Android Pie.
+Redmi Y3 diklaim mampu memainkan berbagai macam game berat dengan grafis frame rate high. Smartphone ini juga sudah menggunakan user interface [MIUI 10.2](https://mi.knoacc.org/update-terbaru-MIUI-10-stabil) yang berbasis Android Pie.
 
 ### 3. Desain dengan gradasi warna yang memikat
 
@@ -41,7 +44,7 @@ Desain belakang Redmi Y3 ini terbuat dari bahan polycarbonate atau plastik. Namu
 
 ![Gradasi warna](https://cdn.idntimes.com/content-images/post/20190704/redmi-y3-a-14ef7bfe0e71886ee73e5f44d4d04949.jpg)
 
-Redmi Y3 dipersenjatai dengan kapasitas baterai yang cukup besar, yakni 4000 mAh. Namun sayang, Redmi Y3 tidak dilengkapi dengan fitur fast charging. Sehingga, kalian harus membutuhkan waktu yang lama untuk mengisi baterainya dengan penuh.
+Redmi Y3 dipersenjatai dengan kapasitas baterai yang cukup besar, yakni 4000 mAh. Namun sayang, Redmi Y3 tidak dilengkapi dengan fitur _fast charging_. Sehingga, kalian harus membutuhkan waktu yang lama untuk mengisi baterainya dengan penuh.
 
 Pada ruang penyimpanan, Redmi Y3 hadir dengan dua varian yakni RAM 3GB dengan memori 32GB dan RAM 4GB dengan !memori 64GB.
 
