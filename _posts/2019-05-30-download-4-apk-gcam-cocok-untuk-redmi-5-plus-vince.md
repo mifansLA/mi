@@ -20,7 +20,7 @@ However, some users were not quite happy with the stock camera. The absence of m
 
 The great camera quality is undeniably excellent on most of Xiaomi flagship phones. The photos shot on Mi Mix 2s, Mi 8, or Mi Mix 3 are stunning. That quality is worth its price. Such a flagship phone features Camera2 API enabled by default.
 
-Some users simply prefer to have a decent phone with a just-enough specification. Xiaomi Redmi 5 Plus is not truly a budget phone. Instead, it is a mid-range phone that inherits perfect specifications at its price point. It is a steal-deal Android phone.
+Some users simply prefer to have a decent phone with a just-enough specification. [Xiaomi Redmi 5 Plus](https://mi.knoacc.org/download-fastboot-miui-10-global-stable-redmi-5-plus-vince) is not truly a budget phone. Instead, it is a mid-range phone that inherits perfect specifications at its price point. It is a steal-deal Android phone.
 
 Powered with Qualcomm Snapdragon 625 SoC, its machine is capable to process 4K HD videos and 480p 60fps videos. Thanks to its Omnivision camera planted on the rear side.
 
