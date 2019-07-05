@@ -1,6 +1,6 @@
 ---
-title: 5 Kelebihan Redmi Y3, Smartphone Kece dengan Kamera Selfie Mumpuni
-excerpt: Spesifikasi lengkap Redmi Y3, desain, hardware, kamera dan harga ponsel cerdas terbaru dari Xiaomi
+title: "5 Kelebihan Redmi Y3, Smartphone Kece dengan Kamera Selfie Mumpuni"
+excerpt: "Spesifikasi lengkap Redmi Y3, desain, hardware, kamera dan harga ponsel cerdas terbaru dari Xiaomi"
 header:
  image: https://cdn.idntimes.com/content-images/community/2019/07/images-2-bf5a4a28f1ed4b1b9d8deb89af914f23.jpeg
  caption: "Kembarannya Redmi Note 7 nih! via ndtv.com"
