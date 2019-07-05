@@ -21,7 +21,7 @@ Salah satu hal yang paling diunggulkan dari Redmi Y3 ini adalah kamera depannya.
 > Baca juga: [Redmi K20 Punya Nama Lain Xiaomi Mi 9T Pro](https://mi.knoacc.org/redmi-k20-pro-dirilis-sebagai-mi-9t-di-pasar-global).
 {:.notice}
 
-Untuk kamera belakangnya, Redmi Note 7 sudah dibekali dual kamera beresolusi 12MP + 2MP. Redmi Y3 juga telah dilengkapi berbagai macam fitur kamera terbaru, AI beautify 4.0, Auto-HDR, Google Lens Inbuilt.
+Untuk kamera belakangnya, [Redmi Note 7](https://mi.knoacc.org/xiaomi-rilis-redmi-7-atau-redmi-pro-2) sudah dibekali dual kamera beresolusi 12MP + 2MP. Redmi Y3 juga telah dilengkapi berbagai macam fitur kamera terbaru, AI beautify 4.0, Auto-HDR, Google Lens Inbuilt.
 
 ### 2. Membawa chipset kelas menengah
 
