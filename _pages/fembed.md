@@ -1,7 +1,7 @@
 ---
 permalink: /dl/fembed
-title: RapidVideo - CDN Video Hosting
-excerpt: RapidVideo (Ravid) is a CDN Video Hosting Service, providing all the necessary features that you need.
+title: "Fembed - All-in-one Video Platform"
+excerpt: "Designed by webmasters, for webmasters"
 comments: false
 share: false
 sitemap: false
