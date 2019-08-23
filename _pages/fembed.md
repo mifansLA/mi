@@ -33,11 +33,9 @@ Our streaming servers are very fast, our encoding system is also fast, but our s
 <a href="" id="fembed" class="btn btn--primary btn--large" rel="external noindex nofollow noreferer noopener">processing...</a>
 {: style="display:block;text-align:center"}
 
-<script type="text/javascript">
-function getQueryVariable(e){for(var r=window.location.search.substring(1),t=r.split("&"),n=0;n<t.length;n++){var a=t[n].split("=");if(a[0]==e)return a[1]}return!1}window.onload=function(){var klik=s="Get on fembed.com",e=getQueryVariable("cde"),x="https://www.fembed.com";document.getElementById("fembed").innerHTML=s,document.getElementById("fembed").href=x+"/"+f+"/"+e;document.getElementById("notice").innerHTML="Your link now ready, click <b>"+s+"</b> button above!"};
-</script>
-
 > _remember this:_ The links provided above is not appear out of nowhere. It is loaded from the pages or article before you came here. So if the links is broken, you can go back to previous page and ask/report at the comment section. **Reload or clear browser cache if to long**.
 {: id="notice"}
+
+{% include fembed %}
 
 {% include adsense1.html %}
