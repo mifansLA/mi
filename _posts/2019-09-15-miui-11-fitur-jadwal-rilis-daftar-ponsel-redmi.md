@@ -2,8 +2,9 @@
 title: "MIUI 11 - Xiaomi, Redmi phones list for update, release date, features and more"
 excerpt: "Kabar terbaru mengenai pengembangan MIUI 11, fitur terbaru, jadwal rilis dan ponsel-ponsel Xiaomi yang akan mendapatkan jatah update MIUI 11"
 header:
- image:
- caption:
+ image: "https://i0.wp.com/piunikaweb.com/wp-content/uploads/2019/09/miui_11_logo_banner.png"
+ teaser: "https://piunikaweb.com/wp-content/uploads/2019/09/miui_11_logo_banner.png?resize=410,410"
+ caption: "MIUI 11 Logo"
 categories: [android]
 tags: [miui 11, android 10, dark mode, miui update]
 ---
