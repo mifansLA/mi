@@ -13,8 +13,8 @@ Penting: Sudah pasang Magisk Manager dan Magisk Installer
 
 |File|Download|Size|
 |:---:|:---:|:--:|
-|Google Camera v7.0 APK|[via Gdrive](https://bit.ly/2lOVhGa){:.btn .btn--success}|6 KB|
-|Magisk Module for GCam 7.0|[via Gdrive](https://bit.ly/2lWd9i4){:.btn .btn--success}|137 MB
+|Google Camera v7.0 APK|[via Gdrive](https://bit.ly/2lRcHC1){:.btn .btn--success}|6 KB|
+|Magisk Module for GCam 7.0|[via Gdrive](https://bit.ly/2lOVhGa){:.btn .btn--success}|137 MB
 
 ## Step
 
