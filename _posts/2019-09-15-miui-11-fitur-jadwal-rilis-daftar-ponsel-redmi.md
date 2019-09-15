@@ -15,13 +15,13 @@ Currently, most of the **Xiaomi devices are running on MIUI 10** by eagerly wait
 
 ## MIUI 11 Development
 
-{% include figure alt="redmi k20 pro beta" image_url="https://i2.wp.com/piunikaweb.com/wp-content/uploads/2019/08/redmi_k20_pro_miui_9.8.8_china_ota.jpg?resize=640,640" url="https://i2.wp.com/piunikaweb.com/wp-content/uploads/2019/08/redmi_k20_pro_miui_9.8.8_china_ota.jpg" caption="Redmi K20 pro, dapat update OTA China"}
+{% include figure alt="redmi k20 pro beta" image_url="https://i2.wp.com/piunikaweb.com/wp-content/uploads/2019/08/redmi_k20_pro_miui_9.8.8_china_ota.jpg?resize=640,640" url="https://i2.wp.com/piunikaweb.com/wp-content/uploads/2019/08/redmi_k20_pro_miui_9.8.8_china_ota.jpg" caption="Redmi K20 pro, dapat update OTA China" %}
 
 Recently, Xiaomi completed the MIUI 10 beta face, which means the company will now focus on MIUI 11. The company confirms **MIUI 9.8.29 version is the last beta version** of MIUI 10 under its beta testing program. Of course, the latest MIUI11 stable ROM will take some time in development. Moreover, the company starts poring Beta update to Redmi K20 Pro and Mi 9 at the same time the Android 10 arrives at Pixel smartphones. However, Android 10 beta is running on older MIUI, meaning the company is seriously working to provide the latest updates to its consumers.
 
 ## MIUI 11 Top Features
 
-The new MIUI user interface will be based on the latest features of the Android 10 OS, therefore, we can expect a lot of advancements over the traditional MIUI 10. It will borrow most of the Android Q features to use it on the independent environment of MIUI 11. In the meantime, the company **accidentally pushed the MIUI 11 update to some Xiaomi devices** [see image](https://i0.wp.com/piunikaweb.com/wp-content/uploads/2019/09/mi_mix_2s_miui_11_9.9.3_ota.jpg) displaying us the new icons and settings menu. Starting with the Settings menu, the icons are different colors and sizes, which could play handy roles to identify each icon instantly.
+The new MIUI user interface will be based on the latest features of the Android 10 OS, therefore, we can expect a lot of advancements over the traditional MIUI 10. It will borrow most of the Android Q features to use it on the independent environment of MIUI 11. In the meantime, the company **accidentally pushed the MIUI 11 update to some Xiaomi devices** _[see image](https://i0.wp.com/piunikaweb.com/wp-content/uploads/2019/09/mi_mix_2s_miui_11_9.9.3_ota.jpg)._ displaying us the new icons and settings menu. Starting with the Settings menu, the icons are different colors and sizes, which could play handy roles to identify each icon instantly.
 
 ### MIUI 11 Settings Menu
 
