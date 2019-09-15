@@ -1,8 +1,8 @@
 ---
 title: "Download Bahan Install Google Camera v7 Untuk Semua Device"
-excerpt: "Memasang GCam v7 terbaru di semua tipe ponsel.
+excerpt: "Memasang GCam v7 terbaru di semua tipe ponsel."
 header:
- image: "/assets/images/GCam-v7-Google-Camera.png"
+ image: "/assets/image/GCam-v7-Google-Camera.png"
  caption: "GCam v7 - Google Camera"
 categories: [resources]
 tags: [download, gcam 7, magisk module, google camera]
