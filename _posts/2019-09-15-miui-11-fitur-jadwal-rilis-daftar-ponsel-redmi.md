@@ -19,7 +19,7 @@ Recently, Xiaomi completed the MIUI 10 beta face, which means the company will n
 
 ## MIUI 11 Top Features
 
-The new MIUI user interface will be based on the latest features of the Android 10 OS, therefore, we can expect a lot of advancements over the traditional MIUI 10. It will borrow most of the Android Q features to use it on the independent environment of MIUI 11. In the meantime, the company **accidentally pushed the MIUI 11 update to some Xiaomi devices** displaying us the new icons and settings menu. Starting with the Settings menu, the icons are different colors and sizes, which could play handy roles to identify each icon instantly.
+The new MIUI user interface will be based on the latest features of the Android 10 OS, therefore, we can expect a lot of advancements over the traditional MIUI 10. It will borrow most of the Android Q features to use it on the independent environment of MIUI 11. In the meantime, the company **accidentally pushed the MIUI 11 update to some Xiaomi devices** [see image](https://i0.wp.com/piunikaweb.com/wp-content/uploads/2019/09/mi_mix_2s_miui_11_9.9.3_ota.jpg) displaying us the new icons and settings menu. Starting with the Settings menu, the icons are different colors and sizes, which could play handy roles to identify each icon instantly.
 
 ### MIUI 11 Settings Menu
 
@@ -51,6 +51,8 @@ voice command Unlocking
 - Improved energy-saving functions
 
 ## Xiaomi & Redmi smartphones getting MIUI 11 update
+
+[![MIUI 11 Leaked](https://i1.wp.com/piunikaweb.com/wp-content/uploads/2019/09/mi_mix_2s_miui_11_9.9.3_ota.jpg?resize=640,640)](https://i1.wp.com/piunikaweb.com/wp-content/uploads/2019/09/mi_mix_2s_miui_11_9.9.3_ota.jpg){:.align-center}
 
 The Xiaomi smartphones list has confirmed by unofficial sources, that will get the new MIUI update in the near future. However, the company is yet to announce the MIUI 11 pattern, but the list obtained by Chinese media gives us a full schedule. Obviously, **latest devices** like Mi 9, Mi Mix 3S, Redmi K20 and K20 Pro **will get the priority** over relatively old smartphones. The list is divided into three batches, first for the prioritize devices, second for slightly older devices, and the third is for the remaining smartphones.
 
