@@ -11,9 +11,13 @@ tags: [miui 11, android 10, dark mode, miui update]
 
 The Chinese manufacturer Xiaomi is best known for its affordable smartphones and custom MIUI user interface. It arrives with enhanced features compared to Stock Android for all the Xiaomi devices. Although being a custom skin, the company is a bit slower to provide the latest Android updates, the same applies to MIUI 11. Even if you get the new update, the custom MIUI skin hides all the stock android features behind the bar with highly customized user-interface.
 
+[![Redmi Note 7](https://i0.wp.com/www.kibotek.com/wp-content/uploads/2019/02/kiboTEK_xiaomi_redmi_note_7_3.jpg?resize=720,360)](https://i0.wp.com/www.kibotek.com/wp-content/uploads/2019/02/kiboTEK_xiaomi_redmi_note_7_3.jpg){:.align-center}
+
 Currently, most of the **Xiaomi devices are running on MIUI 10** by eagerly waiting for its successor MIUI 11. However, the company has already started the **Android 10 Q beta program** for the Xiaomi Mi 9 based on MIUI 10, but stable MIUI 11 is still in progress. Previously, MIUI product manager indicated **MIUI 11 to get official in the September** month.
 
 ## MIUI 11 Development
+
+[![redmi k20 pro beta](https://i2.wp.com/piunikaweb.com/wp-content/uploads/2019/08/redmi_k20_pro_miui_9.8.8_china_ota.jpg?resize=640,640)](https://i2.wp.com/piunikaweb.com/wp-content/uploads/2019/08/redmi_k20_pro_miui_9.8.8_china_ota.jpg){:.align-center title="Redmi K20 pro OTA"}
 
 Recently, Xiaomi completed the MIUI 10 beta face, which means the company will now focus on MIUI 11. The company confirms **MIUI 9.8.29 version is the last beta version** of MIUI 10 under its beta testing program. Of course, the latest MIUI11 stable ROM will take some time in development. Moreover, the company starts poring Beta update to Redmi K20 Pro and Mi 9 at the same time the Android 10 arrives at Pixel smartphones. However, Android 10 beta is running on older MIUI, meaning the company is seriously working to provide the latest updates to its consumers.
 
@@ -52,7 +56,7 @@ voice command Unlocking
 
 ## Xiaomi & Redmi smartphones getting MIUI 11 update
 
-[![MIUI 11 Leaked](https://i1.wp.com/piunikaweb.com/wp-content/uploads/2019/09/mi_mix_2s_miui_11_9.9.3_ota.jpg?resize=640,640)](https://i1.wp.com/piunikaweb.com/wp-content/uploads/2019/09/mi_mix_2s_miui_11_9.9.3_ota.jpg){:.align-center}
+[![MIUI 11 Leaked](https://i1.wp.com/piunikaweb.com/wp-content/uploads/2019/09/mi_mix_2s_miui_11_9.9.3_ota.jpg?resize=640,640)](https://i1.wp.com/piunikaweb.com/wp-content/uploads/2019/09/mi_mix_2s_miui_11_9.9.3_ota.jpg){:.align-center title="Mi Mix 2s OTA"}
 
 The Xiaomi smartphones list has confirmed by unofficial sources, that will get the new MIUI update in the near future. However, the company is yet to announce the MIUI 11 pattern, but the list obtained by Chinese media gives us a full schedule. Obviously, **latest devices** like Mi 9, Mi Mix 3S, Redmi K20 and K20 Pro **will get the priority** over relatively old smartphones. The list is divided into three batches, first for the prioritize devices, second for slightly older devices, and the third is for the remaining smartphones.
 
