@@ -27,8 +27,8 @@ Penting: Sudah pasang Magisk Manager dan Magisk Installer
 ## Screnshoot
 
 |:---:|:---:|:---:|
-|[![SS 1 GCam v7](/asstes/image/GCam7-1.jpg)](/asstes/image/GCam7-1.jpg)|[![SS 2 GCam v7](/asstes/image/GCam7-2.jpg)](/asstes/image/GCam7-2.jpg)|[![SS 3 GCam v7](/asstes/image/GCam7-3.jpg)](/asstes/image/GCam7-3.jpg)|
-|[![SS 1 GCam v7](/asstes/image/GCam7-4.jpg)](/asstes/image/GCam7-4.jpg)|[![SS 5 GCam v7](/asstes/image/GCam7-5.jpg)](/asstes/image/GCam7-5.jpg)|[![SS 6 GCam v7](/asstes/image/GCam7-6.jpg)](/asstes/image/GCam7-6.jpg)|
+|[![SS 1 GCam v7](/assets/image/GCam7-1.jpg)](/assets/image/GCam7-1.jpg)|[![SS 2 GCam v7](/assets/image/GCam7-2.jpg)](/assets/image/GCam7-2.jpg)|[![SS 3 GCam v7](/assets/image/GCam7-3.jpg)](/assets/image/GCam7-3.jpg)|
+|[![SS 1 GCam v7](/assets/image/GCam7-4.jpg)](/assets/image/GCam7-4.jpg)|[![SS 5 GCam v7](/assets/image/GCam7-5.jpg)](/assets/image/GCam7-5.jpg)|[![SS 6 GCam v7](/assets/image/GCam7-6.jpg)](/assets/image/GCam7-6.jpg)|
 
 Screenshoot diambil dari ponsel Redmi 5 Plus (vince) OS Android 9.0 Pie ROM PixelExperience.
 {:.notice .notice--info}
