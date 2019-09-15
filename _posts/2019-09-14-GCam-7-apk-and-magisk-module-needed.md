@@ -9,5 +9,6 @@ tags: [download, gcam 7, magisk module, google camera]
 ---
 
 |File|Download||
+|:---:|:---:|
 |Gcam 7.0 apk|[via Gdrive](https://bit.ly/2lRcHC1){:.btn .btn--success}|
 |Magiks Module Gcam 7.0|[via Gdrive](https://bit.ly/2lWd9i4){:.btn .btn--success}|
