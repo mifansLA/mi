@@ -27,8 +27,8 @@ Penting: Sudah pasang Magisk Manager dan Magisk Installer
 ## Screnshoot
 
 |:---:|:---:|:---:|
-|[![SS 1 GCam v7](/assets/image/GCam7-1.jpg)](/assets/image/GCam7-1.jpg)|[![SS 2 GCam v7](/assets/image/GCam7-2.jpg)](/assets/image/GCam7-2.jpg)|[![SS 3 GCam v7](/assets/image/GCam7-3.jpg)](/assets/image/GCam7-3.jpg)|
-|[![SS 1 GCam v7](/assets/image/GCam7-4.jpg)](/assets/image/GCam7-4.jpg)|[![SS 5 GCam v7](/assets/image/GCam7-5.jpg)](/assets/image/GCam7-5.jpg)|[![SS 6 GCam v7](/assets/image/GCam7-6.jpg)](/assets/image/GCam7-6.jpg)|
+|[![SS 1 GCam v7](https://i0.wp.com/mi.knoacc.org/assets/image/GCam7-1.jpg?w=320)](/assets/image/GCam7-1.jpg)|[![SS 2 GCam v7](https://i0.wp.com/mi.knoacc.org/assets/image/GCam7-2.jpg?w=320)](/assets/image/GCam7-2.jpg)|[![SS 3 GCam v7](https://i0.wp.com/mi.knoacc.org/assets/image/GCam7-3.jpg?w=320)](/assets/image/GCam7-3.jpg)|
+|[![SS 1 GCam v7](https://i0.wp.com/mi.knoacc.org/assets/image/GCam7-4.jpg?w=320)](/assets/image/GCam7-4.jpg)|[![SS 5 GCam v7](https://i0.wp.com/mi.knoacc.org/assets/image/GCam7-5.jpg?w=320)](/assets/image/GCam7-5.jpg)|[![SS 6 GCam v7](https://i0.wp.com/mi.knoacc.org/assets/image/GCam7-6.jpg?w=320)](/assets/image/GCam7-6.jpg)|
 
 Screenshoot diambil dari ponsel Redmi 5 Plus (vince) OS Android 9.0 Pie ROM PixelExperience.
 {:.notice .notice--info}
