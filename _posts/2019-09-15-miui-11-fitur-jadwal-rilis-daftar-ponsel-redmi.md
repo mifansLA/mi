@@ -35,6 +35,8 @@ We have recently reported the company’s beta testing program based on the fort
 
 ### MIUI11 User Interface
 
+[![Dark Mode](https://i0.wp.com/piunikaweb.com/wp-content/uploads/2019/09/miui_11_9.9.9_china_beta_ota_prompt.jpg?resize=640,640)](https://i0.wp.com/piunikaweb.com/wp-content/uploads/2019/09/miui_11_9.9.9_china_beta_ota_prompt.jpg)
+
 It will introduce **a new dark mode**, that is a native feature of Android Q. We will have complete new icon pack, changed apps drawer, enhanced AI capabilities, voice command unlocking, Optimised battery, smoother animations, and much more.
 
 ### Dark Mode Schedule mode and new MiLanPro Fonts for MIUI 11
