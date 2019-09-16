@@ -4,6 +4,7 @@ excerpt: "Memasang GCam v7 terbaru di semua tipe ponsel."
 header:
  image: "/assets/image/GCam-v7-Google-Camera.png"
  caption: "GCam v7 - Google Camera"
+ teaser: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2019/09/google_camera_7_cover-1.jpg?resize=480,360&quality=82&strip=all&ssl=1"
 categories: [resources]
 tags: [download, gcam 7, magisk module, google camera]
 ---
