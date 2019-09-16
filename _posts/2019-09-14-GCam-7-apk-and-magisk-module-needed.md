@@ -26,6 +26,8 @@ Penting: Sudah pasang Magisk Manager dan Magisk Installer
 
 ## Screnshoot
 
+[![Google Camera v7](https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2019/09/google_camera_7_cover-1.jpg?resize=1024,720&quality=82&strip=all&ssl=1)](https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2019/09/google_camera_7_cover-1.jpg?resize=1600,1250&quality=100&strip=all&ssl=1){:.align-ceter title="Google Camera v7 Dogfood"}
+
 |:---:|:---:|:---:|
 |[![SS 1 GCam v7](https://i0.wp.com/mi.knoacc.org/assets/image/GCam7-1.jpg?w=320)](/assets/image/GCam7-1.jpg)|[![SS 2 GCam v7](https://i0.wp.com/mi.knoacc.org/assets/image/GCam7-2.jpg?w=320)](/assets/image/GCam7-2.jpg)|[![SS 3 GCam v7](https://i0.wp.com/mi.knoacc.org/assets/image/GCam7-3.jpg?w=320)](/assets/image/GCam7-3.jpg)|
 |[![SS 1 GCam v7](https://i0.wp.com/mi.knoacc.org/assets/image/GCam7-4.jpg?w=320)](/assets/image/GCam7-4.jpg)|[![SS 5 GCam v7](https://i0.wp.com/mi.knoacc.org/assets/image/GCam7-5.jpg?w=320)](/assets/image/GCam7-5.jpg)|[![SS 6 GCam v7](https://i0.wp.com/mi.knoacc.org/assets/image/GCam7-6.jpg?w=320)](/assets/image/GCam7-6.jpg)|
