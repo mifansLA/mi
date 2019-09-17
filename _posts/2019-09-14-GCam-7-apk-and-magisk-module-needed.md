@@ -43,8 +43,8 @@ Following is the first ever **Google Camera 7.0 mod APK** available for download
 The latest Google Camera 7.0 (Gcam 7.0) port from the Google Pixel 4 XL device has been tested working on devices like Nokia 6.1, Google Pixel 3, 2, 1, OnePlus 7, 7 Pro, Essential Phone, Xiaomi Redmi K20 Pro, and more.
 
 |Modder|Download|Mod Version|Size|
-|_parrot_|[gdrive](https://bit.ly/2mhZsdD|V2|78 MB|
-|_nullbytepl_|[gdrive](https://bit.ly/2knOgf2)|V1|138 MB|
+|_parrot_|[gdrive](https://bit.ly/2mhZsdD|parrot_V2.0|78 MB|
+|_nullbyte_|[gdrive](https://bit.ly/2knOgf2)|nullybyte_V1.0|138 MB|
 
 Catatan: Tidak perlu magisk module, tetapi harus Android 9.0 Pie
 {:.notice .notice--danger}
