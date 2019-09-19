@@ -5,4 +5,5 @@ header:
   id: ch-1
   provider: istimiwir
 comments: false
+sitemaps: false
 ---
