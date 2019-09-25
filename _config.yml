@@ -183,6 +183,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-redirect-from
   # - jekyll-remote-theme
 
 # mimic GitHub Pages with --safe
