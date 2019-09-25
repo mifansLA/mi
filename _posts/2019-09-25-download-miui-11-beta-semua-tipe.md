@@ -1,6 +1,15 @@
 ---
-title: Link Download MIUI 11 Semua Tipe Xiaomi
-excerpt: Berikut ini adalah ROM MIUI 11 Beta maupun Stable yang sudah bisa diunduh langsung
+title: Link Download MIUI 11 Beta untuk Semua Tipe Ponsel Xiaomi
+excerpt: Berikut ini adalah ROM MIUI 11 Beta yang sudah bisa diunduh langsung
+categories:
+ - miui
+tags:
+ - miui 11
+ - rom beta china
+ - official beta miui
+ - download rom
+redirect_from:
+ - /miui-11-beta
 ---
 MIUI 11 [sudah resmi diumumkan](https://mi.knoacc.org/miui-11-fitur-jadwal-rilis-daftar-ponsel-redmi). Srbelumnya, beberapa tipe [ponsel yang akan mendapatkan MIUI 11](https://mi.knoacc.org/daftar-ponsel-xiaomi-dapat-udate-miui-11) masih berupa rumor. Kamu bisa mendapatkan pembaruan Link Full ROM maupun Fastboot ROM dari halaman ini. 
 
