@@ -35,7 +35,7 @@ Perhatikan! Link yang diberikan adalah tautan langsung **menuju server official 
 </tr><tr><td>Xiaomi Mi MIX 3</td>
 <td>Android 9</td>
 <td><a href="https://hugeota.d.miui.com/9.9.24/miui_MIMIX3_9.9.24_575363c188_9.0.zip">Download</a></td>
-</tr><tr><td><a href="https://forum.xda-developers.com/xiaomi-mi-mix-2s">Xiaomi Mi MIX 2S</a></td>
+</tr><tr><td>Xiaomi Mi MIX 2S</td>
 <td>Android 9</td>
 <td><a href="http://hugeota.d.miui.com/9.9.24/miui_MIMIX2S_9.9.24_5ae80577ef_9.0.zip">Download</a></td>
 </tr><tr><td>Xiaomi Redmi K20 Pro</td>
