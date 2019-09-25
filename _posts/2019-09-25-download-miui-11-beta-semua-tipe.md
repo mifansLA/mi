@@ -29,7 +29,7 @@ Perhatikan! Link yang diberikan adalah tautan langsung **menuju server official 
 </tr></thead><tbody><tr><td>Xiaomi Mi 9</td>
 <td>Android 10</td>
 <td><a href="https://hugeota.d.miui.com/9.9.24/miui_CEPHEUS_9.9.24_b338eb5e70_10.0.zip">Download</a></td>
-</tr><tr><td><a href="https://forum.xda-developers.com/mi-6">Xiaomi Mi 6</a></td>
+</tr><tr><td>Xiaomi Mi 6</td>
 <td>Android 9</td>
 <td><a href="http://bigota.d.miui.com/9.9.24/miui_MI6_9.9.24_1311e25b28_9.0.zip">Download</a></td>
 </tr><tr><td>Xiaomi Mi MIX 3</td>
@@ -41,10 +41,10 @@ Perhatikan! Link yang diberikan adalah tautan langsung **menuju server official 
 </tr><tr><td>Xiaomi Redmi K20 Pro</td>
 <td>Android 10</td>
 <td><a href="https://hugeota.d.miui.com/9.9.24/miui_RAPHAEL_9.9.24_f3c0dd09ee_10.0.zip">Download</a></td>
-</tr><tr><td><a href="https://forum.xda-developers.com/mi-8">Xiaomi Mi 8</a> SE</td>
+</tr><tr><td>Xiaomi Mi 8 SE</td>
 <td>Android 9</td>
 <td><a href="http://hugeota.d.miui.com/9.9.24/miui_MI8SE_9.9.24_84b193659d_9.0.zip">Download</a></td>
-</tr><tr><td><a href="https://forum.xda-developers.com/redmi-note">Xiaomi Redmi Note</a> 7 Pro</td>
+</tr><tr><td>Xiaomi Redmi Note</a> 7 Pro</td>
 <td>Android 9</td>
 <td><a href="https://hugeota.d.miui.com/9.9.24/miui_VIOLET_9.9.24_476f4ff814_9.0.zip">Download</a></td>
 </tr><tr><td>Xiaomi Redmi Note 7</td>
@@ -53,31 +53,31 @@ Perhatikan! Link yang diberikan adalah tautan langsung **menuju server official 
 </tr><tr><td>Xiaomi Mi 8 Lite</td>
 <td>Android 9</td>
 <td><a href="https://bigota.d.miui.com/9.9.24/miui_MI8Lite_9.9.24_cbe8258b61_9.0.zip">Download</a></td>
-</tr><tr><td><a href="https://forum.xda-developers.com/redmi-note-5">Xiaomi Redmi Note 5</a></td>
+</tr><tr><td>Xiaomi Redmi Note 5</a></td>
 <td>Android 9</td>
 <td><a href="http://bigota.d.miui.com/9.9.24/miui_HMNote5_9.9.24_32c933f9e7_9.0.zip">Download</a></td>
 </tr><tr><td>Xiaomi Mi 8</td>
 <td>Android 9</td>
 <td><a href="https://hugeota.d.miui.com/9.9.24/miui_MI8_9.9.24_4d86fc4349_9.0.zip">Download</a></td>
-</tr><tr><td><a href="https://forum.xda-developers.com/mi-mix-2">Xiaomi Mi MIX 2</a></td>
+</tr><tr><td>Xiaomi Mi MIX 2</td>
 <td>Android 9</td>
 <td><a href="http://bigota.d.miui.com/9.9.24/miui_MIMIX2_9.9.24_20b0f6bbb7_9.0.zip">Download</a></td>
 </tr><tr><td>Xiaomi Mi 9 SE</td>
 <td>Android 9</td>
 <td><a href="http://bigota.d.miui.com/9.9.24/miui_GRUS_9.9.24_d0f95dc300_9.0.zip">Download</a></td>
-</tr><tr><td><a href="https://forum.xda-developers.com/mi-max">Xiaomi Mi Max</a> 3</td>
+</tr><tr><td>Xiaomi Mi Max 3</td>
 <td>Android 9</td>
 <td><a href="http://hugeota.d.miui.com/9.9.24/miui_MIMAX3_9.9.24_f7d2796dba_9.0.zip">Download</a></td>
-</tr><tr><td><a href="https://forum.xda-developers.com/mi-note-3">Xiaomi Mi Note 3</a></td>
+</tr><tr><td>Xiaomi Mi Note 3</td>
 <td>Android 9</td>
 <td><a href="http://bigota.d.miui.com/9.9.24/miui_MINote3_9.9.24_e7c3ad4230_9.0.zip">Download</a></td>
-</tr><tr><td><a href="https://forum.xda-developers.com/mi-5x">Xiaomi Mi 5X</a></td>
-<td><a href="https://www.xda-developers.com/tag/android-oreo/">Android 8.1</a></td>
+</tr><tr><td>Xiaomi Mi 5X</td>
+<td>Android 8.1</td>
 <td><a href="http://bigota.d.miui.com/9.9.24/miui_MI5X_9.9.24_1eb3d75270_8.1.zip">Download</a></td>
-</tr><tr><td><a href="https://forum.xda-developers.com/redmi-note-5">Xiaomi Redmi 5 Plus</a></td>
+</tr><tr><td>Xiaomi Redmi 5 Plus</td>
 <td>Android 8.1</td>
 <td><a href="http://bigota.d.miui.com/9.9.24/miui_HM5Plus_9.9.24_fd990c5b8d_8.1.zip">Download</a></td>
-</tr><tr><td><a href="https://forum.xda-developers.com/redmi-note-4">Xiaomi Redmi Note 4</a>/4X</td>
+</tr><tr><td>Xiaomi Redmi Note 4/4X</td>
 <td>Android 7</td>
 <td><a href="http://bigota.d.miui.com/9.9.24/miui_HMNote4X_9.9.24_262d7134b6_7.0.zip">Download</a></td>
 </tr><tr><td>Xiaomi Mi Mix</td>
@@ -89,10 +89,10 @@ Perhatikan! Link yang diberikan adalah tautan langsung **menuju server official 
 </tr><tr><td>Xiaomi Redmi 6</td>
 <td>Android 9</td>
 <td><a href="http://bigota.d.miui.com/9.9.24/miui_HM6_9.9.24_8fc21c8381_9.0.zip">Download</a></td>
-</tr><tr><td><a href="https://forum.xda-developers.com/mi-5s">Xiaomi Mi 5s</a></td>
+</tr><tr><td>Xiaomi Mi 5s</td>
 <td>Android 8</td>
 <td><a href="http://bigota.d.miui.com/9.9.24/miui_MI5S_9.9.24_5cae3900e2_8.0.zip">Download</a></td>
-</tr><tr><td><a href="https://forum.xda-developers.com/mi-note-2">Xiaomi Mi Note 2</a></td>
+</tr><tr><td>Xiaomi Mi Note 2</td>
 <td>Android 8</td>
 <td><a href="http://bigota.d.miui.com/9.9.24/miui_MINote2_9.9.24_f50d384394_8.0.zip">Download</a></td>
 </tr><tr><td>Xiaomi Mi Mix 2</td>
@@ -101,10 +101,10 @@ Perhatikan! Link yang diberikan adalah tautan langsung **menuju server official 
 </tr><tr><td>Xiaomi Mi 8 UD</td>
 <td>Android 9</td>
 <td><a href="http://bigota.d.miui.com/9.9.24/miui_MI8UD_9.9.24_9846fc3fcb_9.0.zip">Download</a></td>
-</tr><tr><td><a href="https://forum.xda-developers.com/mi-max-2">Xiaomi Mi Max 2</a></td>
+</tr><tr><td>Xiaomi Mi Max 2</td>
 <td>Android 7.1</td>
 <td><a href="http://bigota.d.miui.com/9.9.24/miui_MIMAX2_9.9.24_72196148d5_7.1.zip">Download</a></td>
-</tr><tr><td><a href="https://forum.xda-developers.com/t/xiaomi-redmi-5a">Xiaomi Redmi 5A</a></td>
+</tr><tr><td>Xiaomi Redmi 5A</td>
 <td>Android 8.1</td>
 <td><a href="http://bigota.d.miui.com/9.9.24/miui_HM5A_9.9.24_eb224cf2db_8.1.zip">Download</a></td>
 </tr><tr><td>Xiaomi Redmi 5</td>
@@ -125,7 +125,7 @@ Perhatikan! Link yang diberikan adalah tautan langsung **menuju server official 
 </tr><tr><td>Xiaomi Mi 8 EE</td>
 <td>Android 9</td>
 <td><a href="http://bigota.d.miui.com/9.9.24/miui_MI8Explorer_9.9.24_97de2e87ef_9.0.zip">Download</a></td>
-</tr><tr><td><a href="https://www.xda-developers.com/tag/xiaomi-mi-6x/">Xiaomi Mi 6X</a></td>
+</tr><tr><td>Xiaomi Mi 6X</td>
 <td>Android 9</td>
 <td><a href="http://bigota.d.miui.com/9.9.24/miui_MI6X_9.9.24_5f546ea7b6_9.0.zip">Download</a></td>
 </tr><tr><td>Xiaomi Redmi K20</td>
