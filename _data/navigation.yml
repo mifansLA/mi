@@ -1,4 +1,6 @@
 main:
+  - title: "MIUI 11 Beta"
+    url: "/download-miui-11-semua-tipe-ponsel"
   - title: "MIUI 10 Stable"
     url: https://mi.knoacc.org/update-terbaru-MIUI-10-stabil
   - title: "MIUI 10 Beta"
