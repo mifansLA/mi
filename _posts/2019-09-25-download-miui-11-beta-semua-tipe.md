@@ -17,12 +17,12 @@ redirect_from:
 ---
 MIUI 11 [sudah resmi diumumkan](https://mi.knoacc.org/miui-11-fitur-jadwal-rilis-daftar-ponsel-redmi). Srbelumnya, beberapa tipe [ponsel yang akan mendapatkan MIUI 11](https://mi.knoacc.org/daftar-ponsel-xiaomi-dapat-udate-miui-11) masih berupa rumor. Kamu bisa mendapatkan pembaruan Link Full ROM maupun Fastboot ROM dari halaman ini. 
 
-Keep in mind that these are Chinese builds and thus do not come with Google Play Services or any Google apps pre-installed, though they are easy to sideload. The features may also be slightly different from what you expect from global builds as well, given that they’re focused towards the Chinese market. Lastly, the language options are likely limited to English and Chinese.
+Keep in mind that these are **Chinese builds** and thus do not come with Google Play Services or any Google apps pre-installed, though they are easy to sideload. The features may also be slightly different from what you expect from global builds as well, given that they’re focused towards the Chinese market. Lastly, the language options are likely **limited to English and Chinese**.
 {:.notice .notice--warning}
 
 File ROM MIUI 11 baik beta maupun stabil bisa diunduh dari tabel di bawah jika sudah tersedia untuk publik.
 
-Perhatikan! Link yang diberikan adalah tautan langsung **menuju server official MIUI**. Kita tidak melakukan re-hosting/mirror maupun re-upload ke file hosting external selain server MIUI.
+**Perhatikan!** Link yang diberikan adalah tautan langsung **menuju server official MIUI**. Kita tidak melakukan re-hosting/mirror maupun re-upload ke file hosting external selain server MIUI.
 {:.notice .notice-info}
 
 ### MIUI 11 Beta Downloads
