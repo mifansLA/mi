@@ -1,6 +1,10 @@
 ---
 title: Link Download MIUI 11 Beta untuk Semua Tipe Ponsel Xiaomi
 excerpt: Berikut ini adalah ROM MIUI 11 Beta yang sudah bisa diunduh langsung
+header:
+ image: https://www.xda-developers.com/files/2019/09/Image-190.jpg
+ og_image: https://www.xda-developers.com/files/2019/09/MIUI-11-Logo_2.jpg
+ caption: Download MIUI 11 Beta
 categories:
  - miui
 tags:
