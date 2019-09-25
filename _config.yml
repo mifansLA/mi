@@ -15,7 +15,7 @@ name: &name "mifansLA"
 description: &description "Documentation Source for MIUI Fans Lamongan and Xiaomi Devices User."
 url: "https://mi.knoacc.org"
 baseurl: "/" # the subpath of your site, e.g. "/blog"
-repository: "mifansLA/miFans"
+repository: "mifansLA/mi"
 teaser: "/assets/image/mifans_lamongan_official.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
@@ -137,6 +137,7 @@ exclude:
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
   - _portofolio
+  - _draft
 keep_files:
   - .git
   - .svn
