@@ -27,115 +27,41 @@ File ROM MIUI 11 baik beta maupun stabil bisa diunduh dari tabel di bawah jika s
 
 ### MIUI 11 Beta Downloads
 
-<table class="table_black"><thead><tr><th>Device</th>
-<th>Android version</th>
-<th>Download link</th>
-</tr></thead><tbody><tr><td>Xiaomi Mi 9</td>
-<td>Android 10</td>
-<td><a href="https://hugeota.d.miui.com/9.9.24/miui_CEPHEUS_9.9.24_b338eb5e70_10.0.zip">Download</a></td>
-</tr><tr><td>Xiaomi Mi 6</td>
-<td>Android 9</td>
-<td><a href="http://bigota.d.miui.com/9.9.24/miui_MI6_9.9.24_1311e25b28_9.0.zip">Download</a></td>
-</tr><tr><td>Xiaomi Mi MIX 3</td>
-<td>Android 9</td>
-<td><a href="https://hugeota.d.miui.com/9.9.24/miui_MIMIX3_9.9.24_575363c188_9.0.zip">Download</a></td>
-</tr><tr><td>Xiaomi Mi MIX 2S</td>
-<td>Android 9</td>
-<td><a href="http://hugeota.d.miui.com/9.9.24/miui_MIMIX2S_9.9.24_5ae80577ef_9.0.zip">Download</a></td>
-</tr><tr><td>Xiaomi Redmi K20 Pro</td>
-<td>Android 10</td>
-<td><a href="https://hugeota.d.miui.com/9.9.24/miui_RAPHAEL_9.9.24_f3c0dd09ee_10.0.zip">Download</a></td>
-</tr><tr><td>Xiaomi Mi 8 SE</td>
-<td>Android 9</td>
-<td><a href="http://hugeota.d.miui.com/9.9.24/miui_MI8SE_9.9.24_84b193659d_9.0.zip">Download</a></td>
-</tr><tr><td>Xiaomi Redmi Note</a> 7 Pro</td>
-<td>Android 9</td>
-<td><a href="https://hugeota.d.miui.com/9.9.24/miui_VIOLET_9.9.24_476f4ff814_9.0.zip">Download</a></td>
-</tr><tr><td>Xiaomi Redmi Note 7</td>
-<td>Android 9</td>
-<td><a href="https://hugeota.d.miui.com/9.9.24/miui_LAVENDER_9.9.24_073da01cc7_9.0.zip">Download</a></td>
-</tr><tr><td>Xiaomi Mi 8 Lite</td>
-<td>Android 9</td>
-<td><a href="https://bigota.d.miui.com/9.9.24/miui_MI8Lite_9.9.24_cbe8258b61_9.0.zip">Download</a></td>
-</tr><tr><td>Xiaomi Redmi Note 5</a></td>
-<td>Android 9</td>
-<td><a href="http://bigota.d.miui.com/9.9.24/miui_HMNote5_9.9.24_32c933f9e7_9.0.zip">Download</a></td>
-</tr><tr><td>Xiaomi Mi 8</td>
-<td>Android 9</td>
-<td><a href="https://hugeota.d.miui.com/9.9.24/miui_MI8_9.9.24_4d86fc4349_9.0.zip">Download</a></td>
-</tr><tr><td>Xiaomi Mi MIX 2</td>
-<td>Android 9</td>
-<td><a href="http://bigota.d.miui.com/9.9.24/miui_MIMIX2_9.9.24_20b0f6bbb7_9.0.zip">Download</a></td>
-</tr><tr><td>Xiaomi Mi 9 SE</td>
-<td>Android 9</td>
-<td><a href="http://bigota.d.miui.com/9.9.24/miui_GRUS_9.9.24_d0f95dc300_9.0.zip">Download</a></td>
-</tr><tr><td>Xiaomi Mi Max 3</td>
-<td>Android 9</td>
-<td><a href="http://hugeota.d.miui.com/9.9.24/miui_MIMAX3_9.9.24_f7d2796dba_9.0.zip">Download</a></td>
-</tr><tr><td>Xiaomi Mi Note 3</td>
-<td>Android 9</td>
-<td><a href="http://bigota.d.miui.com/9.9.24/miui_MINote3_9.9.24_e7c3ad4230_9.0.zip">Download</a></td>
-</tr><tr><td>Xiaomi Mi 5X</td>
-<td>Android 8.1</td>
-<td><a href="http://bigota.d.miui.com/9.9.24/miui_MI5X_9.9.24_1eb3d75270_8.1.zip">Download</a></td>
-</tr><tr><td>Xiaomi Redmi 5 Plus</td>
-<td>Android 8.1</td>
-<td><a href="http://bigota.d.miui.com/9.9.24/miui_HM5Plus_9.9.24_fd990c5b8d_8.1.zip">Download</a></td>
-</tr><tr><td>Xiaomi Redmi Note 4/4X</td>
-<td>Android 7</td>
-<td><a href="http://bigota.d.miui.com/9.9.24/miui_HMNote4X_9.9.24_262d7134b6_7.0.zip">Download</a></td>
-</tr><tr><td>Xiaomi Mi Mix</td>
-<td>Android 8</td>
-<td><a href="http://bigota.d.miui.com/9.9.24/miui_MIMIX_9.9.24_6709df3c5c_8.0.zip">Download</a></td>
-</tr><tr><td>Xiaomi Redmi 6A</td>
-<td>Android 9</td>
-<td><a href="http://bigota.d.miui.com/9.9.24/miui_HM6A_9.9.24_44c8ff2bc8_9.0.zip">Download</a></td>
-</tr><tr><td>Xiaomi Redmi 6</td>
-<td>Android 9</td>
-<td><a href="http://bigota.d.miui.com/9.9.24/miui_HM6_9.9.24_8fc21c8381_9.0.zip">Download</a></td>
-</tr><tr><td>Xiaomi Mi 5s</td>
-<td>Android 8</td>
-<td><a href="http://bigota.d.miui.com/9.9.24/miui_MI5S_9.9.24_5cae3900e2_8.0.zip">Download</a></td>
-</tr><tr><td>Xiaomi Mi Note 2</td>
-<td>Android 8</td>
-<td><a href="http://bigota.d.miui.com/9.9.24/miui_MINote2_9.9.24_f50d384394_8.0.zip">Download</a></td>
-</tr><tr><td>Xiaomi Mi Mix 2</td>
-<td>Android 9</td>
-<td><a href="http://bigota.d.miui.com/9.9.24/miui_MIMIX2_9.9.24_20b0f6bbb7_9.0.zip">Download</a></td>
-</tr><tr><td>Xiaomi Mi 8 UD</td>
-<td>Android 9</td>
-<td><a href="http://bigota.d.miui.com/9.9.24/miui_MI8UD_9.9.24_9846fc3fcb_9.0.zip">Download</a></td>
-</tr><tr><td>Xiaomi Mi Max 2</td>
-<td>Android 7.1</td>
-<td><a href="http://bigota.d.miui.com/9.9.24/miui_MIMAX2_9.9.24_72196148d5_7.1.zip">Download</a></td>
-</tr><tr><td>Xiaomi Redmi 5A</td>
-<td>Android 8.1</td>
-<td><a href="http://bigota.d.miui.com/9.9.24/miui_HM5A_9.9.24_eb224cf2db_8.1.zip">Download</a></td>
-</tr><tr><td>Xiaomi Redmi 5</td>
-<td>Android 8.1</td>
-<td><a href="http://bigota.d.miui.com/9.9.24/miui_HM5_9.9.24_a4d4dda7a9_8.1.zip">Download</a></td>
-</tr><tr><td>Xiaomi Redmi 6 Pro</td>
-<td>Android 9</td>
-<td><a href="http://bigota.d.miui.com/9.9.24/miui_HM6Pro_9.9.24_877e2f4d5c_9.0.zip">Download</a></td>
-</tr><tr><td>Xiaomi Redmi 4/4X</td>
-<td>Android 7.1</td>
-<td><a href="http://bigota.d.miui.com/9.9.24/miui_HM4X_9.9.24_4008b63019_7.1.zip">Download</a></td>
-</tr><tr><td>Xiaomi Redmi Note 5A</td>
-<td>Android 7.1</td>
-<td><a href="http://bigota.d.miui.com/9.9.24/miui_HMNote5A_9.9.24_07d0f4889f_7.1.zip">Download</a></td>
-</tr><tr><td>Xiaomi Redmi Note 5A Lite</td>
-<td>Android 7.1</td>
-<td><a href="http://bigota.d.miui.com/9.9.24/miui_HMNote5ALITE_9.9.24_8c99d2f5c4_7.1.zip">Download</a></td>
-</tr><tr><td>Xiaomi Mi 8 EE</td>
-<td>Android 9</td>
-<td><a href="http://bigota.d.miui.com/9.9.24/miui_MI8Explorer_9.9.24_97de2e87ef_9.0.zip">Download</a></td>
-</tr><tr><td>Xiaomi Mi 6X</td>
-<td>Android 9</td>
-<td><a href="http://bigota.d.miui.com/9.9.24/miui_MI6X_9.9.24_5f546ea7b6_9.0.zip">Download</a></td>
-</tr><tr><td>Xiaomi Redmi K20</td>
-<td>Android 10</td>
-<td><a href="http://bigota.d.miui.com/9.9.25/miui_DAVINCI_9.9.25_030918b882_10.0.zip">Download</a></td>
-</tr><tr><td>Xiaomi Redmi Note 8</td>
-<td>Android 9</td>
-<td><a href="https://bigota.d.miui.com/9.9.25/miui_BEGONIA_9.9.25_63b9ff3ba0_9.0.zip">Download</a></td>
-</tr></tbody></table>
+|Device|Android version|Download link|
+|---|---:|:---:|
+|Xiaomi Mi 9|Android 10|<a href="/hugeota?version=9.9.24&codename=CEPHEUS&hash=b338eb5e70&android=10.0&type=zip">Download</a>|
+|Xiaomi Mi 6|Android 9|<a href="/bigota2?version=9.9.24&codename=MI6&hash=1311e25b28&android=9.0&type=zip">Download</a>|
+|Xiaomi Mi MIX 3|Android 9|<a href="/hugeota?version=9.9.24&codename=MIMIX3&hash=575363c188&android=9.0&type=zip">Download</a>|
+|Xiaomi Mi MIX 2S|Android 9|<a href="/hugeota?version=9.9.24&codename=MIMIX2S&hash=5ae80577ef&android=9.0&type=zip">Download</a>|
+|Xiaomi Redmi K20 Pro|Android 10|<a href="/hugeota?version=9.9.24&codename=RAPHAEL&hash=f3c0dd09ee&android=10.0&type=zip">Download</a>|
+|Xiaomi Mi 8 SE|Android 9|<a href="/hugeota?version=9.9.24&codename=MI8SE&hash=84b193659d&android=9.0&type=zip">Download</a>|
+|Xiaomi Redmi Note 7 Pro|Android 9|<a href="/hugeota?ver=9.9.24&codename=VIOLET&hash=476f4ff814&android=9.0&type=zip">Download</a>|
+|Xiaomi Redmi Note 7|Android 9|<a href="/hugeota?ver=9.9.24&codename=LAVENDER&hash=073da01cc7&android=9.0&type=zip">Download</a>|
+|Xiaomi Mi 8 Lite|Android 9|<a href="https://bigota.d.miui.com/9.9.24&codename=MI8Lite&hash=cbe8258b61&android=9.0&type=zip">Download</a>|
+|Xiaomi Redmi Note 5|Android 9|<a href="/bigota2?version=9.9.24&codename=HMNote5&hash=32c933f9e7&android=9.0&type=zip">Download</a>|
+|Xiaomi Mi 8|Android 9|<a href="/hugeota?ver=9.9.24&codename=MI8&hash=4d86fc4349&android=9.0&type=zip">Download</a>|
+|Xiaomi Mi MIX 2|Android 9|<a href="/bigota2?version=9.9.24&codename=MIMIX2&hash=20b0f6bbb7&android=9.0&type=zip">Download</a>|
+|Xiaomi Mi 9 SE|Android 9|<a href="/bigota2?version=9.9.24&codename=GRUS&hash=d0f95dc300&android=9.0&type=zip">Download</a>|
+|Xiaomi Mi Max 3|Android 9|<a href="http://hugeota.d.miui.com/9.9.24&codename=MIMAX3&hash=f7d2796dba&android=9.0&type=zip">Download</a>|
+|Xiaomi Mi Note 3|Android 9|<a href="/bigota2?version=9.9.24&codename=MINote3&hash=e7c3ad4230&android=9.0&type=zip">Download</a>|
+|Xiaomi Mi 5X|Android 8.1|<a href="/bigota2?version=9.9.24&codename=MI5X&hash=1eb3d75270&android=8.1&type=zip">Download</a>|
+|Xiaomi Redmi 5 Plus|Android 8.1|<a href="/bigota2?version=9.9.24&codename=HM5Plus&hash=fd990c5b8d&android=8.1&type=zip">Download</a>|
+|Xiaomi Redmi Note 4/4X|Android 7|<a href="/bigota2?version=9.9.24&codename=HMNote4X&hash=262d7134b6&android=7.0&type=zip">Download</a>|
+|Xiaomi Mi Mix|Android 8|<a href="/bigota2?version=9.9.24&codename=MIMIX&hash=6709df3c5c&android=8.0&type=zip">Download</a>|
+|Xiaomi Redmi 6A|Android 9|<a href="/bigota2?version=9.9.24&codename=HM6A&hash=44c8ff2bc8&android=9.0&type=zip">Download</a>|
+|Xiaomi Redmi 6|Android 9|<a href="/bigota2?version=9.9.24&codename=HM6&hash=8fc21c8381&android=9.0&type=zip">Download</a>|
+|Xiaomi Mi 5s|Android 8|<a href="/bigota2?version=9.9.24&codename=MI5S&hash=5cae3900e2&android=8.0&type=zip">Download</a>|
+|Xiaomi Mi Note 2|Android 8|<a href="/bigota2?version=9.9.24&codename=MINote2&hash=f50d384394&android=8.0&type=zip">Download</a>|
+|Xiaomi Mi Mix 2|Android 9|<a href="/bigota2?version=9.9.24&codename=MIMIX2&hash=20b0f6bbb7&android=9.0&type=zip">Download</a>|
+|Xiaomi Mi 8 UD|Android 9|<a href="/bigota2?version=9.9.24&codename=MI8UD&hash=9846fc3fcb&android=9.0&type=zip">Download</a>|
+|Xiaomi Mi Max 2|Android 7.1|<a href="/bigota2?version=9.9.24&codename=MIMAX2&hash=72196148d5&android=7.1&type=zip">Download</a>|
+|Xiaomi Redmi 5A|Android 8.1|<a href="/bigota2?version=9.9.24&codename=HM5A&hash=eb224cf2db&android=8.1&type=zip">Download</a>|
+|Xiaomi Redmi 5|Android 8.1|<a href="/bigota2?version=9.9.24&codename=HM5&hash=a4d4dda7a9&android=8.1&type=zip">Download</a>|
+|Xiaomi Redmi 6 Pro|Android 9|<a href="/bigota2?version=9.9.24&codename=HM6Pro&hash=877e2f4d5c&android=9.0&type=zip">Download</a>|
+|Xiaomi Redmi 4/4X|Android 7.1|<a href="/bigota2?version=9.9.24&codename=HM4X&hash=4008b63019&android=7.1&type=zip">Download</a>|
+|Xiaomi Redmi Note 5A|Android 7.1|<a href="/bigota2?version=9.9.24&codename=HMNote5A&hash=07d0f4889f&android=7.1&type=zip">Download</a>|
+|Xiaomi Redmi Note 5A Lite|Android 7.1|<a href="/bigota2?version=9.9.24&codename=HMNote5ALITE&hash=8c99d2f5c4&android=7.1&type=zip">Download</a>|
+|Xiaomi Mi 8 EE|Android 9|<a href="/bigota2?version=9.9.24&codename=MI8Explorer&hash=97de2e87ef&android=9.0&type=zip">Download</a>|
+|Xiaomi Mi 6X|Android 9|<a href="/bigota2?version=9.9.24&codename=MI6X&hash=5f546ea7b6&android=9.0&type=zip">Download</a>|
+|Xiaomi Redmi K20|Android 10|<a href="/bigota2?version=9.9.25&codename=DAVINCI_9.9.25_030918b882&android=10.0&type=zip">Download</a>|
+|Xiaomi Redmi Note 8|Android 9|[Download](/bigota2?version=9.9.25&codename=BEGONIA&hash=63b9ff3ba0&android=9.0&type=zip)|
