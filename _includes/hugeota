@@ -7,12 +7,11 @@
         return !1
     }
     window.onload = function () {
-        var klik = w = getQueryVariable("codename"),
-            x = getQueryVariable("type"),
-            y = getQueryVariable("name"),
-            z = getQueryVariable("version");
-        document.getElementById("download").innerHTML = w + " " + z, document.getElementById("download").href = "https://hugeota.d.miui.com/" + z + "/" + w + "_" + z + "_"+ y + "." + x 
+        var klik = v = getQueryVariable("version"),
+            w = getQueryVariable("codename"),
+            x = getQueryVariable("hash"),
+            y = getQueryVariable("android"),
+            z = getQueryVariable("type");
+        document.getElementById("download").innerHTML = "MIUI " + w + " Android " + z, document.getElementById("download").href = https://hugeota.d.miui.com/" + v + "/miui_" + w + "_" + v + "_" + x + "_" + y + "." + z 
     };
 </script>
-
-https://hugeota.d.miui.com/9.9.24/miui_CEPHEUS_9.9.24_b338eb5e70_10.0.zip
