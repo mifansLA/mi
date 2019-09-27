@@ -63,5 +63,5 @@ File ROM MIUI 11 baik beta maupun stabil bisa diunduh dari tabel di bawah jika s
 |Xiaomi Redmi Note 5A Lite|Android 7.1|<a href="/bigota2?version=9.9.24&codename=HMNote5ALITE&hash=8c99d2f5c4&android=7.1&type=zip">Download</a>|
 |Xiaomi Mi 8 EE|Android 9|<a href="/bigota2?version=9.9.24&codename=MI8Explorer&hash=97de2e87ef&android=9.0&type=zip">Download</a>|
 |Xiaomi Mi 6X|Android 9|<a href="/bigota2?version=9.9.24&codename=MI6X&hash=5f546ea7b6&android=9.0&type=zip">Download</a>|
-|Xiaomi Redmi K20|Android 10|<a href="/bigota2?version=9.9.25&codename=DAVINCI_9.9.25_030918b882&android=10.0&type=zip">Download</a>|
+|Xiaomi Redmi K20|Android 10|<a href="/bigota2?version=9.9.25&codename=DAVINCI&hash=030918b882&android=10.0&type=zip">Download</a>|
 |Xiaomi Redmi Note 8|Android 9|[Download](/bigota2?version=9.9.25&codename=BEGONIA&hash=63b9ff3ba0&android=9.0&type=zip)|
