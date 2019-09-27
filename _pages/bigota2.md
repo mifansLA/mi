@@ -1,6 +1,6 @@
 ---
 sitemap: false
-title: "MIUI ROM Server Download"
+title: "MIUI Secure Server ROM Download"
 excerpt: "Download Full ROM MIUI - Fastboot (tgz) or Recovery (zip)"
 permalink: "/bigota2"
 ---
