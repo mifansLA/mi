@@ -11,6 +11,6 @@
             x = getQueryVariable("type"),
             y = getQueryVariable("name"),
             z = getQueryVariable("version");
-        document.getElementById("download").innerHTML = w + " " + z, document.getElementById("download").href = "https://hugeota.d.miui.com/" + z + "/" + y + "_" + z + "_" + x 
+        document.getElementById("download").innerHTML = w + " " + z, document.getElementById("download").href = "https://hugeota.d.miui.com/" + z + "/" + y + "_" + w + "_"+ z + "_" + x 
     };
 </script>
