@@ -1,9 +1,12 @@
 ---
+permalink: /xiaomi-adb-fastboot
 title:  Xiaomi ADB/Fastboot Tools
 excerpt: Use the program at your own risk. Removing apps which aren't listed in the Uninstaller by default may brick your device.
 header:
 comments: true
-last_modified_at: 2018-02-14
+last_modified_at: 2019-09-27
+redirect_from:
+ - /_pages/xiaomi-adb-fastboot
 ---
 
 ## Modules
