@@ -8,7 +8,8 @@ sitemap: false
 header:
  overlay_image: https://www.fembed.com/asset/default/landing/bg-1.png
 ---
-> Link is generated at bottom, link ada di bawah posting.
+Link is generated [at bottom](#fembed), _link ada [di bawah](#fembed) posting_.
+{:.notice .notice--info aria-label-hidden="true"}
 
 {% include respo.html %}
 
