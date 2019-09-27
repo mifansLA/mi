@@ -27,7 +27,7 @@ File ROM MIUI 11 baik beta maupun stabil bisa diunduh dari tabel di bawah jika s
 
 ### MIUI 11 Beta Downloads
 
-|Device|Android version|Download link|
+|Device|Android version|Download link `.zip`|
 |---|---:|:---:|
 |Xiaomi Mi 9|Android 10|<a href="/hugeota?version=9.9.24&codename=CEPHEUS&hash=b338eb5e70&android=10.0&type=zip">Download</a>|
 |Xiaomi Mi 6|Android 9|<a href="/bigota2?version=9.9.24&codename=MI6&hash=1311e25b28&android=9.0&type=zip">Download</a>|
