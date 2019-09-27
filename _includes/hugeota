@@ -12,7 +12,7 @@
             x = getQueryVariable("hash"),
             y = getQueryVariable("android"),
             z = getQueryVariable("type");
-        document.getElementById("download").innerHTML = "MIUI " + w + " Android " + y,
+        document.getElementById("download").innerHTML = w + " MIUI " + v + " Android " + y,
         document.getElementById("download").href = "https://hugeota.d.miui.com/" + v + "/miui_" + w + "_" + v + "_" + x + "_" + y + "." + z 
     };
 </script>
