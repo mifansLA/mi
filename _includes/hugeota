@@ -11,6 +11,8 @@
             x = getQueryVariable("type"),
             y = getQueryVariable("name"),
             z = getQueryVariable("version");
-        document.getElementById("download").innerHTML = w + " " + z, document.getElementById("download").href = "https://hugeota.d.miui.com/" + z + "/" + w + "_" + z + "_"+ y + "_" + x 
+        document.getElementById("download").innerHTML = w + " " + z, document.getElementById("download").href = "https://hugeota.d.miui.com/" + z + "/" + w + "_" + z + "_"+ y + "." + x 
     };
 </script>
+
+https://hugeota.d.miui.com/9.9.24/miui_CEPHEUS_9.9.24_b338eb5e70_10.0.zip
