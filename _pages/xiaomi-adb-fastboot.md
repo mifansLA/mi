@@ -1,7 +1,7 @@
 ---
 permalink: /xiaomi-adb-fastboot
-title:  Xiaomi ADB/Fastboot Tools
-excerpt: Use the program at your own risk. Removing apps which aren't listed in the Uninstaller by default may brick your device.
+title:  "Xiaomi ADB/Fastboot Tools (XAFT)"
+excerpt: "Use the program at your own risk. Removing apps which aren't listed in the Uninstaller by default may brick your device."
 header:
 comments: true
 last_modified_at: 2019-09-27
@@ -20,9 +20,11 @@ redirect_from:
 * **OEM Unlocker & Locker** - Lock or unlock the bootloader (Unlocking is supported by the Android One devices only)
 * **Rebooter** - Advanced rebooting options using ADB/Fastboot
 
-![](https://raw.githubusercontent.com/mifansLA/XiaomiADBFastbootTools/master/screenshot.PNG)
+![Xiaomi ADB/Fastboot Tool](https://raw.githubusercontent.com/Saki-EU/XiaomiADBFastbootTools/master/screenshot.PNG)
 
-## Download the executable JAR from [here](https://github.com/mifansLA/XiaomiADBFastbootTools/releases).
+## Download XAFT
+
+Download the executable JAR from [here](https://github.com/Saki-EU/XiaomiADBFastbootTools/releases).
 
 **Warning: Use the program at your own risk. Removing apps which aren't listed in the Uninstaller by default may brick your device.**
 
