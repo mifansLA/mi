@@ -13,5 +13,5 @@ Before you use it with MiFlasTool, extract first! You can use both **RAR** and *
 <div style="display:block;text-align:center;">
 <a id="download" class="btn btn--danger btn--large btn--block" style="break-word:word-break;break-word:break-all;!important;" href="">Waiting...</a>
 </div>
-{% include bigota %}
+{% include hugeota %}
 {% include infeeds.html %}
