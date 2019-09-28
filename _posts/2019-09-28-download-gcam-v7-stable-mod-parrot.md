@@ -3,6 +3,7 @@ title: "Download & Setting GCam V7 Stable Mod by Parrot043"
 excerpt: "Link download GCam v7 modifikasi oleh parrot043 dan setting rekomendasi"
 header:
  image: "https://miro.medium.com/max/1200/1*lz26yVLDdDSQv5-tf9LMhA.png"
+ teaser_image: "https://miro.medium.com/max/400/1*lz26yVLDdDSQv5-tf9LMhA.png"
  caption: "Google Camera V7 Modification by Parrot"
 categories:
  - gcam
