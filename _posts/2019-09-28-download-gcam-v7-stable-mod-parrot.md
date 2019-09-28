@@ -30,6 +30,7 @@ Have a nice photo!
 
 ## Download
 
-|GCam Version|Stable for|Link|
-|PMGC 7.0.009 Stabe Version|whyred, lavender, chepeus, X2|[Drive](https://mi.knoacc.org/dl/drive?id=11NNTLaARRjInBq_bAEHzlfcJZdyA-BcU&size=96MB&name=PMGC_7.0.009_StableVersion_V7.apk)|
+|GCam Version|Stable for|Link Download|
+|---|:---:|---:|
+|PMGC 7.0.009 Stabe Version|whyred, lavender, chepeus, X2|[G Drive](https://mi.knoacc.org/dl/drive?id=11NNTLaARRjInBq_bAEHzlfcJZdyA-BcU&size=96MB&name=PMGC_7.0.009_StableVersion_V7.apk){:.btn .btn--info}|
 
