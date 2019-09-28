@@ -15,18 +15,19 @@ tags:
 Setting Recomendation via mediumh by [@topgusich](https://medium.com/@topgusich/7-0-настройки-google-camera-67efb4707705). The manual is now available for configuration and familiarization with the functionality on the current version!
 {:.notice .notice--info}
 
-The modifications of Google Camera done by Russian modificator **Parrot043**. He modified [Stable version of V7 DogFood](https://mi.knoacc.org/GCam-7-apk-and-magisk-module-needed) from beta testing wich is **V7.0.009.259843690**. The APK available in the download section is the result from his last modifying on September 28, 2019.
+The modifications of Google Camera done by Russian modificator **Parrot043**. He modified [Stable version of V7 DogFood](https://mi.knoacc.org/GCam-7-apk-and-magisk-module-needed) from beta testing wich is **V7.0.009.259843690**. The APK available in the [download section](#download) is the result from his last modifying on _September 28, 2019_.
 
 This last version release are ready to give it the status of a **stable version** on devices:
 - Redmi Note 5 Pro (whyred).
 - Redmi Note 7 / 7S (lavender).
 - LeEco LeMax2 (X2).
 - Mi 9 (chepeus)
+
 **Parrot043**, as the modificator has been tried to make 7.0.009 more stable than it was immediately. Even on other devices mentioned, performance is not known!
 
-For now, the bugs are unknown or none.
+> For now, the bugs are **unknown** or **none**.
 
-## Download
+### Download
 
 |GCam Version|Stable for|Link Download|
 |---|:---:|---:|
