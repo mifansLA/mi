@@ -9,17 +9,17 @@ categories: [resources]
 tags: [download, gcam 7, magisk module, google camera]
 ---
 
-Penting: Sudah pasang Magisk Manager dan Magisk Installer
+Penting: Sudah pasang Magisk Manager dan Magisk Installer dan **hanya bisa dipasang pada Android Pie 9.0 ke atas** 
 {:.notice .notice--danger}
 
 |File|Download|Size|
 |:---:|:---|:--:|
 |Google Camera v7.0 APK|[via Gdrive](https://bit.ly/2lRcHC1){:.btn .btn--success}|137 MB|
-|Magisk Module for GCam 7.0|1. v.1.0 [via Gdrive](https://bit.ly/2lOVhGa){:.btn .btn--success}|6 KB|
-||2. v.1.1 [direct](/assets/filles/GCam7_Cam2api_v1.1.zip){:.btn .btn--success}|6 KB|
+|Magisk Module|1. v.1.0 [via Gdrive](https://bit.ly/2lOVhGa){:.btn .btn--success}|6 KB|
+|for GCam 7.0|2. v.1.1 [direct](/assets/filles/GCam7_Cam2api_v1.1.zip){:.btn .btn--success}|6 KB|
 ||3. v.1.2 [direct](/assets/filles/GCam7_Cam2api_v1.2.zip){:.btn .btn--success}|6 KB|
 
-## Step
+### Step
 
 1. Install magisk modul via magisk manager
 2. Reboot
@@ -27,7 +27,7 @@ Penting: Sudah pasang Magisk Manager dan Magisk Installer
 4. Buka aplikasi GCam
 5. Izinkan semua permintaan izin aplikasi.
 
-## Screnshoot
+### Screnshoot
 
 [![Google Camera v7](https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2019/09/google_camera_7_cover-1.jpg?resize=1024,720&quality=82&strip=all&ssl=1)](https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2019/09/google_camera_7_cover-1.jpg?resize=1600,1250&quality=100&strip=all&ssl=1){:.align-center title="Google Camera v7 Dogfood"}
 
@@ -45,8 +45,8 @@ Following is the first ever **Google Camera 7.0 mod APK** available for download
 The latest Google Camera 7.0 (Gcam 7.0) port from the Google Pixel 4 XL device has been tested working on devices like Nokia 6.1, Google Pixel 3, 2, 1, OnePlus 7, 7 Pro, Essential Phone, Xiaomi Redmi K20 Pro, and more.
 
 |Modder|Download|Mod Version|Size|
-|_parrot_|[gdrive](https://bit.ly/2mhZsdD|parrot_V2.0|78 MB|
+|_parrot_|[gdrive](https://bit.ly/2mhZsdD)|parrot_V2.0|78 MB|
 |_nullbyte_|[gdrive](https://bit.ly/2knOgf2)|nullybyte_V1.0|138 MB|
 
-Catatan: Tidak perlu magisk module, tetapi harus Android 9.0 Pie
+Catatan: Tidak perlu magisk module, tetapi harus Android 9.0 Pie dan _camera2api_ aktif.
 {:.notice .notice--danger}
