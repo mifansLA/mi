@@ -27,7 +27,7 @@ Secara khusus, Epic ROM untuk Mi A1 kali ini dibangun dari ROM MIUI Eropa (Xiaom
 
 ### Langkah instalasi
 
-Pastikan bootloader sudah **Unlocked** sebelum mempraktekan. Sebaiknya gunakan custom **TWRP CosmicDan**, bisa di unduh [di sini](https://github.com/CosmicDan-Android/android_device_xiaomi_tissot/releases/tag/2.5). Untuk data di internal, sebaiknya pindahkan ke penyimpanan cadangan/eksternal.
+Pastikan bootloader sudah **Unlocked** sebelum mempraktekan. Sebaiknya gunakan custom **TWRP CosmicDan**, bisa di unduh [di sini](https://github.com/CosmicDan-Android/android_device_xiaomi_tissot/releases/tag/2.5){:rel="nofollow external noopener"}. Untuk data di internal, sebaiknya pindahkan ke penyimpanan cadangan/eksternal.
 
 Berikut langkahnya secara singkat.
 
@@ -40,5 +40,5 @@ Berikut langkahnya secara singkat.
 
 ### Troubleshoot
 
-1. Bug mic, suara telepon: flash fix dari tread di forum xda [ini](https://forum.xda-developers.com/mi-a1/themes/twrp-voice-calls-fix-10-0-3-0-firmware-t3882745)
-2. Bug kamera: Gunakan **Google Camera**, bisa ambil [dari sini](/) (original) atau [yang ini](/)(modifikasi)
+1. Bug mic, suara telepon: flash fix dari tread di forum xda [ini](https://forum.xda-developers.com/mi-a1/themes/twrp-voice-calls-fix-10-0-3-0-firmware-t3882745){:rel="nofollow external noopener"}
+2. Bug kamera: Gunakan **Google Camera**, bisa ambil [dari sini](https://www.celsoazevedo.com/files/android/google-camera/){:rel="nofollow external noopener"} (pilih sendiri).
