@@ -18,8 +18,8 @@ This is an alpha build, no support will be provided for it.
 ## SCREENSHOOTS
 
 |:---:|:---:|:---:|:---:|
-|[![ss 1](https://catetan.istimiwir.hosts/assets/images/photo_2019-09-06_23-51-00.jpg)](https://catetan.istimiwir.hosts/assets/images/photo_2019-09-06_23-51-00.jpg)|[![ss 2](https://catetan.istimiwir.hosts/assets/images/photo_2019-09-06_23-51-13.jpg)](https://catetan.istimiwir.hosts/assets/images/photo_2019-09-06_23-51-13.jpg)|[![ss 3](https://catetan.istimiwir.hosts/assets/images/photo_2019-09-06_23-51-17.jpg)](https://catetan.istimiwir.hosts/assets/images/photo_2019-09-06_23-51-17.jpg)|
-|[![ss 3](https://catetan.istimiwir.hosts/assets/images/photo_2019-09-06_23-51-21.jpg)](https://catetan.istimiwir.hosts/assets/images/photo_2019-09-06_23-51-21.jpg)|[![ss 4](https://catetan.istimiwir.hosts/assets/images/photo_2019-09-06_23-51-25.jpg)](https://catetan.istimiwir.hosts/assets/images/photo_2019-09-06_23-51-25.jpg)|[![ss 6](https://catetan.istimiwir.hosts/assets/images/photo_2019-09-06_23-51-28.jpg)](https://catetan.istimiwir.hosts/assets/images/photo_2019-09-06_23-51-28.jpg)|
+|[![ss 1](https://catetan.istimiwir.host/assets/images/photo_2019-09-06_23-51-00.jpg)](https://catetan.istimiwir.host/assets/images/photo_2019-09-06_23-51-00.jpg)|[![ss 2](https://catetan.istimiwir.host/assets/images/photo_2019-09-06_23-51-13.jpg)](https://catetan.istimiwir.host/assets/images/photo_2019-09-06_23-51-13.jpg)|[![ss 3](https://catetan.istimiwir.host/assets/images/photo_2019-09-06_23-51-17.jpg)](https://catetan.istimiwir.host/assets/images/photo_2019-09-06_23-51-17.jpg)|
+|[![ss 3](https://catetan.istimiwir.host/assets/images/photo_2019-09-06_23-51-21.jpg)](https://catetan.istimiwir.host/assets/images/photo_2019-09-06_23-51-21.jpg)|[![ss 4](https://catetan.istimiwir.host/assets/images/photo_2019-09-06_23-51-25.jpg)](https://catetan.istimiwir.host/assets/images/photo_2019-09-06_23-51-25.jpg)|[![ss 6](https://catetan.istimiwir.host/assets/images/photo_2019-09-06_23-51-28.jpg)](https://catetan.istimiwir.host/assets/images/photo_2019-09-06_23-51-28.jpg)|
 
 ## DOWNLOADS
 
