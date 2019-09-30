@@ -19,7 +19,7 @@ Secara khusus, Epic ROM untuk Mi A1 kali ini dibangun dari ROM MIUI Eropa (Xiaom
 <figure class="half">
 <a href="/assets/image/FB_IMG_1569864128243.jpg" title="Screenshoot 1"><img src="/assets/image/FB_IMG_1569864128243.jpg" alt="Epic ROM MIUI 11" /></a>
 <a href="/assets/image/FB_IMG_1569864134439.jpg" title="Screenshoot 2"><img src="/assets/image/FB_IMG_1569864134439.jpg" alt="Epic ROM MIUI 11" /></a>
-<figcaption>Tangkapan layar MIUI 11 Epic ROM</figure>
+<figcaption>Tangkapan layar MIUI 11 Epic ROM</figcaption>
 </figure>
 
 **Perhatikan:** Tutorial ini hanya diperuntukkan bagi yang sudah memahami resiko menggunakan custom rom dan segala akibat yang ditimbulkan jika gagal salam proses instalasi maupun setelah instalasi. Serta mampu membenahi sendiri jika terjadi hal-hal yang tidak diinginkan .
