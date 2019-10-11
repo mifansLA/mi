@@ -12,7 +12,7 @@ Download anything and everything!! Videoder lets you download unlimited music an
 
 ## What's new in Videoder 14.4.2:
 
--Fixed warning message from Play Protect due to too many calls to websites/apis returning 502 errors
+-Fixed [warning message](/videoder-14.2-premium-apk-no-ads/) from Play Protect due to too many calls to websites/apis returning 502 errors
 -Audio Plugin for ARM V7 devices is now bundled with the apk to fix audio plugin error
 -Fixed error while playing video on some devices
 -Brought back default playback resolution preference in Playback-Settings
@@ -54,7 +54,7 @@ Search and download channels and playlists in one go!!
 
 ## Download Videoder Premium 14.4.2
 
-So what are you waiting for. Download this amazing app now and experience the joy of having every single music and video for free. And this is just the beginning for our app. Stay tuned for crazy future updates.
+So what are you waiting for? Download this amazing app now and experience the joy of having every single music and video for free. And this is just the beginning for our app. Stay tuned for crazy future updates.
 
 **Videoder Premium 14.4.2 APK**{:onclick="window.location.href='/dl/mega?hash=MkwFCyCpA!FdJMikp1C3hD4C3MRJGQeFj4_PniZ3kWOaCGGRdk4gA&name=VideoderPremium_14.4.2.apk&size=9.67MB'" .btn .btn--danger}
 
@@ -64,7 +64,7 @@ So what are you waiting for. Download this amazing app now and experience the jo
 
 Step by Step Guide
 
-**Step 1.** Download the Premium Apk Latest version from link given above. Uninstall Free version or [previous premium version](/videoder-v14-video-music-downloader-adfree) if you have installed already.
+**Step 1.** Download the Premium Apk Latest version from [link given above](#download-videoder-premium-1442). Uninstall Free version or [previous premium](/videoder-14.2-premium-apk-no-ads/) [version](/videoder-v14-video-music-downloader-adfree) if you have installed already.
 
 **Step 2.** Tap on the apk and Allow Unknown Sources option from the settings. Now, Tap on it to install the app successfully.
 
