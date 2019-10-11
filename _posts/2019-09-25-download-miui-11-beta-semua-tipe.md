@@ -26,7 +26,7 @@ File ROM MIUI 11 baik beta maupun stabil bisa diunduh dari tabel di bawah jika s
 
 ### MIUI 11 Beta Downloads
 
-> Update **12/10/2019** Closed Beta MIUI 11 Android 10 untuk: **Mi 8, Mi Mix 2S, Mi Mix 3**{:onclick="window.location.href="'https://mi.knoacc.org/download-closed-beta-miui-11-android-10'" target="_blank" .btn .btn--info}
+> Update **12/10/2019** Closed Beta MIUI 11 Android 10 untuk: **Mi 8, Mi Mix 2S, Mi Mix 3**{:onclick="window.location.href='/download-closed-beta-miui-11-android-10'" target="_blank" .btn .btn--info}
 
 **Perhatikan!** Link yang diberikan adalah tautan langsung **menuju server official MIUI**. Kita tidak melakukan re-hosting/mirror maupun re-upload ke file hosting external selain server MIUI.
 {:.notice .notice-info}
