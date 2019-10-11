@@ -6,9 +6,9 @@ permalink: "/bigota2"
 ---
 <!-- query: type ver name. link: /ver/type_ver_name -->
 <figure><img alt="Download MIUI ROM Update" src="https://attach-en-miui-com.cdn.ampproject.org/i/attach.en.miui.com/forum/201406/12/021707ukthirzprzt4n3rz.jpg"/><figcaption>Mi Bunny always love you!</figcaption></figure>
-If your downloaded files is named `.tar.gz` or `.gzip`, You need to change file extension to `.tgz`. _Jika file yang kamu unduh berubah akhiran menjadi `tar.gz` atau `.gzip`, rubah kembali menjadi `.tgz`._
+If your downloaded files (for firmware/fastboot rom) is named `.tar.gz` or `.gzip`, You need to change file extension to `.tgz`. _Jika file yang kamu unduh berubah akhiran menjadi `tar.gz` atau `.gzip`, rubah kembali menjadi `.tgz`._
 {:.alert .alert-warning}
-Before you use it with MiFlasTool, extract first! You can use both **RAR** and **7Zip**. _Sebelum kamu pakai, ekstrak dulu dengan **RAR** atau **7zip**_.
+Except recovery/full ROM (`.zip` file), before you use it with MiFlasTool, extract first! You can use both **RAR** and **7Zip**. _Sebelum kamu pakai, ekstrak dulu dengan **RAR** atau **7zip**_, kecuali ROM updater/recovery (file `.zip`).
 {:.alert .alert-info}
 <div style="display:block;text-align:center;">
 <a id="download" class="btn btn--danger btn--large btn--block" style="break-word:word-break;break-word:break-all;!important;" href="">Waiting...</a>
