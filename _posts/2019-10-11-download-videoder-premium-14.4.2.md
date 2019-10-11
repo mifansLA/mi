@@ -56,4 +56,4 @@ So what are you waiting for. Download this amazing app now and experience the jo
 
 **Videoder Premium 14.4.2 APK**{:onclick="window.location.href='/dl/mega?hash=MkwFCyCpA!FdJMikp1C3hD4C3MRJGQeFj4_PniZ3kWOaCGGRdk4gA&name=VideoderPremium_14.4.2.apk&size=9.67MB'" .btn .btn--danger}
 
-**Videoder Premium 14.4.2 APK**{:onclick="window.location.href='/dl/mediafire?fileid=&name=VideoderPremium_14.4.2.apk&size=9.67'" .btn .btn--info}
+**Videoder Premium 14.4.2 APK**{:onclick="window.location.href='/dl/mediafire?file=8of0aazczewddqp&name=Videoder_premium_14.4.2.apk&size=9.67MB'" .btn .btn--info}
