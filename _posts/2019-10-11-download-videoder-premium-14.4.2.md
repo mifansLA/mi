@@ -17,7 +17,7 @@ Download anything and everything!! Videoder lets you download unlimited music an
 - Fixed error while playing video on some devices
 - Brought back default playback resolution preference in Playback-Settings
 
-## Videoder Feature:
+## Videoder 14.4.2 Feature:
 
 Some of the awesome features that our app has are :
 
