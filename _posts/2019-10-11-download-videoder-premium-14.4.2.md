@@ -3,7 +3,7 @@ title: "Download Videoder 14.4.2 Latest Version"
 excerpt: "Download anything and everything!! Videoder Premium 14.4.2 lets you download unlimited music and videos for absolutely free. Withouds annoying Ads"
 header:
  image: "https://dummyimage.com/720x120/00/f.gif&text=Videoder+Premium+14.4.2"
- teaser: "https://i.ytimg.com/vi/yOiIHbQ4QNg/maxresdefault.jpg"
+ teaser: "https://i.ytimg.com/vi/yOiIHbQ4QNg/hqdefault.jpg"
 categories: [APK]
 tags: [apk pro, download apk, premium apk, videoder apk, videoder premium, videoder pro]
 toc: true
