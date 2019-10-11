@@ -18,9 +18,9 @@ But before you go ahead and flash it on your device take note that these are ver
 
 |Device|Android version|Download link .zip|
 |---|:---:|---:|
-|Xiaomi Mi 8|Android 10|**Download**{:onclick="window.location.href="https://mi.knoacc.org/bigota2?version=9.10.10&codename=MI8&hash=c2512408d5&android=10.0&type=zip'" target="_blank" .btn .btn--danger}|
-|Xiaomi Mi Mix 2S|Android 10|**Download**{:onclick="window.location.href="https://mi.knoacc.otg/bigota2?version=9.10.10&codename=MIMIX2S&hash=00085ea9d9&android=10.0&type=zip' "target="_blank" .btn .btn--danger}|
-|Xiaomi Mi Mix 3|Android 10|**Download**{:onclick="window.location.href="https://mi.knoacc.org/hugeota?version=9.10.10&codename=MIMIX3&hash=88516ec331&android=10.0&type=zip'" target="_blank" .btn .btn--danger}|
+|Xiaomi Mi 8|Android 10|**Download**{:onclick="window.location.href="'https://mi.knoacc.org/bigota2?version=9.10.10&codename=MI8&hash=c2512408d5&android=10.0&type=zip'" target="_blank" .btn .btn--danger}|
+|Xiaomi Mi Mix 2S|Android 10|**Download**{:onclick="window.location.href="'https://mi.knoacc.otg/bigota2?version=9.10.10&codename=MIMIX2S&hash=00085ea9d9&android=10.0&type=zip' "target="_blank" .btn .btn--danger}|
+|Xiaomi Mi Mix 3|Android 10|**Download**{:onclick="window.location.href="'https://mi.knoacc.org/hugeota?version=9.10.10&codename=MIMIX3&hash=88516ec331&android=10.0&type=zip'" target="_blank" .btn .btn--danger}|
 
 {% include respo.html %}
 
