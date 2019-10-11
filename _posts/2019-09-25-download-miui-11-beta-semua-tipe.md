@@ -14,8 +14,8 @@ tags:
  - download rom
 redirect_from:
  - /miui-11-beta
-last_modified_at: 2019-09-28 03:56:19
-last_updated_at: 2019-09-26 17:00:33
+last_modified_at: 2019-10-12 03:56:19
+# last_updated_at: 2019-09-26 17:00:33
 ---
 MIUI 11 [sudah resmi diumumkan](https://mi.knoacc.org/miui-11-fitur-jadwal-rilis-daftar-ponsel-redmi). Srbelumnya, beberapa tipe [ponsel yang akan mendapatkan MIUI 11](https://mi.knoacc.org/daftar-ponsel-xiaomi-dapat-udate-miui-11) masih berupa rumor. Kamu bisa mendapatkan pembaruan Link Full ROM maupun Fastboot ROM dari halaman ini. 
 
@@ -28,6 +28,8 @@ File ROM MIUI 11 baik beta maupun stabil bisa diunduh dari tabel di bawah jika s
 {:.notice .notice-info}
 
 ### MIUI 11 Beta Downloads
+
+> Update **12/10/2019** Closed Beta MIUI 11 Android 10 untuk: **Mi 8, Mi Mix 2S, Mi Mix 3**{:onclick="window.location.href="'https://mi.knoacc.org/download-closed-beta-miui-11-android-10'" target="_blank" .btn .btn--info}
 
 |Device|Android version|Download link `.zip`|
 |---|---:|:---:|
