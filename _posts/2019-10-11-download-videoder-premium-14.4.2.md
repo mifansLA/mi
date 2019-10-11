@@ -12,10 +12,10 @@ Download anything and everything!! Videoder lets you download unlimited music an
 
 ## What's new in Videoder 14.4.2:
 
--Fixed [warning message](/videoder-14.2-premium-apk-no-ads/) from Play Protect due to too many calls to websites/apis returning 502 errors
--Audio Plugin for ARM V7 devices is now bundled with the apk to fix audio plugin error
--Fixed error while playing video on some devices
--Brought back default playback resolution preference in Playback-Settings
+- Fixed [warning message](/videoder-14.2-premium-apk-no-ads/) from Play Protect due to too many calls to websites/apis returning 502 errors
+- Audio Plugin for ARM V7 devices is now bundled with the apk to fix audio plugin error
+- Fixed error while playing video on some devices
+- Brought back default playback resolution preference in Playback-Settings
 
 ## Videoder Feature:
 
