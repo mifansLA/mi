@@ -3,11 +3,11 @@ title: "Download AOSP Extended Redmi 5 Plus (Vince) Android Pie"
 excerpt: "Custom ROM untuk Xiaomi Redmi 5 Plus (Vince) Android Pie 9.0 Rilis Bulan Agustus 2019"
 categories: [ROM]
 header:
- teaser: "https://a.radikal.ru/a30/1902/22/dab6bbdecd49.jpg"
+ teaser: "https://i.imgur.com/Np7jfnY.png"
 tags: [aex rom, aosp extended pie, redmi 5 plus, rom vince pie, download rom]
 last_modified_at: 2019-10-12 00:01:32
 ---
-![AOSP Extended Vince](https://a.radikal.ru/a30/1902/22/dab6bbdecd49.jpg){:.align-center}
+![AOSP Extended Vince](http://i.imgur.com/Np7jfnY.png){:.align-center}
 <style>
 .btn:hover,.btn:focus {cursor: pointer}
 </style>
