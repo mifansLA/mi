@@ -1,6 +1,6 @@
 ---
 title: "Download Havoc OS Redmi 5 Plus (Vince) Android Pie"
-excerpt: "Custom ROM until Xiaomi Redmi 5 Plus (Vince) Android Pie 9.0 Rilis Bulan Oktober 2019"
+excerpt: "Custom ROM untuk Xiaomi Redmi 5 Plus (Vince) Android Pie 9.0 Rilis Bulan Oktober 2019"
 categories: [ROM]
 header:
  teaser: "https://a.radikal.ru/a30/1902/22/dab6bbdecd49.jpg"
