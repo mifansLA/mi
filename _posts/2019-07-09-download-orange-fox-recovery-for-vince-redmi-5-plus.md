@@ -4,7 +4,8 @@ excerpt: "Download Custom TWRP Orange Fox untuk Xiaomi Redmi 5 Plus"
 categories: [TWRP]
 tags: [twrp orange fox, redmi 5 plus, twrp vince, download twrp]
 header:
- teaser:
+ image: https://i0.wp.com/41882-107230-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2018/12/Orange-Fox-Recovery-Project-7.jpg
+ teaser: https://i.ytimg.com/vi/4wGcFa39rrw/hqdefault.jpg
 ---
 Orange fox adalah custom recovery hasil modifikasi dari custom recovery TWRP (Team-Win Recovery). OrangeFox menambahkan banyak fungsionalitas tambahan yang normalnya tidak diberikan oleh TWRP.
 
