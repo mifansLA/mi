@@ -9,7 +9,7 @@ header:
 
 |ROM Version|Android Version|Release|Download|Size|
 |---|---|---|
-|AEX v6.6|Android 9.0 Pie|Unofficial|_Google Drive_{:onclick="window.location.href='/dl/drive?id=1KGnG226_Z1_7imn113YN32fYJ5AHvkVR&name=AospExtended-v6.6-ido-20190611-1030-UNOFFICIAL.zip&size=Nganumas'" .btn .btn--info}|441 M|
+|AEX v6.6|Android 9.0 Pie|Unofficial|_Google Drive_{:onclick="window.location.href='/dl/drive?id=1KGnG226_Z1_7imn113YN32fYJ5AHvkVR&name=AospExtended-v6.6-ido-20190611-1030-UNOFFICIAL.zip&size=441M'" .btn .btn--info}|441 M|
 
 ### Install AEX
 
