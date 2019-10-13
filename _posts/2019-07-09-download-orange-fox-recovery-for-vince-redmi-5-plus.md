@@ -15,7 +15,7 @@ Orange fox adalah custom recovery hasil modifikasi dari custom recovery TWRP (Te
 |---|---|---|---|
 |Orange Fox R.10.0|Stable|**Sourceforge**{:.btn .btn--info target="_blank" onclick="window.location.href='https://sourceforge.net/projects/orangefox/files/vince/OrangeFox-R10.0-Stable-vince.zip/download'"}|July 9, 2019|
 
-{% include redpo.html %}
+{% include respo.html %}
 
 ### Instalasi OrangeFox
 
