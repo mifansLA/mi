@@ -32,8 +32,11 @@ This last version (mod) release are ready to give it the status of a **stable ve
 
 ### Download
 
-|GCam Version|Stable for|Link Download|
+|GCam Version|Release|Link Download|
 |---|:---:|---:|
-|PMGC 7.0.009 Stabe Version|whyred, lavender, chepeus, X2|[G Drive](https://mi.knoacc.org/dl/drive?id=11NNTLaARRjInBq_bAEHzlfcJZdyA-BcU&size=96MB&name=PMGC_7.0.009_StableVersion_V7.apk){:.btn .btn--info}|
+|PMGC 7.0.009|Final Build V14|_celsoazevedo_{:onclick="window.location.href='https://f.celsoazevedo.com/file/cfiles/gcm1/PMGC_7.0.009_FinalBuild_V14.apk'" .btn .btn--info}|
+|PMGC 7.0.009|Stabe Version V7|_GDrive_{:onclick="window.location.href='https://mi.knoacc.org/dl/drive?id=11NNTLaARRjInBq_bAEHzlfcJZdyA-BcU&size=96MB&name=PMGC_7.0.009_StableVersion_V7.apk'" .btn .btn--info}|
+
+Check GCCAM MODS update/released by another modder [here](https://t.me/s/googlecameraport){:rel="nofollow noreferrer noopener"}
 
 Are you already using his mods, and what devices You're using? Tell us your experience and opinion. Have a nice photo!
