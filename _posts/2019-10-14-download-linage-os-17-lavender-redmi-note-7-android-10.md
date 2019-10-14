@@ -1,5 +1,17 @@
 ---
 title: "Download Lineage OS 17 (Android 10) Redmi Note 7 (Lavender)"
+excerpt: "Custom ROM Android 10 untuk Xiaomi Redmi Note 7 (Lavender) Rilis Bulan September 2019"
+header:
+ image: https://1.bp.blogspot.com/-YT-DkTPx1gM/XQw0U2t8yjI/AAAAAAAAFcw/LYBhJK1X4CoT5a_-qDLwSoc8H_2TToyvwCLcBGAs/s1600/LineageOS-17-696x333.jpg
+categories:
+ - ROM
+tags:
+ - lineage os rom
+ - lineage os 17
+ - android 10
+ - redmi note 7
+ - lineage os lavender
+ - android 10 lavender
 ---
 
 ### Download Lineage OS Unofficial
