@@ -12,12 +12,21 @@ tags: [download, gcam 7, magisk module, google camera]
 Penting: Sudah pasang Magisk Manager dan Magisk Installer dan **hanya bisa dipasang pada Android Pie 9.0 ke atas** 
 {:.notice .notice--danger}
 
+## GCAM 7.x APK Original
+
 |File|Download|Size|
 |:---:|:---|:--:|
-|Google Camera v7.0 APK|[via Gdrive](https://bit.ly/2lRcHC1){:.btn .btn--success}|137 MB|
-|Magisk Module|1. v.1.0 [via Gdrive](https://bit.ly/2lOVhGa){:.btn .btn--success}|6 KB|
-|for GCam 7.0|2. v.1.1 [direct](/assets/filles/GCam7_Cam2api_v1.1.zip){:.btn .btn--success}|6 KB|
-||3. v.1.2 [direct](/assets/filles/GCam7_Cam2api_v1.2.zip){:.btn .btn--success}|6 KB|
+|Google Camera v7.0 APK|**via Gdrive**{:onclick="window.location.href='https://bit.ly/2lRcHC1'" .btn .btn--success}|137 MB|
+|Google Camera v7.1 APK|**via Gdrive**{:onclick="window.location.href='https://drive?id=1Fxiv4hGOyWyDI_W-90CbnwGr6P-ORQZm&name=GCAM_v7.1&size=116MB'" .btn .btn--success}|116 MB|
+
+_note: v7.1 diambil dari **Google PIXEL 4**_
+
+### Magisk Module for GCam 7.0
+
+|Versi|Download|
+|v.1.0|*via Gdrive*{:onclick="window.location.href='https://bit.ly/2lOVhGa'" .btn .btn--success}|6 KB|
+|v.1.1|*direct*{:onclick="window.location.href='/assets/filles/GCam7_Cam2api_v1.1.zip'" .btn .btn--success}|6 KB|
+|v.1.2|*direct*{:onclick="window.location.href='/assets/filles/GCam7_Cam2api_v1.2.zip'" .btn .btn--success}|6 KB|
 
 ### Step
 
