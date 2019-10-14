@@ -40,9 +40,4 @@ If needed, flash [GApps Pie](#gapps-android-pie) and [Latest Magisk](#magisk)
 
 _Recomended: Nano ARM64 Package_
 
-### Magisk 
-
-|Installer|Manager|Uninstaller|
-|---|---|---|
-|v20.0|v7.3.5|2019-10-11|
-|v19.0|v7.3.4|2019-09-19|
+{% include magisk.md %}
