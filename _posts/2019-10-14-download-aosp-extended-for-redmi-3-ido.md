@@ -3,6 +3,14 @@ title: "ROM AOSP Extended (AEX) v6.6 Redmi 3 (ido) Android 9.0 Pie"
 excerpt: "Download custom ROM AEX v6.6 (AOSP Extended) Android 9.0 Pie based (unofficial) untuk Redmi 3 (ido)"
 header:
  overlay_image: https://cdn.wccftech.com/wp-content/uploads/2018/08/Android-PIEe-740x555.jpg
+ teaser: https://cdn.wccftech.com/wp-content/uploads/2018/08/Android-PIEe-740x555.jpg
+categories:
+ - ROM
+tags:
+ - aex redmi 3
+ - rom aex ido
+ - aosp extends v6.6
+ - redmi 3 ido
 ---
 
 ### Download ROM
