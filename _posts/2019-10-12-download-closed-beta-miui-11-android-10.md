@@ -3,8 +3,14 @@ title: "Closed Beta MIUI 11 ROM based on Android 10"
 excerpt: "Android 10-based MIUI 11 updates for the Xiaomi Mi 8, Mi Mix 2S, and Mi Mix 3 are now in closed beta"
 header:
  image: "https://www.xda-developers.com/files/2019/09/MIUI-11-Logo_4-810x298_c.jpg"
+
 categories:
- - miui
+ - MIUI
+tags:
+ - closed beta miui
+ - miui 11 beta
+ - rom miui 11
+ - download miui 11
 ---
 The MIUI 11 **closed beta** nightlies from October 9th reveal that the aforementioned devices are now getting a bump up to Android 10.
 
