@@ -1,8 +1,10 @@
 ---
 title: "Redmi Note 8 Quad Camera 48MP Segera Dirilis di Indonesia! Harganya Bocor Duluan"
 excerpt: "Segera di rilis di Indonesia, muncul bocoran harga Redmi Note 8 yangbakan dijual di Lazada"
-image: "https://cdn.statically.io/img/gadgetren.com/wp-content/uploads/2019/08/Redmi-Note-8-Pro-Featur-1024x608.jpg"
-caption: "Redmi Note 8 Pro"
+header:
+ image: "https://cdn.statically.io/img/gadgetren.com/wp-content/uploads/2019/08/Redmi-Note-8-Pro-Featur-1024x608.jpg"
+ caption: "Redmi Note 8 Pro"
+ teaser: "https://i0.wp.com/gadgetren.com/wp-content/uploads/2019/08/Redmi-Note-8-Pro-Featur-1024x608.jpg?resize=640,320"
 categories:
  - Redmi Note
 tags:
