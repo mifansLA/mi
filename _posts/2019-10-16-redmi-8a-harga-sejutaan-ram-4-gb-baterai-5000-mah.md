@@ -4,6 +4,7 @@ excerpt: "Redmi 8A ini hadir dengan dua varian yang terdiri dari RAM 3 GB/ROM 32
 header:
  image: "https://cdn.statically.io/img/gadgetren.com/wp-content/uploads/2019/10/Redmi-8A-All-1024x646.jpg"
  caption: Redmi 8A Launch
+ teaser: "https://i0.wp.com/gadgetren.com/wp-content/uploads/2019/10/Redmi-8A-All-1024x646.jpg?resize=640,320"
 categories:
  - Redmi
 tags:
