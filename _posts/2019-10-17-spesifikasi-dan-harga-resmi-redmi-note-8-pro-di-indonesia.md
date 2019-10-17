@@ -4,6 +4,7 @@ excerpt: "Redmi Note 8 Pro secara resmi dinobatkan menjadi smartphone berkamera 
 header:
  caption: Redmi Note 8 Pro Feature
  image: https://i0.wp.com/gadgetren.com/wp-content/uploads/2019/10/Redmi-Note-8-Pro-Feature-1024x646.jpg
+ teaser: "https://i0.wp.com/gadgetren.com/wp-content/uploads/2019/10/Redmi-Note-8-Pro-Feature-1024x646.jpg?resize=640,320"
 categories:
  - Release
 tags:
