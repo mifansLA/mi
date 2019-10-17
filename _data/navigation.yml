@@ -9,8 +9,8 @@ main:
     url: https://mi.knoacc.org/update-rom-miui-92-global-stable-full-changelog
   - title: "MIUI Pro Stable"
     url: https://mi.knoacc.org/download-rom-miuipro-v92-update-semua-tipe-ponsel
-  - title: "MiFlash Tool"
-    url: https://miflashtool.knoacc.org/
+#  - title: "MiFlash Tool"
+#    url: https://miflashtool.knoacc.org/
   - title: "MiUnlock Tool"
     url: https://mi.knoacc.org/download-miflash-unlock-tool-2380310
   - title: "Xiaomi Codename"
@@ -19,5 +19,5 @@ main:
     url: https://mi.knoacc.org/testpoint
   - title: "Download GAPPS"
     url: https://gapps.knoacc.org
-  - title: "G Cam v7"
+  - title: "G Cam V7.1"
     url: https://mi.knoacc.org/GCam-7-apk-and-magisk-module-needed
