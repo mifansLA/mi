@@ -1,4 +1,6 @@
 main:
+  - title: "MIUI 11 Stable"
+    url: "/miui-11-update"
   - title: "MIUI 11 Beta"
     url: "/miui-11-beta"
   - title: "MIUI 10 Stable"
