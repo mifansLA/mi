@@ -1,5 +1,5 @@
 ---
-title: "Redmi Note 8 Pro Dirilis! Smartphone Quad Camera 64MP dan NFC Pertama di Indonesia"
+title: "Redmi Note 8 Pro Smartphone Quad Camera 64MP dan NFC Pertama di Indonesia, Ini Spesifikasi dan Harga Resminya"
 excerpt: "Redmi Note 8 Pro secara resmi dinobatkan menjadi smartphone berkamera 64 MP pertama di Indonesia"
 header:
  caption: Redmi Note 8 Pro Feature
