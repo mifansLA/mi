@@ -1,6 +1,8 @@
 ---
 title: "Daftar Perangkat Xiaomi yang Mendapat Update MIUI 11 Global Stable ROM"
 excerpt: "Berikut daftar perangkat Xiaomi yang nendapat update MIUI 11 Global Stable ROM"
+header:
+ image: /assets/image/FB_IMG_1571320882011.jpg
 categories:
  - MIUI
 tags:
