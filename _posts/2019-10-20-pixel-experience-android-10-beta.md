@@ -21,7 +21,7 @@ Simple elaborated: A Complete ROM. Based on Latest Android version, but still in
 
 ## Download
 
-Unduhan di arahkan ke server Oficial Pixel Experience.
+Unduhan di arahkan ke server Oficial Pixel Experience, Official server Orange Fox dan Xiaomi Firmware Updater.
 
 ### Pixel Experience 10 (Beta)
 
@@ -32,7 +32,7 @@ Unduhan di arahkan ke server Oficial Pixel Experience.
 |File size|952 MB|
 |md5sum| `01baa4120ef25d3ab4f8aa2d4b0eb368` |
 |Build date|2019/10/08 20:26|
-|Link|_download_|
+|Link|_download_{:onclick="window.location.href='https://get.pixelexperience.org/get_file/aUgzdzZsOEUxZVpVYVIwbnk3S3NQTVdNb05HRHdybkNtVE84c2kvRjZWZElkVWhLSlBvU3VWenUvZlE1OEJ0YWowZmtYa05sVzYrOEVWM0hvMzJLdElIb3d1RStnMDUxVHcrbVppQkxKQU4zaTFwd1l1QnM0RnptREtIN2Q0RWpQQ3JVOUczemY1Q3A1N0JVMkJ4elBRPT0=/'" .btn .btn--info}|
 
 ### Orange Fox Recovery
 
