@@ -39,8 +39,8 @@ Unduhan di arahkan ke server Oficial Pixel Experience, Official server Orange Fo
 
 |Version|Release|Link|Size|
 |---|---|---|---|
-|R10|2019-07-09|_download_{:onclick="window.location.href='https://mi.knoacc.org/dl/sourceforge?name=OrangeFox-R10.0-Stable-vince.zip&size=40.0MB&project=pixelexperience&device=vince'" .btn .btn--success}|40.0 MB|
-|R9|2019-02-15|_download_{:onclick="window.location.href='https://mi.knoacc.org/dl/sourceforge?name=OrangeFox-R9.0-Stable-vince.zip&size=37.5MB&project=pixelexperience&device=vince'" .btn .btn--success}|37.5 MB|
+|R10|2019-07-09|_download_{:onclick="window.location.href='https://mi.knoacc.org/dl/sourceforge?name=OrangeFox-R10.0-Stable-vince.zip&size=40.0MB&project=orangefox&device=vince'" .btn .btn--success}|40.0 MB|
+|R9|2019-02-15|_download_{:onclick="window.location.href='https://mi.knoacc.org/dl/sourceforge?name=OrangeFox-R9.0-Stable-vince.zip&size=37.5MB&project=orangefox&device=vince'" .btn .btn--success}|37.5 MB|
 
 ### Latest Vinces Firmware
 
