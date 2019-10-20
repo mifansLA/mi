@@ -43,8 +43,8 @@ document.getElementById("rom").href=link;
 
 |Version|Release|Link|Size|
 |---|---|---|---|
-|R10|2019-07-09|_download_{:onclick="window.location.href='https://sourceforge.net/projects/orangefox/files/vince/OrangeFox-R10.0-Stable-vince.zip/download'" .btn .btn--success|40.0 MB|
-|R9|2019-02-15|_download_{:onclick="window.location.href='https://sourceforge.net/projects/orangefox/files/vince/OrangeFox-R9.0-vince.zip/download'" .btn .btn--success|37.5 MB|
+|R10|2019-07-09|_download_{:onclick="window.location.href='https://sourceforge.net/projects/orangefox/files/vince/OrangeFox-R10.0-Stable-vince.zip/download'" .btn .btn--success}|40.0 MB|
+|R9|2019-02-15|_download_{:onclick="window.location.href='https://sourceforge.net/projects/orangefox/files/vince/OrangeFox-R9.0-vince.zip/download'" .btn .btn--success}|37.5 MB|
 
 ### Latest Vinces Firmware
 
