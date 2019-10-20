@@ -32,19 +32,15 @@ Unduhan di arahkan ke server Oficial Pixel Experience, Official server Orange Fo
 |File size|952 MB|
 |md5sum| `01baa4120ef25d3ab4f8aa2d4b0eb368` |
 |Build date|2019/10/08 20:26|
-|Link|[download](#){:rel="noopener noreferrer" #rom .btn .btn--info}|
+|Link|_download_{:onclick="window.location.href='https://mi.knoacc.org/dl/sourceforge?name=PixelExperience_vince-10.0-20191008-2026-BETA-OFFICIAL.zip&size=952MB&project=pixelexperience&device=vince'" .btn .btn--info}|
 
-<script>
-var link = "https://downloads.sourceforge.net/project/pixelexperience/vince/PixelExperience_vince-10.0-20191008-2026-BETA-OFFICIAL.zip?r=&ts=" + Math.floor(Date.now() / 1000);
-document.getElementById("rom").href=link;
-</script>
 
 ### Orange Fox Recovery
 
 |Version|Release|Link|Size|
 |---|---|---|---|
-|R10|2019-07-09|_download_{:onclick="window.location.href='https://sourceforge.net/projects/orangefox/files/vince/OrangeFox-R10.0-Stable-vince.zip/download'" .btn .btn--success}|40.0 MB|
-|R9|2019-02-15|_download_{:onclick="window.location.href='https://sourceforge.net/projects/orangefox/files/vince/OrangeFox-R9.0-vince.zip/download'" .btn .btn--success}|37.5 MB|
+|R10|2019-07-09|_download_{:onclick="window.location.href='https://mi.knoacc.org/dl/sourceforge?name=OrangeFox-R10.0-Stable-vince.zip&size=40.0MB&project=pixelexperience&device=vince'" .btn .btn--success}|40.0 MB|
+|R9|2019-02-15|_download_{:onclick="window.location.href='https://mi.knoacc.org/dl/sourceforge?name=OrangeFox-R9.0-Stable-vince.zip&size=37.5MB&project=pixelexperience&device=vince'" .btn .btn--success}|37.5 MB|
 
 ### Latest Vinces Firmware
 
