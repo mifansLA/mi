@@ -12,4 +12,8 @@ wait..
 {% include dlscfg %}
 </div>
 
+![warning sourceforge](/assets/image/Screenshot_20191022-120633.jpg){:.align-center}
+Chose: "Try download anyway" if this message appear.
+{:notice .notice--info}
+
 {% include privacy.md %}
