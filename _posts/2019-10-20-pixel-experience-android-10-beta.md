@@ -32,7 +32,7 @@ Unduhan di arahkan ke server Oficial Pixel Experience, Official server Orange Fo
 |File size|952 MB|
 |md5sum| `01baa4120ef25d3ab4f8aa2d4b0eb368` |
 |Build date|2019/10/08 20:26|
-|Link|_download_{:onclick="window.location.href='https://download.pixelexperience.org/changelog/vince/PixelExperience_vince-10.0-20191008-2026-BETA-OFFICIAL.zip/download/M1o0cHdXZW8wSjUzVXZVUDZjUFJVQmpBTjVUV3VLZ24yUU41dWQ5MnNESEtXTFBwS0tlcGVmWUNMUzc4UytJMjJadmUrSEt2Rzc1VlgzV1lheDk0YTg1SU'" .btn .btn--info}|
+|Link|_download_{:onclick="window.location.href='https://download.pixelexperience.org/changelog/vince/PixelExperience_vince-10.0-20191008-2026-BETA-OFFICIAL.zip'; rel='nofollow noreferrer noopener'" .btn .btn--info}|
 
 
 ### Orange Fox Recovery
