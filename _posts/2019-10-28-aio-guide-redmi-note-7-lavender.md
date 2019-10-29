@@ -1,6 +1,9 @@
 ---
 title: All In One Guide for Redmi Note 7 (lavender)
 excerpt: "This guide for Redmi Note 7 is explaining how to unlock bootloader, installing twrp, rooting, installing custom rom etc."
+header:
+ og_image: https://cdn.statically.io/img/www.cararoot.com/wp-content/uploads/2019/04/ubl-redmi-note-7.jpg
+ teaser: https://cdn.statically.io/img/www.cararoot.com/wp-content/uploads/2019/04/ubl-redmi-note-7.jpg
 categories:
  - tutorial
 tags:
@@ -10,6 +13,8 @@ tags:
  - root lavender
 ---
 Hello there! Do you have a Xiaomi Redmi Note 7? Off course, why woulf you read this if you don't. Here are the complete guide for who want to customise their Redmi Note 7. Please remember, this guide is written for **lavender** device.
+
+[![Redmi Note 7 (LAVENDER)](https://cdn.statically.io/img/www.cararoot.com/wp-content/uploads/2019/04/ubl-redmi-note-7.jpg)](https://cdn.statically.io/img/www.cararoot.com/wp-content/uploads/2019/04/ubl-redmi-note-7.jpg){:.align-center}
 
 **Disclaimer:** I'm not responsible if anything happens to your device. If you execute these AiO procedures properly then you shouldn't face any problems.
 {:.notice .notice-warning}
