@@ -9,9 +9,13 @@ tags:
  - install twrp lavender
  - root lavender
 ---
-I'm not responsible if anything happens to your device. If you execute these AiO procedures properly then you shouldn't face any problems.
+Hello there! Do you have a Xiaomi Redmi Note 7? Off course, why woulf you read this if you don't. Here are the complete guide for who want to customise their Redmi Note 7. Please remember, this guide is written for **lavender** device.
 
-Before you proceed please back up all your important data and make sure that your phone battery is charged >80%!
+**Disclaimer:** I'm not responsible if anything happens to your device. If you execute these AiO procedures properly then you shouldn't face any problems.
+{:.notice .notice-warning}
+
+_Tips:_ Before you proceed please back up all your important data and make sure that your phone battery is charged >80%!
+{:.notice .notice-info}
 
 ### A. Prerequisites:
 
