@@ -17,10 +17,10 @@ Hello there! Do you have a Xiaomi Redmi Note 7? Off course, why woulf you read t
 [![Redmi Note 7 (LAVENDER)](https://cdn.statically.io/img/www.cararoot.com/wp-content/uploads/2019/04/ubl-redmi-note-7.jpg)](https://cdn.statically.io/img/www.cararoot.com/wp-content/uploads/2019/04/ubl-redmi-note-7.jpg){:.align-center}
 
 **Disclaimer:** I'm not responsible if anything happens to your device. If you execute these AiO procedures properly then you shouldn't face any problems.
-{:.notice .notice-warning}
+{:.notice .notice--warning}
 
 _Tips:_ Before you proceed please back up all your important data and make sure that your phone battery is charged >80%!
-{:.notice .notice-info}
+{:.notice .notice--info}
 
 ### A. Prerequisites:
 
