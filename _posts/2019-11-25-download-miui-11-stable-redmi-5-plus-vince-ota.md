@@ -40,7 +40,7 @@ _Summary of the Changelog:_
 
 |Redmi 5 Plus (vince)|V11.0.2.0.OEGMIXM|
 |---|---|
-|OTA|[Click here](https://mi.knoacc.org/bigota2?version=V11.0.2.0.OEGMIXM&cdename=HM5PlusGlobal&hash=f74369de0c&android=8.1&type=zip)|
+|OTA|[Click here](https://mi.knoacc.org/bigota2?version=V11.0.2.0.OEGMIXM&codename=HM5PlusGlobal&hash=f74369de0c&android=8.1&type=zip)|
 |Recovery|N/A|
 |Fastboot|N/A|
 
