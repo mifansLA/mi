@@ -9,7 +9,7 @@ Untuk mengunduh file dari sourceforge **dari ponsel** klik pada teks **try to do
 
 <div style="display: block; text-align: center;">
 
-![instruction mobile](/assets/image/scfg-mobile.jpg)
+![instruction mobile](/assets/image/scfg-mobile.png)
 
 <a href="/" id="download" class="btn btn--primary">
 wait..
@@ -20,4 +20,4 @@ wait..
 {% include adsense2.html %}
 
 > **Catatan:** Laman ini dibuat agar bisa membagikan link unduhan dari sourceforge di sosial media (khususnya Facebook).
-> ![berbagi di facebook](/assets/image/scfg-facebook.jpg)
+> ![berbagi di facebook](/assets/image/scfg-facebook.png)
