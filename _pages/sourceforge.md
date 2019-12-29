@@ -1,19 +1,23 @@
 ---
-title: "Download File from SourceForge"
+title: "Berbagi Link Download File dari SourceForge"
+excerpt: "Cara berbagi link download file dari SourceForge dengan aman" 
 permalink: "/dl/sourceforge"
 sitemap: false
 ---
 {% include respo.html %}
+![instruction mobile](/assets/image/scfg-mobile.png)
+Untuk mengunduh file dari sourceforge **dari ponsel** klik pada teks **try to download anyway**. Sedangkan jika mengunduh dari PC biasanya akan terunduh otonatis setelah hitung mundur 5 detik.
+{:.notice .notice--info} 
+
 <div style="display: block; text-align: center;">
 
 <a href="/" id="download" class="btn btn--primary">
 wait..
 </a>
-{% include dlscfg %}
+
 </div>
+{% include dlscfg %}
+{% include adsense2.html %}
 
-![warning sourceforge](/assets/image/Screenshot_20191022-120633.jpg){:.align-center}
-Chose: "Try download anyway" if this message appear.
-{:notice .notice--info}
-
-{% include privacy.md %}
+> **Catatan:** Laman ini dibuat agar bisa membagikan link unduhan dari sourceforge di sosial media (khususnya Facebook).
+> ![berbagi di facebook](/assets/image/scfg-facebook.png)
