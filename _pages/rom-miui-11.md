@@ -7,17 +7,14 @@ permalink: /miui-11-download-links
 <p class="notice notice--info">This table last updated on <b>January 2020</b> and still tracking new updates available.</p>
 <p class=".notice .notice--warning">You can download MIUI 11 for your device from the links below. You can also visit our linked forums in case you need further assistance. While all of these download links are directly from Xiaomi, users are advised to proceed at their own risk.</p>
 <table>
-<thead>
 <tr>
 <th>Device Name (Device Codename)</th>
 <th>Build Number (Region)</th>
 <th>Recovery ROM</th>
 <th>Fastboot ROM</th>
 </tr>
-</thead>
-<tbody>
 <tr>
-<td><a href="/device/redmi-note-7-pro">Redmi Note 7 Pro (violet)</a></td>
+<td><a href="#redmi-note-7-pro">Redmi Note 7 Pro (violet)</a></td>
 <td>V11.0.5.0.PFHINXM (India)</td>
 <td><a href="https://bigota.d.miui.com/V11.0.5.0.PFHINXM/miui_VIOLETINGlobal_V11.0.5.0.PFHINXM_04632f47d3_9.0.zip">Download Recovery ROM</a></td>
 <td><a href="http://bigota.d.miui.com/V11.0.5.0.PFHINXM/violet_in_global_images_V11.0.5.0.PFHINXM_20191022.0000.00_9.0_in_9bff00d97f.tgz">Download Fastboot ROM</a></td>
@@ -806,5 +803,7 @@ permalink: /miui-11-download-links
 <td><a href="https://bigota.d.miui.com/V11.0.2.0.PCXEUXM/miui_WILLOWEEAGlobal_V11.0.2.0.PCXEUXM_6d57d7cf07_9.0.zip">Download Recovery ROM</a></td>
 <td><a href="https://bigota.d.miui.com/V11.0.2.0.PCXEUXM/willow_eea_global_images_V11.0.2.0.PCXEUXM_20191216.0000.00_9.0_eea_3485e6b11c.tgz">Download Fastboot ROM</a></td>
 </tr>
-</tbody>
-</table></div>
+</table>
+</div>
+
+Have sugestion for the new update link wich is untracked here? Let us know in the comment section below.
