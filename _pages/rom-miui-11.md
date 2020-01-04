@@ -2,6 +2,10 @@
 title: "All Latest MIUI 11 ROM Direct Download Links for All Xiaomi Devices"
 excerpt: "Daftar link download terbaru semua tipe ROM MIUI 11 untuk semua tipe ponsel XIAOMI per Januari 2020"
 permalink: /miui-11-download-links
+comments: true
+header:
+ overlay_image: https://fdn.gsmarena.com/imgroot/reviews/19/redmi-note-8/lifestyle/-727w2/gsmarena_003.jpg
+ caption: "Redmi Note 8 _via _GSMArena_"
 ---
 <p>Xiaomi&#8217;s MIUI 11 rollout has been difficult to track so far, mainly because of the confusing update naming convention and the different updates across multiple regions. Adding to this complexity is the fact there appears to be a very thin demarcation between builds that are only intended for the Mi Pilot beta testing program, meaning that builds assigned for this group will not install on devices with Mi Accounts that do not have the requisite permission. The same builds then get opened up as stable release, creating a lot of confusion &#8212; for instance, the same build linked above first failed to install on my Redmi Note 7 Pro, but then appeared through the OTA with the MIUI 11 Beta icon. If you get the error message that the update is for closed beta testers only, you can sideload the update through TWRP an/or other customized recoveries like Orange Fox wich is built based on TWRP with more advance abilities included.</p>
 <p class="notice notice--info">This table last updated on <b>January 2020</b> and still tracking new updates available.</p>
