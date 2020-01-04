@@ -19,6 +19,9 @@ Sebuah perangkat Android umumnya akan memiliki launcher atau user interface yang
 
 Xiaomi sebagai pengembang MIUI tidak lama ini mengumumkan akan memberikan update ke MIUI paling baru, MIUI 11 Global Stable ROM, ke sejumlah besar perangkat Xiaomi yang beredar secara global. Pernyataan ini datang ketika Xiaomi merilis perangkat Redmi Note 8 dan Note 8 Pro miliknya di India, dan MIUI 11 ini akan dihadirkan secara global mulai 22 Oktober 2019.
 
+Seluruh batch update telah selesai! Dan ROM MIUI 11 bisa diunduh dari [Daftar Link Download Semua ROM MIUI 11 untuk Semua Tipe Ponsel Xiaomi](/miui-11-download-links). Daftar tersebut akan selalu diperbarui dengam ROM MIUI 11 terbaru yang tersedia.
+{:.notice .notice--info}
+
 ## Update Batch
 
 Tentunya, tidak semua perangkat akan langsung mendapatkan update di tanggal tersebut, tetapi akan diberikan secara berkala satu demi satu. Berikut adalah daftar perangkat yang akan mendapatkan update ke MIUI 11 Global Stable ROM beserta tahapannya. Perlu diingat bahwa tanggal di bawah ini masih berupa estimasi, sehingga tiap wilayah bisa berbeda:
