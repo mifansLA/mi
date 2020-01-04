@@ -4,10 +4,11 @@ excerpt: "Daftar link download terbaru semua tipe ROM MIUI 11 untuk semua tipe p
 permalink: /miui-11-download-links
 ---
 <p>Xiaomi&#8217;s MIUI 11 rollout has been difficult to track so far, mainly because of the confusing update naming convention and the different updates across multiple regions. Adding to this complexity is the fact there appears to be a very thin demarcation between builds that are only intended for the Mi Pilot beta testing program, meaning that builds assigned for this group will not install on devices with Mi Accounts that do not have the requisite permission. The same builds then get opened up as stable release, creating a lot of confusion &#8212; for instance, the same build linked above first failed to install on my Redmi Note 7 Pro, but then appeared through the OTA with the MIUI 11 Beta icon. If you get the error message that the update is for closed beta testers only, you can sideload the update through TWRP an/or other customized recoveries like Orange Fox wich is built based on TWRP with more advance abilities included.</p>
-<p>You can download MIUI 11 for your device from the links below. You can also visit our linked forums in case you need further assistance. While all of these download links are directly from Xiaomi, users are advised to proceed at their own risk.</p>
 <p class="notice notice--info">This table last updated on <b>January 2020</b> and still tracking new updates available.</p>
+<p class=".notice .notice--warning">You can download MIUI 11 for your device from the links below. You can also visit our linked forums in case you need further assistance. While all of these download links are directly from Xiaomi, users are advised to proceed at their own risk.</p>
 <table>
 <thead>
+<tr>
 <th>Device Name (Device Codename)</th>
 <th>Build Number (Region)</th>
 <th>Recovery ROM</th>
@@ -28,7 +29,7 @@ permalink: /miui-11-download-links
 <td><a href="https://bigota.d.miui.com/V11.0.6.0.PFHINXM/violet_in_global_images_V11.0.6.0.PFHINXM_20191220.0000.00_9.0_in_937ce2b93e.tgz">Download Fastboot ROM</a></td>
 </tr>
 <tr>
-<td><a href="https://forum.xda-developers.com/redmi-7">Redmi 7 (onclite)</a></td>
+<td><a href="#redmi-7">Redmi 7 (onclite)</a></td>
 <td>V11.0.2.0.PFLINXM (India)</td>
 <td><a href="https://bigota.d.miui.com/V11.0.2.0.PFLINXM/miui_ONCLITEINGlobal_V11.0.2.0.PFLINXM_a0c099b95b_9.0.zip">Download Recovery ROM</a></td>
 <td><a href="https://bigota.d.miui.com/V11.0.2.0.PFLINXM/onclite_in_global_images_V11.0.2.0.PFLINXM_20191021.0000.00_9.0_in_aad0b9144a.tgz">Download Fastboot ROM</a></td>
@@ -52,7 +53,7 @@ permalink: /miui-11-download-links
 <td><a href="http://bigota.d.miui.com/V11.0.2.0.PFLMIXM/onclite_global_images_V11.0.2.0.PFLMIXM_20191022.0000.00_9.0_global_b0cd3cab92.tgz">Download Fastboot ROM</a></td>
 </tr>
 <tr>
-<td><a href="https://forum.xda-developers.com/redmi-note-5-pro">Redmi Note 5/Redmi Note 5 Pro (whyred)</a></td>
+<td><a href="#redmi-note-5-pro">Redmi Note 5/Redmi Note 5 Pro (whyred)</a></td>
 <td>V11.0.3.0.PEIMIXM (Global)</td>
 <td><a href="http://bigota.d.miui.com/V11.0.3.0.PEIMIXM/miui_HMNote5Global_V11.0.3.0.PEIMIXM_ff4c5a6b1a_9.0.zip">Download Recovery ROM</a></td>
 <td><a href="http://bigota.d.miui.com/V11.0.3.0.PEIMIXM/whyred_global_images_V11.0.3.0.PEIMIXM_20191108.0000.00_9.0_global_f128798d03.tgz">Download Fastboot ROM</a></td>
@@ -64,7 +65,7 @@ permalink: /miui-11-download-links
 <td><a href="http://bigota.d.miui.com/V11.0.1.0.PEIRUXM/whyred_ru_global_images_V11.0.1.0.PEIRUXM_20191023.0000.00_9.0_global_f4bbfbdf80.tgz">Download Fastboot ROM</a></td>
 </tr>
 <tr>
-<td><a href="https://forum.xda-developers.com/poco-f1">Poco F1 (beryllium)</a></td>
+<td><a href="#poco-f1">Poco F1 (beryllium)</a></td>
 <td>V11.0.5.0.PEJMIXM (Global)</td>
 <td><a href="http://bigota.d.miui.com/V11.0.5.0.PEJMIXM/miui_POCOF1Global_V11.0.5.0.PEJMIXM_a1e9fd71d3_9.0.zip">Download Recovery ROM</a></td>
 <td><a href="http://bigota.d.miui.com/V11.0.5.0.PEJMIXM/beryllium_global_images_V11.0.5.0.PEJMIXM_20191022.0000.00_9.0_global_995dc65d42.tgz">Download Fastboot ROM</a></td>
@@ -88,7 +89,7 @@ permalink: /miui-11-download-links
 <td>&#8211;</td>
 </tr>
 <tr>
-<td><a href="https://forum.xda-developers.com/redmi-note-7">Redmi Note 7 (lavender)</a></td>
+<td><a href="#redmi-note-7">Redmi Note 7 (lavender)</a></td>
 <td>V11.0.4.0.PFGMIXM (Global)</td>
 <td><a href="https://bigota.d.miui.com/V11.0.4.0.PFGMIXM/miui_LAVENDERGlobal_V11.0.4.0.PFGMIXM_ab70af5e76_9.0.zip">Download Recovery ROM</a></td>
 <td><a href="https://bigota.d.miui.com/V11.0.4.0.PFGMIXM/lavender_global_images_V11.0.4.0.PFGMIXM_20191110.0000.00_9.0_global_774a3e8c73.tgz">Download Fastboot ROM</a></td>
@@ -112,7 +113,7 @@ permalink: /miui-11-download-links
 <td><a href="https://bigota.d.miui.com/V11.0.4.0.PFGEUXM/lavender_eea_global_images_V11.0.4.0.PFGEUXM_20191110.0000.00_9.0_eea_c540f21927.tgz">Download Fastboot ROM</a></td>
 </tr>
 <tr>
-<td><a href="https://forum.xda-developers.com/k20-pro">Redmi K20 Pro/Mi 9T Pro (raphael)</a></td>
+<td><a href="#k20-pro">Redmi K20 Pro/Mi 9T Pro (raphael)</a></td>
 <td>V11.0.1.0.QFKINXM (India)</td>
 <td><a href="http://bigota.d.miui.com/V11.0.1.0.QFKINXM/miui_RAPHAELININGlobal_V11.0.1.0.QFKINXM_5e75bba584_10.0.zip">Download Recovery ROM</a></td>
 <td><a href="https://bigota.d.miui.com/V11.0.1.0.QFKINXM/raphaelin_in_global_images_V11.0.1.0.QFKINXM_20191022.0000.00_10.0_in_a5e104919b.tgz">Download Fastboot ROM</a></td>
@@ -142,7 +143,7 @@ permalink: /miui-11-download-links
 <td><a href="http://bigota.d.miui.com/V11.0.1.0.QFKMIXM/raphael_global_images_V11.0.1.0.QFKMIXM_20191111.0000.00_10.0_global_11d3a1700a.tgz">Download Fastboot ROM</a></td>
 </tr>
 <tr>
-<td><a href="https://forum.xda-developers.com/mi-max-3">Mi Max 3 (nitrogen)</a></td>
+<td><a href="#mi-max-3">Mi Max 3 (nitrogen)</a></td>
 <td>V11.0.5.0.PEDMIXM (Global) &#8211; Update rolled back</td>
 <td><a href="https://bigota.d.miui.com/V11.0.5.0.PEDMIXM/miui_MIMAX3Global_V11.0.5.0.PEDMIXM_ae8bbd6a55_9.0.zip">Download Recovery ROM</a></td>
 <td>&#8211;</td>
@@ -166,7 +167,7 @@ permalink: /miui-11-download-links
 <td><a href="http://bigota.d.miui.com/V11.0.6.0.PEDRUXM/nitrogen_ru_global_images_V11.0.6.0.PEDRUXM_20191126.0000.00_9.0_global_07f600cfd9.tgz">Download Fastboot ROM</a></td>
 </tr>
 <tr>
-<td><a href="https://forum.xda-developers.com/mi-8-Lite">Mi 8 Lite (platina)</a></td>
+<td><a href="#mi-8-Lite">Mi 8 Lite (platina)</a></td>
 <td>V11.0.5.0.PDTMIXM (Global)</td>
 <td><a href="https://bigota.d.miui.com/V11.0.5.0.PDTMIXM/miui_MI8LiteGlobal_V11.0.5.0.PDTMIXM_7464e6f6d2_9.0.zip">Download Recovery ROM</a></td>
 <td><a href="https://bigota.d.miui.com/V11.0.5.0.PDTMIXM/platina_global_images_V11.0.5.0.PDTMIXM_20191022.0000.00_9.0_global_53b25e5f9c.tgz">Download Fastboot ROM</a></td>
@@ -190,7 +191,7 @@ permalink: /miui-11-download-links
 <td><a href="https://bigota.d.miui.com/V11.0.6.0.PDTRUXM/platina_ru_global_images_V11.0.6.0.PDTRUXM_20191213.0000.00_9.0_global_4c94ccd0bc.tgz">Download Fastboot ROM</a></td>
 </tr>
 <tr>
-<td><a href="https://forum.xda-developers.com/Mi-9">Mi 9 (cepheus)</a></td>
+<td><a href="#Mi-9">Mi 9 (cepheus)</a></td>
 <td>V11.0.2.0.QFAMIXM (Global)</td>
 <td><a href="https://bigota.d.miui.com/V11.0.2.0.QFAMIXM/miui_CEPHEUSGlobal_V11.0.2.0.QFAMIXM_38f824197c_10.0.zip">Download Recovery ROM</a></td>
 <td><a href="https://bigota.d.miui.com/V11.0.2.0.QFAMIXM/cepheus_global_images_V11.0.2.0.QFAMIXM_20191102.0000.00_10.0_global_906dd532e6.tgz">Download Fastboot ROM</a></td>
@@ -220,7 +221,7 @@ permalink: /miui-11-download-links
 <td><a href="https://bigota.d.miui.com/V11.0.3.0.QFARUXM/cepheus_ru_global_images_V11.0.3.0.QFARUXM_20191105.0000.00_10.0_global_abff0605c6.tgz">Download Fastboot ROM</a></td>
 </tr>
 <tr>
-<td><a href="https://forum.xda-developers.com/mi-cc9">Mi 9 Lite/Mi CC9 (pyxis)</a></td>
+<td><a href="#mi-cc9">Mi 9 Lite/Mi CC9 (pyxis)</a></td>
 <td>V11.3.3.0.PFCMIXM (Global)</td>
 <td><a href="https://bigota.d.miui.com/V11.3.3.0.PFCMIXM/miui_PYXISGlobal_V11.3.3.0.PFCMIXM_6a3205a4b8_9.0.zip">Download Recovery ROM</a></td>
 <td><a href="https://bigota.d.miui.com/V11.3.3.0.PFCMIXM/pyxis_global_images_V11.3.3.0.PFCMIXM_20191101.0000.00_9.0_global_e688c52fee.tgz">Download Fastboot ROM</a></td>
@@ -262,7 +263,7 @@ permalink: /miui-11-download-links
 <td><a href="https://bigota.d.miui.com/V11.3.3.0.PFCRUXM/pyxis_ru_global_images_V11.3.3.0.PFCRUXM_20191122.0000.00_9.0_global_ed35a8638a.tgz">Download Fastboot ROM</a></td>
 </tr>
 <tr>
-<td><a href="https://forum.xda-developers.com/mi-note-3">Mi Note 3 (jason)</a></td>
+<td><a href="#mi-note-3">Mi Note 3 (jason)</a></td>
 <td>V11.0.3.0.PCHMIXM (Global)</td>
 <td><a href="http://bigota.d.miui.com/V11.0.3.0.PCHMIXM/miui_MINote3Global_V11.0.3.0.PCHMIXM_c980ddca40_9.0.zip">Download Recovery ROM</a></td>
 <td><a href="http://bigota.d.miui.com/V11.0.3.0.PCHMIXM/jason_global_images_V11.0.3.0.PCHMIXM_20191024.0000.00_9.0_global_b13a05a064.tgz">Download Fastboot ROM</a></td>
@@ -274,7 +275,7 @@ permalink: /miui-11-download-links
 <td>&#8211;</td>
 </tr>
 <tr>
-<td><a href="https://forum.xda-developers.com/redmi-7a">Redmi 7A (pine)</a></td>
+<td><a href="#redmi-7a">Redmi 7A (pine)</a></td>
 <td>V11.0.4.0.PCMMIXM (Global)</td>
 <td><a href="https://bigota.d.miui.com/V11.0.4.0.PCMMIXM/miui_PINEGlobal_V11.0.4.0.PCMMIXM_674ed79f0b_9.0.zip">Download Recovery ROM</a></td>
 <td><a href="http://bigota.d.miui.com/V11.0.4.0.PCMMIXM/pine_global_images_V11.0.4.0.PCMMIXM_20191029.0000.00_9.0_global_cd3e867fe7.tgz">Download Fastboot ROM</a></td>
@@ -321,7 +322,7 @@ permalink: /miui-11-download-links
 <td><a href="https://bigota.d.miui.com/V11.0.4.0.PCMRUXM/pine_ru_global_images_V11.0.4.0.PCMRUXM_20191216.0000.00_9.0_global_87a1449c21.tgz">Download Fastboot ROM</a></td>
 </tr>
 <tr>
-<td><a href="https://forum.xda-developers.com/mi-8">Mi 8 (dipper)</a></td>
+<td><a href="#mi-8">Mi 8 (dipper)</a></td>
 <td>V11.0.6.0.PEAMIXM (Global)</td>
 <td><a href="https://bigota.d.miui.com/V11.0.6.0.PEAMIXM/miui_MI8Global_V11.0.6.0.PEAMIXM_45261e66d2_9.0.zip">Download Recovery ROM</a></td>
 <td><a href="http://bigota.d.miui.com/V11.0.6.0.PEAMIXM/dipper_global_images_V11.0.6.0.PEAMIXM_20191022.0000.00_9.0_global_fe09c43d5a.tgz">Download Fastboot ROM</a></td>
@@ -333,7 +334,7 @@ permalink: /miui-11-download-links
 <td><a href="https://bigota.d.miui.com/V11.0.6.0.PEARUXM/dipper_ru_global_images_V11.0.6.0.PEARUXM_20191022.0000.00_9.0_global_4dacc5e992.tgz">Download Fastboot ROM</a></td>
 </tr>
 <tr>
-<td><a href="https://forum.xda-developers.com/mi-8-pro">Mi 8 Pro (equuleus)</a></td>
+<td><a href="#mi-8-pro">Mi 8 Pro (equuleus)</a></td>
 <td>V11.0.5.0.PECMIXM (Global)</td>
 <td><a href="https://bigota.d.miui.com/V11.0.5.0.PECMIXM/miui_MI8UDGlobal_V11.0.5.0.PECMIXM_390eb435f5_9.0.zip">Download Recovery ROM</a></td>
 <td><a href="http://bigota.d.miui.com/V11.0.5.0.PECMIXM/equuleus_global_images_V11.0.5.0.PECMIXM_20191021.0000.00_9.0_global_cd3e047a91.tgz">Download Fastboot ROM</a></td>
@@ -345,7 +346,7 @@ permalink: /miui-11-download-links
 <td><a href="https://bigota.d.miui.com/V11.0.5.0.PECRUXM/equuleus_ru_global_images_V11.0.5.0.PECRUXM_20191022.0000.00_9.0_global_ba4452a3d2.tgz">Download Fastboot ROM</a></td>
 </tr>
 <tr>
-<td><a href="https://forum.xda-developers.com/mi-9-se">Mi 9 SE (grus)</a></td>
+<td><a href="#mi-9-se">Mi 9 SE (grus)</a></td>
 <td>V11.0.4.0.PFBMIXM (Global)</td>
 <td><a href="https://bigota.d.miui.com/V11.0.4.0.PFBMIXM/miui_GRUSGlobal_V11.0.4.0.PFBMIXM_af38858a0f_9.0.zip">Download Recovery ROM</a></td>
 <td><a href="https://bigota.d.miui.com/V11.0.4.0.PFBMIXM/grus_global_images_V11.0.4.0.PFBMIXM_20191023.0000.00_9.0_global_99c9b5dc56.tgz">Download Fastboot ROM</a></td>
@@ -363,19 +364,19 @@ permalink: /miui-11-download-links
 <td><a href="https://bigota.d.miui.com/V11.0.4.0.PFBRUXM/grus_ru_global_images_V11.0.4.0.PFBRUXM_20191023.0000.00_9.0_global_1acdc9da8b.tgz">Download Fastboot ROM</a></td>
 </tr>
 <tr>
-<td><a href="https://forum.xda-developers.com/xiaomi-mi-mix-2s">Mi Mix 2S (polaris)</a></td>
+<td><a href="#xiaomi-mi-mix-2s">Mi Mix 2S (polaris)</a></td>
 <td>V11.0.4.0.PDGMIXM (Global)</td>
 <td><a href="https://bigota.d.miui.com/V11.0.4.0.PDGMIXM/miui_MIMIX2SGlobal_V11.0.4.0.PDGMIXM_a8d3e1096f_9.0.zip">Download Recovery ROM</a></td>
 <td><a href="https://bigota.d.miui.com/V11.0.4.0.PDGMIXM/polaris_global_images_V11.0.4.0.PDGMIXM_20191022.0000.00_9.0_global_37a65fe019.tgz">Download Fastboot ROM</a></td>
 </tr>
 <tr>
-<td><a href="https://forum.xda-developers.com/mi-mix-3">Mi Mix 3 (perseus)</a></td>
+<td><a href="#mi-mix-3">Mi Mix 3 (perseus)</a></td>
 <td>V11.0.4.0.PEEMIXM (Global)</td>
 <td><a href="http://bigota.d.miui.com/V11.0.4.0.PEEMIXM/miui_MIMIX3Global_V11.0.4.0.PEEMIXM_342ec8a792_9.0.zip">Download Recovery ROM</a></td>
 <td><a href="http://bigota.d.miui.com/V11.0.4.0.PEEMIXM/perseus_global_images_V11.0.4.0.PEEMIXM_20191021.0000.00_9.0_global_9d3961778b.tgz">Download Fastboot ROM</a></td>
 </tr>
 <tr>
-<td><a href="https://forum.xda-developers.com/redmi-s2">Redmi S2/Y2 (ysl)</a></td>
+<td><a href="#redmi-s2">Redmi S2/Y2 (ysl)</a></td>
 <td>V11.0.2.0.PEFMIXM (Global)</td>
 <td><a href="http://bigota.d.miui.com/V11.0.2.0.PEFMIXM/miui_HMS2Global_V11.0.2.0.PEFMIXM_9b41feaa9c_9.0.zip">Download Recovery ROM</a></td>
 <td><a href="http://bigota.d.miui.com/V11.0.2.0.PEFMIXM/ysl_global_images_V11.0.2.0.PEFMIXM_20191108.0000.00_9.0_global_710971b8ed.tgz">Download Fastboot ROM</a></td>
@@ -387,7 +388,7 @@ permalink: /miui-11-download-links
 <td><a href="http://bigota.d.miui.com/V11.0.1.0.PEFRUXM/ysl_ru_global_images_V11.0.1.0.PEFRUXM_20191022.0000.00_9.0_global_4fe175d95f.tgz">Download Fastboot ROM</a></td>
 </tr>
 <tr>
-<td><a href="https://forum.xda-developers.com/redmi-note-8-pro">Redmi Note 8 Pro (begonia)</a></td>
+<td><a href="#redmi-note-8-pro">Redmi Note 8 Pro (begonia)</a></td>
 <td>V11.0.1.0.PGGMIXM (Global) &#8211; Update rolled back</td>
 <td><a href="https://bigota.d.miui.com/V11.0.1.0.PGGMIXM/miui_BEGONIAGlobal_V11.0.1.0.PGGMIXM_f057ff19fc_9.0.zip">Download Recovery ROM</a></td>
 <td>&#8211;</td>
@@ -453,19 +454,19 @@ permalink: /miui-11-download-links
 <td><a href="https://bigota.d.miui.com/V11.0.3.0.PGGEUXM/begonia_eea_global_images_V11.0.3.0.PGGEUXM_20191210.0000.00_9.0_eea_bd36734f3a.tgz">Download Fastboot ROM</a></td>
 </tr>
 <tr>
-<td><a href="https://forum.xda-developers.com/redmi-note-5a">Redmi Note 5A Prime/Redmi Y1 (ugg)</a></td>
+<td><a href="#redmi-note-5a">Redmi Note 5A Prime/Redmi Y1 (ugg)</a></td>
 <td>V11.0.2.0.NDKMIXM (Global)</td>
 <td><a href="http://bigota.d.miui.com/V11.0.2.0.NDKMIXM/miui_HMNote5AGlobal_V11.0.2.0.NDKMIXM_dd519c8e33_7.1.zip">Download Recovery ROM</a></td>
 <td><a href="https://bigota.d.miui.com/V11.0.2.0.NDKMIXM/ugg_global_images_V11.0.2.0.NDKMIXM_20191022.0000.00_7.1_global_554b873d3d.tgz">Download Fastboot ROM</a></td>
 </tr>
 <tr>
-<td><a href="https://forum.xda-developers.com/redmi-note-5a">Redmi Note 5A/Redmi Y1 Lite (ugglite)</a></td>
+<td><a href="#redmi-note-5a">Redmi Note 5A/Redmi Y1 Lite (ugglite)</a></td>
 <td>V11.0.3.0.NDFMIXM (Global)</td>
 <td><a href="https://bigota.d.miui.com/V11.0.3.0.NDFMIXM/miui_HMNote5ALITEGlobal_V11.0.3.0.NDFMIXM_542160087b_7.1.zip">Download Recovery ROM</a></td>
 <td><a href="http://bigota.d.miui.com/V11.0.3.0.NDFMIXM/ugglite_global_images_V11.0.3.0.NDFMIXM_20191022.0000.00_7.1_global_9e48e63f94.tgz">Download Fastboot ROM</a></td>
 </tr>
 <tr>
-<td><a href="https://forum.xda-developers.com/redmi-6-pro">Redmi 6 Pro (sakura)</a></td>
+<td><a href="#redmi-6-pro">Redmi 6 Pro (sakura)</a></td>
 <td>V11.0.3.0.PDMMIXM (Global)</td>
 <td><a href="http://bigota.d.miui.com/V11.0.3.0.PDMMIXM/miui_HM6ProINGlobal_V11.0.3.0.PDMMIXM_ab35bc124c_9.0.zip">Download Recovery ROM</a></td>
 <td><a href="http://bigota.d.miui.com/V11.0.3.0.PDMMIXM/sakura_india_global_images_V11.0.3.0.PDMMIXM_20191022.0000.00_9.0_global_38f324a08b.tgz">Download Fastboot ROM</a></td>
@@ -477,19 +478,19 @@ permalink: /miui-11-download-links
 <td>&#8211;</td>
 </tr>
 <tr>
-<td><a href="https://forum.xda-developers.com/mi-6">Mi 6 (sagit)</a></td>
+<td><a href="#mi-6">Mi 6 (sagit)</a></td>
 <td>V11.0.3.0.PCAMIXM (Global)</td>
 <td><a href="https://bigota.d.miui.com/V11.0.3.0.PCAMIXM/miui_MI6Global_V11.0.3.0.PCAMIXM_bb4e6209e3_9.0.zip">Download Recovery ROM</a></td>
 <td><a href="https://bigota.d.miui.com/V11.0.3.0.PCAMIXM/sagit_global_images_V11.0.3.0.PCAMIXM_20191022.0000.00_9.0_global_cc04f3808c.tgz">Download Fastboot ROM</a></td>
 </tr>
 <tr>
-<td><a href="https://forum.xda-developers.com/mi-mix-2">Mi Mix 2 (chiron)</a></td>
+<td><a href="#mi-mix-2">Mi Mix 2 (chiron)</a></td>
 <td>V11.0.3.0.PDEMIXM (Global)</td>
 <td><a href="https://bigota.d.miui.com/V11.0.3.0.PDEMIXM/miui_MIMIX2Global_V11.0.3.0.PDEMIXM_9445ac3638_9.0.zip">Download Recovery ROM</a></td>
 <td><a href="https://bigota.d.miui.com/V11.0.3.0.PDEMIXM/chiron_global_images_V11.0.3.0.PDEMIXM_20191022.0000.00_9.0_global_1fe52807ec.tgz">Download Fastboot ROM</a></td>
 </tr>
 <tr>
-<td><a href="https://forum.xda-developers.com/mi-9t">Redmi K20/Mi 9T (davinci)</a></td>
+<td><a href="#mi-9t">Redmi K20/Mi 9T (davinci)</a></td>
 <td>V11.0.1.0.PFJMIXM (Global)</td>
 <td><a href="https://bigota.d.miui.com/V11.0.1.0.PFJMIXM/miui_DAVINCIGlobal_V11.0.1.0.PFJMIXM_de37c81233_9.0.zip">Download Recovery ROM</a></td>
 <td><a href="http://bigota.d.miui.com/V11.0.1.0.PFJMIXM/davinci_global_images_V11.0.1.0.PFJMIXM_20191028.0000.00_9.0_global_156b6de73d.tgz">Download Fastboot ROM</a></td>
@@ -525,7 +526,7 @@ permalink: /miui-11-download-links
 <td>&#8211;</td>
 </tr>
 <tr>
-<td><a href="https://forum.xda-developers.com/redmi-5">Redmi 5 (rosy)</a></td>
+<td><a href="#redmi-5">Redmi 5 (rosy)</a></td>
 <td>V11.0.1.0.ODAMIXM (Global)</td>
 <td><a href="https://bigota.d.miui.com/V11.0.1.0.ODAMIXM/miui_HM5Global_V11.0.1.0.ODAMIXM_54e03286b9_8.1.zip">Download Recovery ROM</a></td>
 <td><a href="http://bigota.d.miui.com/V11.0.1.0.ODAMIXM/rosy_global_images_V11.0.1.0.ODAMIXM_20191023.0000.00_8.1_global_fec660020d.tgz">Download Fastboot ROM</a></td>
@@ -537,7 +538,7 @@ permalink: /miui-11-download-links
 <td><a href="http://bigota.d.miui.com/V11.0.1.0.ODARUXM/rosy_ru_global_images_V11.0.1.0.ODARUXM_20191023.0000.00_8.1_global_ca0470f25e.tgz">Download Fastboot ROM</a></td>
 </tr>
 <tr>
-<td><a href="https://forum.xda-developers.com/mi-play">Mi Play (lotus)</a></td>
+<td><a href="#mi-play">Mi Play (lotus)</a></td>
 <td>V11.0.1.0.OFIMIXM (Global)</td>
 <td><a href="http://bigota.d.miui.com/V11.0.1.0.OFIMIXM/miui_MIPLAYGlobal_V11.0.1.0.OFIMIXM_7ca29041b1_8.1.zip">Download Recovery ROM</a></td>
 <td><a href="https://bigota.d.miui.com/V11.0.1.0.OFIMIXM/lotus_global_images_V11.0.1.0.OFIMIXM_20191024.0000.00_8.1_global_069f5abcbe.tgz">Download Fastboot ROM</a></td>
@@ -561,37 +562,37 @@ permalink: /miui-11-download-links
 <td>&#8211;</td>
 </tr>
 <tr>
-<td><a href="https://forum.xda-developers.com/mi-note-2">Mi Note 2 (scorpio)</a></td>
+<td><a href="#mi-note-2">Mi Note 2 (scorpio)</a></td>
 <td>V11.0.2.0.OADMIXM (Global)</td>
 <td><a href="https://bigota.d.miui.com/V11.0.2.0.OADMIXM/miui_MINote2Global_V11.0.2.0.OADMIXM_6353b7fa7e_8.0.zip">Download Recovery ROM</a></td>
 <td><a href="http://bigota.d.miui.com/V11.0.2.0.OADMIXM/scorpio_global_images_V11.0.2.0.OADMIXM_20191023.0000.00_8.0_global_c8b7caa59d.tgz">Download Fastboot ROM</a></td>
 </tr>
 <tr>
-<td><a href="https://forum.xda-developers.com/redmi-6a">Redmi 6A (cactus)</a></td>
+<td><a href="#redmi-6a">Redmi 6A (cactus)</a></td>
 <td>V11.0.4.0.PCBMIXM (Global)</td>
 <td><a href="http://bigota.d.miui.com/V11.0.4.0.PCBMIXM/miui_HM6AGlobal_V11.0.4.0.PCBMIXM_2a407f4105_9.0.zip">Download Recovery ROM</a></td>
 <td><a href="https://bigota.d.miui.com/V11.0.4.0.PCBMIXM/cactus_global_images_V11.0.4.0.PCBMIXM_20191029.0000.00_9.0_global_a814b916b1.tgz">Download Fastboot ROM</a></td>
 </tr>
 <tr>
-<td><a href="https://forum.xda-developers.com/redmi-6">Redmi 6 (cereus)</a></td>
+<td><a href="#redmi-6">Redmi 6 (cereus)</a></td>
 <td>V11.0.1.0.PCGMIXM (Global)</td>
 <td><a href="http://bigota.d.miui.com/V11.0.1.0.PCGMIXM/miui_HM6Global_V11.0.1.0.PCGMIXM_14119a2019_9.0.zip">Download Recovery ROM</a></td>
 <td><a href="https://bigota.d.miui.com/V11.0.1.0.PCGMIXM/cereus_global_images_V11.0.1.0.PCGMIXM_20191030.0000.00_9.0_global_5c06985235.tgz">Download Fastboot ROM</a></td>
 </tr>
 <tr>
-<td><a href="https://forum.xda-developers.com/mi-mix">Mi Mix (lithium)</a></td>
+<td><a href="#mi-mix">Mi Mix (lithium)</a></td>
 <td>V11.0.2.0.OAHMIXM (Global)</td>
 <td><a href="http://bigota.d.miui.com/V11.0.2.0.OAHMIXM/miui_MIMIXGlobal_V11.0.2.0.OAHMIXM_6e058c6d8f_8.0.zip">Download Recovery ROM</a></td>
 <td><a href="http://bigota.d.miui.com/V11.0.2.0.OAHMIXM/lithium_global_images_V11.0.2.0.OAHMIXM_20191023.0000.00_8.0_global_3454b31c75.tgz">Download Fastboot ROM</a></td>
 </tr>
 <tr>
-<td><a href="https://forum.xda-developers.com/mi-max-2">Mi Max 2 (oxygen)</a></td>
+<td><a href="#mi-max-2">Mi Max 2 (oxygen)</a></td>
 <td>V11.0.2.0.NDDMIXM (Global)</td>
 <td><a href="https://bigota.d.miui.com/V11.0.2.0.NDDMIXM/miui_MIMAX2Global_V11.0.2.0.NDDMIXM_94263d6240_7.1.zip">Download Recovery ROM</a></td>
 <td><a href="https://bigota.d.miui.com/V11.0.2.0.NDDMIXM/oxygen_global_images_V11.0.2.0.NDDMIXM_20191023.0000.00_7.1_global_c98be7c892.tgz">Download Fastboot ROM</a></td>
 </tr>
 <tr>
-<td><a href="https://forum.xda-developers.com/xiaomi-redmi-8">Redmi 8 (olive)</a></td>
+<td><a href="#xiaomi-redmi-8">Redmi 8 (olive)</a></td>
 <td>V11.0.2.0.PCNINXM (India)</td>
 <td><a href="https://bigota.d.miui.com/V11.0.2.0.PCNINXM/miui_OLIVEINGlobal_V11.0.2.0.PCNINXM_07bb0694d7_9.0.zip">Download Recovery ROM</a></td>
 <td><a href="https://bigota.d.miui.com/V11.0.2.0.PCNINXM/olive_in_global_images_V11.0.2.0.PCNINXM_20191113.0000.00_9.0_in_51c93ada5f.tgz">Download Fastboot ROM</a></td>
@@ -639,7 +640,7 @@ permalink: /miui-11-download-links
 <td><a href="https://bigota.d.miui.com/V11.0.3.0.PCNMIXM/olive_global_images_V11.0.3.0.PCNMIXM_20191219.0000.00_9.0_global_1ae36a247a.tgz">Download Fastboot ROM</a></td>
 </tr>
 <tr>
-<td><a href="https://forum.xda-developers.com/xiaomi-redmi-8a">Redmi 8A (olivelite)</a></td>
+<td><a href="#xiaomi-redmi-8a">Redmi 8A (olivelite)</a></td>
 <td>V11.0.1.0.PCPINXM (India)</td>
 <td><a href="https://bigota.d.miui.com/V11.0.1.0.PCPINXM/miui_OLIVELITEINGlobal_V11.0.1.0.PCPINXM_82d2052d1b_9.0.zip">Download Recovery ROM</a></td>
 <td><a href="http://bigota.d.miui.com/V11.0.1.0.PCPINXM/olivelite_in_global_images_V11.0.1.0.PCPINXM_20191105.0000.00_9.0_in_df2e88fae8.tgz">Download Fastboot ROM</a></td>
@@ -692,7 +693,7 @@ permalink: /miui-11-download-links
 <td><a href="https://bigota.d.miui.com/V11.0.2.0.PCPEUXM/olivelite_eea_global_images_V11.0.2.0.PCPEUXM_20191214.0000.00_9.0_eea_a05d87a44e.tgz">Download Fastboot ROM</a></td>
 </tr>
 <tr>
-<td><a href="https://forum.xda-developers.com/redmi-note-6-pro">Redmi Note 6 Pro (tulip)</a></td>
+<td><a href="#redmi-note-6-pro">Redmi Note 6 Pro (tulip)</a></td>
 <td>V11.0.1.0.PEKMIXM (Global)</td>
 <td><a href="https://bigota.d.miui.com/V11.0.1.0.PEKMIXM/miui_HMNote6ProGlobal_V11.0.1.0.PEKMIXM_5c9f74315c_9.0.zip">Download Recovery ROM</a></td>
 <td><a href="http://bigota.d.miui.com/V11.0.1.0.PEKMIXM/tulip_global_images_V11.0.1.0.PEKMIXM_20191029.0000.00_9.0_global_99de5aece2.tgz">Download Fastboot ROM</a></td>
@@ -704,25 +705,25 @@ permalink: /miui-11-download-links
 <td>&#8211;</td>
 </tr>
 <tr>
-<td><a href="https://forum.xda-developers.com/xiaomi-redmi-5a">Redmi 5A (riva)</a></td>
+<td><a href="#xiaomi-redmi-5a">Redmi 5A (riva)</a></td>
 <td>V11.0.2.0.OCKMIXM (Global)</td>
 <td><a href="https://bigota.d.miui.com/V11.0.2.0.OCKMIXM/miui_HM5AGlobal_V11.0.2.0.OCKMIXM_b247c0c04e_8.1.zip">Download Recovery ROM</a></td>
 <td><a href="http://bigota.d.miui.com/V11.0.2.0.OCKMIXM/riva_global_images_V11.0.2.0.OCKMIXM_20191106.0000.00_8.1_global_605da3d46d.tgz">Download Fastboot ROM</a></td>
 </tr>
 <tr>
-<td><a href="https://forum.xda-developers.com/redmi-note-4">Redmi Note 4X/Redmi Note 4 (Qualcomm) (mido)</a></td>
+<td><a href="#redmi-note-4">Redmi Note 4X/Redmi Note 4 (Qualcomm) (mido)</a></td>
 <td>V11.0.2.0.NCFMIXM (Global)</td>
 <td><a href="http://bigota.d.miui.com/V11.0.2.0.NCFMIXM/miui_HMNote4XGlobal_V11.0.2.0.NCFMIXM_83170d3e3a_7.0.zip">Download Recovery ROM</a></td>
 <td><a href="http://bigota.d.miui.com/V11.0.2.0.NCFMIXM/mido_global_images_V11.0.2.0.NCFMIXM_20191107.0000.00_7.0_global_91ed4d2a3f.tgz">Download Fastboot ROM</a></td>
 </tr>
 <tr>
-<td><a href="https://forum.xda-developers.com/xiaomi-redmi-4x">Redmi 4X (santoni)</a></td>
+<td><a href="#xiaomi-redmi-4x">Redmi 4X (santoni)</a></td>
 <td>V11.0.2.0.NAMMIXM (Global)</td>
 <td><a href="https://bigota.d.miui.com/V11.0.2.0.NAMMIXM/miui_HM4XGlobal_V11.0.2.0.NAMMIXM_eae1390b46_7.1.zip">Download Recovery ROM</a></td>
 <td><a href="https://bigota.d.miui.com/V11.0.2.0.NAMMIXM/santoni_global_images_V11.0.2.0.NAMMIXM_20191107.0000.00_7.1_global_99c087db02.tgz">Download Fastboot ROM</a></td>
 </tr>
 <tr>
-<td><a href="https://forum.xda-developers.com/mi-note-10">Mi Note 10 / Mi CC9 Pro (tucana)</a></td>
+<td><a href="#mi-note-10">Mi Note 10 / Mi CC9 Pro (tucana)</a></td>
 <td>V11.0.5.0.PFDEUXM (Europe) &#8211; Update rolled back</td>
 <td><a href="http://bigota.d.miui.com/V11.0.5.0.PFDEUXM/miui_TUCANAEEAGlobal_V11.0.5.0.PFDEUXM_08e1a88222_9.0.zip">Download Recovery ROM</a></td>
 <td>&#8211;</td>
@@ -764,13 +765,13 @@ permalink: /miui-11-download-links
 <td><a href="http://bigota.d.miui.com/V11.0.3.0.PFDRUXM/tucana_ru_global_images_V11.0.3.0.PFDRUXM_20191118.0000.00_9.0_global_f2a1136e2b.tgz">Download Fastboot ROM</a></td>
 </tr>
 <tr>
-<td><a href="https://forum.xda-developers.com/redmi-note-5">Redmi 5 Plus/Redmi Note 5 India (vince)</a></td>
+<td><a href="#redmi-note-5">Redmi 5 Plus/Redmi Note 5 India (vince)</a></td>
 <td>V11.0.2.0.OEGMIXM (Global)</td>
 <td><a href="https://bigota.d.miui.com/V11.0.2.0.OEGMIXM/miui_HM5PlusGlobal_V11.0.2.0.OEGMIXM_f74369de0c_8.1.zip">Download Recovery ROM</a></td>
 <td><a href="https://bigota.d.miui.com/V11.0.2.0.OEGMIXM/vince_global_images_V11.0.2.0.OEGMIXM_20191108.0000.00_8.1_global_90dd70aa99.tgz">Download Fastboot ROM</a></td>
 </tr>
 <tr>
-<td><a href="https://forum.xda-developers.com/redmi-note-8">Redmi Note 8 (ginkgo)</a></td>
+<td><a href="#redmi-note-8">Redmi Note 8 (ginkgo)</a></td>
 <td>V11.0.3.0.PCOMIXM (Global)</td>
 <td><a href="https://bigota.d.miui.com/V11.0.3.0.PCOMIXM/miui_GINKGOGlobal_V11.0.3.0.PCOMIXM_1b9baa227b_9.0.zip">Download Recovery ROM</a></td>
 <td><a href="https://bigota.d.miui.com/V11.0.3.0.PCOMIXM/ginkgo_global_images_V11.0.3.0.PCOMIXM_20191119.0000.00_9.0_global_a8923e1765.tgz">Download Fastboot ROM</a></td>
