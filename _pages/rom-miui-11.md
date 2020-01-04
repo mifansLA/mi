@@ -6,18 +6,17 @@ permalink: /miui-11-download-links
 <p>Xiaomi&#8217;s MIUI 11 rollout has been difficult to track so far, mainly because of the confusing update naming convention and the different updates across multiple regions. Adding to this complexity is the fact there appears to be a very thin demarcation between builds that are only intended for the Mi Pilot beta testing program, meaning that builds assigned for this group will not install on devices with Mi Accounts that do not have the requisite permission. The same builds then get opened up as stable release, creating a lot of confusion &#8212; for instance, the same build linked above first failed to install on my Redmi Note 7 Pro, but then appeared through the OTA with the MIUI 11 Beta icon. If you get the error message that the update is for closed beta testers only, you can sideload the update through TWRP an/or other customized recoveries like Orange Fox wich is built based on TWRP with more advance abilities included.</p>
 <p>You can download MIUI 11 for your device from the links below. You can also visit our linked forums in case you need further assistance. While all of these download links are directly from Xiaomi, users are advised to proceed at their own risk.</p>
 <p class="notice notice--info">This table last updated on <b>January 2020</b> and still tracking new updates available.</p>
-<div><table class="">
+<table>
 <thead>
-<tr>
-<th>Device, Device Codename, <br/>and XDA Forum Link</th>
-<th>Build Number <br/>and Region</th>
+<th>Device Name (Device Codename)</th>
+<th>Build Number (Region)</th>
 <th>Recovery ROM</th>
 <th>Fastboot ROM</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><a href="https://forum.xda-developers.com/redmi-note-7-pro">Redmi Note 7 Pro (violet)</a></td>
+<td><a href="/device/redmi-note-7-pro">Redmi Note 7 Pro (violet)</a></td>
 <td>V11.0.5.0.PFHINXM (India)</td>
 <td><a href="https://bigota.d.miui.com/V11.0.5.0.PFHINXM/miui_VIOLETINGlobal_V11.0.5.0.PFHINXM_04632f47d3_9.0.zip">Download Recovery ROM</a></td>
 <td><a href="http://bigota.d.miui.com/V11.0.5.0.PFHINXM/violet_in_global_images_V11.0.5.0.PFHINXM_20191022.0000.00_9.0_in_9bff00d97f.tgz">Download Fastboot ROM</a></td>
