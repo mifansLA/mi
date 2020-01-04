@@ -10,7 +10,12 @@ tags:
  - miui 11 Vince
  - miui 11 global
  - OTA miui 11
+last_modified_at: 2019-01-04 12:50
 ---
+
+Update MIUI 11 Download links [here](/miui-11-download-links)
+{:.notice .notice--info}
+
 MIUI 11 Global Stable ROM is rolling out for Redmi 5 Plus. Here is the changelog and download links:
 
 > **Disclaimer:** We always suggest you to wait for OTA releases. If you have not received yet, just wait for it, as updates are gradually released, you might face time delay regarding others receiving the same update.
