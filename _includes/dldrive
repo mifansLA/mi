@@ -20,9 +20,12 @@ window.onload=function(){
            d=document.getElementById("download"),
            c=document.getElementById("notice"),
            x="https://drive.google.com/uc?id=";
-  d.innerHTML=f+" "+s.href=x+e+"&export=download";
-  d.removeClass("btn btn--primary").addClass("btn btn--success");
-  c.removeClass("notice notice--primary").addClass("notice notice--success");
+  d.innerHTML=f+" "+s,
+  d.href=x+e+"&export=download",
+  d.removeClass("btn btn--primary")
+  d.addClass("btn btn--success"),
+  c.removeClass("notice notice--primary"),
+  c.addClass("notice notice--success"),
   c.innerHTML="Your link now ready, click the button <b>"+s+"</b> above!";
 };
 </script>
