@@ -1,2 +1,24 @@
 <script>
-function getQueryVariable(e){for(var r=window.location.search.substring(1),t=r.split("&"),n=0;n<t.length;n++){var a=t[n].split("=");if(a[0]==e)return a[1]}return!1}window.onload=function(){var klik=f=getQueryVariable("name"),s=getQueryVariable("size"),e=getQueryVariable("id"),x="https://drive.google.com/uc?id=",el=document.getElementBy;el.Id("download").innerHTML=f+" "+s,el.Id("download").href=x+e+"&export=download",el.classList.add("btn-success"),el.Id("notice notice-success").innerHTML="Your link now ready, click the button <b>"+s+"</b> above!"};</script>
+function getQueryVariable(e){
+ for(
+  var r=window.location.search.substring(1),
+  t=r.split("&"),
+  n=0;
+  n<t.length;n++
+ )
+ {
+  var a=t[n].split("=");
+  if(a[0]==e)return a[1]
+ }return!1
+}
+window.onload=function(){
+  var klik=f=getQueryVariable("name"),
+  s=getQueryVariable("size"),
+  e=getQueryVariable("id"),
+  x="https://drive.google.com/uc?id=",;
+  document.getElementById("download").innerHTML=f+" "+s,
+  document.getElementById("download").href=x+e+"&export=download",
+  document.getElementById("download").classList.add("btn-success");
+  document.getElementById("notice").classList.add("notice-success").innerHTML="Your link now ready, click the button <b>"+s+"</b> above!"
+};
+</script>
