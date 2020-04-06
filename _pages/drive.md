@@ -18,7 +18,7 @@ header:
 {% include respo.html %}
 
 <div class="align-center">
-<a href="/" id="download" class="btn btn--primary">
+<a href="#notice" id="download" class="btn btn--primary">
 Waiting Google drive..
 </a>
 </div>
