@@ -23,8 +23,9 @@ Waiting Google drive..
 </a>
 </div>
 <div id="notice" class="notice notice--primary">
-<i>remember this:</i> The links provided above is not appear out of nowhere. It is loaded from the pages or article before you came here. So if the links is broken, you can go back to previous page and ask/report at the comment section. **Reload or clear browser cache if to long**.
+<i>remember this:</i> The links provided above is not appear out of nowhere. It is loaded from the pages or article before you came here. So if the links is broken, you can go back to previous page and ask/report at the comment section. <b>Reload or clear browser cache if it takes to long</b>.
 </div>
+
 {% include adsense1.html %}
 
 {% include dldrive %}
