@@ -5,6 +5,8 @@ sitemap: false
 comment: false
 excerpt: Google Drive is the most popular cloud storage service in the world
 share: false
+header:
+ og_image: "https://cdn.statically.io/img/www.cloudwards.net/wp-content/uploads/2018/07/Google-Drive-Web-Interface-Slider1.png"
 ---
 > Link is generated at bottom, link ada di bawah posting.
 
