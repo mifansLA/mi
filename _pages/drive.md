@@ -18,11 +18,11 @@ header:
 {% include respo.html %}
 
 <div style="display:block;text-align:center">
-<a id="download" class="btn btn--primary" href="#notice" rel="nofollow noreferer noopener">
+<a id="download" class="btn" href="#notice" rel="nofollow noreferer noopener">
 Waiting Google drive..
 </a>
 </div>
-<p id="notice" class="notice notice--primary">
+<p id="notice" class="notice">
 <i>remember this:</i> The links provided above is not appear out of nowhere. It is loaded from the pages or article before you came here. So if the links is broken, you can go back to previous page and ask/report at the comment section. <b>Reload or clear browser cache if it takes to long</b>.
 </p>
 
