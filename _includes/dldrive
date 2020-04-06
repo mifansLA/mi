@@ -22,7 +22,7 @@ window.onload=function(){
            x="https://drive.google.com/uc?id=";
   d.innerHTML=f+" "+s,
   d.href=x+e+"&export=download",
-  d.removeClass("btn btn--primary")
+  d.removeClass("btn btn--primary"),
   d.addClass("btn btn--success"),
   c.removeClass("notice notice--primary"),
   c.addClass("notice notice--success"),
