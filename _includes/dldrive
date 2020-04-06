@@ -23,7 +23,7 @@ window.onload=function(){
   d.innerHTML=f+" "+s,
   d.href=x+e+"&export=download";
   c.innerHTML="Your link now ready, click the button <b>"+f+"</b> above!";
-  d.removeClass=("btn").addClass("btn btn--success");
-  c.removeClass=("notice").addClass("notice notice--success");
+  document.getElementByClassName("btn").classList.add("btn--success");
+  document.getElementByClassName("notice").classList.add("notice--success");
 };
 </script>
