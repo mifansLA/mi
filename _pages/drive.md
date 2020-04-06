@@ -3,7 +3,8 @@ title: "Download File from Google Drive"
 permalink: "/dl/drive"
 sitemap: false
 comment: false
-excerpt: 
+excerpt: Google Drive is the most popular cloud storage service in the world
+share: false
 ---
 > Link is generated at bottom, link ada di bawah posting.
 
