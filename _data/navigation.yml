@@ -1,17 +1,17 @@
 main:
   - title: "MIUI 9 Beta"
-    url: https://mi.knoacc.org/download-miui-global-beta-838-fastboot-recovery
+    url: https://miui.gootech.my.id/download-miui-global-beta-838-fastboot-recovery
   - title: "MIUI 9 Stable"
-    url: https://mi.knoacc.org/update-rom-miui-92-global-stable-full-changelog
+    url: https://miui.gootech.my.id/update-rom-miui-92-global-stable-full-changelog
   - title: "MIUI Pro Stable"
-    url: https://mi.knoacc.org/download-rom-miuipro-v92-update-semua-tipe-ponsel
+    url: https://miui.gootech.my.id/download-rom-miuipro-v92-update-semua-tipe-ponsel
   - title: "MiFlash Tool"
-    url: https://miflashtool.knoacc.org/
+    url: https://miflashtool.gootech.my.id/
   - title: "MiUnlock Tool"
-    url: https://mi.knoacc.org/download-miflash-unlock-tool-2380310
+    url: https://miui.gootech.my.id/download-miflash-unlock-tool-2380310
   - title: "Xiaomi Codename"
-    url: https://mi.knoacc.org/codename
+    url: https://miui.gootech.my.id/codename
   - title: "Xiaomi Test Point"
-    url: https://mi.knoacc.org/testpoint
+    url: https://miui.gootech.my.id/testpoint
   - title: "Download GAPPS"
-    url: https://mi.knoacc.org/gapps
+    url: https://miui.gootech.my.id/gapps
