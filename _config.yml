@@ -13,10 +13,10 @@ title: "Mi Fans Lamongan"
 title_separator: "-"
 name: &name "mifansLA"
 description: &description "Documentation Source for MIUI Fans Lamongan and Xiaomi Devices User."
-url: "https://mi.knoacc.org"
+url: "https://miui.gootech.my.id"
 baseurl: "/" # the subpath of your site, e.g. "/blog"
 repository: "mifansLA/miFans"
-teaser: "https://i0.wp.com/mi.knoacc.org/assets/image/logonew.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser: "https://i0.wp.com/miui.gootech.my.id/assets/image/logonew.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -72,7 +72,7 @@ ads:
 # Site Author
 author:
   name             : *name
-  avatar           : "https://i0.wp.com/mi.knoacc.org/assets/image/logonew.jpg?resize=110,110" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://i0.wp.com/miui.gootech.my.id/assets/image/logonew.jpg?resize=110,110" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "we are amazing persons."
   location         : "Indonesia"
   email            : "mi@knoacc.org"
